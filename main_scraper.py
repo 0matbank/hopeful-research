@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 nest_asyncio.apply()
 
 # ==============================================================================
-# ⚙️ ১. কনফিগারেশন এরিয়া (Environment Variables & Category Map)
+# ⚙️ ১. কনফিগারেশন এরিয়া
 # ==============================================================================
 MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL", "https://cinefreak.net/").rstrip("/") + "/"
 SCAN_MODE = os.environ.get("SCAN_MODE", "ALL").strip()
@@ -80,7 +80,7 @@ AD_AND_ANALYTICS_DOMAINS = [
 ]
 
 # ==============================================================================
-# 🎯 ২. হেল্পার ফাংশনসমূহ (আপনার অরিজিনাল কোড)
+# 🎯 ২. হেল্পার ফাংশনসমূহ
 # ==============================================================================
 def clean_resolution_label(text):
     """টেক্সট থেকে রেজুলেশনের সঠিক লেবেল বের করার ফাংশন"""
@@ -113,10 +113,10 @@ def is_genuine_direct_stream_url(url):
 
 
 # ==============================================================================
-# 🎬 ৩. সমান্তরাল পাইপলাইন প্রসেসর (আপনার অরিজিনাল কোড)
+# 🎬 ৩. সমান্তরাল পাইপলাইন প্রসেসর (List-Based to prevent overwriting)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
-    movie_captured_data = {}
+    movie_captured_data = []  # 🎯 List ব্যবহার করা হয়েছে যাতে ওভাররাইট না হয়
     movie_title = "Movie Post"
     movie_categories = default_category_name
 
@@ -135,7 +135,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
         raw_title = await page.title()
         movie_title = raw_title.split(" - ")[0].split(" Full Movie")[0].replace("Watch ", "").strip()
 
-        # আসল ক্যাটাগরি ও ট্যাগ এক্সট্র্যাক্ট করা
+        # আসল ক্যাটাগরি এক্সট্র্যাক্ট করা
         movie_categories = await page.evaluate(f"""
             () => {{
                 let catElements = document.querySelectorAll('a[rel="category tag"], .post-categories a, .cat-links a, .entry-meta a[href*="/category/"]');
@@ -159,7 +159,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 except Exception:
                     pass
 
-        # পেজের সব বাটন এবং তার আশেপাশের রেজুলেশন টেক্সট এক্সট্র্যাক্ট
+        # পেজের সব বাটন এবং রেজুলেশন টেক্সট এক্সট্র্যাক্ট
         all_buttons = await page.evaluate("""
             () => {
                 let matches = [];
@@ -185,7 +185,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             }
         """)
 
-        # 🎯 ফিল্টারিং: শুধুমাত্র ১০৮০p, 2K এবং ৪K রেজুলেশন সংগ্রহ
+        # ১০৮০p, 2K এবং ৪K রেজুলেশন সংগ্রহ
         target_buttons = []
         for btn in all_buttons:
             combined_txt = f"{btn['button_text']} {btn['parent_text']}".lower()
@@ -198,19 +198,20 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 target_buttons.append(btn)
 
         if not target_buttons:
-            print(f"❌ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] No 1080p or 4K resolution available. Skipping lower qualities.", flush=True)
-            return movie_url, movie_title, movie_categories, {}
+            target_buttons = [b for b in all_buttons if "generate.php" in b["url"]]
+
+        if not target_buttons:
+            print(f"❌ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] No 1080p or 4K resolution available.", flush=True)
+            return movie_url, movie_title, movie_categories, []
 
         print(f"✅ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Found {len(target_buttons)} 1080p+ stream option(s). Processing all...", flush=True)
 
-        # প্রতিটি ১০৮০p+ রেজুলেশনের জন্য লিঙ্ক প্রসেস করা
         for idx, btn_info in enumerate(target_buttons, 1):
             res_label = clean_resolution_label(f"{btn_info['parent_text']} {btn_info['button_text']}")
             target_gateway_url = btn_info["url"]
 
             current_stream_urls = set()
 
-            # ব্যাকগ্রাউন্ড নেটওয়ার্ক ইন্টারসেপ্টর
             def handle_response(response):
                 try:
                     raw_url = response.url
@@ -244,13 +245,11 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             try:
                 await sub_page.goto(target_gateway_url, timeout=30000, wait_until="domcontentloaded")
                 
-                # টাইমার ও Verify Download বাটন
                 verify_btn = sub_page.locator("#btn-text")
                 await verify_btn.wait_for(state="visible", timeout=12000)
                 await verify_btn.click()
                 await sub_page.wait_for_timeout(1500)
 
-                # Get Download Link বাটন
                 get_link_btn = sub_page.locator("#btn-text")
                 await get_link_btn.wait_for(state="visible", timeout=12000)
 
@@ -275,7 +274,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 if not player_page:
                     player_page = sub_page
 
-                # প্লেয়ার প্লে সিমুলেশন
                 await player_page.bring_to_front()
                 try:
                     await player_page.mouse.click(640, 360)
@@ -283,15 +281,19 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 except Exception:
                     pass
 
-                # ডাইরেক্ট মিডিয়া লিঙ্ক ক্যাচ করার জন্য ডাইনামিক অপেক্ষা
                 for _ in range(12):
                     if current_stream_urls:
                         break
                     await asyncio.sleep(0.5)
 
                 if current_stream_urls:
-                    movie_captured_data[res_label] = list(current_stream_urls)
-                    print(f"   ✅ Captured [{res_label}]: {list(current_stream_urls)[0][:60]}...", flush=True)
+                    for stream_url in current_stream_urls:
+                        if not any(item['link'] == stream_url for item in movie_captured_data):
+                            movie_captured_data.append({
+                                "resolution": res_label,
+                                "link": stream_url
+                            })
+                            print(f"   ✅ Captured [{res_label}]: {stream_url[:60]}...", flush=True)
                 
             except Exception:
                 pass
@@ -305,7 +307,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
 
 # ==============================================================================
-# 🎯 ৪. মেইন অর্কেস্ট্রেটর (Multi-Category Engine)
+# 🎯 ৪. মেইন কন্ট্রোলার (Strict Selector Fix)
 # ==============================================================================
 async def main():
     os.makedirs("history", exist_ok=True)
@@ -313,9 +315,8 @@ async def main():
     scraped_history = set()
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            scraped_history = set(line.strip() for line in f if line.strip())
+            scraped_history = set(line.strip().rstrip('/') for line in f if line.strip())
 
-    # SCAN_MODE অনুযায়ী ক্যাটাগরি ফিল্টার
     target_categories = {}
     if SCAN_MODE == "ALL":
         target_categories = CATEGORIES_MAP
@@ -349,7 +350,6 @@ async def main():
 
                 page_main = await browser.new_page()
 
-                # এড-ব্লকিং রাউটিং
                 async def route_interceptor(route):
                     url = route.request.url.lower()
                     if any(ad in url for ad in AD_AND_ANALYTICS_DOMAINS) or url.endswith((".png", ".jpg", ".jpeg", ".woff2")):
@@ -367,12 +367,26 @@ async def main():
 
                 while len(new_movie_urls) < TARGET_LIMIT_MOVIES:
                     print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
-                    links = await page_main.eval_on_selector_all("a", "elements => elements.map(e => e.href)")
                     
+                    # 🎯 STRICT SELECTOR FIX: হেডার/মেনুর লিংক বাদ দিয়ে শুধুমাত্র পোস্ট কার্ডের লিংক নেওয়া
+                    links = await page_main.evaluate("""
+                        () => {
+                            let postAnchors = Array.from(document.querySelectorAll('article a, .post-card a, .type-post a, .entry-title a, h2 a, h3 a'));
+                            let urls = postAnchors.map(a => a.href).filter(href => href && href.startsWith('http'));
+                            return urls;
+                        }
+                    """)
+
+                    if not links:
+                        raw_links = await page_main.eval_on_selector_all("a", "elements => elements.map(e => e.href)")
+                        links = [l for l in raw_links if l and ("full-movie-download" in l or l.endswith("-download/"))]
+
                     for link in links:
-                        if link and ("full-movie-download" in link or link.endswith("-download/")):
-                            if not any(c in link for c in ["-movies/", "/category/", "/genre/"]):
-                                if link not in scraped_history and link not in new_movie_urls:
+                        link_clean = link.rstrip('/')
+                        # শুধুমাত্র রিয়েল মুভি লিংক নেওয়া (ক্যাটাগরি বা মেনু পেজ ফিল্টার করে বাদ দেওয়া)
+                        if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean):
+                            if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
+                                if link_clean not in scraped_history and link_clean not in new_movie_urls and f"{link_clean}/" not in scraped_history:
                                     new_movie_urls.append(link)
                                     if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
                                         break
@@ -399,21 +413,15 @@ async def main():
                 tasks = [safe_process(browser, movie_url, idx, cat_display_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
-                # 📝 [আপনার অরিজিনাল আউটপুট ফরম্যাট অনুযায়ী ফাইল রাইটিং]
-                final_output_results = {}
+                # 📝 [ফাইল ও হিস্ট্রিতে সব রেজুলেশন সেভ করার লুপ]
                 with open(HISTORY_FILE, "a", encoding="utf-8") as h_file:
-                    for movie_url, title, categories, res_data in parallel_results:
-                        final_output_results[movie_url] = {"title": title, "categories": categories, "data": res_data}
-                        if res_data:
+                    for movie_url, title, categories, res_list in parallel_results:
+                        if res_list:
                             h_file.write(f"{movie_url}\n")
-                            scraped_history.add(movie_url)
+                            scraped_history.add(movie_url.rstrip('/'))
 
                 with open(output_filename, "a", encoding="utf-8") as f:
-                    for idx, (movie_url, info) in enumerate(final_output_results.items(), 1):
-                        title = info["title"]
-                        categories = info["categories"]
-                        res_dict = info["data"]
-                        
+                    for idx, (movie_url, title, categories, res_list) in enumerate(parallel_results, 1):
                         year_match = re.search(r'\b(20\d{2}|19\d{2})\b', title)
                         year = year_match.group(1) if year_match else "N/A"
                         clean_name = title.split(f"({year})")[0].split(year)[0].strip() if year_match else title
@@ -424,13 +432,12 @@ async def main():
                         f.write(f"Movie Category: {categories}\n")
                         f.write(f"Movie year: {year}\n\n")
                         
-                        if res_dict:
+                        if res_list:
                             res_idx = 1
-                            for res_name, urls in res_dict.items():
-                                for u in urls:
-                                    f.write(f"RESOLUTION {res_idx}: {res_name}\n")
-                                    f.write(f"STREAM Link {res_idx}: {u}\n\n")
-                                    res_idx += 1
+                            for item in res_list:
+                                f.write(f"RESOLUTION {res_idx}: {item['resolution']}\n")
+                                f.write(f"STREAM Link {res_idx}: {item['link']}\n\n")
+                                res_idx += 1
                         else:
                             f.write("❌ No direct 1080p+ stream links found for this movie.\n\n")
                         
