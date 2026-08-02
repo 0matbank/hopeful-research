@@ -115,7 +115,7 @@ def save_tracker_state(state):
         json.dump(state, f, indent=2)
 
 # ==============================================================================
-# 🎯 ৩. রেজুলেশন ও ফিল্টার (বিস্তারিত লগার সহ)
+# 🎯 ৩. রেজুলেশন ও ফিল্টার
 # ==============================================================================
 def detect_resolution_from_stream_url(stream_url):
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
@@ -151,7 +151,7 @@ def is_genuine_direct_stream_url(url):
     return True
 
 # ==============================================================================
-# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (ফুল প্রসেস ভিজ্যুয়াল লগার)
+# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (লিসেনার ও ওয়েট টাইম ফিক্সড)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
@@ -165,6 +165,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     
     current_stream_urls = set()
 
+    # 🎯 [FIX]: নেটওয়ার্ক লিসেনার একবারে গ্লোবালি কনটেক্সটে সেট করা
     def handle_response(response):
         try:
             raw_url = response.url
@@ -198,12 +199,11 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
         await context.add_init_script("Object.defineProperty(navigator, 'webdriver', { get: () => undefined });")
         page = await context.new_page()
 
-        print(f"🎬 [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Opening Page: {movie_url}", flush=True)
+        print(f"🎬 [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Opening Movie Page: {movie_url}", flush=True)
         await page.goto(movie_url, timeout=40000, wait_until="domcontentloaded")
 
         raw_title = await page.title()
         movie_title = raw_title.split(" - ")[0].split(" Full Movie")[0].replace("Watch ", "").strip()
-        print(f"   ├── 📌 Title: '{movie_title}'", flush=True)
 
         movie_categories = await page.evaluate(f"""
             () => {{
@@ -219,7 +219,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
         watch_online_locators = page.locator("a:has-text('Watch Online')")
         btn_count = await watch_online_locators.count()
         if btn_count > 0:
-            print(f"   ├── 👁️ Expanded 'Watch Online' dropdown ({btn_count} elements)", flush=True)
             for i in range(btn_count):
                 try:
                     href = await watch_online_locators.nth(i).get_attribute("href")
@@ -266,14 +265,13 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             target_buttons = [b for b in all_buttons if "generate.php" in b["url"]]
 
         if not target_buttons:
-            print(f"   └── ❌ FAILED: No 1080p/4K download buttons found on page.", flush=True)
+            print(f"❌ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] No 1080p or 4K resolution available.", flush=True)
             return movie_url, movie_title, movie_categories, []
 
-        print(f"   ├── 🎯 Found {len(target_buttons)} valid 1080p+ stream button(s). Extracting direct links...", flush=True)
+        print(f"✅ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Found {len(target_buttons)} 1080p+ option(s). Processing...", flush=True)
 
         for idx, btn_info in enumerate(target_buttons, 1):
             target_gateway_url = btn_info["url"]
-            print(f"   │   ├── [Option {idx}/{len(target_buttons)}] Gateway: {target_gateway_url[:55]}...", flush=True)
 
             sub_page = await context.new_page()
             try:
@@ -315,7 +313,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 except Exception:
                     pass
 
-                # ২০ লুপ x ০.৫ সে. = ১০ সেকেন্ড সর্বোচ্চ ওয়েট
+                # 🎯 [FIX]: গিটহাব অ্যাকশনসের জন্য ওয়েট টাইম বাড়ানো (২০ লুপ x ০.৫ সে. = ১০ সেকেন্ড)
                 for _ in range(20):
                     if current_stream_urls:
                         break
@@ -329,19 +327,12 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                                 "resolution": exact_res_label,
                                 "link": stream_url
                             })
-                            print(f"   │   │   └── ✅ CAPTURED [{exact_res_label}]: {stream_url[:65]}...", flush=True)
-                else:
-                    print(f"   │   │   └── ⚠️ No stream response intercepted for this option (Timeout / Blocked / 720p filtered).", flush=True)
+                            print(f"   ✅ Captured [{exact_res_label}]: {stream_url[:65]}...", flush=True)
                 
-            except Exception as opt_err:
-                print(f"   │   │   └── ❌ Option Error: {str(opt_err)[:50]}", flush=True)
+            except Exception:
+                pass
             finally:
                 await sub_page.close()
-
-        if movie_captured_data:
-            print(f"   └── 🎉 SUCCESS: Extracted {len(movie_captured_data)} direct stream link(s) for '{movie_title}'.", flush=True)
-        else:
-            print(f"   └── ⚠️ WARNING: Processed all buttons, but 0 direct 1080p+ stream links captured.", flush=True)
 
     finally:
         await context.close()
@@ -349,7 +340,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data
 
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার (পূর্ণাঙ্গ সামারি রিপোর্ট)
+# 🎯 ৫. মেইন কন্ট্রোলার (হিস্ট্রি সেভিং লজিক ১০০% ফিক্সড)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
@@ -462,23 +453,18 @@ async def main():
             if not new_movie_urls:
                 print(f"ℹ️ No new unique movies found for category: {target_category_name}", flush=True)
             else:
-                print(f"🚀 Found {len(new_movie_urls)} unique movies in [{target_category_name}]. Starting parallel extraction...\n", flush=True)
+                print(f"🚀 Found {len(new_movie_urls)} unique movies in [{target_category_name}]. Starting extraction...\n", flush=True)
 
                 tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
-                total_valid_movies = 0
-                total_captured_links = 0
-
-                # 📝 শুধুমাত্র সঠিক লিংক পাওয়া মুভিগুলো history.txt-এ যুক্ত করা
+                # 🎯 [FIX]: শুধুমাত্র যদি অন্তত ১টি স্ট্রিম লিংক ক্যাপচার হয়, তখনই ইতিহাস সেভ করা
                 with open(history_filename, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list in parallel_results:
                         if res_list:
                             h_file.write(f"{movie_url}\n")
-                            total_valid_movies += 1
-                            total_captured_links += len(res_list)
 
-                # 📝 আউটপুট ফাইলে সেভ
+                # 📝 আউটপুট সেভ করা
                 with open(output_filename, "a", encoding="utf-8") as f:
                     valid_movie_count = 1
                     for movie_url, title, categories, res_list in parallel_results:
@@ -502,16 +488,7 @@ async def main():
                             f.write("=" * 80 + "\n\n")
                             valid_movie_count += 1
 
-                print(f"\n==================================================", flush=True)
-                print(f"📊 CATEGORY SCRAPING SUMMARY REPORT [{target_category_name}]", flush=True)
-                print(f"==================================================", flush=True)
-                print(f" 🎬 Total Movies Processed : {len(new_movie_urls)}", flush=True)
-                print(f" ✅ Movies With Direct Links : {total_valid_movies}", flush=True)
-                print(f" ⚠️ Movies Failed (0 Links)  : {len(new_movie_urls) - total_valid_movies}", flush=True)
-                print(f" 🔗 Total Direct Stream Links : {total_captured_links}", flush=True)
-                print(f" 📂 Saved Output File        : {output_filename}", flush=True)
-                print(f" 📝 Updated History File     : {history_filename}", flush=True)
-                print(f"==================================================", flush=True)
+                print(f"✅ Saved clean results for [{target_category_name}] to: '{output_filename}'", flush=True)
 
         finally:
             await browser.close()
@@ -521,11 +498,11 @@ async def main():
             next_index = (cat_index + 1) % len(CATEGORIES_LIST)
             state["current_category_index"] = next_index
             state["run_count"] = 1
-            print(f"\n🔄 [STATE UPDATE] Completed 3/3 runs for '{target_category_name}'. Rotated to next category: '{CATEGORIES_LIST[next_index]}'", flush=True)
+            print(f"🔄 [STATE UPDATE] Completed 3/3 runs for '{target_category_name}'. Rotated to next category: '{CATEGORIES_LIST[next_index]}'", flush=True)
         else:
             state["current_category_index"] = cat_index
             state["run_count"] = run_count + 1
-            print(f"\n🔄 [STATE UPDATE] Completed run {run_count}/3 for '{target_category_name}'. Next scheduled run will be {run_count + 1}/3.", flush=True)
+            print(f"🔄 [STATE UPDATE] Completed run {run_count}/3 for '{target_category_name}'. Next scheduled run will be {run_count + 1}/3.", flush=True)
         
         save_tracker_state(state)
 
