@@ -5,6 +5,7 @@ import urllib.parse
 import re
 import random
 import os
+import sys
 from playwright.async_api import async_playwright
 
 nest_asyncio.apply()
@@ -14,7 +15,7 @@ nest_asyncio.apply()
 # ==============================================================================
 MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL", "https://cinefreak.net/")
 HISTORY_FILE = "history/scraped_history.txt"
-LIMIT_MOVIES_PER_CATEGORY_RUN = 10  # প্রতি রান এ প্রতি ক্যাটাগরি থেকে সর্বোচ্চ ১০টি মুভি
+LIMIT_MOVIES_PER_CATEGORY_RUN = 10
 
 CATEGORIES_MAP = {
     "Animation": {
@@ -66,6 +67,10 @@ USER_AGENTS = [
 
 AD_DOMAINS = ["google-analytics", "analytics", "doubleclick", "popads", "popcash", "adsterra", "exoclick"]
 
+def log(text):
+    """বাফার মুক্ত ইনস্ট্যান্ট কনসোল প্রিন্ট"""
+    print(text, flush=True)
+
 # ==============================================================================
 # 🎯 ২. হেল্পার ফাংশনসমূহ
 # ==============================================================================
@@ -113,21 +118,19 @@ async def process_single_movie(browser, movie_url, movie_idx, category_name):
         await context.add_init_script("Object.defineProperty(navigator, 'webdriver', { get: () => undefined });")
         page = await context.new_page()
 
-        print(f"🎬 [{category_name} | MOVIE {movie_idx}] Opening: {movie_url}")
-        await page.goto(movie_url, timeout=40000, wait_until="domcontentloaded")
+        log(f"🎬 [{category_name} | MOVIE {movie_idx}] Opening: {movie_url}")
+        await page.goto(movie_url, timeout=25000, wait_until="domcontentloaded")
 
         raw_title = await page.title()
         movie_title = raw_title.split(" - ")[0].split(" Full Movie")[0].replace("Watch ", "").strip()
 
-        # ড্রপডাউন ও অ্যাকর্ডিয়ন অটো-এক্সপ্যান্ড
+        # ড্রপডাউন এক্সপ্যান্ড
         watch_online_locators = page.locator("a:has-text('Watch Online'), button:has-text('Watch Online'), .accordion-title, details summary")
         for i in range(await watch_online_locators.count()):
             try:
-                await watch_online_locators.nth(i).click(timeout=1500)
+                await watch_online_locators.nth(i).click(timeout=1000)
             except Exception:
                 pass
-
-        await page.wait_for_timeout(1000)
 
         all_buttons = await page.evaluate("""
             () => {
@@ -153,10 +156,8 @@ async def process_single_movie(browser, movie_url, movie_idx, category_name):
             target_buttons = [b for b in all_buttons if "generate.php" in b["url"]]
 
         if not target_buttons:
-            print(f"   ⚠️ [{category_name} | MOVIE {movie_idx}] No download buttons found on page.")
+            log(f"   ⚠️ [{category_name} | MOVIE {movie_idx}] No download buttons found on page.")
             return movie_url, movie_title, category_name, {}
-
-        print(f"   👉 [{category_name} | MOVIE {movie_idx}] Found {len(target_buttons)} gateway button(s). Processing...")
 
         for btn_info in target_buttons[:3]:
             target_gateway_url = btn_info["url"]
@@ -191,24 +192,23 @@ async def process_single_movie(browser, movie_url, movie_idx, category_name):
             sub_page = await context.new_page()
 
             try:
-                await sub_page.goto(target_gateway_url, timeout=35000, wait_until="domcontentloaded")
+                await sub_page.goto(target_gateway_url, timeout=20000, wait_until="domcontentloaded")
                 
-                # স্মার্ট বাটন লোকালয় (২০ সেকেন্ড সময়)
                 verify_btn = sub_page.locator("#btn-text, #verify-btn, a:has-text('Verify'), button:has-text('Verify'), .btn-main").first
-                await verify_btn.wait_for(state="visible", timeout=20000)
+                await verify_btn.wait_for(state="visible", timeout=12000)
                 await verify_btn.click()
-                await sub_page.wait_for_timeout(2000)
+                await sub_page.wait_for_timeout(1000)
 
                 get_link_btn = sub_page.locator("#btn-text, #get-link, a:has-text('Get Link'), a:has-text('Download'), .btn-main").first
-                await get_link_btn.wait_for(state="visible", timeout=20000)
+                await get_link_btn.wait_for(state="visible", timeout=12000)
 
                 player_page = None
                 for _ in range(3):
                     try:
-                        await get_link_btn.click(timeout=2500)
+                        await get_link_btn.click(timeout=1500)
                     except Exception:
                         pass
-                    await sub_page.wait_for_timeout(1500)
+                    await sub_page.wait_for_timeout(1000)
                     for p_tab in context.pages:
                         if p_tab != sub_page and p_tab != page:
                             if "cinecloud" in p_tab.url or "neodrive" in p_tab.url:
@@ -225,11 +225,11 @@ async def process_single_movie(browser, movie_url, movie_idx, category_name):
                 await player_page.bring_to_front()
                 try:
                     await player_page.mouse.click(640, 360)
-                    await player_page.locator("video, .jw-display-icon-container, svg").first.click(timeout=3000)
+                    await player_page.locator("video, .jw-display-icon-container, svg").first.click(timeout=2000)
                 except Exception:
                     pass
 
-                for _ in range(12):
+                for _ in range(8):
                     if current_stream_urls:
                         break
                     await asyncio.sleep(0.5)
@@ -242,14 +242,14 @@ async def process_single_movie(browser, movie_url, movie_idx, category_name):
                         )
                         if "720P" not in real_res_label:
                             movie_captured_data[real_res_label] = raw_stream_link
-                            print(f"   ✅ Captured [{real_res_label}]: {raw_stream_link[:50]}...")
+                            log(f"   ✅ Captured [{real_res_label}]: {raw_stream_link[:50]}...")
 
             except Exception as err:
-                print(f"   ⚠️ Gateway Exception: {err}")
+                log(f"   ⚠️ Gateway Timeout / Skip")
             finally:
                 await sub_page.close()
 
-            await asyncio.sleep(random.uniform(1.2, 2.5))
+            await asyncio.sleep(1.0)
 
     finally:
         await context.close()
@@ -279,7 +279,7 @@ async def main():
                 break
         
         if not target_categories:
-            print(f"⚠️ SCAN_MODE '{scan_mode}' matches no specific key. Scanning ALL categories.")
+            log(f"⚠️ SCAN_MODE '{scan_mode}' matches no specific key. Scanning ALL categories.")
             target_categories = CATEGORIES_MAP
 
     sem = asyncio.Semaphore(2)
@@ -296,9 +296,9 @@ async def main():
             file_path = config["file"]
             os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
-            print(f"\n==================================================")
-            print(f"📂 Scanning Category: {cat_display_name} ({cat_slug})")
-            print(f"==================================================")
+            log(f"\n==================================================")
+            log(f"📂 Scanning Category: {cat_display_name} ({cat_slug})")
+            log(f"==================================================")
 
             page_main = await browser.new_page()
             await page_main.route("**/*", lambda route: route.abort() if any(ad in route.request.url.lower() for ad in AD_DOMAINS) else route.continue_())
@@ -306,13 +306,11 @@ async def main():
             new_movie_urls = []
             page_num = 1
 
-            # 🎯 [স্মার্ট কার্ড লিঙ্কার]: ১ম মুভি মিস হওয়া সম্পূর্ণ ফিক্স করা হয়েছে
             while len(new_movie_urls) < LIMIT_MOVIES_PER_CATEGORY_RUN:
                 cat_url = f"{MAIN_SITE_URL.rstrip('/')}/{cat_slug}/page/{page_num}/" if page_num > 1 else f"{MAIN_SITE_URL.rstrip('/')}/{cat_slug}/"
                 try:
-                    await page_main.goto(cat_url, timeout=35000, wait_until="domcontentloaded")
+                    await page_main.goto(cat_url, timeout=25000, wait_until="domcontentloaded")
                     
-                    # পেজের পোস্ট কার্ডের লিংক সরাসরি বের করা
                     extracted_urls = await page_main.evaluate("""
                         () => {
                             let cards = Array.from(document.querySelectorAll('article, .post-card, .type-post, .entry-title, .post-header'));
@@ -342,16 +340,16 @@ async def main():
                     
                     page_num += 1
                 except Exception as page_err:
-                    print(f"⚠️ Page scan error: {page_err}")
+                    log(f"⚠️ Page scan error: {page_err}")
                     break
 
             await page_main.close()
 
             if not new_movie_urls:
-                print(f"ℹ️ No new movies found for category: {cat_display_name}")
+                log(f"ℹ️ No new movies found for category: {cat_display_name}")
                 continue
 
-            print(f"🚀 Found {len(new_movie_urls)} new movies. Starting extraction...")
+            log(f"🚀 Found {len(new_movie_urls)} new movies. Starting extraction...")
 
             tasks = [safe_process(browser, m_url, idx, cat_display_name) for idx, m_url in enumerate(new_movie_urls, 1)]
             results = await asyncio.gather(*tasks)
@@ -383,7 +381,7 @@ async def main():
 
         await browser.close()
 
-    print("\n🎉 All Scheduled Category Scraping Completed Successfully!")
+    log("\n🎉 All Scheduled Category Scraping Completed Successfully!")
 
 if __name__ == "__main__":
     asyncio.run(main())
