@@ -83,12 +83,18 @@ CATEGORIES_MAP = {
 LAUNCH_ARGS = [
     "--disable-blink-features=AutomationControlled",
     "--no-sandbox",
-    "--disable-setuid-sandbox"
+    "--disable-setuid-sandbox",
+    "--disable-infobars",
+    "--window-size=1920,1080",
+    "--start-maximized",
+    "--disable-extensions",
+    "--disable-gpu"
 ]
 
-USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+REAL_USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 ]
 
 AD_AND_ANALYTICS_DOMAINS = [
@@ -115,7 +121,7 @@ def save_tracker_state(state):
         json.dump(state, f, indent=2)
 
 # ==============================================================================
-# 🎯 ৩. স্মার্ট রেজুলেশন ও ফিল্টার
+# 🎯 ৩. রেজুলেশন ও ফিল্টার
 # ==============================================================================
 def detect_resolution_from_stream_url(stream_url):
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
@@ -151,7 +157,7 @@ def is_genuine_direct_stream_url(url):
     return True
 
 # ==============================================================================
-# ⚡ 🔑 রিকার্সিভ Base64 ডিকোডার (Layer 1 Engine)
+# ⚡ 🔑 Base64 ডিকোডার Engine
 # ==============================================================================
 def recursive_base64_extract(url, depth=0):
     if depth > 4 or not url:
@@ -193,71 +199,30 @@ def recursive_base64_extract(url, depth=0):
 
     return found_links
 
-def get_intermediate_http_urls(url, depth=0):
-    if depth > 3 or not url:
-        return set()
-    urls = set()
-    try:
-        unquoted = urllib.parse.unquote(url)
-        if unquoted.startswith("http") and not is_genuine_direct_stream_url(unquoted):
-            urls.add(unquoted)
-
-        parsed = urllib.parse.urlparse(unquoted)
-        qs = urllib.parse.parse_qs(parsed.query)
-        for param, vals in qs.items():
-            for val in vals:
-                v_un = urllib.parse.unquote(val)
-                if v_un.startswith("http") and not is_genuine_direct_stream_url(v_un):
-                    urls.add(v_un)
-                try:
-                    padded = val + "=" * (-len(val) % 4)
-                    b64 = base64.b64decode(padded).decode('utf-8', errors='ignore')
-                    if b64.startswith("http") and not is_genuine_direct_stream_url(b64):
-                        urls.add(b64)
-                        urls.update(get_intermediate_http_urls(b64, depth + 1))
-                except Exception:
-                    pass
-    except Exception:
-        pass
-    return urls
-
-async def fetch_and_extract_from_html(request_context, player_url):
-    found = set()
-    try:
-        resp = await request_context.get(player_url, timeout=10000)
-        if resp.ok:
-            html_text = await resp.text()
-
-            matches = re.findall(r'https?://[^\s"\'<>]+\.(?:r2\.dev|mkv|mp4)[^\s"\'<>]*', html_text, re.IGNORECASE)
-            for m in matches:
-                m_clean = urllib.parse.unquote(m)
-                if is_genuine_direct_stream_url(m_clean):
-                    found.add(m_clean)
-
-            b64_matches = re.findall(r'aHR0cHM6Ly[a-zA-Z0-9+/=]+', html_text)
-            for b64 in b64_matches:
-                try:
-                    padded = b64 + "=" * (-len(b64) % 4)
-                    dec = base64.b64decode(padded).decode('utf-8', errors='ignore')
-                    if is_genuine_direct_stream_url(dec):
-                        found.add(dec)
-                except Exception:
-                    pass
-    except Exception:
-        pass
-    return found
-
 # ==============================================================================
-# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (৩-লেয়ার এক্সট্রাকশন)
+# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (Stealth Engine)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
     movie_title = "Movie Post"
     movie_categories = default_category_name
 
+    selected_agent = random.choice(REAL_USER_AGENTS)
     context = await browser.new_context(
-        user_agent=random.choice(USER_AGENTS),
-        viewport={"width": 1280, "height": 720}
+        user_agent=selected_agent,
+        viewport={"width": 1920, "height": 1080},
+        extra_http_headers={
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+            "Sec-Ch-Ua-Mobile": "?0",
+            "Sec-Ch-Ua-Platform": '"Windows"',
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "same-origin",
+            "Sec-Fetch-User": "?1",
+            "Upgrade-Insecure-Requests": "1"
+        }
     )
     
     current_stream_urls = set()
@@ -292,7 +257,12 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     context.on("response", handle_response)
 
     try:
-        await context.add_init_script("Object.defineProperty(navigator, 'webdriver', { get: () => undefined });")
+        await context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+        """)
+        
         page = await context.new_page()
 
         print(f"🎬 [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Opening Page: {movie_url}", flush=True)
@@ -366,21 +336,13 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             print(f"   └── ❌ FAILED: No 1080p/4K download buttons found on page.", flush=True)
             return movie_url, movie_title, movie_categories, []
 
-        print(f"   ├── 🎯 Found {len(target_buttons)} valid 1080p+ stream button(s). Running 3-Layer Unwrapper...", flush=True)
+        print(f"   ├── 🎯 Found {len(target_buttons)} valid 1080p+ stream button(s). Running Stealth Unwrapper...", flush=True)
 
         for idx, btn_info in enumerate(target_buttons, 1):
             target_gateway_url = btn_info["url"]
 
-            # ⚡ LAYER 1: রিকার্সিভ Base64 ডিকোড
+            # ⚡ Layer 1: Base64
             direct_links = recursive_base64_extract(target_gateway_url)
-
-            # ⚡ LAYER 2: ইন্টারমিডিয়েট প্লেয়ার পেজের সোর্স কোড ইনস্পেকশন
-            if not direct_links:
-                intermediate_urls = get_intermediate_http_urls(target_gateway_url)
-                for i_url in intermediate_urls:
-                    html_links = await fetch_and_extract_from_html(context.request, i_url)
-                    direct_links.update(html_links)
-
             if direct_links:
                 for d_link in direct_links:
                     if not any(item['link'] == d_link for item in movie_captured_data):
@@ -389,31 +351,42 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                         print(f"   │   ├── ⚡ UNWRAPPED [{exact_res_label}]: {d_link[:65]}...", flush=True)
                 continue
 
-            # ⚡ LAYER 3: Playwright Browser Fallback
+            # ⚡ Layer 2: Browser Simulation
             sub_page = await context.new_page()
             try:
                 await sub_page.goto(target_gateway_url, timeout=30000, wait_until="domcontentloaded")
+                await asyncio.sleep(2)
                 
-                verify_btn = sub_page.locator("#btn-text")
-                if await verify_btn.is_visible(timeout=4000):
+                verify_btn = sub_page.locator("#btn-text, .btn-download, a.btn").first
+                if await verify_btn.is_visible(timeout=5000):
                     await verify_btn.click()
-                    await sub_page.wait_for_timeout(1000)
+                    await sub_page.wait_for_timeout(2000)
 
-                get_link_btn = sub_page.locator("#btn-text")
-                if await get_link_btn.is_visible(timeout=4000):
+                get_link_btn = sub_page.locator("#btn-text, .btn-download, a.btn").first
+                if await get_link_btn.is_visible(timeout=5000):
                     try:
                         await get_link_btn.click(timeout=2000)
                     except Exception:
                         pass
-                    await sub_page.wait_for_timeout(1000)
+                    await sub_page.wait_for_timeout(2000)
 
+                player_page = None
+                for p_tab in context.pages:
+                    if p_tab != sub_page and p_tab != page:
+                        player_page = p_tab
+                        break
+
+                if not player_page:
+                    player_page = sub_page
+
+                await player_page.bring_to_front()
                 try:
-                    await sub_page.mouse.click(640, 360)
-                    await sub_page.locator("video, .jw-display-icon-container, svg").first.click(timeout=2000)
+                    await player_page.mouse.click(640, 360)
+                    await player_page.locator("video, .jw-display-icon-container, svg").first.click(timeout=3000)
                 except Exception:
                     pass
 
-                for _ in range(12):
+                for _ in range(16):
                     if current_stream_urls:
                         break
                     await asyncio.sleep(0.5)
@@ -444,7 +417,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data
 
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার (পূর্ণাঙ্গ সামারি রিপোর্ট)
+# 🎯 ৫. মেইন কন্ট্রোলার (সামারি রিপোর্ট)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
