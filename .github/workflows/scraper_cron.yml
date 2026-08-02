@@ -23,6 +23,10 @@ on:
           - 'Kannada Movies'
           - 'Telugu Movies'
 
+# 🔑 [FIX] গিটহাব অ্যাকশনসকে ফাইল সেভ করার রাইট পারমিশন দেওয়া
+permissions:
+  contents: write
+
 jobs:
   scrape_and_push:
     runs-on: ubuntu-latest
