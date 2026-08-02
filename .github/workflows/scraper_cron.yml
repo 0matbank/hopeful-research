@@ -3,7 +3,7 @@ name: Automated Movie Scraper Bot
 on:
   schedule:
     - cron: '0 */16 * * *'  # প্রতি ১৬ ঘণ্টা পর পর অটো রান হবে
-  workflow_dispatch:        # গিটহাব থেকে ম্যানুয়ালি রান করার বাটন
+  workflow_dispatch:        # ম্যানুয়ালি রান করার বাটন
 
 jobs:
   scrape_and_push:
@@ -11,18 +11,39 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python 3.10
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Install Dependencies
+      - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      # ⚡ [CACHE SYSTEM STEP]: প্লেরাইট ব্রাউজার ফোল্ডার ক্যাশ করা
+      - name: Cache Playwright Browsers
+        id: playwright-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+
+      # ⚡ ক্যাশ না পাওয়া গেলে বা ভার্সন চেঞ্জ হলে নতুন করে ব্রাউজার ডাউনলোড করবে
+      - name: Install Playwright Chromium & System Deps
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: |
           playwright install chromium --with-deps
+
+      # ⚡ ক্যাশ ম্যাচ করলে শুধুমাত্র সিস্টেম ডিপেনডেন্সি চেক করবে (১ সেকেন্ড সময় লাগবে)
+      - name: Install Playwright System Deps Only (Cache Hit)
+        if: steps.playwright-cache.outputs.cache-hit == 'true'
+        run: |
+          playwright install-deps chromium
 
       - name: Run Main Scraper Script
         env:
