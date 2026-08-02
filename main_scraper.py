@@ -115,15 +115,17 @@ def save_tracker_state(state):
         json.dump(state, f, indent=2)
 
 # ==============================================================================
-# 🎯 ৩. রেজুলেশন ও ডাইরেক্ট লিংক ডিটেক্টর
+# 🎯 ৩. স্মার্ট রেজুলেশন ও ফিল্টার (DS4K Bug & 720p Leak Fix)
 # ==============================================================================
 def detect_resolution_from_stream_url(stream_url):
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
     filename = clean_path.split('/')[-1]
     
     is_hevc = any(h in filename for h in ["HEVC", "H265", "H.265"])
-    is_4k = any(k in filename for k in ["4K", "2160P", "DS4K"])
-    is_1080p = any(f in filename for f in ["1080P", "FHD"])
+    
+    # 🎯 [FIX]: DS4K বাদ দিয়ে আসল 2160P / 4K চেক
+    is_4k = "2160P" in filename or ("4K" in filename and "DS4K" not in filename)
+    is_1080p = "1080P" in filename or "FHD" in filename
     
     if is_4k:
         return "4K 2160P HEVC" if is_hevc else "4K 2160P"
@@ -135,17 +137,16 @@ def detect_resolution_from_stream_url(stream_url):
 def is_genuine_direct_stream_url(url):
     u_lower = url.lower()
     
-    # 🎯 [FIX 1]: yagaverse.net বা এমবেড প্লেয়ারের লিংক বাতিল করা
+    # এমবেড বা পপ-আপ লিংক বাদ দেওয়া
     if any(junk in u_lower for junk in ["yagaverse.net", "google-analytics", "cinecloud.site", "neodrive.site", "ping.gif", "jwpltx", "collect?", "facebook", "twitter"]):
         return False
 
     clean_path = u_lower.split('?')[0]
     filename = clean_path.split('/')[-1]
         
-    # 🎯 [FIX 2]: ৭২০p, ৪৮০p বা ৩৬০p ফাইল কঠোরভাবে ব্লক করা
+    # 🎯 [STRICT FIX]: ফাইলের আসল নামে 720p/480p/360p থাকলে যেকোনো মূল্যে রিজেক্ট
     if any(low in filename for low in ["720p", "480p", "360p"]):
-        if not any(high in filename for high in ["1080p", "2160p", "4k"]):
-            return False
+        return False
 
     # শুধুমাত্র আসল ভিডিও মিডিয়া ফাইল বা r2.dev লিঙ্ক অনুমতি দেওয়া
     is_media = "r2.dev" in clean_path or filename.endswith(".mkv") or filename.endswith(".mp4") or filename.endswith(".m3u8")
@@ -251,7 +252,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                     raw_url = response.url
                     decoded_url = urllib.parse.unquote(raw_url)
                     
-                    # 🎯 [FIX 3]: এমবেড বা প্রোক্সি ইউআরএল থাকলে তার ভেতর থেকে আসল লিংক বের করা
                     parsed_qs = urllib.parse.parse_qs(urllib.parse.urlparse(decoded_url).query)
                     for param in ['id', 'mu', 'link', 'url', 'file']:
                         if param in parsed_qs:
@@ -341,9 +341,8 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
     return movie_url, movie_title, movie_categories, movie_captured_data
 
-
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার (ক্যাটাগরি-ভিত্তিক আলাদা হিস্ট্রি সাপোর্ট সহ)
+# 🎯 ৫. মেইন কন্ট্রোলার
 # ==============================================================================
 async def main():
     state = load_tracker_state()
@@ -376,8 +375,6 @@ async def main():
     cat_slug = config["slug"]
     cat_dir = config["dir"]
     output_filename = config["file"]
-    
-    # 🎯 [FIX 4]: গ্লোবাল হিস্ট্রি ফাইল বাদ দিয়ে নির্দিষ্ট ক্যাটাগরি ফোল্ডারে history.txt সেট করা
     history_filename = os.path.join(cat_dir, "history.txt")
 
     os.makedirs(cat_dir, exist_ok=True)
@@ -463,7 +460,6 @@ async def main():
                 tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
-                # 🎯 [FIX 5]: শুধুমাত্র ওই নির্দিষ্ট ক্যাটাগরির ফোল্ডারে history.txt লেখা
                 with open(history_filename, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list in parallel_results:
                         if res_list:
