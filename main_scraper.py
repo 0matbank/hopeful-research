@@ -16,7 +16,7 @@ nest_asyncio.apply()
 MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL")
 
 if not MAIN_SITE_URL:
-    raise ValueError("❌ Error: 'MAIN_SITE_URL' environment variable is missing! Check Secrets.")
+    raise ValueError("❌ Error: 'MAIN_SITE_URL' environment variable is missing in Secrets!")
 
 HISTORY_FILE = "history/scraped_history.txt"
 LIMIT_MOVIES_PER_CATEGORY_RUN = 10
@@ -109,7 +109,7 @@ def is_genuine_direct_stream_url(url):
     return False
 
 # ==============================================================================
-# 🎬 ৩. হাই-স্পিড সমান্তরাল মুভি প্রসেসর
+# 🎬 ৩. মুভি প্রসেসর (Stealth Bypass Enabled)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_movies, category_name):
     movie_captured_data = {}
@@ -124,11 +124,12 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_m
         await context.add_init_script("Object.defineProperty(navigator, 'webdriver', { get: () => undefined });")
         page = await context.new_page()
 
-        log(f"🎬 [{movie_idx}/{total_movies}] Opening: {movie_url}")
+        log(f"🎬 [{movie_idx}/{total_movies}] Navigating: {movie_url}")
         try:
-            await page.goto(movie_url, timeout=30000, wait_until="domcontentloaded")
-        except Exception:
-            pass
+            resp = await page.goto(movie_url, timeout=30000, wait_until="domcontentloaded")
+            log(f"   ℹ️ Movie Page Status: {resp.status if resp else 'OK'}")
+        except Exception as err:
+            log(f"   ⚠️ Page load slow: {err}")
 
         raw_title = await page.title()
         movie_title = raw_title.split(" - ")[0].split(" Full Movie")[0].replace("Watch ", "").strip()
@@ -182,7 +183,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_m
             target_buttons = [b for b in all_buttons if "generate.php" in b["url"]]
 
         if not target_buttons:
-            log(f"   ❌ [{movie_idx}/{total_movies}] No stream buttons found. Skipping.")
+            log(f"   ⚠️ [{movie_idx}/{total_movies}] No gateway buttons found on DOM.")
             return movie_url, movie_title, category_name, {}
 
         for btn_info in target_buttons[:2]:
@@ -263,10 +264,10 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_m
 
                 if current_stream_urls:
                     movie_captured_data[res_label] = list(current_stream_urls)
-                    log(f"   ✅ Captured [{res_label}]: {list(current_stream_urls)[0][:55]}...")
+                    log(f"   ✅ Captured Stream [{res_label}]")
 
-            except Exception:
-                pass
+            except Exception as gate_err:
+                log(f"   ⚠️ Gateway step skipped: {gate_err}")
             finally:
                 await sub_page.close()
 
@@ -277,7 +278,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_m
 
 
 # ==============================================================================
-# 🎯 ৪. মেইন কন্ট্রোলার (3 Workers Parallel Execution)
+# 🎯 ৪. মেইন কন্ট্রোলার (With Detailed Diagnostics)
 # ==============================================================================
 async def main():
     scraped_history = set()
@@ -286,7 +287,7 @@ async def main():
     os.makedirs("history", exist_ok=True)
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            scraped_history = set(line.strip() for line in f if line.strip())
+            scraped_history = set(line.strip().rstrip('/') for line in f if line.strip())
 
     target_categories = {}
     if scan_mode == "ALL":
@@ -318,7 +319,9 @@ async def main():
             log(f"📂 Scanning Category: {cat_display_name} ({cat_slug})")
             log(f"==================================================")
 
-            page_main = await browser.new_page()
+            context_main = await browser.new_context(user_agent=random.choice(USER_AGENTS))
+            await context_main.add_init_script("Object.defineProperty(navigator, 'webdriver', { get: () => undefined });")
+            page_main = await context_main.new_page()
 
             async def route_interceptor(route):
                 url = route.request.url.lower()
@@ -334,63 +337,63 @@ async def main():
 
             while len(new_movie_urls) < LIMIT_MOVIES_PER_CATEGORY_RUN:
                 cat_url = f"{MAIN_SITE_URL.rstrip('/')}/{cat_slug}/page/{page_num}/" if page_num > 1 else f"{MAIN_SITE_URL.rstrip('/')}/{cat_slug}/"
-                log(f"🔎 [Page {page_num}] Fetching movies...")
+                log(f"🔎 [Page {page_num}] Connecting to: {cat_url}")
 
                 try:
-                    await page_main.goto(cat_url, timeout=25000, wait_until="domcontentloaded")
-                    
-                    links = await page_main.evaluate("""
+                    resp = await page_main.goto(cat_url, timeout=30000, wait_until="domcontentloaded")
+                    page_title = await page_main.title()
+                    status_code = resp.status if resp else "Unknown"
+                    log(f"   ℹ️ HTTP Status: {status_code} | Page Title: '{page_title}'")
+
+                    if "Just a moment" in page_title or "Cloudflare" in page_title:
+                        log("   ⚠️ Cloudflare Challenge Detected! Waiting 5s for bypass...")
+                        await page_main.wait_for_timeout(5000)
+
+                    raw_links = await page_main.evaluate("""
                         () => {
-                            let cards = Array.from(document.querySelectorAll('article, .post-card, .type-post, .entry-title, .post-header'));
-                            let urls = [];
-                            cards.forEach(card => {
-                                let a = card.querySelector('a');
-                                if (a && a.href) urls.push(a.href);
-                            });
-                            if (urls.length === 0) {
-                                let anchors = Array.from(document.querySelectorAll('#main a, #content a, .posts-layout a, article a'));
-                                anchors.forEach(a => { if (a.href) urls.push(a.href); });
-                            }
-                            return urls;
+                            let anchors = Array.from(document.querySelectorAll('a'));
+                            return anchors.map(a => a.href).filter(href => href && href.startsWith('http'));
                         }
                     """)
 
+                    log(f"   📊 Total raw links found on page: {len(raw_links)}")
+
                     found_count = 0
-                    for link in links:
-                        if link and link.startswith("http") and link.rstrip('/') != MAIN_SITE_URL.rstrip('/'):
-                            if not any(junk in link for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/"]):
-                                if link not in scraped_history and link not in new_movie_urls:
+                    base_url_clean = MAIN_SITE_URL.rstrip('/')
+                    for link in raw_links:
+                        link_clean = link.rstrip('/')
+                        if link_clean != base_url_clean:
+                            if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
+                                if link_clean not in scraped_history and link_clean not in new_movie_urls:
                                     new_movie_urls.append(link)
                                     found_count += 1
                                     if len(new_movie_urls) >= LIMIT_MOVIES_PER_CATEGORY_RUN:
                                         break
 
-                    log(f"   ✓ Extracted {found_count} new movie link(s).")
+                    log(f"   ✓ Filtered {found_count} new movie link(s).")
                     if len(new_movie_urls) >= LIMIT_MOVIES_PER_CATEGORY_RUN or found_count == 0:
                         break
 
                     page_num += 1
                 except Exception as page_err:
-                    log(f"   ⚠️ Page scan ended: {page_err}")
+                    log(f"   ⚠️ Page scan error: {page_err}")
                     break
 
-            await page_main.close()
+            await context_main.close()
 
             if not new_movie_urls:
-                log(f"ℹ️ No new movies found for category: {cat_display_name}")
+                log(f"ℹ️ No new movies found for: {cat_display_name}")
                 continue
 
             total_movies = len(new_movie_urls)
-            log(f"\n🚀 Found {total_movies} unique movies. Launching 3 parallel workers...\n")
+            log(f"\n🚀 Found {total_movies} unique movies. Launching extraction...\n")
 
             tasks = [safe_process(browser, m_url, idx, total_movies, cat_display_name) for idx, m_url in enumerate(new_movie_urls, 1)]
             results = await asyncio.gather(*tasks)
 
+            # 🎯 [FIXED FILE SAVING LOGIC]: হিস্ট্রি এবং ফাইলে রাইটিং নিশ্চিত করা
             with open(file_path, "a", encoding="utf-8") as out_f, open(HISTORY_FILE, "a", encoding="utf-8") as h_f:
                 for idx, (m_url, title, cat_name, res_dict) in enumerate(results, 1):
-                    if not res_dict:
-                        continue
-
                     year_match = re.search(r'\b(20\d{2}|19\d{2})\b', title)
                     year = year_match.group(1) if year_match else "N/A"
                     clean_name = title.split(f"({year})")[0].split(year)[0].strip() if year_match else title
@@ -401,16 +404,22 @@ async def main():
                     out_f.write(f"Movie Category: {cat_name}\n")
                     out_f.write(f"Movie year: {year}\n\n")
 
-                    res_count = 1
-                    for res_name, urls in res_dict.items():
-                        for u in urls:
-                            out_f.write(f"RESOLUTION {res_count}: {res_name}\n")
-                            out_f.write(f"STREAM Link {res_count}: {u}\n\n")
-                            res_count += 1
+                    if res_dict:
+                        res_count = 1
+                        for res_name, urls in res_dict.items():
+                            for u in urls:
+                                out_f.write(f"RESOLUTION {res_count}: {res_name}\n")
+                                out_f.write(f"STREAM Link {res_count}: {u}\n\n")
+                                res_count += 1
+                    else:
+                        out_f.write("⚠️ Stream link extraction skipped or not captured.\n\n")
 
                     out_f.write("=" * 80 + "\n\n")
-                    h_f.write(f"{m_url}\n")
-                    scraped_history.add(m_url)
+                    
+                    # হিস্ট্রিতে যোগ করা
+                    m_url_clean = m_url.rstrip('/')
+                    h_f.write(f"{m_url_clean}\n")
+                    scraped_history.add(m_url_clean)
 
         await browser.close()
 
