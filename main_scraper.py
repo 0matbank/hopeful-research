@@ -8,17 +8,16 @@ import os
 import sys
 from playwright.async_api import async_playwright
 
-# Google Colab ও Asyncio সাপোর্ট
 nest_asyncio.apply()
 
 # ==============================================================================
-# ⚙️ ১. কনফিগারেশন এরিয়া
+# ⚙️ ১. কনফিগারেশন এরিয়া
 # ==============================================================================
 MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL", "https://cinefreak.net/").rstrip("/") + "/"
 SCAN_MODE = os.environ.get("SCAN_MODE", "ALL").strip()
 
 HISTORY_FILE = "history/scraped_history.txt"
-TARGET_LIMIT_MOVIES = 10  # প্রতি ক্যাটাগরিতে সর্বোচ্চ ১০টি ইউনিক মুভি
+TARGET_LIMIT_MOVIES = 10
 
 CATEGORIES_MAP = {
     "Animation": {
@@ -80,30 +79,33 @@ AD_AND_ANALYTICS_DOMAINS = [
 ]
 
 # ==============================================================================
-# 🎯 ২. হেল্পার ফাংশনসমূহ
+# 🎯 ২. স্মার্ট রেজুলেশন ডিটেক্টর এবং ফিল্টার
 # ==============================================================================
-def clean_resolution_label(text):
-    """টেক্সট থেকে রেজুলেশনের সঠিক লেবেল বের করার ফাংশন"""
-    text_upper = text.upper()
+def detect_resolution_from_stream_url(stream_url):
+    """আসল ভিডিও ফাইলের নাম সরাসরি বিশ্লেষণ করে সঠিক রেজুলেশন লেবেল তৈরি করা"""
+    decoded_filename = urllib.parse.unquote(stream_url.split('/')[-1]).upper()
     
-    res_match = re.search(r'((?:HEVC|HQ|FHD|HD|WEB-DL|4K)?\s*(?:1080P|2160P|4K)\s*(?:HEVC)?)', text_upper)
-    if res_match:
-        label = res_match.group(1).strip()
-        label = re.sub(r'\s+', ' ', label)
-        return label
+    is_hevc = any(h in decoded_filename for h in ["HEVC", "H265", "H.265"])
+    is_4k = any(k in decoded_filename for k in ["4K", "2160P", "DS4K"])
+    is_1080p = any(f in decoded_filename for f in ["1080P", "FHD"])
     
-    if "4K" in text_upper or "2160P" in text_upper:
-        return "4K 2160P"
-    if "HEVC" in text_upper:
-        return "HEVC 1080P"
+    if is_4k:
+        return "4K 2160P HEVC" if is_hevc else "4K 2160P"
+    elif is_1080p:
+        return "HEVC 1080P" if is_hevc else "HD 1080P"
     
-    return "HD 1080P"
+    return "HEVC 1080P" if is_hevc else "HD 1080P"
 
 def is_genuine_direct_stream_url(url):
-    """শুধুমাত্র আসল .mkv/.mp4 বা r2.dev স্ট্রিম লিঙ্ক ফিল্টার করার ফাংশন"""
+    """শুধুমাত্র ১০৮০p+ আসল মিডিয়া ফাইল ফিল্টার করা (৭২০p/৪৮০p কঠোরভাবে রিজেক্ট)"""
     u_lower = url.lower()
     
+    # প্লেয়ার পেজ ও ট্র্যাকিং জাঙ্ক ব্লক
     if any(junk in u_lower for junk in ["google-analytics", "cinecloud.site", "neodrive.site", "ping.gif", "jwpltx", "collect?"]):
+        return False
+        
+    # 🎯 কঠোর ৭২০p/৪৮০p/৩৬০p ব্লক কন্ডিশন
+    if any(low in u_lower for low in ["720p", "480p", "360p"]):
         return False
         
     if ("r2.dev" in u_lower or u_lower.endswith(".mkv") or u_lower.endswith(".mp4")) and ("http://" in u_lower or "https://" in u_lower):
@@ -113,10 +115,10 @@ def is_genuine_direct_stream_url(url):
 
 
 # ==============================================================================
-# 🎬 ৩. সমান্তরাল পাইপলাইন প্রসেসর (List-Based to prevent overwriting)
+# 🎬 ৩. সমান্তরাল পাইপলাইন প্রসেসর
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
-    movie_captured_data = []  # 🎯 List ব্যবহার করা হয়েছে যাতে ওভাররাইট না হয়
+    movie_captured_data = []
     movie_title = "Movie Post"
     movie_categories = default_category_name
 
@@ -159,7 +161,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 except Exception:
                     pass
 
-        # পেজের সব বাটন এবং রেজুলেশন টেক্সট এক্সট্র্যাক্ট
+        # পেজের সব বাটন এক্সট্র্যাক্ট
         all_buttons = await page.evaluate("""
             () => {
                 let matches = [];
@@ -185,15 +187,12 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             }
         """)
 
-        # ১০৮০p, 2K এবং ৪K রেজুলেশন সংগ্রহ
         target_buttons = []
         for btn in all_buttons:
             combined_txt = f"{btn['button_text']} {btn['parent_text']}".lower()
-            
             if any(low in combined_txt for low in ["720p", "480p", "360p"]):
                 if not any(high in combined_txt for high in ["1080p", "2160p", "4k"]):
                     continue
-            
             if any(high in combined_txt for high in ["1080p", "2160p", "4k"]):
                 target_buttons.append(btn)
 
@@ -207,9 +206,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
         print(f"✅ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Found {len(target_buttons)} 1080p+ stream option(s). Processing all...", flush=True)
 
         for idx, btn_info in enumerate(target_buttons, 1):
-            res_label = clean_resolution_label(f"{btn_info['parent_text']} {btn_info['button_text']}")
             target_gateway_url = btn_info["url"]
-
             current_stream_urls = set()
 
             def handle_response(response):
@@ -288,12 +285,15 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
                 if current_stream_urls:
                     for stream_url in current_stream_urls:
+                        # 🎯 লিংক থেকে অটোমেটিক নিখুঁত রেজুলেশন নির্ধারণ
+                        exact_res_label = detect_resolution_from_stream_url(stream_url)
+                        
                         if not any(item['link'] == stream_url for item in movie_captured_data):
                             movie_captured_data.append({
-                                "resolution": res_label,
+                                "resolution": exact_res_label,
                                 "link": stream_url
                             })
-                            print(f"   ✅ Captured [{res_label}]: {stream_url[:60]}...", flush=True)
+                            print(f"   ✅ Captured [{exact_res_label}]: {stream_url[:60]}...", flush=True)
                 
             except Exception:
                 pass
@@ -307,7 +307,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
 
 # ==============================================================================
-# 🎯 ৪. মেইন কন্ট্রোলার (Strict Selector Fix)
+# 🎯 ৪. মেইন কন্ট্রোলার
 # ==============================================================================
 async def main():
     os.makedirs("history", exist_ok=True)
@@ -368,7 +368,6 @@ async def main():
                 while len(new_movie_urls) < TARGET_LIMIT_MOVIES:
                     print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
                     
-                    # 🎯 STRICT SELECTOR FIX: হেডার/মেনুর লিংক বাদ দিয়ে শুধুমাত্র পোস্ট কার্ডের লিংক নেওয়া
                     links = await page_main.evaluate("""
                         () => {
                             let postAnchors = Array.from(document.querySelectorAll('article a, .post-card a, .type-post a, .entry-title a, h2 a, h3 a'));
@@ -383,7 +382,6 @@ async def main():
 
                     for link in links:
                         link_clean = link.rstrip('/')
-                        # শুধুমাত্র রিয়েল মুভি লিংক নেওয়া (ক্যাটাগরি বা মেনু পেজ ফিল্টার করে বাদ দেওয়া)
                         if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean):
                             if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
                                 if link_clean not in scraped_history and link_clean not in new_movie_urls and f"{link_clean}/" not in scraped_history:
@@ -413,7 +411,6 @@ async def main():
                 tasks = [safe_process(browser, movie_url, idx, cat_display_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
-                # 📝 [ফাইল ও হিস্ট্রিতে সব রেজুলেশন সেভ করার লুপ]
                 with open(HISTORY_FILE, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list in parallel_results:
                         if res_list:
