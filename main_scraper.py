@@ -123,7 +123,6 @@ def detect_resolution_from_stream_url(stream_url):
     
     is_hevc = any(h in filename for h in ["HEVC", "H265", "H.265"])
     
-    # 🎯 [FIX]: DS4K বাদ দিয়ে আসল 2160P / 4K চেক
     is_4k = "2160P" in filename or ("4K" in filename and "DS4K" not in filename)
     is_1080p = "1080P" in filename or "FHD" in filename
     
@@ -137,18 +136,15 @@ def detect_resolution_from_stream_url(stream_url):
 def is_genuine_direct_stream_url(url):
     u_lower = url.lower()
     
-    # এমবেড বা পপ-আপ লিংক বাদ দেওয়া
     if any(junk in u_lower for junk in ["yagaverse.net", "google-analytics", "cinecloud.site", "neodrive.site", "ping.gif", "jwpltx", "collect?", "facebook", "twitter"]):
         return False
 
     clean_path = u_lower.split('?')[0]
     filename = clean_path.split('/')[-1]
         
-    # 🎯 [STRICT FIX]: ফাইলের আসল নামে 720p/480p/360p থাকলে যেকোনো মূল্যে রিজেক্ট
     if any(low in filename for low in ["720p", "480p", "360p"]):
         return False
 
-    # শুধুমাত্র আসল ভিডিও মিডিয়া ফাইল বা r2.dev লিঙ্ক অনুমতি দেওয়া
     is_media = "r2.dev" in clean_path or filename.endswith(".mkv") or filename.endswith(".mp4") or filename.endswith(".m3u8")
     if not is_media or not (u_lower.startswith("http://") or u_lower.startswith("https://")):
         return False
@@ -342,7 +338,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data
 
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার
+# 🎯 ৫. মেইন কন্ট্রোলার (Clean Output Fix)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
@@ -460,35 +456,36 @@ async def main():
                 tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
+                # 📝 [FIX 1]: স্ক্যান হওয়া সবকটি মুভি ইউআরএল history.txt ফাইলে সেভ রাখা (যাতে একই মুভি বারবার স্ক্যান না হয়)
                 with open(history_filename, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list in parallel_results:
-                        if res_list:
-                            h_file.write(f"{movie_url}\n")
+                        h_file.write(f"{movie_url}\n")
 
+                # 📝 [FIX 2]: শুধুমাত্র যেসব মুভির আসল স্ট্রিম লিংক পাওয়া যাবে, সেগুলোই আউটপুট টেক্সট ফাইলে সেভ করা
                 with open(output_filename, "a", encoding="utf-8") as f:
-                    for idx, (movie_url, title, categories, res_list) in enumerate(parallel_results, 1):
-                        year_match = re.search(r'\b(20\d{2}|19\d{2})\b', title)
-                        year = year_match.group(1) if year_match else "N/A"
-                        clean_name = title.split(f"({year})")[0].split(year)[0].strip() if year_match else title
-                        clean_name = re.sub(r'[\s\-\[\]\(\)]+$', '', clean_name).strip()
-                        
-                        f.write(f"Movie-{idx}\n")
-                        f.write(f"Movie name: {clean_name}\n")
-                        f.write(f"Movie Category: {categories}\n")
-                        f.write(f"Movie year: {year}\n\n")
-                        
+                    valid_movie_count = 1
+                    for movie_url, title, categories, res_list in parallel_results:
                         if res_list:
+                            year_match = re.search(r'\b(20\d{2}|19\d{2})\b', title)
+                            year = year_match.group(1) if year_match else "N/A"
+                            clean_name = title.split(f"({year})")[0].split(year)[0].strip() if year_match else title
+                            clean_name = re.sub(r'[\s\-\[\]\(\)]+$', '', clean_name).strip()
+                            
+                            f.write(f"Movie-{valid_movie_count}\n")
+                            f.write(f"Movie name: {clean_name}\n")
+                            f.write(f"Movie Category: {categories}\n")
+                            f.write(f"Movie year: {year}\n\n")
+                            
                             res_idx = 1
                             for item in res_list:
                                 f.write(f"RESOLUTION {res_idx}: {item['resolution']}\n")
                                 f.write(f"STREAM Link {res_idx}: {item['link']}\n\n")
                                 res_idx += 1
-                        else:
-                            f.write("❌ No direct 1080p+ stream links found for this movie.\n\n")
-                        
-                        f.write("=" * 80 + "\n\n")
+                            
+                            f.write("=" * 80 + "\n\n")
+                            valid_movie_count += 1
 
-                print(f"✅ Saved results for [{target_category_name}] to: '{output_filename}'", flush=True)
+                print(f"✅ Saved clean results for [{target_category_name}] to: '{output_filename}'", flush=True)
 
         finally:
             await browser.close()
