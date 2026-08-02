@@ -108,3 +108,109 @@ STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
+Movie-1
+Movie name: Unish20
+Movie Category: Bangla Movies
+Movie year: 2023
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP - Unish20 (2023) WEB-DL [Bengali] Chorki 1080p ESub.mkv
+
+================================================================================
+
+Movie-2
+Movie name: Sarder Barir Khela
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Sarder Barir Khela (2026) WEB-DL [Bengali] Utshob 1080p.mkv
+
+================================================================================
+
+Movie-3
+Movie name: Sarar Shongshar
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Sarar Shongshar (2026) WEB-DL [Bengali] iScreen 1080p.mkv
+
+================================================================================
+
+Movie-4
+Movie name: Bonolota Express
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] HoiChoi 1080p ESub.mkv
+
+RESOLUTION 2: HEVC 1080P
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] AMZN 1080p HEVC ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] RAW 1080p ESub.mkv
+
+================================================================================
+
+Movie-5
+Movie name: Prince: Once Upon A Time In Dhaka
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP - Prince Once Upon a Time in Dhaka (2026) WEB-DL [Bengali] 1080p.mkv
+
+================================================================================
+
+Movie-6
+Movie name: Rakkhosh
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Rakkhosh (2026) WEB-DL [Bengali] 1080p.mkv
+
+================================================================================
+
+Movie-7
+Movie name: Domm
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Domm (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv
+
+================================================================================
+
+Movie-8
+Movie name: [18+] Vrindavani Vairagya
+Movie Category: Bangla Movies
+Movie year: 2018
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Vrindavani Vairagya (2018) WEB-DL [Bengali] 1080p.mkv
+
+================================================================================
+
+Movie-9
+Movie name: Oru Durooha Saahacharyathil
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Oru Durooha Saahacharyathil (2026) WEB-DL [Bengali Fan Dub] 1080p.mkv
+
+================================================================================
+
+Movie-10
+Movie name: Sulabh Complex
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Sulabh Complex (2026) WEB-DL [Bengali] Fridaay 1080p ESub.mkv
+
+================================================================================
+
