@@ -88,3 +88,103 @@ Movie year: N/A
 
 ================================================================================
 
+Movie-1
+Movie name: The Malabar Tales
+Movie Category: Hindi Dubbed Movies
+Movie year: 2025
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - The Malabar Tales (2025) DS4K WEB-DL [Hindi-Malayalam] 1080p ESub.mkv
+
+================================================================================
+
+Movie-2
+Movie name: Rao Bahadur
+Movie Category: Hindi Dubbed Movies
+Movie year: 2026
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Rao Bahadur (2026) WEB-DL [Hindi-Telugu] 4K-2160p SDR HEVC ESub.mkv
+
+================================================================================
+
+Movie-3
+Movie name: Gatta Kusthi 2
+Movie Category: Hindi Dubbed Movies
+Movie year: 2026
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Gatta Kusthi-2 (2026) WEB-DL [Hindi-Tamil] 4K-2160p SDR HEVC ESub.mkv
+
+================================================================================
+
+Movie-4
+Movie name: Peddi
+Movie Category: Hindi Dubbed Movies
+Movie year: 2026
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Peddi (2026) WEB-DL [Hindi-Telugu] 4K-2160p SDR HEVC ESub.mkv
+
+================================================================================
+
+Movie-5
+Movie name: Maa Inti Bangaram
+Movie Category: Hindi Dubbed Movies
+Movie year: 2026
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Maa Inti Bangaram (2026) DS4K WEB-DL [Hindi HQ Dub] 1080p.mkv
+
+================================================================================
+
+Movie-6
+Movie name: Naan Sirithal
+Movie Category: Hindi Dubbed Movies
+Movie year: 2020
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Naan Sirithal (2020) UNCUT WEB-DL [Hindi-Tamil] HQ 1080p ESub.mkv
+
+================================================================================
+
+Movie-7
+Movie name: The Rise Of Ashoka
+Movie Category: Hindi Dubbed Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - The Rise of Ashoka (2026) UNCUT WEB-DL [Hindi-Kannda] HQ 1080p ESub.mkv
+
+================================================================================
+
+Movie-8
+Movie name: Chinna Chinna Aasai
+Movie Category: Hindi Dubbed Movies
+Movie year: 2026
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Chinna Chinna Aasai (2026) WEB-DL [Hindi-Malayalam] 4K-2160p SDR HEVC ESub.mkv
+
+================================================================================
+
+Movie-9
+Movie name: Garuda Gamana Vrishabha Vahana
+Movie Category: Hindi Dubbed Movies
+Movie year: 2021
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Garuda Gamana Vrishabha Vahana (2021) WEB-DL [Hindi HQ Dub] 1080p.mkv
+
+================================================================================
+
+Movie-10
+Movie name: Nagabandham: The Secret Treasure
+Movie Category: Hindi Dubbed Movies
+Movie year: 2026
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Nagabandham (2026) WEB-DL [Hindi LiNE-Telugu] 1080p.mkv
+
+================================================================================
+
