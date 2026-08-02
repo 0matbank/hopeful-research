@@ -1,5 +1,6 @@
 import asyncio
 import base64
+import json
 import nest_asyncio
 import urllib.parse
 import re
@@ -8,57 +9,73 @@ import os
 import sys
 from playwright.async_api import async_playwright
 
-# Google Colab ও Asyncio সাপোর্ট
 nest_asyncio.apply()
 
 # ==============================================================================
-# ⚙️ ১. কনফিগারেশন এরিয়া
+# ⚙️ ১. কনফিগারেশন এবং ক্যাটাগরি তালিকা
 # ==============================================================================
 MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL", "https://cinefreak.net/").rstrip("/") + "/"
-SCAN_MODE = os.environ.get("SCAN_MODE", "ALL").strip()
+SCAN_MODE = os.environ.get("SCAN_MODE", "AUTO").strip()
 
-HISTORY_FILE = "history/scraped_history.txt"
-TARGET_LIMIT_MOVIES = 10  # প্রতি ক্যাটাগরিতে সর্বোচ্চ ১০টি ইউনিক মুভি
+STATE_FILE = "history/tracker_state.json"
+TARGET_LIMIT_MOVIES = 10
+
+CATEGORIES_LIST = [
+    "Bangla Movies",
+    "English Movies",
+    "Hindi Movies",
+    "Hindi Dubbed Movies",
+    "Bangla Dubbed",
+    "Tamil Movies",
+    "Malayalam Movies",
+    "Kannada Movies",
+    "Telugu Movies"
+]
 
 CATEGORIES_MAP = {
-    "Animation": {
-        "slug": "animation-movies",
-        "file": "categories/Animation/animation_movies.txt"
-    },
     "Bangla Movies": {
         "slug": "bangla-movies",
+        "dir": "categories/Bangla_Movies",
         "file": "categories/Bangla_Movies/bangla_movies.txt"
     },
     "English Movies": {
         "slug": "english-movies",
+        "dir": "categories/English_Movies",
         "file": "categories/English_Movies/english_movies.txt"
     },
     "Hindi Movies": {
         "slug": "hindi-movies",
+        "dir": "categories/Hindi_Movies",
         "file": "categories/Hindi_Movies/hindi_movies.txt"
     },
     "Hindi Dubbed Movies": {
         "slug": "hindi-dubbed-movies",
+        "dir": "categories/Dubbed/Hindi_Dubbed",
         "file": "categories/Dubbed/Hindi_Dubbed/hindi_dubbed_movies.txt"
     },
     "Bangla Dubbed": {
         "slug": "bangla-dubbed-movies",
+        "dir": "categories/Dubbed/Bangla_Dubbed",
         "file": "categories/Dubbed/Bangla_Dubbed/bangla_dubbed_movies.txt"
     },
     "Tamil Movies": {
         "slug": "tamil-movies",
+        "dir": "categories/South_Indian/Tamil",
         "file": "categories/South_Indian/Tamil/tamil_movies.txt"
     },
     "Malayalam Movies": {
         "slug": "malayalam-movies",
+        "dir": "categories/South_Indian/Malayalam",
         "file": "categories/South_Indian/Malayalam/malayalam_movies.txt"
     },
     "Kannada Movies": {
         "slug": "kannada-movies",
+        "dir": "categories/South_Indian/Kannada",
         "file": "categories/South_Indian/Kannada/kannada_movies.txt"
     },
     "Telugu Movies": {
         "slug": "telugu-movies",
+        "dir": "categories/South_Indian/Telugu",
         "file": "categories/South_Indian/Telugu/telugu_movies.txt"
     }
 }
@@ -80,10 +97,27 @@ AD_AND_ANALYTICS_DOMAINS = [
 ]
 
 # ==============================================================================
-# 🎯 ২. হেল্পার ফাংশনসমূহ (সংশোধিত ও সঠিক রেজুলেশন ডিটেক্টর)
+# 🔄 ২. স্টেট ট্র্যাকার
+# ==============================================================================
+def load_tracker_state():
+    os.makedirs("history", exist_ok=True)
+    if os.path.exists(STATE_FILE):
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {"current_category_index": 0, "run_count": 1}
+
+def save_tracker_state(state):
+    os.makedirs("history", exist_ok=True)
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=2)
+
+# ==============================================================================
+# 🎯 ৩. রেজুলেশন ও ডাইরেক্ট লিংক ডিটেক্টর
 # ==============================================================================
 def detect_resolution_from_stream_url(stream_url):
-    """আসল ভিডিও ফাইলের নাম থেকে ১০০% নির্ভুল রেজুলেশন নির্ণয় করার ফাংশন"""
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
     filename = clean_path.split('/')[-1]
     
@@ -99,31 +133,29 @@ def detect_resolution_from_stream_url(stream_url):
     return "HEVC 1080P" if is_hevc else "HD 1080P"
 
 def is_genuine_direct_stream_url(url):
-    """শুধুমাত্র আসল ১০৮০p/৪K (.mkv/.mp4 বা r2.dev) লিঙ্ক ফিল্টার করার ফাংশন"""
     u_lower = url.lower()
     
-    # জঙ্ক বা অ্যানালিটিক্স বাদ দেওয়া
-    if any(junk in u_lower for junk in ["google-analytics", "cinecloud.site", "neodrive.site", "ping.gif", "jwpltx", "collect?"]):
+    # 🎯 [FIX 1]: yagaverse.net বা এমবেড প্লেয়ারের লিংক বাতিল করা
+    if any(junk in u_lower for junk in ["yagaverse.net", "google-analytics", "cinecloud.site", "neodrive.site", "ping.gif", "jwpltx", "collect?", "facebook", "twitter"]):
         return False
 
-    # ফাইলের নাম বের করা
     clean_path = u_lower.split('?')[0]
     filename = clean_path.split('/')[-1]
         
-    # 🎯 [FIX 1]: ৭২০p, ৪৮০p বা ৩৬০p ফাইল ব্লক করা (যদি না তাতে ১০৮০p/৪K উল্লেখ থাকে)
+    # 🎯 [FIX 2]: ৭২০p, ৪৮০p বা ৩৬০p ফাইল কঠোরভাবে ব্লক করা
     if any(low in filename for low in ["720p", "480p", "360p"]):
         if not any(high in filename for high in ["1080p", "2160p", "4k"]):
             return False
 
-    # ডাইরেক্ট মিডিয়া স্ট্রিম নিশ্চিত করা
-    if ("r2.dev" in u_lower or filename.endswith(".mkv") or filename.endswith(".mp4") or filename.endswith(".m3u8")) and ("http://" in u_lower or "https://" in u_lower):
-        return True
+    # শুধুমাত্র আসল ভিডিও মিডিয়া ফাইল বা r2.dev লিঙ্ক অনুমতি দেওয়া
+    is_media = "r2.dev" in clean_path or filename.endswith(".mkv") or filename.endswith(".mp4") or filename.endswith(".m3u8")
+    if not is_media or not (u_lower.startswith("http://") or u_lower.startswith("https://")):
+        return False
         
-    return False
-
+    return True
 
 # ==============================================================================
-# 🎬 ৩. সমান্তরাল পাইপলাইন প্রসেসর
+# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
@@ -145,7 +177,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
         raw_title = await page.title()
         movie_title = raw_title.split(" - ")[0].split(" Full Movie")[0].replace("Watch ", "").strip()
 
-        # আসল ক্যাটাগরি এক্সট্র্যাক্ট করা
         movie_categories = await page.evaluate(f"""
             () => {{
                 let catElements = document.querySelectorAll('a[rel="category tag"], .post-categories a, .cat-links a, .entry-meta a[href*="/category/"]');
@@ -157,7 +188,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             }}
         """)
 
-        # ড্রপডাউন থাকলে এক্সপ্যান্ড করা
         watch_online_locators = page.locator("a:has-text('Watch Online')")
         btn_count = await watch_online_locators.count()
         if btn_count > 0:
@@ -169,7 +199,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 except Exception:
                     pass
 
-        # পেজের সব বাটন এবং রেজুলেশন টেক্সট এক্সট্র্যাক্ট
         all_buttons = await page.evaluate("""
             () => {
                 let matches = [];
@@ -195,16 +224,13 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             }
         """)
 
-        # ১০৮০p, 2K এবং ৪K রেজুলেশন সংগ্রহ
         target_buttons = []
         for btn in all_buttons:
             combined_txt = f"{btn['button_text']} {btn['parent_text']}".lower()
-            
             if any(low in combined_txt for low in ["720p", "480p", "360p"]):
                 if not any(high in combined_txt for high in ["1080p", "2160p", "4k"]):
                     continue
-            
-            if any(high in combined_txt for high in ["1080p", "2160p", "4k"]):
+            if any(high in combined_txt for high in ["1080p", "2160p", "4k", "hevc", "hq"]):
                 target_buttons.append(btn)
 
         if not target_buttons:
@@ -214,7 +240,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             print(f"❌ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] No 1080p or 4K resolution available.", flush=True)
             return movie_url, movie_title, movie_categories, []
 
-        print(f"✅ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Found {len(target_buttons)} 1080p+ stream option(s). Processing all...", flush=True)
+        print(f"✅ [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Found {len(target_buttons)} 1080p+ option(s). Processing...", flush=True)
 
         for idx, btn_info in enumerate(target_buttons, 1):
             target_gateway_url = btn_info["url"]
@@ -225,8 +251,9 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                     raw_url = response.url
                     decoded_url = urllib.parse.unquote(raw_url)
                     
+                    # 🎯 [FIX 3]: এমবেড বা প্রোক্সি ইউআরএল থাকলে তার ভেতর থেকে আসল লিংক বের করা
                     parsed_qs = urllib.parse.parse_qs(urllib.parse.urlparse(decoded_url).query)
-                    for param in ['mu', 'id', 'link', 'url', 'file']:
+                    for param in ['id', 'mu', 'link', 'url', 'file']:
                         if param in parsed_qs:
                             val = parsed_qs[param][0]
                             decoded_val = urllib.parse.unquote(val)
@@ -297,13 +324,12 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 if current_stream_urls:
                     for stream_url in current_stream_urls:
                         if not any(item['link'] == stream_url for item in movie_captured_data):
-                            # 🎯 [FIX 2]: এইচটিএমএল টেক্সট বাদ দিয়ে সরাসরি আসল ফাইলের ইউআরএল থেকে সঠিক রেজুলেশন লেবেল তৈরি করা
                             exact_res_label = detect_resolution_from_stream_url(stream_url)
                             movie_captured_data.append({
                                 "resolution": exact_res_label,
                                 "link": stream_url
                             })
-                            print(f"   ✅ Captured [{exact_res_label}]: {stream_url[:60]}...", flush=True)
+                            print(f"   ✅ Captured [{exact_res_label}]: {stream_url[:65]}...", flush=True)
                 
             except Exception:
                 pass
@@ -317,27 +343,49 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
 
 # ==============================================================================
-# 🎯 ৪. মেইন কন্ট্রোলার
+# 🎯 ৫. মেইন কন্ট্রোলার (ক্যাটাগরি-ভিত্তিক আলাদা হিস্ট্রি সাপোর্ট সহ)
 # ==============================================================================
 async def main():
-    os.makedirs("history", exist_ok=True)
+    state = load_tracker_state()
+    cat_index = state.get("current_category_index", 0)
+    run_count = state.get("run_count", 1)
+
+    target_category_name = None
+    is_auto_mode = False
+
+    if SCAN_MODE in ["AUTO", "ALL"]:
+        is_auto_mode = True
+        target_category_name = CATEGORIES_LIST[cat_index]
+        print(f"🔄 [ROTATIONAL SYSTEM] Running Active Category: '{target_category_name}' (Run {run_count}/3)", flush=True)
+    elif SCAN_MODE == "FORCE_NEXT":
+        is_auto_mode = True
+        cat_index = (cat_index + 1) % len(CATEGORIES_LIST)
+        run_count = 1
+        target_category_name = CATEGORIES_LIST[cat_index]
+        print(f"⏩ [FORCE NEXT] Switched to Next Category: '{target_category_name}' (Run 1/3)", flush=True)
+    else:
+        for cat_name in CATEGORIES_LIST:
+            if cat_name.lower().replace(" ", "").replace("-", "") == SCAN_MODE.lower().replace(" ", "").replace("-", ""):
+                target_category_name = cat_name
+                break
+        if not target_category_name:
+            target_category_name = CATEGORIES_LIST[0]
+        print(f"🎯 [MANUAL OVERRIDE] Target Category: '{target_category_name}'", flush=True)
+
+    config = CATEGORIES_MAP[target_category_name]
+    cat_slug = config["slug"]
+    cat_dir = config["dir"]
+    output_filename = config["file"]
+    
+    # 🎯 [FIX 4]: গ্লোবাল হিস্ট্রি ফাইল বাদ দিয়ে নির্দিষ্ট ক্যাটাগরি ফোল্ডারে history.txt সেট করা
+    history_filename = os.path.join(cat_dir, "history.txt")
+
+    os.makedirs(cat_dir, exist_ok=True)
 
     scraped_history = set()
-    if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+    if os.path.exists(history_filename):
+        with open(history_filename, "r", encoding="utf-8") as f:
             scraped_history = set(line.strip().rstrip('/') for line in f if line.strip())
-
-    target_categories = {}
-    if SCAN_MODE == "ALL":
-        target_categories = CATEGORIES_MAP
-    else:
-        for key, val in CATEGORIES_MAP.items():
-            if key.lower().replace(" ", "").replace("-", "") == SCAN_MODE.lower().replace(" ", "").replace("-", ""):
-                target_categories[key] = val
-                break
-        if not target_categories:
-            print(f"⚠️ SCAN_MODE '{SCAN_MODE}' matches no specific key. Scanning ALL categories.", flush=True)
-            target_categories = CATEGORIES_MAP
 
     sem = asyncio.Semaphore(3)
 
@@ -349,82 +397,77 @@ async def main():
         browser = await p.chromium.launch(headless=True, args=LAUNCH_ARGS)
         
         try:
-            for cat_display_name, config in target_categories.items():
-                cat_slug = config["slug"]
-                output_filename = config["file"]
-                os.makedirs(os.path.dirname(output_filename), exist_ok=True)
+            print(f"\n==================================================", flush=True)
+            print(f"📂 Navigating to Category: {target_category_name} ({cat_slug})", flush=True)
+            print(f"==================================================", flush=True)
 
-                print(f"\n==================================================", flush=True)
-                print(f"📂 [STEP 1] Navigating to Category Page: {cat_display_name} ({cat_slug})...", flush=True)
-                print(f"==================================================", flush=True)
+            page_main = await browser.new_page()
 
-                page_main = await browser.new_page()
+            async def route_interceptor(route):
+                url = route.request.url.lower()
+                if any(ad in url for ad in AD_AND_ANALYTICS_DOMAINS) or url.endswith((".png", ".jpg", ".jpeg", ".woff2")):
+                    await route.abort()
+                else:
+                    await route.continue_()
 
-                async def route_interceptor(route):
-                    url = route.request.url.lower()
-                    if any(ad in url for ad in AD_AND_ANALYTICS_DOMAINS) or url.endswith((".png", ".jpg", ".jpeg", ".woff2")):
-                        await route.abort()
-                    else:
-                        await route.continue_()
+            await page_main.route("**/*", route_interceptor)
 
-                await page_main.route("**/*", route_interceptor)
+            category_url = f"{MAIN_SITE_URL}{cat_slug}/"
+            await page_main.goto(category_url, timeout=35000, wait_until="domcontentloaded")
 
-                category_url = f"{MAIN_SITE_URL}{cat_slug}/"
-                await page_main.goto(category_url, timeout=35000, wait_until="domcontentloaded")
+            new_movie_urls = []
+            current_page_num = 1
+            MAX_PAGE_SAFETY_LIMIT = 4
 
-                new_movie_urls = []
-                current_page_num = 1
+            while len(new_movie_urls) < TARGET_LIMIT_MOVIES and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
+                print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
+                
+                links = await page_main.evaluate("""
+                    () => {
+                        let postAnchors = Array.from(document.querySelectorAll('article a, .post-card a, .type-post a, .entry-title a, h2 a, h3 a'));
+                        return postAnchors.map(a => a.href).filter(href => href && href.startsWith('http'));
+                    }
+                """)
 
-                while len(new_movie_urls) < TARGET_LIMIT_MOVIES:
-                    print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
-                    
-                    links = await page_main.evaluate("""
-                        () => {
-                            let postAnchors = Array.from(document.querySelectorAll('article a, .post-card a, .type-post a, .entry-title a, h2 a, h3 a'));
-                            return postAnchors.map(a => a.href).filter(href => href && href.startsWith('http'));
-                        }
-                    """)
+                if not links:
+                    raw_links = await page_main.eval_on_selector_all("a", "elements => elements.map(e => e.href)")
+                    links = [l for l in raw_links if l and ("full-movie-download" in l or l.endswith("-download/"))]
 
-                    if not links:
-                        raw_links = await page_main.eval_on_selector_all("a", "elements => elements.map(e => e.href)")
-                        links = [l for l in raw_links if l and ("full-movie-download" in l or l.endswith("-download/"))]
+                for link in links:
+                    link_clean = link.rstrip('/')
+                    if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean):
+                        if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
+                            if link_clean not in scraped_history and link_clean not in new_movie_urls and f"{link_clean}/" not in scraped_history:
+                                new_movie_urls.append(link)
+                                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                                    break
+                
+                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                    break
 
-                    for link in links:
-                        link_clean = link.rstrip('/')
-                        if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean):
-                            if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
-                                if link_clean not in scraped_history and link_clean not in new_movie_urls and f"{link_clean}/" not in scraped_history:
-                                    new_movie_urls.append(link)
-                                    if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
-                                        break
-                    
-                    if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
-                        break
-
-                    current_page_num += 1
+                current_page_num += 1
+                if current_page_num <= MAX_PAGE_SAFETY_LIMIT:
                     try:
                         next_page_url = f"{MAIN_SITE_URL}{cat_slug}/page/{current_page_num}/"
                         await page_main.goto(next_page_url, timeout=25000, wait_until="domcontentloaded")
                     except Exception:
-                        print("⚠️ End of pagination reached.", flush=True)
                         break
 
-                await page_main.close()
+            await page_main.close()
 
-                if not new_movie_urls:
-                    print(f"ℹ️ No new unique movies found for category: {cat_display_name}", flush=True)
-                    continue
+            if not new_movie_urls:
+                print(f"ℹ️ No new unique movies found for category: {target_category_name}", flush=True)
+            else:
+                print(f"🚀 Found {len(new_movie_urls)} unique movies in [{target_category_name}]. Starting extraction...\n", flush=True)
 
-                print(f"🚀 Found {len(new_movie_urls)} unique movies in [{cat_display_name}]. Starting parallel workers...\n", flush=True)
-
-                tasks = [safe_process(browser, movie_url, idx, cat_display_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
+                tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
-                with open(HISTORY_FILE, "a", encoding="utf-8") as h_file:
+                # 🎯 [FIX 5]: শুধুমাত্র ওই নির্দিষ্ট ক্যাটাগরির ফোল্ডারে history.txt লেখা
+                with open(history_filename, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list in parallel_results:
                         if res_list:
                             h_file.write(f"{movie_url}\n")
-                            scraped_history.add(movie_url.rstrip('/'))
 
                 with open(output_filename, "a", encoding="utf-8") as f:
                     for idx, (movie_url, title, categories, res_list) in enumerate(parallel_results, 1):
@@ -449,12 +492,25 @@ async def main():
                         
                         f.write("=" * 80 + "\n\n")
 
-                print(f"✅ Saved results for [{cat_display_name}] to: '{output_filename}'", flush=True)
+                print(f"✅ Saved results for [{target_category_name}] to: '{output_filename}'", flush=True)
 
         finally:
             await browser.close()
 
-    print("\n🎉 All Scheduled Category Scraping Completed Successfully!", flush=True)
+    if is_auto_mode:
+        if run_count >= 3:
+            next_index = (cat_index + 1) % len(CATEGORIES_LIST)
+            state["current_category_index"] = next_index
+            state["run_count"] = 1
+            print(f"🔄 [STATE UPDATE] Completed 3/3 runs for '{target_category_name}'. Rotated to next category: '{CATEGORIES_LIST[next_index]}'", flush=True)
+        else:
+            state["current_category_index"] = cat_index
+            state["run_count"] = run_count + 1
+            print(f"🔄 [STATE UPDATE] Completed run {run_count}/3 for '{target_category_name}'. Next scheduled run will be {run_count + 1}/3.", flush=True)
+        
+        save_tracker_state(state)
+
+    print("\n🎉 Scraping Completed Successfully!", flush=True)
 
 if __name__ == "__main__":
     asyncio.run(main())
