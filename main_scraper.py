@@ -8,13 +8,16 @@ import os
 import sys
 from playwright.async_api import async_playwright
 
-# Google Colab ও Asyncio সাপোর্ট
 nest_asyncio.apply()
 
 # ==============================================================================
 # ⚙️ ১. কনফিগারেশন এবং ক্যাটাগরি ম্যাপিং
 # ==============================================================================
-MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL", "https://cinefreak.net/")
+MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL")
+
+if not MAIN_SITE_URL:
+    raise ValueError("❌ Error: 'MAIN_SITE_URL' environment variable is missing! Check Secrets.")
+
 HISTORY_FILE = "history/scraped_history.txt"
 LIMIT_MOVIES_PER_CATEGORY_RUN = 10
 
@@ -79,7 +82,6 @@ AD_AND_ANALYTICS_DOMAINS = [
 ]
 
 def log(text):
-    """কোলাব টার্মিনালে সাথে সাথে লাইভ প্রিন্ট করার জন্য"""
     print(text, flush=True)
 
 # ==============================================================================
@@ -107,11 +109,11 @@ def is_genuine_direct_stream_url(url):
     return False
 
 # ==============================================================================
-# 🎬 ৩. হাই-স্পিড সমান্তরাল মুভি প্রসেসর (Fast Parallel Pipeline)
+# 🎬 ৩. হাই-স্পিড সমান্তরাল মুভি প্রসেসর
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_movies, category_name):
     movie_captured_data = {}
-    movie_title = "Cinefreak Post"
+    movie_title = "Movie Post"
 
     context = await browser.new_context(
         user_agent=random.choice(USER_AGENTS),
@@ -131,7 +133,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_m
         raw_title = await page.title()
         movie_title = raw_title.split(" - ")[0].split(" Full Movie")[0].replace("Watch ", "").strip()
 
-        # ড্রপডাউন থাকলে অটো-ক্লিক
         watch_online_locators = page.locator("a:has-text('Watch Online')")
         btn_count = await watch_online_locators.count()
         if btn_count > 0:
@@ -143,7 +144,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, total_m
                 except Exception:
                     pass
 
-        # গেটওয়ে বাটন এক্সট্র্যাক্ট
         all_buttons = await page.evaluate("""
             () => {
                 let matches = [];
@@ -334,7 +334,7 @@ async def main():
 
             while len(new_movie_urls) < LIMIT_MOVIES_PER_CATEGORY_RUN:
                 cat_url = f"{MAIN_SITE_URL.rstrip('/')}/{cat_slug}/page/{page_num}/" if page_num > 1 else f"{MAIN_SITE_URL.rstrip('/')}/{cat_slug}/"
-                log(f"🔎 [Page {page_num}] Fetching movies from: {cat_url}")
+                log(f"🔎 [Page {page_num}] Fetching movies...")
 
                 try:
                     await page_main.goto(cat_url, timeout=25000, wait_until="domcontentloaded")
@@ -416,6 +416,5 @@ async def main():
 
     log("\n🎉 All Scraping Tasks Completed Successfully!")
 
-# ⚡ [FIXED RUNNER LOGIC]: কোনো প্রকার Syntax Error ছাড়া কোলাব ও ক্লাউডে রান হবে
 if __name__ == "__main__":
     asyncio.run(main())
