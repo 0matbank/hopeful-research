@@ -83,7 +83,8 @@ CATEGORIES_MAP = {
 LAUNCH_ARGS = [
     "--disable-blink-features=AutomationControlled",
     "--no-sandbox",
-    "--disable-setuid-sandbox"
+    "--disable-setuid-sandbox",
+    "--disable-web-security"
 ]
 
 USER_AGENTS = [
@@ -115,7 +116,7 @@ def save_tracker_state(state):
         json.dump(state, f, indent=2)
 
 # ==============================================================================
-# 🎯 ৩. রেজুলেশন ও ফিল্টার (বিস্তারিত লগার সহ)
+# 🎯 ৩. রেজুলেশন ও ফিল্টার
 # ==============================================================================
 def detect_resolution_from_stream_url(stream_url):
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
@@ -135,7 +136,7 @@ def detect_resolution_from_stream_url(stream_url):
 def is_genuine_direct_stream_url(url):
     u_lower = url.lower()
     
-    if any(junk in u_lower for junk in ["yagaverse.net", "google-analytics", "cinecloud.site", "neodrive.site", "ping.gif", "jwpltx", "collect?", "facebook", "twitter"]):
+    if any(junk in u_lower for junk in ["yagaverse.net", "google-analytics", "ping.gif", "jwpltx", "collect?", "facebook", "twitter"]):
         return False
 
     clean_path = u_lower.split('?')[0]
@@ -151,7 +152,7 @@ def is_genuine_direct_stream_url(url):
     return True
 
 # ==============================================================================
-# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (ফুল প্রসেস ভিজ্যুয়াল লগার)
+# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (Fast Base64 Decoder + Bypass)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
@@ -266,57 +267,58 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             target_buttons = [b for b in all_buttons if "generate.php" in b["url"]]
 
         if not target_buttons:
-            print(f"   └── ❌ FAILED: No 1080p/4K download buttons found on page.", flush=True)
+            print(f"   └── ❌ FAILED: No 1080p/4K download buttons found.", flush=True)
             return movie_url, movie_title, movie_categories, []
 
-        print(f"   ├── 🎯 Found {len(target_buttons)} valid 1080p+ stream button(s). Extracting direct links...", flush=True)
+        print(f"   ├── 🎯 Found {len(target_buttons)} valid 1080p+ button(s). Extracting direct links...", flush=True)
 
         for idx, btn_info in enumerate(target_buttons, 1):
             target_gateway_url = btn_info["url"]
-            print(f"   │   ├── [Option {idx}/{len(target_buttons)}] Gateway: {target_gateway_url[:55]}...", flush=True)
+
+            # 🔑 [SUPER BYPASS 1]: Base64 'id' প্যারামিটার সরাসরি পাইথনে ডিপ্রিপ্ট করা
+            try:
+                parsed_g = urllib.parse.parse_qs(urllib.parse.urlparse(target_gateway_url).query)
+                if 'id' in parsed_g:
+                    raw_b64 = parsed_g['id'][0]
+                    padded = raw_b64 + "=" * (-len(raw_b64) % 4)
+                    decoded_target = base64.b64decode(padded).decode('utf-8', errors='ignore')
+                    
+                    if is_genuine_direct_stream_url(decoded_target):
+                        exact_res_label = detect_resolution_from_stream_url(decoded_target)
+                        if not any(item['link'] == decoded_target for item in movie_captured_data):
+                            movie_captured_data.append({"resolution": exact_res_label, "link": decoded_target})
+                            print(f"   │   ├── ⚡ FAST-DECODED [{exact_res_label}]: {decoded_target[:60]}...", flush=True)
+                        continue
+                    elif decoded_target.startswith("http"):
+                        target_gateway_url = decoded_target
+            except Exception:
+                pass
 
             sub_page = await context.new_page()
             try:
                 await sub_page.goto(target_gateway_url, timeout=30000, wait_until="domcontentloaded")
                 
                 verify_btn = sub_page.locator("#btn-text")
-                await verify_btn.wait_for(state="visible", timeout=12000)
-                await verify_btn.click()
-                await sub_page.wait_for_timeout(1500)
+                if await verify_btn.is_visible(timeout=5000):
+                    await verify_btn.click()
+                    await sub_page.wait_for_timeout(1000)
 
                 get_link_btn = sub_page.locator("#btn-text")
-                await get_link_btn.wait_for(state="visible", timeout=12000)
-
-                player_page = None
-                for _ in range(4):
+                if await get_link_btn.is_visible(timeout=5000):
                     try:
                         await get_link_btn.click(timeout=2000)
                     except Exception:
                         pass
                     await sub_page.wait_for_timeout(1500)
-                    
-                    for p_tab in context.pages:
-                        if p_tab != sub_page and p_tab != page:
-                            if "cinecloud" in p_tab.url or "neodrive" in p_tab.url:
-                                player_page = p_tab
-                                break
-                            else:
-                                await p_tab.close()
-                    if player_page:
-                        break
 
-                if not player_page:
-                    player_page = sub_page
-
-                await player_page.bring_to_front()
+                # ভিডিও প্লেয়ার হিট করা
                 try:
-                    await player_page.mouse.click(640, 360)
-                    await player_page.locator("video, .jw-display-icon-container, svg").first.click(timeout=3000)
+                    await sub_page.mouse.click(640, 360)
+                    await sub_page.locator("video, .jw-display-icon-container, svg").first.click(timeout=2000)
                 except Exception:
                     pass
 
-                # ২০ লুপ x ০.৫ সে. = ১০ সেকেন্ড সর্বোচ্চ ওয়েট
-                for _ in range(20):
+                for _ in range(15):
                     if current_stream_urls:
                         break
                     await asyncio.sleep(0.5)
@@ -329,19 +331,17 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                                 "resolution": exact_res_label,
                                 "link": stream_url
                             })
-                            print(f"   │   │   └── ✅ CAPTURED [{exact_res_label}]: {stream_url[:65]}...", flush=True)
-                else:
-                    print(f"   │   │   └── ⚠️ No stream response intercepted for this option (Timeout / Blocked / 720p filtered).", flush=True)
+                            print(f"   │   └── ✅ CAPTURED [{exact_res_label}]: {stream_url[:65]}...", flush=True)
                 
             except Exception as opt_err:
-                print(f"   │   │   └── ❌ Option Error: {str(opt_err)[:50]}", flush=True)
+                pass
             finally:
                 await sub_page.close()
 
         if movie_captured_data:
             print(f"   └── 🎉 SUCCESS: Extracted {len(movie_captured_data)} direct stream link(s) for '{movie_title}'.", flush=True)
         else:
-            print(f"   └── ⚠️ WARNING: Processed all buttons, but 0 direct 1080p+ stream links captured.", flush=True)
+            print(f"   └── ⚠️ WARNING: Processed all options, but 0 direct 1080p+ stream links captured.", flush=True)
 
     finally:
         await context.close()
@@ -349,7 +349,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data
 
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার (পূর্ণাঙ্গ সামারি রিপোর্ট)
+# 🎯 ৫. মেইন কন্ট্রোলার (সামারি রিপোর্ট সহ)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
@@ -470,7 +470,6 @@ async def main():
                 total_valid_movies = 0
                 total_captured_links = 0
 
-                # 📝 শুধুমাত্র সঠিক লিংক পাওয়া মুভিগুলো history.txt-এ যুক্ত করা
                 with open(history_filename, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list in parallel_results:
                         if res_list:
@@ -478,7 +477,6 @@ async def main():
                             total_valid_movies += 1
                             total_captured_links += len(res_list)
 
-                # 📝 আউটপুট ফাইলে সেভ
                 with open(output_filename, "a", encoding="utf-8") as f:
                     valid_movie_count = 1
                     for movie_url, title, categories, res_list in parallel_results:
