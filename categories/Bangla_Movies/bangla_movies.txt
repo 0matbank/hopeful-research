@@ -178,3 +178,112 @@ Movie year: 2026
 
 ================================================================================
 
+Movie-1
+Movie name: Rockstar
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Rockstar (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv
+
+================================================================================
+
+Movie-2
+Movie name: Abar Hawa Bodol
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Abar Hawa Bodol (2026) WEB-DL [Bengali] 1080p ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Abar Hawa Bodol (2026) WEB-DL [Bengali] HQ 1080p ESub.mkv
+
+================================================================================
+
+Movie-3
+Movie name: Saptadingar Guptodhon
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 1080p AV1 ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 1080p ESub.mkv
+
+RESOLUTION 3: 4K 2160P
+STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 4K-2160p AV1 ESub.mkv
+
+================================================================================
+
+Movie-4
+Movie name: Phutaniganjer Mahesh
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP - Phutaniganjer Mahesh (2026) WEB-DL [Bengali] Fridaay 1080p ESub.mkv
+
+================================================================================
+
+Movie-5
+Movie name: Nari Choritro Bejay Jotil
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Nari Choritro Bejay Jotil (2026) WEB-DL [Bengali] 1080p ESub.mkv
+
+================================================================================
+
+Movie-6
+Movie name: Moyurakkhi
+Movie Category: Bangla Movies
+Movie year: 2024
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP - Moyurakkhi (2024) WEB-DL [Bengali] 1080p.mkv
+
+================================================================================
+
+Movie-7
+Movie name: Roid
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Roid (2026) HDTC [Bengali LiNE] 1080p HC-ESub.mkv
+
+================================================================================
+
+Movie-8
+Movie name: Lifeline
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Lifeline (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv
+
+================================================================================
+
+Movie-9
+Movie name: Aliya Basu Gayab Hai
+Movie Category: Bangla Movies
+Movie year: 2024
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Aliya Basu Gayab Hai (2024) WEB-DL [Bengali-Hindi] 1080p ESub.mkv
+
+================================================================================
+
+Movie-10
+Movie name: Bibi Payra
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Bibi Payra (2026) WEB-DL [Bengali] HC 1080p ESub.mkv
+
+================================================================================
+
