@@ -83,8 +83,7 @@ CATEGORIES_MAP = {
 LAUNCH_ARGS = [
     "--disable-blink-features=AutomationControlled",
     "--no-sandbox",
-    "--disable-setuid-sandbox",
-    "--disable-web-security"
+    "--disable-setuid-sandbox"
 ]
 
 USER_AGENTS = [
@@ -116,7 +115,7 @@ def save_tracker_state(state):
         json.dump(state, f, indent=2)
 
 # ==============================================================================
-# 🎯 ৩. রেজুলেশন ও ফিল্টার
+# 🎯 ৩. স্মার্ট রেজুলেশন ও ফিল্টার
 # ==============================================================================
 def detect_resolution_from_stream_url(stream_url):
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
@@ -152,7 +151,104 @@ def is_genuine_direct_stream_url(url):
     return True
 
 # ==============================================================================
-# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (Fast Base64 Decoder + Bypass)
+# ⚡ 🔑 রিকার্সিভ Base64 ডিকোডার (Layer 1 Engine)
+# ==============================================================================
+def recursive_base64_extract(url, depth=0):
+    if depth > 4 or not url:
+        return set()
+
+    found_links = set()
+    decoded_urls = set()
+
+    unquoted = urllib.parse.unquote(url)
+    if is_genuine_direct_stream_url(unquoted):
+        found_links.add(unquoted)
+
+    try:
+        parsed = urllib.parse.urlparse(unquoted)
+        qs = urllib.parse.parse_qs(parsed.query)
+
+        for param, vals in qs.items():
+            for val in vals:
+                val_unquoted = urllib.parse.unquote(val)
+                if is_genuine_direct_stream_url(val_unquoted):
+                    found_links.add(val_unquoted)
+                elif val_unquoted.startswith("http"):
+                    decoded_urls.add(val_unquoted)
+
+                try:
+                    padded = val + "=" * (-len(val) % 4)
+                    b64_decoded = base64.b64decode(padded).decode('utf-8', errors='ignore')
+                    if is_genuine_direct_stream_url(b64_decoded):
+                        found_links.add(b64_decoded)
+                    elif b64_decoded.startswith("http"):
+                        decoded_urls.add(b64_decoded)
+                except Exception:
+                    pass
+    except Exception:
+        pass
+
+    for d_url in decoded_urls:
+        found_links.update(recursive_base64_extract(d_url, depth + 1))
+
+    return found_links
+
+def get_intermediate_http_urls(url, depth=0):
+    if depth > 3 or not url:
+        return set()
+    urls = set()
+    try:
+        unquoted = urllib.parse.unquote(url)
+        if unquoted.startswith("http") and not is_genuine_direct_stream_url(unquoted):
+            urls.add(unquoted)
+
+        parsed = urllib.parse.urlparse(unquoted)
+        qs = urllib.parse.parse_qs(parsed.query)
+        for param, vals in qs.items():
+            for val in vals:
+                v_un = urllib.parse.unquote(val)
+                if v_un.startswith("http") and not is_genuine_direct_stream_url(v_un):
+                    urls.add(v_un)
+                try:
+                    padded = val + "=" * (-len(val) % 4)
+                    b64 = base64.b64decode(padded).decode('utf-8', errors='ignore')
+                    if b64.startswith("http") and not is_genuine_direct_stream_url(b64):
+                        urls.add(b64)
+                        urls.update(get_intermediate_http_urls(b64, depth + 1))
+                except Exception:
+                    pass
+    except Exception:
+        pass
+    return urls
+
+async def fetch_and_extract_from_html(request_context, player_url):
+    found = set()
+    try:
+        resp = await request_context.get(player_url, timeout=10000)
+        if resp.ok:
+            html_text = await resp.text()
+
+            matches = re.findall(r'https?://[^\s"\'<>]+\.(?:r2\.dev|mkv|mp4)[^\s"\'<>]*', html_text, re.IGNORECASE)
+            for m in matches:
+                m_clean = urllib.parse.unquote(m)
+                if is_genuine_direct_stream_url(m_clean):
+                    found.add(m_clean)
+
+            b64_matches = re.findall(r'aHR0cHM6Ly[a-zA-Z0-9+/=]+', html_text)
+            for b64 in b64_matches:
+                try:
+                    padded = b64 + "=" * (-len(b64) % 4)
+                    dec = base64.b64decode(padded).decode('utf-8', errors='ignore')
+                    if is_genuine_direct_stream_url(dec):
+                        found.add(dec)
+                except Exception:
+                    pass
+    except Exception:
+        pass
+    return found
+
+# ==============================================================================
+# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (৩-লেয়ার এক্সট্রাকশন)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
@@ -267,58 +363,57 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             target_buttons = [b for b in all_buttons if "generate.php" in b["url"]]
 
         if not target_buttons:
-            print(f"   └── ❌ FAILED: No 1080p/4K download buttons found.", flush=True)
+            print(f"   └── ❌ FAILED: No 1080p/4K download buttons found on page.", flush=True)
             return movie_url, movie_title, movie_categories, []
 
-        print(f"   ├── 🎯 Found {len(target_buttons)} valid 1080p+ button(s). Extracting direct links...", flush=True)
+        print(f"   ├── 🎯 Found {len(target_buttons)} valid 1080p+ stream button(s). Running 3-Layer Unwrapper...", flush=True)
 
         for idx, btn_info in enumerate(target_buttons, 1):
             target_gateway_url = btn_info["url"]
 
-            # 🔑 [SUPER BYPASS 1]: Base64 'id' প্যারামিটার সরাসরি পাইথনে ডিপ্রিপ্ট করা
-            try:
-                parsed_g = urllib.parse.parse_qs(urllib.parse.urlparse(target_gateway_url).query)
-                if 'id' in parsed_g:
-                    raw_b64 = parsed_g['id'][0]
-                    padded = raw_b64 + "=" * (-len(raw_b64) % 4)
-                    decoded_target = base64.b64decode(padded).decode('utf-8', errors='ignore')
-                    
-                    if is_genuine_direct_stream_url(decoded_target):
-                        exact_res_label = detect_resolution_from_stream_url(decoded_target)
-                        if not any(item['link'] == decoded_target for item in movie_captured_data):
-                            movie_captured_data.append({"resolution": exact_res_label, "link": decoded_target})
-                            print(f"   │   ├── ⚡ FAST-DECODED [{exact_res_label}]: {decoded_target[:60]}...", flush=True)
-                        continue
-                    elif decoded_target.startswith("http"):
-                        target_gateway_url = decoded_target
-            except Exception:
-                pass
+            # ⚡ LAYER 1: রিকার্সিভ Base64 ডিকোড
+            direct_links = recursive_base64_extract(target_gateway_url)
 
+            # ⚡ LAYER 2: ইন্টারমিডিয়েট প্লেয়ার পেজের সোর্স কোড ইনস্পেকশন
+            if not direct_links:
+                intermediate_urls = get_intermediate_http_urls(target_gateway_url)
+                for i_url in intermediate_urls:
+                    html_links = await fetch_and_extract_from_html(context.request, i_url)
+                    direct_links.update(html_links)
+
+            if direct_links:
+                for d_link in direct_links:
+                    if not any(item['link'] == d_link for item in movie_captured_data):
+                        exact_res_label = detect_resolution_from_stream_url(d_link)
+                        movie_captured_data.append({"resolution": exact_res_label, "link": d_link})
+                        print(f"   │   ├── ⚡ UNWRAPPED [{exact_res_label}]: {d_link[:65]}...", flush=True)
+                continue
+
+            # ⚡ LAYER 3: Playwright Browser Fallback
             sub_page = await context.new_page()
             try:
                 await sub_page.goto(target_gateway_url, timeout=30000, wait_until="domcontentloaded")
                 
                 verify_btn = sub_page.locator("#btn-text")
-                if await verify_btn.is_visible(timeout=5000):
+                if await verify_btn.is_visible(timeout=4000):
                     await verify_btn.click()
                     await sub_page.wait_for_timeout(1000)
 
                 get_link_btn = sub_page.locator("#btn-text")
-                if await get_link_btn.is_visible(timeout=5000):
+                if await get_link_btn.is_visible(timeout=4000):
                     try:
                         await get_link_btn.click(timeout=2000)
                     except Exception:
                         pass
-                    await sub_page.wait_for_timeout(1500)
+                    await sub_page.wait_for_timeout(1000)
 
-                # ভিডিও প্লেয়ার হিট করা
                 try:
                     await sub_page.mouse.click(640, 360)
                     await sub_page.locator("video, .jw-display-icon-container, svg").first.click(timeout=2000)
                 except Exception:
                     pass
 
-                for _ in range(15):
+                for _ in range(12):
                     if current_stream_urls:
                         break
                     await asyncio.sleep(0.5)
@@ -333,7 +428,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                             })
                             print(f"   │   └── ✅ CAPTURED [{exact_res_label}]: {stream_url[:65]}...", flush=True)
                 
-            except Exception as opt_err:
+            except Exception:
                 pass
             finally:
                 await sub_page.close()
@@ -349,7 +444,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data
 
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার (সামারি রিপোর্ট সহ)
+# 🎯 ৫. মেইন কন্ট্রোলার (পূর্ণাঙ্গ সামারি রিপোর্ট)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
