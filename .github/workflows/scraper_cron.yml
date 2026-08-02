@@ -23,7 +23,7 @@ on:
           - 'Kannada Movies'
           - 'Telugu Movies'
 
-# 🔑 রাইট পারমিশন দেওয়া
+# 🔑 রাইট পারমিশন দেওয়া
 permissions:
   contents: write
 
@@ -70,8 +70,9 @@ jobs:
         env:
           MAIN_SITE_URL: ${{ secrets.MAIN_SITE_URL }}
           SCAN_MODE: ${{ github.event.inputs.scan_mode || 'AUTO' }}
+          PYTHONUNBUFFERED: "1"
         run: |
-          python main_scraper.py
+          python -u main_scraper.py
 
       - name: Commit and Push Updated Scraped Files
         run: |
