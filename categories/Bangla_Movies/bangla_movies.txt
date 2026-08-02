@@ -214,3 +214,99 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
+Movie-1
+Movie name: Abar Bochhor Koori Pore
+Movie Category: Bangla Movies
+Movie year: 2022
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Abar Bochhor Koori Pore (2022) WEB-DL [Bengali] 1080p.mkv
+
+================================================================================
+
+Movie-2
+Movie name: The Amazing Spider-Man 2
+Movie Category: Bangla Movies
+Movie year: 2014
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - The Amazing Spider-Man 2 (2014) WEB-DL [Bengali ORG] 1080p ESub.mkv
+
+================================================================================
+
+Movie-3
+Movie name: The Amazing Spider-Man
+Movie Category: Bangla Movies
+Movie year: 2012
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - The Amazing Spider-Man (2012) WEB-DL [Bengali ORG] 1080p ESub.mkv
+
+================================================================================
+
+Movie-4
+Movie name: Spider-Man
+Movie Category: Bangla Movies
+Movie year: 2002
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Spider-Man (2002) WEB-DL [Bengali ORG] 1080p ESub.mkv
+
+================================================================================
+
+Movie-5
+Movie name: Dhumketu
+Movie Category: Bangla Movies
+Movie year: 2025
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Dhumketu (2025) WEB-DL [Bengali] ZEE5 1080p HEVC.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Dhumketu (2025) WEB-DL [Bengali] ZEE5 1080p.mkv
+
+================================================================================
+
+Movie-6
+Movie name: Pother Pechal
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Pother Pechal (2026) WEB-DL [Bengali] Chorki 1080p.mkv
+
+================================================================================
+
+Movie-7
+Movie name: Proshnouttor
+Movie Category: Bangla Movies
+Movie year: 2026
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Proshnouttor (2026) WEB-DL [Bengali] 1080p.mkv
+
+RESOLUTION 2: 4K 2160P
+STREAM Link 2: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP - Proshnouttor (2026) WEB-DL [Bengali] 4K-2160p.mkv
+
+================================================================================
+
+Movie-8
+Movie name: Hothat Brishti
+Movie Category: Bangla Movies
+Movie year: 1998
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Hothat Brishti (1998) WEB-DL [Bengali] 1080p.mkv
+
+================================================================================
+
+Movie-9
+Movie name: Sakkhi
+Movie Category: Bangla Movies
+Movie year: N/A
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP - Saandrithazh - Sakkhi (2026) WEB-DL [Bengali ORG] Bongo 1080p.mkv
+
+================================================================================
+
