@@ -1,0 +1,39 @@
+name: Automated Movie Scraper Bot
+
+on:
+  schedule:
+    - cron: '0 */16 * * *'  # প্রতি ১৬ ঘণ্টা পর পর অটো রান হবে
+  workflow_dispatch:        # গিটহাব থেকে ম্যানুয়ালি রান করার বাটন
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run Main Scraper Script
+        env:
+          MAIN_SITE_URL: ${{ secrets.MAIN_SITE_URL }}
+        run: |
+          python main_scraper.py
+
+      - name: Commit and Push Updated Scraped Files
+        run: |
+          git config --global user.name "CineScraper Bot"
+          git config --global user.email "bot@github.com"
+          git add categories/ history/
+          git commit -m "Auto-update: Scraped new movies" || exit 0
+          git push
