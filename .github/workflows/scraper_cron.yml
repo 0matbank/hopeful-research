@@ -23,7 +23,7 @@ on:
           - 'Kannada Movies'
           - 'Telugu Movies'
 
-# 🔑 [FIX] গিটহাব অ্যাকশনসকে ফাইল সেভ করার রাইট পারমিশন দেওয়া
+# 🔑 রাইট পারমিশন দেওয়া
 permissions:
   contents: write
 
@@ -34,6 +34,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # ইতিহাস সিঙ্ক রাখার জন্য
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v5
@@ -77,4 +79,5 @@ jobs:
           git config --global user.email "bot@github.com"
           git add categories/ history/
           git commit -m "Auto-update: Rotational Scraper Run [${{ github.event.inputs.scan_mode || 'AUTO' }}]" || exit 0
-          git push
+          git pull --rebase origin main || true
+          git push origin main
