@@ -99,26 +99,54 @@ AD_AND_ANALYTICS_DOMAINS = [
 ]
 
 # ==============================================================================
-# 🖼️ TMDB পোস্টার ফেচার
+# 🖼️ TMDB পোস্টার ফেচার (স্মার্ট ২-ধাপের সার্চ ও ক্লিন টাইটেল)
 # ==============================================================================
+def clean_title_for_tmdb(name):
+    clean = re.sub(r'\[.*?\]|\(.*?\)', '', name)
+    clean = re.sub(r'\b(18\+|3D|2D|4K|1080p|720p|WEB-DL|BluRay|HDTC|ESub)\b', '', clean, flags=re.IGNORECASE)
+    clean = re.sub(r'[:\-_+]+', ' ', clean)
+    clean = re.sub(r'\s+', ' ', clean).strip()
+    return clean
+
 def fetch_tmdb_poster_sync(movie_name, year):
     try:
-        clean_query = re.sub(r'\b(20\d{2}|19\d{2})\b', '', movie_name).strip()
-        clean_query = urllib.parse.quote(clean_query)
-        
-        url = f"https://api.themoviedb.org/3/search/movie?api_key={TMDB_API_KEY}&query={clean_query}"
-        if year and str(year).isdigit():
-            url += f"&year={year}"
+        clean_query = clean_title_for_tmdb(movie_name)
+        if not clean_query:
+            clean_query = movie_name.strip()
             
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=5) as resp:
-            if resp.status == 200:
-                data = json.loads(resp.read().decode('utf-8'))
-                results = data.get("results", [])
-                if results:
-                    poster_path = results[0].get("poster_path")
-                    if poster_path:
-                        return f"https://image.tmdb.org/t500{poster_path}"
+        encoded_query = urllib.parse.quote(clean_query)
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+        
+        results = []
+        # ১ম চেষ্টা: নাম + সাল দিয়ে
+        if year and str(year).isdigit() and year != "N/A":
+            url = f"https://api.themoviedb.org/3/search/movie?api_key={TMDB_API_KEY}&query={encoded_query}&year={year}"
+            try:
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=5) as resp:
+                    if resp.status == 200:
+                        data = json.loads(resp.read().decode('utf-8'))
+                        results = data.get("results", [])
+            except Exception:
+                pass
+
+        # ২য় চেষ্টা: যদি সাল ফিল্টারে ম্যাচ না করে, শুধু নাম দিয়ে
+        if not results:
+            url = f"https://api.themoviedb.org/3/search/movie?api_key={TMDB_API_KEY}&query={encoded_query}"
+            try:
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=5) as resp:
+                    if resp.status == 200:
+                        data = json.loads(resp.read().decode('utf-8'))
+                        results = data.get("results", [])
+            except Exception:
+                pass
+
+        if results:
+            for item in results:
+                poster_path = item.get("poster_path")
+                if poster_path:
+                    return f"https://image.tmdb.org/t500{poster_path}"
     except Exception:
         pass
     return "N/A"
@@ -235,7 +263,7 @@ def is_genuine_direct_stream_url(url):
     return True
 
 # ==============================================================================
-# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (অক্ষত রাখা হয়েছে)
+# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (১০০% অক্ষত রাখা হয়েছে)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
@@ -422,7 +450,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data
 
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার (স্মার্ট সিরিয়াল, TMDB পোস্টার ও সাল সাজানো)
+# 🎯 ৫. মেইন কন্ট্রোলার (পোস্টার অটো-ব্যাকফিল ও বিন্যাস)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
@@ -550,7 +578,7 @@ async def main():
                 existing_movies = parse_existing_output_file(output_filename)
                 existing_names = {m["name"].lower() for m in existing_movies}
 
-                # 📝 ৩. নতুন এক্সট্র্যাক্ট করা মুভি যুক্ত করা (TMDB পোস্টারসহ)
+                # 📝 ৩. নতুন এক্সট্র্যাক্ট করা মুভি যুক্ত করা
                 new_movies_list = []
                 for movie_url, title, categories, res_list in parallel_results:
                     if res_list:
@@ -570,16 +598,23 @@ async def main():
                             })
                             existing_names.add(clean_name.lower())
 
-                # 📝 ৪. পুরানো + নতুন সব মুভি একসাথে করে সাল অনুযায়ী বড় থেকে ছোট (Desc) সাজানো
+                # 📝 ৪. পুরানো + নতুন সব মুভি একসাথে করা
                 all_movies = existing_movies + new_movies_list
 
+                # 🎯 [POSTER AUTO-REPAIR]: পুরানো যে কোনো মুভির পোস্টার 'N/A' থাকলে নতুন করে ফেচ করে সেভ করা
+                for m in all_movies:
+                    if not m.get("poster") or m["poster"] in ["N/A", "", "None"]:
+                        repaired_poster = await fetch_tmdb_poster(m["name"], m["year"])
+                        m["poster"] = repaired_poster
+
+                # 📝 ৫. সাল অনুযায়ী বড় থেকে ছোট (Desc) সাজানো
                 def get_sort_year(m):
                     y = m.get("year", "0")
                     return int(y) if str(y).isdigit() else 0
 
                 all_movies.sort(key=get_sort_year, reverse=True)
 
-                # 📝 ৫. ফাইলে ১ থেকে N পর্যন্ত একটানা সিরিয়ালে রাইট করা
+                # 📝 ৬. ফাইলে ১ থেকে N পর্যন্ত ধারাবাহিক সিরিয়ালে রাইট করা
                 with open(output_filename, "w", encoding="utf-8") as f:
                     for idx, movie in enumerate(all_movies, 1):
                         f.write(f"Movie-{idx}\n")
@@ -594,7 +629,7 @@ async def main():
 
                         f.write("=" * 80 + "\n\n")
 
-                print(f"✅ Saved clean & year-sorted results for [{target_category_name}] to: '{output_filename}'", flush=True)
+                print(f"✅ Saved clean & poster-repaired results for [{target_category_name}] to: '{output_filename}'", flush=True)
 
         finally:
             await browser.close()
