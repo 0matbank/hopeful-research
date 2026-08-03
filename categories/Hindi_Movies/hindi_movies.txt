@@ -116,7 +116,7 @@ STREAM Link 2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-10
-Movie name: Balan
+Movie name: Balan The Boy
 Movie Category: Hindi Movies
 Movie year: N/A
 Movie poster: https://image.tmdb.org/t500/boKxdR9tgXfkazf6yWgiDdleBy0.jpg
