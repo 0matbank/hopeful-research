@@ -3,6 +3,7 @@ import base64
 import json
 import nest_asyncio
 import urllib.parse
+import urllib.request
 import re
 import random
 import os
@@ -16,6 +17,7 @@ nest_asyncio.apply()
 # ==============================================================================
 MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL", "https://cinefreak.net/").rstrip("/") + "/"
 SCAN_MODE = os.environ.get("SCAN_MODE", "AUTO").strip()
+TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "1c2f8aa4bd7f76b20a1fee56d15d2eff")
 
 STATE_FILE = "history/tracker_state.json"
 TARGET_LIMIT_MOVIES = 10
@@ -97,6 +99,88 @@ AD_AND_ANALYTICS_DOMAINS = [
 ]
 
 # ==============================================================================
+# 🖼️ TMDB পোস্টার ফেচার
+# ==============================================================================
+def fetch_tmdb_poster_sync(movie_name, year):
+    try:
+        clean_query = re.sub(r'\b(20\d{2}|19\d{2})\b', '', movie_name).strip()
+        clean_query = urllib.parse.quote(clean_query)
+        
+        url = f"https://api.themoviedb.org/3/search/movie?api_key={TMDB_API_KEY}&query={clean_query}"
+        if year and str(year).isdigit():
+            url += f"&year={year}"
+            
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=5) as resp:
+            if resp.status == 200:
+                data = json.loads(resp.read().decode('utf-8'))
+                results = data.get("results", [])
+                if results:
+                    poster_path = results[0].get("poster_path")
+                    if poster_path:
+                        return f"https://image.tmdb.org/t500{poster_path}"
+    except Exception:
+        pass
+    return "N/A"
+
+async def fetch_tmdb_poster(movie_name, year):
+    return await asyncio.to_thread(fetch_tmdb_poster_sync, movie_name, year)
+
+# ==============================================================================
+# 📑 বিদ্যমান আউটপুট টেক্সট পার্সার
+# ==============================================================================
+def parse_existing_output_file(file_path):
+    if not os.path.exists(file_path):
+        return []
+    
+    movies = []
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        
+        blocks = content.split("================================================================================")
+        for block in blocks:
+            block = block.strip()
+            if not block:
+                continue
+            
+            name_m = re.search(r"Movie name:\s*(.*)", block)
+            cat_m = re.search(r"Movie Category:\s*(.*)", block)
+            year_m = re.search(r"Movie year:\s*(.*)", block)
+            poster_m = re.search(r"Movie poster:\s*(.*)", block)
+            
+            if not name_m:
+                continue
+            
+            name = name_m.group(1).strip()
+            cat = cat_m.group(1).strip() if cat_m else "N/A"
+            year_str = year_m.group(1).strip() if year_m else "N/A"
+            poster = poster_m.group(1).strip() if poster_m else "N/A"
+            
+            res_links = []
+            lines = block.split('\n')
+            curr_res = None
+            for line in lines:
+                line = line.strip()
+                if line.startswith("RESOLUTION"):
+                    curr_res = line.split(":", 1)[1].strip() if ":" in line else line
+                elif line.startswith("STREAM Link") and curr_res:
+                    curr_link = line.split(":", 1)[1].strip() if ":" in line else line
+                    res_links.append({"resolution": curr_res, "link": curr_link})
+                    curr_res = None
+            
+            movies.append({
+                "name": name,
+                "category": cat,
+                "year": year_str,
+                "poster": poster,
+                "res_list": res_links
+            })
+    except Exception:
+        pass
+    return movies
+
+# ==============================================================================
 # 🔄 ২. স্টেট ট্র্যাকার
 # ==============================================================================
 def load_tracker_state():
@@ -151,7 +235,7 @@ def is_genuine_direct_stream_url(url):
     return True
 
 # ==============================================================================
-# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (লিসেনার ও ওয়েট টাইম ফিক্সড)
+# 🎬 ৪. সমান্তরাল পাইপলাইন প্রসেসর (অক্ষত রাখা হয়েছে)
 # ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
@@ -165,7 +249,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     
     current_stream_urls = set()
 
-    # 🎯 [FIX]: নেটওয়ার্ক লিসেনার একবারে গ্লোবালি কনটেক্সটে সেট করা
     def handle_response(response):
         try:
             raw_url = response.url
@@ -313,7 +396,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 except Exception:
                     pass
 
-                # 🎯 [FIX]: গিটহাব অ্যাকশনসের জন্য ওয়েট টাইম বাড়ানো (২০ লুপ x ০.৫ সে. = ১০ সেকেন্ড)
                 for _ in range(20):
                     if current_stream_urls:
                         break
@@ -340,7 +422,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data
 
 # ==============================================================================
-# 🎯 ৫. মেইন কন্ট্রোলার (হিস্ট্রি সেভিং লজিক ১০০% ফিক্সড)
+# 🎯 ৫. মেইন কন্ট্রোলার (স্মার্ট সিরিয়াল, TMDB পোস্টার ও সাল সাজানো)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
@@ -458,37 +540,61 @@ async def main():
                 tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
-                # 🎯 [FIX]: শুধুমাত্র যদি অন্তত ১টি স্ট্রিম লিংক ক্যাপচার হয়, তখনই ইতিহাস সেভ করা
+                # 📝 ১. ইতিহাস সেভ করা
                 with open(history_filename, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list in parallel_results:
                         if res_list:
                             h_file.write(f"{movie_url}\n")
 
-                # 📝 আউটপুট সেভ করা
-                with open(output_filename, "a", encoding="utf-8") as f:
-                    valid_movie_count = 1
-                    for movie_url, title, categories, res_list in parallel_results:
-                        if res_list:
-                            year_match = re.search(r'\b(20\d{2}|19\d{2})\b', title)
-                            year = year_match.group(1) if year_match else "N/A"
-                            clean_name = title.split(f"({year})")[0].split(year)[0].strip() if year_match else title
-                            clean_name = re.sub(r'[\s\-\[\]\(\)]+$', '', clean_name).strip()
-                            
-                            f.write(f"Movie-{valid_movie_count}\n")
-                            f.write(f"Movie name: {clean_name}\n")
-                            f.write(f"Movie Category: {categories}\n")
-                            f.write(f"Movie year: {year}\n\n")
-                            
-                            res_idx = 1
-                            for item in res_list:
-                                f.write(f"RESOLUTION {res_idx}: {item['resolution']}\n")
-                                f.write(f"STREAM Link {res_idx}: {item['link']}\n\n")
-                                res_idx += 1
-                            
-                            f.write("=" * 80 + "\n\n")
-                            valid_movie_count += 1
+                # 📝 ২. আগের সেভ হওয়া মুভিগুলো লোড করা
+                existing_movies = parse_existing_output_file(output_filename)
+                existing_names = {m["name"].lower() for m in existing_movies}
 
-                print(f"✅ Saved clean results for [{target_category_name}] to: '{output_filename}'", flush=True)
+                # 📝 ৩. নতুন এক্সট্র্যাক্ট করা মুভি যুক্ত করা (TMDB পোস্টারসহ)
+                new_movies_list = []
+                for movie_url, title, categories, res_list in parallel_results:
+                    if res_list:
+                        year_match = re.search(r'\b(20\d{2}|19\d{2})\b', title)
+                        year = year_match.group(1) if year_match else "N/A"
+                        clean_name = title.split(f"({year})")[0].split(year)[0].strip() if year_match else title
+                        clean_name = re.sub(r'[\s\-\[\]\(\)]+$', '', clean_name).strip()
+
+                        if clean_name.lower() not in existing_names:
+                            poster_url = await fetch_tmdb_poster(clean_name, year)
+                            new_movies_list.append({
+                                "name": clean_name,
+                                "category": categories,
+                                "year": year,
+                                "poster": poster_url,
+                                "res_list": res_list
+                            })
+                            existing_names.add(clean_name.lower())
+
+                # 📝 ৪. পুরানো + নতুন সব মুভি একসাথে করে সাল অনুযায়ী বড় থেকে ছোট (Desc) সাজানো
+                all_movies = existing_movies + new_movies_list
+
+                def get_sort_year(m):
+                    y = m.get("year", "0")
+                    return int(y) if str(y).isdigit() else 0
+
+                all_movies.sort(key=get_sort_year, reverse=True)
+
+                # 📝 ৫. ফাইলে ১ থেকে N পর্যন্ত একটানা সিরিয়ালে রাইট করা
+                with open(output_filename, "w", encoding="utf-8") as f:
+                    for idx, movie in enumerate(all_movies, 1):
+                        f.write(f"Movie-{idx}\n")
+                        f.write(f"Movie name: {movie['name']}\n")
+                        f.write(f"Movie Category: {movie['category']}\n")
+                        f.write(f"Movie year: {movie['year']}\n")
+                        f.write(f"Movie poster: {movie['poster']}\n\n")
+
+                        for r_idx, item in enumerate(movie['res_list'], 1):
+                            f.write(f"RESOLUTION {r_idx}: {item['resolution']}\n")
+                            f.write(f"STREAM Link {r_idx}: {item['link']}\n\n")
+
+                        f.write("=" * 80 + "\n\n")
+
+                print(f"✅ Saved clean & year-sorted results for [{target_category_name}] to: '{output_filename}'", flush=True)
 
         finally:
             await browser.close()
