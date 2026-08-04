@@ -125,17 +125,11 @@ AD_AND_ANALYTICS_DOMAINS = [
     "bet365", "1xbet", "adsterra", "exoclick", "propellerads", "monetag", "clickadu", "taboola"
 ]
 
-# ==============================================================================
-# 🔗 ২. ইউআরএল স্পেস এনকোডার (%20 Fix)
-# ==============================================================================
 def sanitize_stream_url(url):
     if not url:
         return url
     return urllib.parse.quote(url, safe=':/?&=#%')
 
-# ==============================================================================
-# 📺 ৩. সিজন ও এপিসোড পার্সিং এনজিন
-# ==============================================================================
 def parse_link_metadata(stream_url, default_res):
     unquoted = urllib.parse.unquote(stream_url)
     filename = unquoted.split('/')[-1]
@@ -185,9 +179,6 @@ def parse_link_metadata(stream_url, default_res):
         "link": stream_url
     }
 
-# ==============================================================================
-# 🖼️ TMDB এবং সাইট পোস্টার ফেচার (Fallback সহ নিখুঁত লজিক)
-# ==============================================================================
 def clean_title_for_tmdb(name):
     clean = re.sub(r'\[.*?\]|\(.*?\)', '', name)
     clean = re.sub(r'\b(18\+|3D|2D|4K|1080p|720p|WEB-DL|BluRay|HDTC|ESub)\b', '', clean, flags=re.IGNORECASE)
@@ -241,9 +232,6 @@ def fetch_tmdb_poster_sync(movie_name, year):
 async def fetch_tmdb_poster(movie_name, year):
     return await asyncio.to_thread(fetch_tmdb_poster_sync, movie_name, year)
 
-# ==============================================================================
-# 📑 শক্তিশালী আউটপুট টেক্সট পার্সার (পুরনো কোনো ডেটা মুছবে না)
-# ==============================================================================
 def parse_existing_output_file(file_path):
     if not os.path.exists(file_path):
         return []
@@ -303,13 +291,10 @@ def parse_existing_output_file(file_path):
                     "poster": poster,
                     "res_list": res_list
                 })
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"⚠️ Error parsing existing file {file_path}: {e}")
     return movies
 
-# ==============================================================================
-# 🔄 ৪. স্টেট ট্র্যাকার
-# ==============================================================================
 def load_tracker_state():
     os.makedirs("history", exist_ok=True)
     if os.path.exists(STATE_FILE):
@@ -325,9 +310,6 @@ def save_tracker_state(state):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
 
-# ==============================================================================
-# 🎯 ৫. রেজুলেশন ও ফিল্টার
-# ==============================================================================
 def detect_resolution_from_stream_url(stream_url):
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
     filename = clean_path.split('/')[-1]
@@ -364,9 +346,6 @@ def is_genuine_direct_stream_url(url):
 
     return True
 
-# ==============================================================================
-# 🎬 ৬. সমান্তরাল পাইপলাইন প্রসেসর (বাটন ও সঠিক পোস্টার এক্সট্র্যাক্টর)
-# ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
     movie_title = "Movie Post"
@@ -428,13 +407,19 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
         raw_title = await page.title()
         movie_title = raw_title.split(" - ")[0].split(" Full Movie")[0].replace("Watch ", "").strip()
 
-        # 🎯 সাইট থেকে আসল TMDB পোস্টার লিংক এক্সট্রাক্ট করা (যেখানে alt এ 'poster' বা সঠিক ইমেজ ট্যাগ থাকে)
         try:
             web_poster_url = await page.evaluate(r"""
                 () => {
                     let posterImg = document.querySelector('.poster-image img, .post-thumbnail img, img[alt*="Poster"], img[alt*="poster"]');
-                    if (posterImg && posterImg.src && posterImg.src.startsWith('http')) {
+                    if (posterImg && posterImg.src && posterImg.src.startsWith('http') && !posterImg.src.includes('cineimg.xyz')) {
                         return posterImg.src;
+                    }
+                    let allImgs = Array.from(document.querySelectorAll('img'));
+                    for (let img of allImgs) {
+                        let src = img.src || img.getAttribute('data-src') || "";
+                        if (src.includes('image.tmdb.org') && src.startsWith('http')) {
+                            return src;
+                        }
                     }
                     let ogImg = document.querySelector('meta[property="og:image"]');
                     if (ogImg && ogImg.content && ogImg.content.startsWith('http')) {
@@ -457,7 +442,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             }}
         """)
 
-        # 🎯 সুনির্দিষ্ট ওয়াচ বাটন ফিল্টার লজিক
         target_buttons = await page.evaluate(r"""
             () => {
                 let matches = [];
@@ -652,9 +636,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
     return movie_url, movie_title, movie_categories, movie_captured_data, web_poster_url
 
-# ==============================================================================
-# 🎯 ৭. মেইন কন্ট্রোলার (নো-ডিলিট পলিসি, মার্জিং এবং পারফেক্ট সিরিয়ালাইজেশন)
-# ==============================================================================
 async def main():
     state = load_tracker_state()
     cat_index = state.get("current_category_index", 0)
@@ -694,7 +675,11 @@ async def main():
 
     os.makedirs(cat_dir, exist_ok=True)
 
-    # 📝 ইতিহাস লোড করা (ডুপ্লিকেট আটকানোর জন্য)
+    # 📝 ১. আগের সেভ হওয়া ডেটা এবং হিস্টরি নিখুঁতভাবে লোড করা (কোনো ডেটা মুছবে না)
+    existing_movies = parse_existing_output_file(output_filename)
+    existing_names = {m["name"].lower() for m in existing_movies}
+    print(f"📂 Loaded {len(existing_movies)} existing movie(s) from previous output files.", flush=True)
+
     scraped_history = set()
     if os.path.exists(history_filename):
         with open(history_filename, "r", encoding="utf-8") as f:
@@ -769,10 +754,6 @@ async def main():
 
             await page_main.close()
 
-            # 📝 আগের সেভ হওয়া ডেটা নিরাপদে লোড করা (নো-ডিলিট পলিসি)
-            existing_movies = parse_existing_output_file(output_filename)
-            existing_names = {m["name"].lower() for m in existing_movies}
-
             new_movies_list = []
             if new_movie_urls:
                 print(f"🚀 Found {len(new_movie_urls)} new unique movie(s). Starting extraction...\n", flush=True)
@@ -804,11 +785,9 @@ async def main():
                                     clean_name = fn_clean
 
                         if clean_name.lower() not in existing_names:
-                            # 🎯 প্রথমে TMDB থেকে অফিশিয়াল পোস্টার খোঁজার চেষ্টা
-                            poster_url = await fetch_tmdb_poster(clean_name, year)
-                            # 🎯 TMDB থেকে না পেলে সাইটের আসল পোস্টার বা web_poster ব্যবহার করা
-                            if poster_url == "N/A" and web_poster != "N/A":
-                                poster_url = web_poster
+                            poster_url = web_poster if web_poster != "N/A" else "N/A"
+                            if poster_url == "N/A":
+                                poster_url = await fetch_tmdb_poster(clean_name, year)
 
                             parsed_res_list = []
                             for item in res_list:
@@ -823,11 +802,13 @@ async def main():
                                 "res_list": parsed_res_list
                             })
                             existing_names.add(clean_name.lower())
+            else:
+                print("ℹ️ No new movies found to scrape. Preserving existing library.", flush=True)
 
-            # 📝 পুরানো এবং নতুন সব মুভি মার্জ করা
+            # 📝 পুরানো এবং নতুন সব মুভি মার্জ করা (কোনো পুরনো মুভি মুছবে না)
             all_movies = existing_movies + new_movies_list
 
-            # 🎯 [POSTER AUTO-REPAIR] পুরনো বা মিসিং পোস্টারগুলোর জন্য TMDB বা সাইট থেকে ব্যাকফিল করা
+            # 🎯 [POSTER AUTO-REPAIR] পুরনো বা মিসিং পোস্টারগুলোর জন্য ব্যাকফিল করা
             for m in all_movies:
                 if not m.get("poster") or m["poster"] in ["N/A", "", "None"] or "cineimg.xyz" in m["poster"]:
                     repaired_poster = await fetch_tmdb_poster(m["name"], m["year"])
@@ -844,7 +825,7 @@ async def main():
             current_utc_time = datetime.now(timezone.utc).strftime("%Y-%m-%d | %H:%M:%S (UTC)")
             total_items_count = len(all_movies)
 
-            # 📝 ১. টেক্সট ফাইল জেনারেট ও রাইট করা
+            # 📝 ১. টেক্সট ফাইল জেনারেট ও রাইট করা (পুরোনো + নতুন সবসহ)
             with open(output_filename, "w", encoding="utf-8") as f:
                 f.write("=" * 80 + "\n")
                 f.write(f"CATEGORY: {target_category_name}\n")
@@ -935,7 +916,7 @@ async def main():
                             m3u.write(f'#EXTINF:-1 tvg-logo="{m_poster}" group-title="{group_str}", {title_str}\n')
                             m3u.write(f"{link_val}\n")
 
-            print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] without losing any old data!", flush=True)
+            print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] with total {total_items_count} movies (Old + New combined).", flush=True)
 
         finally:
             await browser.close()
