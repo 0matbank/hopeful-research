@@ -1,9 +1,324 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 0,
-    "last_updated": "2026-08-04 | 13:33:13 (UTC)",
+    "total_movies": 10,
+    "last_updated": "2026-08-04 | 14:35:48 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
-  "movies": []
+  "movies": [
+    {
+      "name": "Uyir",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Balan",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWPVJjzU8wRG72OieszybwV6pPE.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20LiNE-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20LiNE-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Cousins And Kalyanams",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEfHZNS071Qa0ycrUhySEjRdXXB.jpg",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-04",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 05-08",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%20Kalyanams%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 09-12",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 13-16",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 17-20",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 21-24",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 25-28",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 29-32",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 33-36",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 37-40",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chinna Chinna Aasai",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Pallichattambi",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Pallichattambi.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dose",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Malabar Tales",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Balti",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIg1yo3hpaytvhkhI61LFLuuQNm.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Christy",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Big Brother",
+      "category": "Malayalam Movies",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7E9mFsCwm6s5k0akviOIuVIKIU.jpg",
+      "res_list": [
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "season": "N/A",
+          "episode": "N/A",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    }
+  ]
 }
