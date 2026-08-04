@@ -232,6 +232,9 @@ def fetch_tmdb_poster_sync(movie_name, year):
 async def fetch_tmdb_poster(movie_name, year):
     return await asyncio.to_thread(fetch_tmdb_poster_sync, movie_name, year)
 
+# ==============================================================================
+# 📑 ব্যাকআপ রিডার (আগের কোনো মুভি ডিলিট হবে না)
+# ==============================================================================
 def parse_existing_output_file(file_path):
     if not os.path.exists(file_path):
         return []
@@ -292,7 +295,7 @@ def parse_existing_output_file(file_path):
                     "res_list": res_list
                 })
     except Exception as e:
-        print(f"⚠️ Error parsing existing file {file_path}: {e}")
+        print(f"⚠️ Error reading existing file {file_path}: {e}", flush=True)
     return movies
 
 def load_tracker_state():
@@ -346,6 +349,9 @@ def is_genuine_direct_stream_url(url):
 
     return True
 
+# ==============================================================================
+# 🎬 সমান্তরাল পাইপলাইন প্রসেসর (আসল পোস্টার ও বাটন এক্সট্র্যাক্টর)
+# ==============================================================================
 async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default_category_name):
     movie_captured_data = []
     movie_title = "Movie Post"
@@ -636,6 +642,9 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
     return movie_url, movie_title, movie_categories, movie_captured_data, web_poster_url
 
+# ==============================================================================
+# 🎯 মেইন কন্ট্রোলার (হিস্টরি চেক -> স্ক্যান -> পোস্টার রিপেয়ার -> সোর্ট -> সেভ)
+# ==============================================================================
 async def main():
     state = load_tracker_state()
     cat_index = state.get("current_category_index", 0)
@@ -675,10 +684,10 @@ async def main():
 
     os.makedirs(cat_dir, exist_ok=True)
 
-    # 📝 ১. আগের সেভ হওয়া ডেটা এবং হিস্টরি নিখুঁতভাবে লোড করা (কোনো ডেটা মুছবে না)
+    # 📝 ১. আগের মুভি ফাইল এবং হিস্টরি নিখুঁতভাবে লোড করা
     existing_movies = parse_existing_output_file(output_filename)
     existing_names = {m["name"].lower() for m in existing_movies}
-    print(f"📂 Loaded {len(existing_movies)} existing movie(s) from previous output files.", flush=True)
+    print(f"📂 Loaded {len(existing_movies)} existing movie(s) from previous scans.", flush=True)
 
     scraped_history = set()
     if os.path.exists(history_filename):
@@ -715,9 +724,9 @@ async def main():
 
             new_movie_urls = []
             current_page_num = 1
-            MAX_PAGE_SAFETY_LIMIT = 4
+            MAX_PAGE_SAFETY_LIMIT = 5
 
-            # 🎯 নতুন মুভি ট্র্যাক করা (history.txt এ না থাকা লিংকগুলো শুধু নেওয়া)
+            # 🎯 ২. হিস্টরিতে না থাকা একদম নতুন ১০টি মুভি খুঁজে বের করা
             while len(new_movie_urls) < TARGET_LIMIT_MOVIES and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
                 print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
 
@@ -754,13 +763,13 @@ async def main():
 
             await page_main.close()
 
+            # 🎯 ৩. নতুন মুভিগুলো পাওয়ার পর সেগুলোকে স্ক্র্যাপ করা
             new_movies_list = []
             if new_movie_urls:
                 print(f"🚀 Found {len(new_movie_urls)} new unique movie(s). Starting extraction...\n", flush=True)
                 tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
-                # 📝 ইতিহাস ফাইলে নতুন লিংক সেভ করা
                 with open(history_filename, "a", encoding="utf-8") as h_file:
                     for movie_url, title, categories, res_list, web_poster in parallel_results:
                         if res_list:
@@ -803,19 +812,19 @@ async def main():
                             })
                             existing_names.add(clean_name.lower())
             else:
-                print("ℹ️ No new movies found to scrape. Preserving existing library.", flush=True)
+                print("ℹ️ No new movies found to scrape on category pages.", flush=True)
 
-            # 📝 পুরানো এবং নতুন সব মুভি মার্জ করা (কোনো পুরনো মুভি মুছবে না)
+            # 🎯 ৪. পুরানো + নতুন সব মুভি একত্রিত করা (নো-ডিলিট লজিক)
             all_movies = existing_movies + new_movies_list
 
-            # 🎯 [POSTER AUTO-REPAIR] পুরনো বা মিসিং পোস্টারগুলোর জন্য ব্যাকফিল করা
+            # 🎯 ৫. [POSTER AUTO-REPAIR] ফাঁকা বা মিসিং পোস্টারগুলোর জন্য TMDB ব্যাকফিল
             for m in all_movies:
                 if not m.get("poster") or m["poster"] in ["N/A", "", "None"] or "cineimg.xyz" in m["poster"]:
                     repaired_poster = await fetch_tmdb_poster(m["name"], m["year"])
                     if repaired_poster != "N/A":
                         m["poster"] = repaired_poster
 
-            # 📝 সাল অনুযায়ী বড় থেকে ছোট (Desc) সাজানো
+            # 🎯 ৬. সাল অনুযায়ী বড় থেকে ছোট (Descending - 2026, 2025, 2024...) সাজানো
             def get_sort_year(m):
                 y = m.get("year", "0")
                 return int(y) if str(y).isdigit() else 0
@@ -825,7 +834,7 @@ async def main():
             current_utc_time = datetime.now(timezone.utc).strftime("%Y-%m-%d | %H:%M:%S (UTC)")
             total_items_count = len(all_movies)
 
-            # 📝 ১. টেক্সট ফাইল জেনারেট ও রাইট করা (পুরোনো + নতুন সবসহ)
+            # 🎯 ৭. TXT ফাইল জেনারেট ও ওভাররাইট করা (১ থেকে N পারফেক্ট সিরিয়াল)
             with open(output_filename, "w", encoding="utf-8") as f:
                 f.write("=" * 80 + "\n")
                 f.write(f"CATEGORY: {target_category_name}\n")
@@ -873,7 +882,7 @@ async def main():
 
                     f.write("=" * 80 + "\n\n")
 
-            # 📝 ২. JSON ফাইল জেনারেট ও রাইট করা
+            # 🎯 ৮. JSON ফাইল জেনারেট ও ওভাররাইট করা
             json_payload = {
                 "category_info": {
                     "category_name": target_category_name,
@@ -886,7 +895,7 @@ async def main():
             with open(json_filename, "w", encoding="utf-8") as jf:
                 json.dump(json_payload, jf, indent=2, ensure_ascii=False)
 
-            # 📝 ৩. M3U প্লেলিস্ট ফাইল জেনারেট ও রাইট করা
+            # 🎯 ৯. M3U ফাইল জেনারেট ও ওভাররাইট করা
             with open(m3u_filename, "w", encoding="utf-8") as m3u:
                 m3u.write("#EXTM3U\n")
                 m3u.write(f"#EXT-X-NAME: {target_category_name}\n")
@@ -916,7 +925,7 @@ async def main():
                             m3u.write(f'#EXTINF:-1 tvg-logo="{m_poster}" group-title="{group_str}", {title_str}\n')
                             m3u.write(f"{link_val}\n")
 
-            print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] with total {total_items_count} movies (Old + New combined).", flush=True)
+            print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] (Total: {total_items_count} movies).", flush=True)
 
         finally:
             await browser.close()
