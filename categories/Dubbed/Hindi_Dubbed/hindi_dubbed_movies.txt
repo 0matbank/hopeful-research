@@ -23,7 +23,7 @@ Movie-2
 Movie name: Con City
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/58c1d71ef1b40d4fbbae53230d831dbb.jpg
+Poster: 
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
@@ -43,7 +43,7 @@ Movie-3
 Movie name: Pallichattambi
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/ab1cba1c55087e6a9cb9c50325139ccc.jpg
+Poster: 
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
@@ -63,7 +63,7 @@ Movie-4
 Movie name: Double Occupancy
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/5ef00849329c49f5d8da1ff50ac07049.jpg
+Poster: 
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
@@ -83,7 +83,7 @@ Movie-5
 Movie name: Shanmukha
 Category: Hindi Dubbed Movies
 Year: 2025
-Poster: https://cineimg.xyz/images/a02d4b4988b3d7fbc0e15c5600e79d99.jpg
+Poster: 
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
@@ -97,7 +97,7 @@ Movie-6
 Movie name: Royal
 Category: Hindi Dubbed Movies
 Year: 2025
-Poster: https://cineimg.xyz/images/f4135217d8a7e0727f15a48505988fd0.jpg
+Poster: 
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
@@ -114,7 +114,7 @@ Movie-7
 Movie name: Christy
 Category: Hindi Dubbed Movies
 Year: 2023
-Poster: https://cineimg.xyz/images/6e7808f9a2912e50664e2caec1538514.jpg
+Poster: 
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
@@ -131,7 +131,7 @@ Movie-8
 Movie name: Love Mocktail 2
 Category: Hindi Dubbed Movies
 Year: 2022
-Poster: https://cineimg.xyz/images/01bc50f01a9efa0547837922c860deea.jpg
+Poster: 
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
@@ -148,7 +148,7 @@ Movie-9
 Movie name: Big Brother
 Category: Hindi Dubbed Movies
 Year: 2020
-Poster: https://cineimg.xyz/images/2b47cdd6aea554c5024b2223390c7bdb.jpg
+Poster: 
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
@@ -165,7 +165,7 @@ Movie-10
 Movie name: Mafia
 Category: Hindi Dubbed Movies
 Year: 2020
-Poster: https://cineimg.xyz/images/289ac871e805d4c3d73f533bfee6d2dc.jpg
+Poster: 
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
