@@ -1,6 +1,1 @@
-Movie-1
-Show name: Uyir
-Category: Hindi Dubbed Movies
-Year: 2026
-Poster: https://image.tmdb.org/t500/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg
 
