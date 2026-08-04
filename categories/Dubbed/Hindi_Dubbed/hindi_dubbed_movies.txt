@@ -1,180 +1,180 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
 TOTAL MOVIES: 10
-LAST UPDATED: 2026-08-04 | 10:04:05 (UTC)
+LAST UPDATED: 2026-08-04 | 10:35:07 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Movie name: Uyir
+Movie name: Nagabandham: The Secret Treasure
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/ab7b3d9e388e91d18a6a7b6ef4000a34.jpg
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi%20LiNE-Telugu%5D%201080p%20HEVC.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi%20LiNE-Telugu%5D%201080p.mkv
 
 ================================================================================
 
 Movie-2
-Movie name: Rao Bahadur
+Movie name: Con City
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/c0224e746b299fa573a02abf1b95ec62.jpg
+Poster: https://cineimg.xyz/images/58c1d71ef1b40d4fbbae53230d831dbb.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
 Movie-3
-Movie name: Gatta Kusthi 2
+Movie name: Pallichattambi
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/91cabbe42df0e25e6c948996b500a80f.jpg
+Poster: https://cineimg.xyz/images/ab1cba1c55087e6a9cb9c50325139ccc.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
 Movie-4
-Movie name: Peddi
+Movie name: Double Occupancy
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/b8f967ea7381b78b5e2232a09335ec38.jpg
+Poster: https://cineimg.xyz/images/5ef00849329c49f5d8da1ff50ac07049.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
 Movie-5
-Movie name: Maa Inti Bangaram
+Movie name: Shanmukha
 Category: Hindi Dubbed Movies
-Year: 2026
-Poster: https://cineimg.xyz/images/9d2c4b3d3d4f60365a05da25b7cb3a10.jpg
+Year: 2025
+Poster: https://cineimg.xyz/images/a02d4b4988b3d7fbc0e15c5600e79d99.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p%20HEVC.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv
+RESOLUTION 2: 4K 2160P HEVC
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
 Movie-6
-Movie name: The Rise Of Ashoka
+Movie name: Royal
 Category: Hindi Dubbed Movies
-Year: 2026
-Poster: https://cineimg.xyz/images/91a6208ac2aa5a0fc9343add0a63b456.jpg
+Year: 2025
+Poster: https://cineimg.xyz/images/f4135217d8a7e0727f15a48505988fd0.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESub.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
 Movie-7
-Movie name: Chinna Chinna Aasai
+Movie name: Christy
 Category: Hindi Dubbed Movies
-Year: 2026
-Poster: https://cineimg.xyz/images/cdce1e77ecb43d14d38ed0bf27b449fc.jpg
+Year: 2023
+Poster: https://cineimg.xyz/images/6e7808f9a2912e50664e2caec1538514.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
 Movie-8
-Movie name: The Malabar Tales
+Movie name: Love Mocktail 2
 Category: Hindi Dubbed Movies
-Year: 2025
-Poster: https://cineimg.xyz/images/69b2a6851172e01e37d4f1948855cb81.jpg
+Year: 2022
+Poster: https://cineimg.xyz/images/01bc50f01a9efa0547837922c860deea.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: 4K 2160P HEVC
-STREAM Link 2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
 Movie-9
-Movie name: Garuda Gamana Vrishabha Vahana
+Movie name: Big Brother
 Category: Hindi Dubbed Movies
-Year: 2021
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jWfzHXvqLllbsVL7bvV1UVTq8s.jpg
+Year: 2020
+Poster: https://cineimg.xyz/images/2b47cdd6aea554c5024b2223390c7bdb.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Garuda%20Gamana%20Vrishabha%20Vahana%20%282021%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p%20HEVC.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Garuda%20Gamana%20Vrishabha%20Vahana%20%282021%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv
+STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
 Movie-10
-Movie name: Naan Sirithal
+Movie name: Mafia
 Category: Hindi Dubbed Movies
 Year: 2020
-Poster: https://cineimg.xyz/images/16415bbe765ab64615801518b269aa92.jpg
+Poster: https://cineimg.xyz/images/289ac871e805d4c3d73f533bfee6d2dc.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
