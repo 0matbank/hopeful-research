@@ -1,8 +1,15 @@
+================================================================================
+CATEGORY: English Movies
+TOTAL MOVIES: 37
+LAST UPDATED: 2026-08-05 | 17:59:32 (UTC)
+NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
+================================================================================
+
 Movie-1
 Movie name: [18+] Soulm8te
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BNmY1NmU5NjMtYjU2YS00YjI5LWExNDItNDA3N2M5YWJiZDhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Soulm8te (2026) WEB-DL [English] 1080p ESub.mkv
@@ -11,9 +18,9 @@ STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 Movie-2
 Movie name: Chum
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BNGZhZDhhYjItYzI0OC00NWQ5LTk4ZTktOGM1Y2U3Y2I3YmVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Chum (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
@@ -22,9 +29,9 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 Movie-3
 Movie name: The Loved One
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BNTZkMjUxOWYtYzk5Yi00OWFkLWI4MWYtOWRjN2M5YzBmNjJjXkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - The Loved One (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
@@ -33,9 +40,9 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 Movie-4
 Movie name: Wild Sing
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BZWNmYzQ4MTItYzdlYy00ZGJlLTgwZDQtOTY1N2JmNGFjMWI4XkEyXkFqcGc@._V1_SX250.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Wild Sing (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
@@ -43,38 +50,10 @@ STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-5
-Movie name: You, Always
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - You Always (2025) WEB-DL [Hindi-English] 1080p ESub.mkv
-
-================================================================================
-
-Movie-6
-Movie name: Shake, Rattle & Roll: Evil Origins
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Shake Rattle and Roll Evil Origins (2025) WEB-DL [Hindi-English] 1080p ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Shake Rattle and Roll Evil Origins (2025) WEB-DL [Hindi-English] HQ 1080p ESub.mkv
-
-RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Shake Rattle and Roll Evil Origins (2025) WEB-DL [Hindi-English] 4K-2160p SDR HEVC ESub.mkv
-
-================================================================================
-
-Movie-7
 Movie name: Spider-Man: Brand New Day
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Spider-Man Brand New Day (2026) HDTC-V3 [Hindi LiNE-English] 1080p HC-ESub.mkv
@@ -87,11 +66,11 @@ STREAM Link 3: https://pub-a9577e5312a643df86eae226ce9dc3d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-6
 Movie name: The Devil Wears Prada 2
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - The Devil Wears Prada 2 (2026) BluRay [Hindi-English] 1080p HEVC ESub.mkv
@@ -104,11 +83,11 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-7
 Movie name: The Devil's Mouth
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BOWMyNGRhZDctMTIzNC00MDc3LTkzYTctNGJjZmU4MjgzMzEwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - The Devils Mouth (2026) WEB-DL [Hindi-English] 1080p HEVC ESub.mkv
@@ -124,11 +103,11 @@ STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-8
 Movie name: Supergirl
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Supergirl (2026) DS4K WEB-DL [Hindi-English] 1080p HEVC ESub.mkv
@@ -144,11 +123,11 @@ STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
+Movie-9
 Movie name: Avatar Aang: The Last Airbender
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: https://image.tmdb.org/t500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BZGQzMzIzODAtZjc5Ni00ODRkLTlhMzMtNTVkOTI4MjBhNWEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Avatar Aang - The Last Airbender (2026) WEB-DL [Hindi-English] 1080p HEVC ESub.mkv
@@ -161,22 +140,11 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-12
-Movie name: Protector
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: https://image.tmdb.org/t500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Protector (2025) BluRay [Hindi-English] 1080p ESub.mkv
-
-================================================================================
-
-Movie-13
+Movie-10
 Movie name: The Truthers
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: https://image.tmdb.org/t500/ltuAheARdaUHbaS8lX1ZPrNOXe5.jpg
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BNjlkNDdmNzUtZGRkNC00MjMxLWE5NDktM2FjODk2NmQxMGMwXkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - The Truthers (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
@@ -189,11 +157,11 @@ STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-11
 Movie name: 72 HOURS
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: https://image.tmdb.org/t500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BYjg2YjMwMTgtNGJiNS00MWE0LTk4MjAtODc0YWVhNTJkMDUwXkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - 72 HOURS (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
@@ -206,11 +174,11 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-15
+Movie-12
 Movie name: The Debt Collector
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: https://image.tmdb.org/t500/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BY2Y3NmZiYmEtZmVhZi00ODc2LThhOWUtN2I0YWRjZDE3MTNmXkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - The Debt Collector (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
@@ -223,11 +191,11 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-13
 Movie name: Masters Of The Universe
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: https://image.tmdb.org/t500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Masters of the Universe (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
@@ -237,11 +205,11 @@ STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-14
 Movie name: Elize: Shadows Of A Woman
-Movie Category: English Movies
-Movie year: 2026
-Movie poster: https://image.tmdb.org/t500/l3wevYWTpiZSUEM5B0Q8c21ALAD.jpg
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BNmM1ZmUyM2UtMDdiMy00YzI2LTg0NzUtMjEwODZmZWZmM2Q3XkEyXkFqcGc@._V1_SX250.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Elize Shadows of a Woman (2026) WEB-DL [Hindi-English] 1080p HEVC ESub.mkv
@@ -257,22 +225,83 @@ STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-15
 Movie name: Son Of Sara
-Movie Category: English Movies
-Movie year: 2025
-Movie poster: N/A
+Category: English Movies
+Year: 2026
+Poster: https://m.media-amazon.com/images/M/MV5BNjJiZTgyYTctMzJiNy00M2E0LWFjYTgtZTI1YWUwN2NhZTlkXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Son of Sara Volume 1 (2026) WEB-DL [Hindi-English] 1080p ESub.mkv
 
 ================================================================================
 
+Movie-16
+Movie name: Lucky Strike
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Lucky%20Strike%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-17
+Movie name: The Isolate Thief
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20The%20Isolate%20Thie%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-18
+Movie name: You, Always
+Category: English Movies
+Year: 2025
+Poster: https://m.media-amazon.com/images/M/MV5BMzI5MGNlYjUtNjEzNC00OGRlLTgwOGQtZmZmZDFjNDU2ZDcwXkEyXkFqcGc@._V1_SX300.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - You Always (2025) WEB-DL [Hindi-English] 1080p ESub.mkv
+
+================================================================================
+
 Movie-19
+Movie name: Shake, Rattle & Roll: Evil Origins
+Category: English Movies
+Year: 2025
+Poster: https://m.media-amazon.com/images/M/MV5BMDViMDY3YzMtOTc0NC00ODc3LWFkNDUtYTEwMGM3NDQzZDMxXkEyXkFqcGc@._V1_SX300.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Shake Rattle and Roll Evil Origins (2025) WEB-DL [Hindi-English] 1080p ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Shake Rattle and Roll Evil Origins (2025) WEB-DL [Hindi-English] HQ 1080p ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Shake Rattle and Roll Evil Origins (2025) WEB-DL [Hindi-English] 4K-2160p SDR HEVC ESub.mkv
+
+================================================================================
+
+Movie-20
+Movie name: Protector
+Category: English Movies
+Year: 2025
+Poster: https://m.media-amazon.com/images/M/MV5BYmFjYjcyZjktNzdkNi00YjQ5LWEzODctZmYwZWUwNzc0Y2Y5XkEyXkFqcGc@._V1_SX300.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Protector (2025) BluRay [Hindi-English] 1080p ESub.mkv
+
+================================================================================
+
+Movie-21
 Movie name: Demon Slayer: Kimetsu No Yaiba Infinity Castle
-Movie Category: English Movies
-Movie year: 2025
-Movie poster: N/A
+Category: English Movies
+Year: 2025
+Poster: https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Demon Slayer Kimetsu No Yaiba The Movie Infinity Castle (2025) BluRay [Hindi-English] 1080p HEVC ESub.mkv
@@ -285,11 +314,11 @@ STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-22
 Movie name: Opus
-Movie Category: English Movies
-Movie year: 2025
-Movie poster: https://image.tmdb.org/t500/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg
+Category: English Movies
+Year: 2025
+Poster: https://m.media-amazon.com/images/M/MV5BNjgzMzczNmItMWEwOC00NjE0LWEwMGMtNjQ2NWY5ZjRkMDYzXkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Opus (2025) BluRay [Hindi-English] 1080p HEVC ESub.mkv
@@ -302,11 +331,11 @@ STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
+Movie-23
 Movie name: My Dead Friend Zoe
-Movie Category: English Movies
-Movie year: 2024
-Movie poster: N/A
+Category: English Movies
+Year: 2024
+Poster: https://m.media-amazon.com/images/M/MV5BZGVmODBmMDItYjQxMi00ZDU5LWFhOWEtZGU4YzRkNzM1Nzg3XkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - My Dead Friend Zoe (2024) BluRay [Hindi-English] 1080p HEVC ESub.mkv
@@ -316,33 +345,44 @@ STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-24
 Movie name: Anne+: The Film
-Movie Category: English Movies
-Movie year: 2021
-Movie poster: N/A
+Category: English Movies
+Year: 2021
+Poster: https://m.media-amazon.com/images/M/MV5BMjIwMGZmMGQtYjhhYS00ZTc0LWFkZGEtNjA3NDMzZjUxOTAyXkEyXkFqcGc@._V1_SX250.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Anne The Film (2021) WEB-DL [Hindi-English] 1080p ESub.mkv
 
 ================================================================================
 
-Movie-23
+Movie-25
+Movie name: Underworld: Blood Wars
+Category: English Movies
+Year: 2016
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Underworld%20Blood%20Wars%20%282016%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-26
 Movie name: Foxcatcher
-Movie Category: English Movies
-Movie year: 2014
-Movie poster: N/A
+Category: English Movies
+Year: 2014
+Poster: https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Foxcatcher (2014) BluRay [Hindi-English] 1080p ESub.mkv
 
 ================================================================================
 
-Movie-24
+Movie-27
 Movie name: Automata
-Movie Category: English Movies
-Movie year: 2014
-Movie poster: https://image.tmdb.org/t500/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg
+Category: English Movies
+Year: 2014
+Poster: https://m.media-amazon.com/images/M/MV5BNzgyMDcyMjMwMV5BMl5BanBnXkFtZTgwNjY5MTA1MjE@._V1_SX300.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Automata (2014) BluRay [Hindi-English] 1080p HEVC ESub.mkv
@@ -352,44 +392,113 @@ STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
+Movie-28
+Movie name: The Call
+Category: English Movies
+Year: 2013
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/mG334OlDVJpD8gMfTCM2Mpp0gQH.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20The%20Call%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-29
+Movie name: Underworld: Awakening
+Category: English Movies
+Year: 2012
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN0uuc8U6M3sTg9zEaliJV60Stf.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Underworld%20Awakening%20%282012%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-30
 Movie name: Hot Tub Time Machine
-Movie Category: English Movies
-Movie year: 2010
-Movie poster: N/A
+Category: English Movies
+Year: 2010
+Poster: https://m.media-amazon.com/images/M/MV5BMTQwMjExODA4Ml5BMl5BanBnXkFtZTcwNTYwMDYxMw@@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Hot Tub Time Machine (2010) BluRay [Hindi-English] 1080p ESub.mkv
 
 ================================================================================
 
-Movie-26
+Movie-31
+Movie name: Underworld: Rise Of The Lycans
+Category: English Movies
+Year: 2009
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yW9gF7rGn8EoV8B8rxOx1xjxVZf.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Underworld%20Rise%20of%20the%20Lycans%20%282009%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-32
+Movie name: Wieners
+Category: English Movies
+Year: 2008
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEvjo0S31AproMQ0jA4EqpXj0RK.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Wieners%20%282008%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-33
+Movie name: Underworld: Evolution
+Category: English Movies
+Year: 2006
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJaQG353uOzOqffQ5K2hg03k4Vp.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Underworld%20Evolution%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-34
+Movie name: Underworld
+Category: English Movies
+Year: 2003
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Underworld%20%282003%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Underworld%20%282003%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-35
 Movie name: Bend It Like Beckham
-Movie Category: English Movies
-Movie year: 2002
-Movie poster: N/A
+Category: English Movies
+Year: 2002
+Poster: https://m.media-amazon.com/images/M/MV5BYjI3NGNmNjktOTBmYy00MDNlLWE2NTYtNzQ2ZDcwMDNlYzY5XkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Bend It Like Beckham (2002) BluRay [Hindi-English] 1080p ESub.mkv
 
 ================================================================================
 
-Movie-27
+Movie-36
 Movie name: Bride Of Chucky
-Movie Category: English Movies
-Movie year: 1998
-Movie poster: N/A
+Category: English Movies
+Year: 1998
+Poster: https://m.media-amazon.com/images/M/MV5BYTk2OGE5MjktYjcyYS00M2QxLWE4YTYtYmNjYmE0M2I3ZDMxXkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Bride of Chucky (1998) BluRay [Hindi-English] 1080p ESub.mkv
 
 ================================================================================
 
-Movie-28
+Movie-37
 Movie name: The Miracle Woman
-Movie Category: English Movies
-Movie year: 1931
-Movie poster: N/A
+Category: English Movies
+Year: 1931
+Poster: https://m.media-amazon.com/images/M/MV5BZDRiMzk2ODItZjc5Mi00YTcxLWExNTItMzczMmNjYmM5NmE3XkEyXkFqcGc@._V1_SX300.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - The Miracle Woman (1931) BluRay [Hindi-English] 1080p ESub.mkv
