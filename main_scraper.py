@@ -719,7 +719,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
     return movie_url, movie_title, movie_categories, movie_captured_data, web_poster_url
 
 # ==============================================================================
-# 🎯 মেইন কন্ট্রোলার (হিস্টরি চেক -> স্ক্যান -> সিরিজ অটো-আপডেট -> সোর্ট -> সেভ)
+# 🎯 মেইন কন্ট্রোলার (হিস্টরি চেক -> নতুন মুভি ও রানিং সিরিজ চেক -> সেভ)
 # ==============================================================================
 async def main():
     state = load_tracker_state()
@@ -760,7 +760,7 @@ async def main():
 
     os.makedirs(cat_dir, exist_ok=True)
 
-    # 📝 ১. আগের মুভি/সিরিজ ফাইল এবং হিস্টরি লোড করা
+    # 📝 ১. আগের মুভি/সিরিজ ফাইল এবং হিস্টরি নিখুঁতভাবে ডিকশনারিতে লোড করা
     existing_movies = parse_existing_output_file(output_filename)
     existing_map = {m["name"].lower(): m for m in existing_movies}
     print(f"📂 Loaded {len(existing_movies)} existing movie/series record(s).", flush=True)
@@ -798,12 +798,13 @@ async def main():
             category_url = f"{MAIN_SITE_URL}{cat_slug}/"
             await page_main.goto(category_url, timeout=35000, wait_until="domcontentloaded")
 
-            new_movie_urls = []
+            candidate_new_links = []
+            candidate_series_links = []
             current_page_num = 1
             MAX_PAGE_SAFETY_LIMIT = 5
 
-            # 🎯 ২. হিস্টরি চেক + রানিং ওয়েব সিরিজের নতুন এপিসোড অটো-ডিটেকশন লজিক
-            while len(new_movie_urls) < TARGET_LIMIT_MOVIES and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
+            # 🎯 ২. স্মার্ট ক্যাটাগরি স্ক্যান (প্রথমে একদম নতুন মুভি, পরে রানিং সিরিজ চেক)
+            while (len(candidate_new_links) + len(candidate_series_links)) < TARGET_LIMIT_MOVIES and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
                 print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
 
                 links = await page_main.evaluate("""
@@ -821,20 +822,17 @@ async def main():
                     link_clean = link.rstrip('/')
                     if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean or "full-series" in link_clean):
                         if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
+                            is_new = link_clean not in scraped_history and f"{link_clean}/" not in scraped_history
                             is_series = "full-series" in link_clean or "series-download" in link_clean
-                            
-                            # ১. একদম নতুন মুভি/সিরিজ
-                            if link_clean not in scraped_history and link_clean not in new_movie_urls and f"{link_clean}/" not in scraped_history:
-                                new_movie_urls.append(link)
-                                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
-                                    break
-                            # ২. রানিং ওয়েব সিরিজ (নতুন এপিসোড আপডেট করার জন্য পুনঃপরীক্ষা)
-                            elif is_series and link not in new_movie_urls:
-                                new_movie_urls.append(link)
-                                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
-                                    break
 
-                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                            if is_new:
+                                if link not in candidate_new_links:
+                                    candidate_new_links.append(link)
+                            elif is_series:
+                                if link not in candidate_series_links:
+                                    candidate_series_links.append(link)
+
+                if len(candidate_new_links) >= TARGET_LIMIT_MOVIES:
                     break
 
                 current_page_num += 1
@@ -847,10 +845,15 @@ async def main():
 
             await page_main.close()
 
-            # 🎯 ৩. এক্সট্রাকশন এবং স্মার্ট মার্জ (নতুন এপিসোড যুক্ত করা)
-            new_movies_list = []
+            # নতুন মুভি আগে প্রাধান্য পাবে, খালি থাকলে পুরানো সিরিজ রি-চেক হবে
+            new_movie_urls = candidate_new_links[:TARGET_LIMIT_MOVIES]
+            remaining_slots = TARGET_LIMIT_MOVIES - len(new_movie_urls)
+            if remaining_slots > 0:
+                new_movie_urls.extend(candidate_series_links[:remaining_slots])
+
+            # 🎯 ৩. এক্সট্রাকশন এবং স্মার্ট অটো-মার্জিং (Delta Update)
             if new_movie_urls:
-                print(f"🚀 Found {len(new_movie_urls)} candidate movie/series URL(s). Processing...\n", flush=True)
+                print(f"🚀 Found {len(new_movie_urls)} candidate URL(s) ({len(candidate_new_links)} new, {len(new_movie_urls)-len(candidate_new_links[:TARGET_LIMIT_MOVIES])} series check). Starting extraction...\n", flush=True)
                 tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
@@ -884,11 +887,10 @@ async def main():
                             meta = parse_link_metadata(item['link'], item['resolution'])
                             parsed_res_list.append(meta)
 
-                        # যদি সিরিজটি আগেই ড্রাইভে থাকে, শুধু নতুন এপিসোডগুলো মার্জ করা
+                        # যদি মুভি/সিরিজ আগে থেকেই ফাইলে থাকে, শুধুমাত্র নতুন লিঙ্কগুলো মার্জ করা
                         if key_name in existing_map:
                             old_movie = existing_map[key_name]
                             existing_links = {item['link'] for item in old_movie.get('res_list', [])}
-                            
                             added_count = 0
                             for new_item in parsed_res_list:
                                 if new_item['link'] not in existing_links:
@@ -896,7 +898,7 @@ async def main():
                                     existing_links.add(new_item['link'])
                                     added_count += 1
                             if added_count > 0:
-                                print(f"🔄 [SERIES UPDATED] Added {added_count} new episode stream(s) for '{clean_name}'", flush=True)
+                                print(f"🔄 [UPDATED] Added {added_count} new episode/stream link(s) for '{clean_name}'", flush=True)
                         else:
                             poster_url = web_poster if web_poster != "N/A" else "N/A"
                             if poster_url == "N/A":
@@ -913,7 +915,7 @@ async def main():
             else:
                 print("ℹ️ No new movies or series updates found on category pages.", flush=True)
 
-            # 🎯 ৪. সম্পূর্ণ আপডেটেড লিস্ট একত্রিত করা
+            # 🎯 ৪. সম্পূর্ণ তালিকা একত্রিত করা
             all_movies = list(existing_map.values())
 
             # 🎯 ৫. [POSTER & YEAR AUTO-REPAIR]
@@ -932,7 +934,7 @@ async def main():
                     if repaired_poster != "N/A":
                         m["poster"] = repaired_poster
 
-            # 🎯 ৬. সাল অনুযায়ী সাজানো (Descending Order)
+            # 🎯 ৬. সাল অনুযায়ী বড় থেকে ছোট (Descending - 2026, 2025, 2024...) সাজানো
             def get_sort_year(m):
                 y = m.get("year", "0")
                 return int(y) if str(y).isdigit() else 0
@@ -942,7 +944,7 @@ async def main():
             current_utc_time = datetime.now(timezone.utc).strftime("%Y-%m-%d | %H:%M:%S (UTC)")
             total_items_count = len(all_movies)
 
-            # 🎯 ৭. TXT ফাইল ওভাররাইট করা
+            # 🎯 ৭. TXT ফাইল জেনারেট ও ওভাররাইট করা (১ থেকে N পারফেক্ট সিরিয়াল)
             with open(output_filename, "w", encoding="utf-8") as f:
                 f.write("=" * 80 + "\n")
                 f.write(f"CATEGORY: {target_category_name}\n")
@@ -990,7 +992,7 @@ async def main():
 
                     f.write("=" * 80 + "\n\n")
 
-            # 🎯 ৮. JSON ফাইল ওভাররাইট করা
+            # 🎯 ৮. JSON ফাইল জেনারেট ও ওভাররাইট করা (সাধারণ মুভিতে season/episode বাদ দিয়ে ক্লিন JSON)
             clean_movies_for_json = []
             for movie in all_movies:
                 m_obj = {
@@ -1028,7 +1030,7 @@ async def main():
             with open(json_filename, "w", encoding="utf-8") as jf:
                 json.dump(json_payload, jf, indent=2, ensure_ascii=False)
 
-            # 🎯 ৯. M3U ফাইল ওভাররাইট করা
+            # 🎯 ৯. M3U ফাইল জেনারেট ও ওভাররাইট করা
             with open(m3u_filename, "w", encoding="utf-8") as m3u:
                 m3u.write("#EXTM3U\n")
                 m3u.write(f"#EXT-X-NAME: {target_category_name}\n")
@@ -1058,7 +1060,7 @@ async def main():
                             m3u.write(f'#EXTINF:-1 tvg-logo="{m_poster}" group-title="{group_str}", {title_str}\n')
                             m3u.write(f"{link_val}\n")
 
-            print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] (Total: {total_items_count} records).", flush=True)
+            print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] (Total: {total_items_count} movies).", flush=True)
 
         finally:
             await browser.close()
