@@ -1,11 +1,315 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 37,
-    "last_updated": "2026-08-05 | 16:33:55 (UTC)",
+    "total_movies": 45,
+    "last_updated": "2026-08-05 | 16:49:39 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
+    {
+      "name": "Rockstar",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Rockstar (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Abar Hawa Bodol",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Abar Hawa Bodol (2026) WEB-DL [Bengali] 1080p ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Abar Hawa Bodol (2026) WEB-DL [Bengali] HQ 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Saptadingar Guptodhon",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 1080p AV1 ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 1080p ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 4K-2160p AV1 ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Phutaniganjer Mahesh",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP - Phutaniganjer Mahesh (2026) WEB-DL [Bengali] Fridaay 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Nari Choritro Bejay Jotil",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Nari Choritro Bejay Jotil (2026) WEB-DL [Bengali] 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Roid",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Roid (2026) HDTC [Bengali LiNE] 1080p HC-ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lifeline",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Lifeline (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bibi Payra",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Bibi Payra (2026) WEB-DL [Bengali] HC 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sarder Barir Khela",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Sarder Barir Khela (2026) WEB-DL [Bengali] Utshob 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sarar Shongshar",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Sarar Shongshar (2026) WEB-DL [Bengali] iScreen 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bonolota Express",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] HoiChoi 1080p ESub.mkv"
+        },
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] AMZN 1080p HEVC ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] RAW 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Prince: Once Upon A Time In Dhaka",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP - Prince Once Upon a Time in Dhaka (2026) WEB-DL [Bengali] 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Rakkhosh",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Rakkhosh (2026) WEB-DL [Bengali] 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Domm",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Domm (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Oru Durooha Saahacharyathil",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Oru Durooha Saahacharyathil (2026) WEB-DL [Bengali Fan Dub] 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sulabh Complex",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Sulabh Complex (2026) WEB-DL [Bengali] Fridaay 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Pother Pechal",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Pother Pechal (2026) WEB-DL [Bengali] Chorki 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Proshnouttor",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Proshnouttor (2026) WEB-DL [Bengali] 1080p.mkv"
+        },
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP - Proshnouttor (2026) WEB-DL [Bengali] 4K-2160p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sakkhi",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP - Saandrithazh - Sakkhi (2026) WEB-DL [Bengali ORG] Bongo 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Utsaber Ratri",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Utsaber-Ratri-2026.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bhanupriya Bhooter Hotel",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Bhanupriya-Bhooter-Hotel.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bhanupriya%20Bhooter%20Hotel%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Bhanupriya%20Bhooter%20Hotel%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Tumi Ami Shudhu",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpXiw2nA4Svq13vGfPLlizLPOUx.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Tumi%20Ami%20Shudhu%20%282026%29%20WEB-DL%20%5BBengali%5D%20Binge%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Cha Garam",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Cha-Garam-2026.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+        }
+      ]
+    },
     {
       "name": "Saralakkho Holmes",
       "category": "Bangla Movies",
@@ -59,6 +363,50 @@
       ]
     },
     {
+      "name": "Dhumketu",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Dhumketu (2025) WEB-DL [Bengali] ZEE5 1080p HEVC.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Dhumketu (2025) WEB-DL [Bengali] ZEE5 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bhaggyo Lokkhi",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEPUuaJAeT3hua4eF9h5RvCMu9y.jpg",
+      "res_list": [
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bhuto Purbo",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rSvfGN1mM6xbXjlz1wJojMq1M9.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Bhuto%20Purbo%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bhuto%20Purbo%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Abigail",
       "category": "Bangla Movies",
       "year": "2024",
@@ -83,6 +431,30 @@
       ]
     },
     {
+      "name": "Moyurakkhi",
+      "category": "Bangla Movies",
+      "year": "2024",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP - Moyurakkhi (2024) WEB-DL [Bengali] 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aliya Basu Gayab Hai",
+      "category": "Bangla Movies",
+      "year": "2024",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Aliya Basu Gayab Hai (2024) WEB-DL [Bengali-Hindi] 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Blind",
       "category": "Bangla Movies",
       "year": "2023",
@@ -91,6 +463,30 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Unish20",
+      "category": "Bangla Movies",
+      "year": "2023",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP - Unish20 (2023) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bloody Daddy",
+      "category": "Bangla Movies",
+      "year": "2023",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.04.48-PM.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
@@ -107,6 +503,30 @@
       ]
     },
     {
+      "name": "Abar Bochhor Koori Pore",
+      "category": "Bangla Movies",
+      "year": "2022",
+      "poster": "N/A",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Abar Bochhor Koori Pore (2022) WEB-DL [Bengali] 1080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bhediya",
+      "category": "Bangla Movies",
+      "year": "2022",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Bhediya-2022.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Brombhodoityo",
       "category": "Bangla Movies",
       "year": "2020",
@@ -119,233 +539,9 @@
       ]
     },
     {
-      "name": "Rockstar",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Rockstar (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Abar Hawa Bodol",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Abar Hawa Bodol (2026) WEB-DL [Bengali] 1080p ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Abar Hawa Bodol (2026) WEB-DL [Bengali] HQ 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Saptadingar Guptodhon",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 1080p AV1 ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 1080p ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P",
-          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Saptadingar Guptodhon (2026) WEB-DL [Bengali] HC 4K-2160p AV1 ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Phutaniganjer Mahesh",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP - Phutaniganjer Mahesh (2026) WEB-DL [Bengali] Fridaay 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Nari Choritro Bejay Jotil",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Nari Choritro Bejay Jotil (2026) WEB-DL [Bengali] 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Moyurakkhi",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP - Moyurakkhi (2024) WEB-DL [Bengali] 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Roid",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Roid (2026) HDTC [Bengali LiNE] 1080p HC-ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Lifeline",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Lifeline (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Aliya Basu Gayab Hai",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Aliya Basu Gayab Hai (2024) WEB-DL [Bengali-Hindi] 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bibi Payra",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Bibi Payra (2026) WEB-DL [Bengali] HC 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Unish20",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP - Unish20 (2023) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Sarder Barir Khela",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Sarder Barir Khela (2026) WEB-DL [Bengali] Utshob 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Sarar Shongshar",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Sarar Shongshar (2026) WEB-DL [Bengali] iScreen 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bonolota Express",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] HoiChoi 1080p ESub.mkv"
-        },
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] AMZN 1080p HEVC ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Bonolota Express (2026) WEB-DL [Bengali] RAW 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Prince: Once Upon A Time In Dhaka",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP - Prince Once Upon a Time in Dhaka (2026) WEB-DL [Bengali] 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Rakkhosh",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP - Rakkhosh (2026) WEB-DL [Bengali] 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Domm",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Domm (2026) WEB-DL [Bengali] Chorki 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "[18+] Vrindavani Vairagya",
       "category": "Bangla Movies",
-      "year": "N/A",
+      "year": "2018",
       "poster": "N/A",
       "res_list": [
         {
@@ -355,45 +551,9 @@
       ]
     },
     {
-      "name": "Oru Durooha Saahacharyathil",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Oru Durooha Saahacharyathil (2026) WEB-DL [Bengali Fan Dub] 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Sulabh Complex",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP - Sulabh Complex (2026) WEB-DL [Bengali] Fridaay 1080p ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Abar Bochhor Koori Pore",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP - Abar Bochhor Koori Pore (2022) WEB-DL [Bengali] 1080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "The Amazing Spider-Man 2",
       "category": "Bangla Movies",
-      "year": "N/A",
+      "year": "2014",
       "poster": "N/A",
       "res_list": [
         {
@@ -405,7 +565,7 @@
     {
       "name": "The Amazing Spider-Man",
       "category": "Bangla Movies",
-      "year": "N/A",
+      "year": "2012",
       "poster": "N/A",
       "res_list": [
         {
@@ -417,7 +577,7 @@
     {
       "name": "Spider-Man",
       "category": "Bangla Movies",
-      "year": "N/A",
+      "year": "2002",
       "poster": "N/A",
       "res_list": [
         {
@@ -427,70 +587,14 @@
       ]
     },
     {
-      "name": "Dhumketu",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Dhumketu (2025) WEB-DL [Bengali] ZEE5 1080p HEVC.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP - Dhumketu (2025) WEB-DL [Bengali] ZEE5 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Pother Pechal",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Pother Pechal (2026) WEB-DL [Bengali] Chorki 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Proshnouttor",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Proshnouttor (2026) WEB-DL [Bengali] 1080p.mkv"
-        },
-        {
-          "resolution": "4K 2160P",
-          "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP - Proshnouttor (2026) WEB-DL [Bengali] 4K-2160p.mkv"
-        }
-      ]
-    },
-    {
       "name": "Hothat Brishti",
       "category": "Bangla Movies",
-      "year": "N/A",
+      "year": "1998",
       "poster": "N/A",
       "res_list": [
         {
           "resolution": "HD 1080P",
           "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP - Hothat Brishti (1998) WEB-DL [Bengali] 1080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Sakkhi",
-      "category": "Bangla Movies",
-      "year": "N/A",
-      "poster": "N/A",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP - Saandrithazh - Sakkhi (2026) WEB-DL [Bengali ORG] Bongo 1080p.mkv"
         }
       ]
     }
