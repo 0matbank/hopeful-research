@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 9
-LAST UPDATED: 2026-08-05 | 18:30:06 (UTC)
+TOTAL MOVIES: 19
+LAST UPDATED: 2026-08-05 | 19:14:41 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -137,6 +137,97 @@ Episode: Episode 05
 ================================================================================
 
 Movie-8
+Movie name: Master
+Category: Bangla Dubbed
+Year: 2026
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Master-2026.webp
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Master%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv
+
+================================================================================
+
+Movie-9
+Show name: The Secret Of The Shiledars
+Category: Bangla Dubbed
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/toe159W0ykkX6m9h3RSRBZv46ZA.jpg
+
+Season: S01
+
+Episode: N/A
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20of%20the%20Shiledars%20%282025%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-10
+Movie name: Motu Patlu Ka Goa Dhamaal
+Category: Bangla Dubbed
+Year: 2025
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-Ka-Goa-Dhamaal-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Ka%20Goa%20Dhamaal%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-11
+Movie name: Motu Patlu & The Madness Of Multiverse
+Category: Bangla Dubbed
+Year: 2025
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Madness-Of-Multiverse-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-12
+Movie name: Motu Patlu & The Case Of Project X
+Category: Bangla Dubbed
+Year: 2025
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Case-Of-Project-X-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Case%20Of%20Project%20X%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-13
+Movie name: Chikoo Aur Bunty Siblings Not Allowed
+Category: Bangla Dubbed
+Year: 2025
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Chikoo-aur-Bunty-Siblings-Not-allowed-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20aur%20Bunty%20Siblings%20Not%20allowed%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-14
+Movie name: Motu Patlu & The Mighty Magnathor
+Category: Bangla Dubbed
+Year: 2025
+Poster: https://m.media-amazon.com/images/M/MV5BZmVkMTMxYWUtNDZiYy00N2RhLTk1YzEtMWJmZDRmODQ2YWE4XkEyXkFqcGc@._V1_SX600.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-15
+Movie name: Motu Patlu Vs The Ghost House
+Category: Bangla Dubbed
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nefQSoki5Kshg1lvMSuVgy8aj5X.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Vs%20The%20Ghost%20House%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-16
 Movie name: Aliya Basu Gayab Hai
 Category: Bangla Dubbed
 Year: 2024
@@ -147,7 +238,18 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-17
+Movie name: Voyal
+Category: Bangla Dubbed
+Year: 2024
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrSmtd9e5PUv7FllnU17txSaDGE.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Voyal%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+
+================================================================================
+
+Movie-18
 Show name: Ayali
 Category: Bangla Dubbed
 Year: 2023
@@ -158,6 +260,17 @@ Season: S01
 Episode: N/A
   Resolution-1: HD 1080P
   Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Ayali%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-19
+Movie name: Shiva The Tiny Men From Mountain
+Category: Bangla Dubbed
+Year: 2019
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Shiva-The-Tiny-Men-From-Mountain-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
 
 ================================================================================
 
