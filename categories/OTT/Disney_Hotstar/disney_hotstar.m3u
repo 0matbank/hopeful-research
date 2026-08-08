@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: Disney Hotstar
-#EXT-X-TOTAL-ITEMS: 10
-#EXT-X-UPDATED: 2026-08-05 | 16:09:16 (UTC)
+#EXT-X-TOTAL-ITEMS: 18
+#EXT-X-UPDATED: 2026-08-08 | 13:39:24 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="Disney Hotstar", Beast (2026) - HEVC 1080P
@@ -176,9 +176,53 @@ https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Perfect%
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg" group-title="Disney Hotstar - Perfect Crown", Perfect Crown - S01Episode 09-12 - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg" group-title="Disney Hotstar", Chinna Chinna Aasai (2026) - HEVC 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg" group-title="Disney Hotstar", Chinna Chinna Aasai (2026) - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg" group-title="Disney Hotstar", Chinna Chinna Aasai (2026) - HD 1080P
+https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg" group-title="Disney Hotstar", Pompeii: Out Of Time With Tom Hiddleston (2026) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Pompeii%20Out%20of%20Time%20with%20Tom%20Hiddleston%20%282026%29%20S01%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg" group-title="Disney Hotstar", Maa Inti Bangaram (2026) - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20WEB-DL%20%5BTelugu%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 01 - HD 1080P
+https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 02 - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 03 - HD 1080P
+https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E03%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 04 - HD 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 05 - HD 1080P
+https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 06 - HD 1080P
+https://3859a1741e502aa2fdfc59293a117e53.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 07 - HD 1080P
+https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E07%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 08 - HD 1080P
+https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E08%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg" group-title="Disney Hotstar - Dutton Ranch", Dutton Ranch - S01Episode 09 - HD 1080P
+https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E09%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg" group-title="Disney Hotstar", Mollywood Times (2026) - HEVC 1080P
+https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg" group-title="Disney Hotstar", Mollywood Times (2026) - HD 1080P
+https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg" group-title="Disney Hotstar", Mollywood Times (2026) - HD 1080P
+https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC0MtWrnC0SZICFHazagIfVKy0x.jpg" group-title="Disney Hotstar", Pritam And Pedro (2026) - HD 1080P
+https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Pritam%20And%20Pedro%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg" group-title="Disney Hotstar", Tavvai (2026) - HEVC 1080P
+https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg" group-title="Disney Hotstar", Tavvai (2026) - HD 1080P
+https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbFg7Ve5BYLPxtEXW9dn4pHPLdx.jpg" group-title="Disney Hotstar - Dear X", Dear X - S01Episode 01-04 - HD 1080P
 https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbFg7Ve5BYLPxtEXW9dn4pHPLdx.jpg" group-title="Disney Hotstar - Dear X", Dear X - S01Episode 05-08 - HD 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbFg7Ve5BYLPxtEXW9dn4pHPLdx.jpg" group-title="Disney Hotstar - Dear X", Dear X - S01Episode 09-12 - HD 1080P
 https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg" group-title="Disney Hotstar - A Shop For Killers", A Shop For Killers - S01Episode 01-04 - HD 1080P
+https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E01-04%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg" group-title="Disney Hotstar - A Shop For Killers", A Shop For Killers - S01Episode 05-08 - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
