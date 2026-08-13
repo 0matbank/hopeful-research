@@ -191,7 +191,7 @@ def clean_title_for_tmdb(name):
     return clean
 
 # ==============================================================================
-# ⚡ রিয়েল ওয়াচ লিঙ্ক প্রটেক্টেড হেলথ চেক (Cloudflare R2 ও Storage কখনো ডেড দেখাবে না)
+# ⚡ রিয়েল ওয়াচ লিঙ্ক প্রটেক্টেড হেলথ চেক
 # ==============================================================================
 def is_stream_link_dead_sync(stream_url):
     if not stream_url or stream_url in ["N/A", ""]:
@@ -199,7 +199,6 @@ def is_stream_link_dead_sync(stream_url):
     
     clean_url = stream_url.strip()
 
-    # রিয়েল স্ট্রিমিং ও ক্লাউডফ্লেয়ার সিডিএন লিঙ্কগুলো অলওয়েজ ভ্যালিড এবং লাইভ হিসেবে গণ্য হবে
     if any(cdn in clean_url for cdn in ["r2.dev", "cloudflarestorage.com", "r2.cloudflarestorage", "pub-"]):
         return False
 
@@ -567,7 +566,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 let matches = [];
                 let seenUrls = new Set();
 
-                # ১. যদি পেজে .ep-card (সিরিজ পেজ) থাকে, তবে কার্ড বাই কার্ড আলাদা স্ক্যান
+                // ১. যদি পেজে .ep-card (সিরিজ পেজ) থাকে, তবে কার্ড বাই কার্ড আলাদা স্ক্যান
                 let epCards = Array.from(document.querySelectorAll('.ep-card'));
                 if (epCards.length > 0) {
                     epCards.forEach(card => {
@@ -581,7 +580,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                             let parentBox = a.closest('.download-links, .watch-links, .quality-box, .dlbtn-container');
                             let parentClass = parentBox ? parentBox.className.toLowerCase() : '';
 
-                            # ❌ Download বাটন সম্পূর্ণ বাদ দেওয়া
+                            // ❌ Download বাটন সম্পূর্ণ বাদ দেওয়া
                             if (txt.includes('download') && !txt.includes('watch')) return;
                             if (parentClass.includes('download-links')) return;
 
@@ -606,7 +605,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                         });
                     });
                 } else {
-                    # ২. সাধারণ সিঙ্গেল মুভি পেজ স্ক্যান
+                    // ২. সাধারণ সিঙ্গেল মুভি পেজ স্ক্যান
                     let headers = Array.from(document.querySelectorAll('h1, h2, h3, h4, h5, .movie-title'));
                     headers.forEach(h => {
                         let hText = (h.innerText || '').toLowerCase();
