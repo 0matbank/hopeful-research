@@ -601,7 +601,6 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             }}
         """)
 
-        # 🎯 বাটন এক্সট্র্যাক্টর
         target_buttons = await page.evaluate(r"""
             () => {
                 let matches = [];
@@ -796,6 +795,7 @@ async def main():
     target_category_name = None
     is_auto_mode = False
     is_repair_mode = False
+    force_ignore_cooldown = False
 
     # ১. মোড ডিটেকশন ও ক্যাটাগরি রেজোলিউশন
     if SCAN_MODE in ["AUTO", "ALL"]:
@@ -821,17 +821,16 @@ async def main():
 
     elif SCAN_MODE in ["REPAIR_SPECIFIC", "REPAIR", "REPAIR_LINKS"]:
         is_repair_mode = True
-        # যদি স্পেসিফিক ক্যাটাগরি দেওয়া থাকে
+        force_ignore_cooldown = True  # <--- ম্যানুয়াল রিপেয়ারের ক্ষেত্রে ২৪ ঘণ্টা স্কিপ নিয়ম বাতিল
         matched_cat = None
         for cat_name in CATEGORIES_LIST:
             if cat_name.lower().replace(" ", "").replace("-", "") == REPAIR_CATEGORY.lower().replace(" ", "").replace("-", ""):
                 matched_cat = cat_name
                 break
         target_category_name = matched_cat if matched_cat else CATEGORIES_LIST[0]
-        print(f"🛠️ [REPAIR SPECIFIC] Repairing Specified Category: '{target_category_name}'", flush=True)
+        print(f"🛠️ [REPAIR SPECIFIC] Repairing Specified Category: '{target_category_name}' (Cooldown Bypassed)", flush=True)
 
     else:
-        # ম্যানুয়াল নরমাল স্ক্যান মোড
         for cat_name in CATEGORIES_LIST:
             if cat_name.lower().replace(" ", "").replace("-", "") == SCAN_MODE.lower().replace(" ", "").replace("-", ""):
                 target_category_name = cat_name
@@ -850,7 +849,6 @@ async def main():
 
     os.makedirs(cat_dir, exist_ok=True)
 
-    # 📝 ১. আগের ফাইল ও হিস্টরি লোড
     existing_movies = parse_existing_output_file(output_filename)
     existing_map = {m["name"].lower(): m for m in existing_movies}
     print(f"📂 Loaded {len(existing_movies)} existing movie/series record(s).", flush=True)
@@ -883,9 +881,9 @@ async def main():
         for m in existing_movies:
             movie_key = m["name"].lower()
             
-            # ২৪ ঘণ্টার ফেইল্ড রিপেয়ার কুলডাউন চেক
+            # ২৪ ঘণ্টার ফেইল্ড রিপেয়ার কুলডাউন চেক (ম্যানুয়াল মোড হলে এটা ইগনোর করবে)
             last_failed_time = failed_repairs.get(movie_key, 0)
-            if (current_time_sec - last_failed_time) < 86400:
+            if not force_ignore_cooldown and (current_time_sec - last_failed_time) < 86400:
                 continue
 
             valid_res_list = []
@@ -922,7 +920,6 @@ async def main():
             candidate_new_links = []
             candidate_series_links = []
 
-            # রিপেয়ার মোড না হলে নতুন পোস্ট স্ক্যান করবে
             if not is_repair_mode:
                 page_main = await browser.new_page()
 
@@ -1057,7 +1054,7 @@ async def main():
                                 if key_name in failed_repairs:
                                     del failed_repairs[key_name]
                             else:
-                                failed_repairs[movie_url] = time.time()
+                                failed_repairs[key_name] = time.time()
                         else:
                             poster_url = web_poster if web_poster != "N/A" else "N/A"
                             if poster_url == "N/A":
@@ -1095,7 +1092,7 @@ async def main():
                     if repaired_poster != "N/A":
                         m["poster"] = repaired_poster
 
-            # 🎯 ৬. সাল অনুযায়ী সাজানো (Descending)
+            # 🎯 ৬. সাল অনুযায়ী সাজানো
             def get_sort_year(m):
                 y = m.get("year", "0")
                 return int(y) if str(y).isdigit() else 0
@@ -1226,7 +1223,7 @@ async def main():
         finally:
             await browser.close()
 
-    # ৩. ট্র্যাকার স্টেট আপডেট (AUTO বা REPAIR_AUTO দুটোতেই রোটেশন আপডেট হবে)
+    # ৩. ট্র্যাকার আপডেট
     if is_auto_mode or SCAN_MODE in ["REPAIR_AUTO", "REPAIR_ROTATION"]:
         if run_count >= 3 or is_repair_mode:
             next_index = (cat_index + 1) % len(CATEGORIES_LIST)
