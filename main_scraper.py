@@ -797,7 +797,6 @@ async def main():
     is_repair_mode = False
     force_ignore_cooldown = False
 
-    # ১. মোড ডিটেকশন ও ক্যাটাগরি রেজোলিউশন
     if SCAN_MODE in ["AUTO", "ALL"]:
         is_auto_mode = True
         if cat_index >= len(CATEGORIES_LIST):
@@ -821,7 +820,7 @@ async def main():
 
     elif SCAN_MODE in ["REPAIR_SPECIFIC", "REPAIR", "REPAIR_LINKS"]:
         is_repair_mode = True
-        force_ignore_cooldown = True  # <--- ম্যানুয়াল রিপেয়ারের ক্ষেত্রে ২৪ ঘণ্টা স্কিপ নিয়ম বাতিল
+        force_ignore_cooldown = True
         matched_cat = None
         for cat_name in CATEGORIES_LIST:
             if cat_name.lower().replace(" ", "").replace("-", "") == REPAIR_CATEGORY.lower().replace(" ", "").replace("-", ""):
@@ -863,14 +862,28 @@ async def main():
                     scraped_history.add(l_str.rstrip('/'))
                     history_urls_list.append(l_str)
 
-    def get_exact_history_url_for_movie(movie_name):
+    # 🛠️ শক্তিশালী স্মার্ট ইউআরএল জেনারেটর ও হিস্টরি মেকার (ফেল করবে না)
+    def get_exact_history_url_for_movie(m):
+        movie_name = m["name"]
         clean_m = re.sub(r'[^a-z0-9]+', '', movie_name.lower())
+        
+        # ১. আগে history.txt ফাইলে মিলছে কি না দেখা
         for h_url in reversed(history_urls_list):
             h_slug = h_url.rstrip('/').split('/')[-1]
             clean_h = re.sub(r'[^a-z0-9]+', '', h_slug)
             if clean_m in clean_h or clean_h in clean_m:
                 return h_url if h_url.endswith('/') else f"{h_url}/"
-        return None
+                
+        # ২. ফলব্যাক: হিস্টরিতে না থাকলে নাম ও সাল দিয়ে সরাসরি সঠিক পোস্ট ইউআরএল বানিয়ে নেওয়া
+        slug = re.sub(r'[^a-z0-9]+', '-', movie_name.lower()).strip('-')
+        year = m.get("year", "N/A")
+        is_series = any(item.get('season') != "N/A" or item.get('episode') != "N/A" for item in m.get('res_list', []))
+        suffix = "full-series-download" if is_series else "full-movie-download"
+        
+        if year and str(year).isdigit() and year != "N/A":
+            return f"{MAIN_SITE_URL}{slug}-{year}-{suffix}/"
+        else:
+            return f"{MAIN_SITE_URL}{slug}-{suffix}/"
 
     # ⚡ ২. কুইক এইচটিটিপি হেলথ চেক
     repair_candidate_urls = []
@@ -881,7 +894,6 @@ async def main():
         for m in existing_movies:
             movie_key = m["name"].lower()
             
-            # ২৪ ঘণ্টার ফেইল্ড রিপেয়ার কুলডাউন চেক (ম্যানুয়াল মোড হলে এটা ইগনোর করবে)
             last_failed_time = failed_repairs.get(movie_key, 0)
             if not force_ignore_cooldown and (current_time_sec - last_failed_time) < 86400:
                 continue
@@ -899,9 +911,10 @@ async def main():
             m["res_list"] = valid_res_list
 
             if has_dead_link:
-                matched_exact_url = get_exact_history_url_for_movie(m["name"])
-                if matched_exact_url and matched_exact_url not in repair_candidate_urls:
-                    repair_candidate_urls.append(matched_exact_url)
+                generated_url = get_exact_history_url_for_movie(m)
+                if generated_url and generated_url not in repair_candidate_urls:
+                    repair_candidate_urls.append(generated_url)
+                    print(f"  🔗 Repair URL Queued: {generated_url}")
 
     sem = asyncio.Semaphore(3)
 
