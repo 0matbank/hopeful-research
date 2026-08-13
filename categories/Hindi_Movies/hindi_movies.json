@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Hindi Movies",
     "total_movies": 40,
-    "last_updated": "2026-08-13 | 19:49:21 (UTC)",
+    "last_updated": "2026-08-13 | 19:54:46 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -294,7 +294,7 @@
       "name": "Baby Do Die Do",
       "category": "Hindi Movies",
       "year": "2026",
-      "poster": "N/A",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjQwMDg0NzctMTA4Zi00YzJhLTlmYTQtYmQ2MDI3YTM5NTg0XkEyXkFqcGc@._V1_SX250.jpg",
       "res_list": [
         {
           "resolution": "HD 1080P",
