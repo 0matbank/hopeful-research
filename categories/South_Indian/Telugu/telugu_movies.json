@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Telugu Movies",
     "total_movies": 28,
-    "last_updated": "2026-08-07 | 07:01:49 (UTC)",
+    "last_updated": "2026-08-13 | 20:00:36 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -273,32 +273,14 @@
       "category": "Telugu Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q76fBsZBiHrWqPdRyqszLXJc0SK.jpg",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://f250648736d344fc4924aea0a667a91c.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Mareechika%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://f250648736d344fc4924aea0a667a91c.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Mareechika%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
+      "res_list": []
     },
     {
       "name": "M4M",
       "category": "Telugu Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://b0c74b7c4350d85a94270de626d5affc.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20M4M%20Motive%20for%20Murder%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://a775d5553cda320d7f593d6b8f6acb1d.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20M4M%20Motive%20for%20Murder%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
+      "res_list": []
     },
     {
       "name": "Ugly Story",
@@ -437,16 +419,7 @@
       "category": "Telugu Movies",
       "year": "2022",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUSvQSpR2TXsRbBX2b9Bhwh3jl9.jpg",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://b0c74b7c4350d85a94270de626d5affc.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://f250648736d344fc4924aea0a667a91c.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
+      "res_list": []
     },
     {
       "name": "Tuck Jagadish",

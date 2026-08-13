@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
 TOTAL MOVIES: 28
-LAST UPDATED: 2026-08-07 | 07:01:49 (UTC)
+LAST UPDATED: 2026-08-13 | 20:00:36 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -229,12 +229,6 @@ Category: Telugu Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/q76fBsZBiHrWqPdRyqszLXJc0SK.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://f250648736d344fc4924aea0a667a91c.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Mareechika%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://f250648736d344fc4924aea0a667a91c.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Mareechika%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
 ================================================================================
 
 Movie-13
@@ -242,12 +236,6 @@ Movie name: M4M
 Category: Telugu Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://b0c74b7c4350d85a94270de626d5affc.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20M4M%20Motive%20for%20Murder%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://a775d5553cda320d7f593d6b8f6acb1d.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20M4M%20Motive%20for%20Murder%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -371,12 +359,6 @@ Movie name: Hero
 Category: Telugu Movies
 Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUSvQSpR2TXsRbBX2b9Bhwh3jl9.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://b0c74b7c4350d85a94270de626d5affc.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://f250648736d344fc4924aea0a667a91c.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
