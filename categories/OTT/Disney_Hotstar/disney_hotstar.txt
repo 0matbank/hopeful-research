@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
 TOTAL MOVIES: 26
-LAST UPDATED: 2026-08-13 | 06:24:08 (UTC)
+LAST UPDATED: 2026-08-13 | 20:27:50 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -139,8 +139,6 @@ Season: S02
 Episode: Episode 01-04
   Resolution-1: HD 1080P
   Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-  Resolution-2: HD 1080P
-  Link-2: https://b0c74b7c4350d85a94270de626d5affc.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Episode: Episode 05-08
   Resolution-1: HD 1080P
@@ -211,8 +209,6 @@ Episode: Episode 13-16
 Episode: Episode 17-20
   Resolution-1: HD 1080P
   Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-  Resolution-2: HD 1080P
-  Link-2: https://3859a1741e502aa2fdfc59293a117e53.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Episode: Episode 21-24
   Resolution-1: HD 1080P
@@ -257,8 +253,6 @@ Episode: Episode 49-52
 Episode: Episode 53-56
   Resolution-1: HD 1080P
   Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-  Resolution-2: HD 1080P
-  Link-2: https://3859a1741e502aa2fdfc59293a117e53.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Episode: Episode 57-60
   Resolution-1: HD 1080P
@@ -327,8 +321,6 @@ Episode: Episode 05-08
 Episode: Episode 09-12
   Resolution-1: HD 1080P
   Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
-  Resolution-2: HD 1080P
-  Link-2: https://71b3b9eed15bc22a10a98b929fc2c988.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
 
 Episode: Episode 13-16
   Resolution-1: HD 1080P
@@ -463,8 +455,6 @@ Episode: Episode 05-08
 Episode: Episode 09-12
   Resolution-1: HD 1080P
   Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-  Resolution-2: HD 1080P
-  Link-2: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Episode: Episode 13-16
   Resolution-1: HD 1080P
@@ -481,8 +471,6 @@ Episode: Episode 21-24
 Episode: Episode 25-28
   Resolution-1: HD 1080P
   Link-1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-  Resolution-2: HD 1080P
-  Link-2: https://a775d5553cda320d7f593d6b8f6acb1d.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Episode: Episode 29-32
   Resolution-1: HD 1080P
@@ -624,10 +612,6 @@ Episode: Episode 05
   Resolution-1: HD 1080P
   Link-1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
 
-Episode: Episode 06
-  Resolution-1: HD 1080P
-  Link-1: https://3859a1741e502aa2fdfc59293a117e53.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
-
 Episode: Episode 07
   Resolution-1: HD 1080P
   Link-1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E07%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
@@ -697,11 +681,9 @@ Season: S01
 
 Episode: N/A
   Resolution-1: HD 1080P
-  Link-1: https://71b3b9eed15bc22a10a98b929fc2c988.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Save%20the%20Tigers%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
   Resolution-2: HD 1080P
-  Link-2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
-  Resolution-3: HD 1080P
-  Link-3: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282024%29%20S02%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-2: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282024%29%20S02%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -711,14 +693,8 @@ Category: Disney Hotstar
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JqWaizfeplMDEZGuJAZZUO4Xtp.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://3859a1741e502aa2fdfc59293a117e53.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://b0c74b7c4350d85a94270de626d5affc.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://b0c74b7c4350d85a94270de626d5affc.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: 4K 2160P HEVC
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -855,8 +831,6 @@ Episode: Episode 01-04
 Episode: Episode 05-08
   Resolution-1: HD 1080P
   Link-1: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
-  Resolution-2: HD 1080P
-  Link-2: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E05-08%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
 
 Episode: Episode 09-12
   Resolution-1: HD 1080P
