@@ -1,144 +1,11 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 69,
-    "last_updated": "2026-08-13 | 18:00:16 (UTC)",
+    "total_movies": 38,
+    "last_updated": "2026-08-13 | 18:25:08 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
-    {
-      "name": "Rockstar",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGE2NDk5ODQtZWU2Ny00NmFhLTg2YWItMGQzZTVlOTNiZGJjXkEyXkFqcGc@._V1_QL75_UY562_CR550,0,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Abar Hawa Bodol",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzJkYmEzOTctZjUzMi00MjNjLTg1ZDAtOGJiYTNiN2RlMzdiXkEyXkFqcGc@._V1_QL75_UY562_CR91,0,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Saptadingar Guptodhon",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYmNlZTIyYTMtODQ5OC00Mjc5LThmNWUtNWQ2NWZlNDkwNGFjXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Phutaniganjer Mahesh",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://images.metahub.space/poster/small/tt33412884/img",
-      "res_list": []
-    },
-    {
-      "name": "Nari Choritro Bejay Jotil",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODRiMTM0N2YtNDViNS00OGU3LWE0M2EtOGZkOWM1YTU4Yzc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Roid",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNWQ2ODZlNDMtMGJkMS00ZmI4LTlkYTAtMTMyYmMyNTA3NTBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Lifeline",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTIxYzJhNTQtZjEzMi00MjIyLTliMzktMzNjNTFmM2JjOTdiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Bibi Payra",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjI2MjZjNDUtNDBlOS00MmZiLWJlZDktMDk5ODQxZGU5OTc2XkEyXkFqcGc@._V1_SX250.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Sarder Barir Khela",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODA5MWY3MzQtNzc2NS00MDljLThiYTAtMGM3MzQ3NGI3ODI4XkEyXkFqcGc@._V1_SX250.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Sarar Shongshar",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "N/A",
-      "res_list": []
-    },
-    {
-      "name": "Bonolota Express",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_SX300.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Prince: Once Upon A Time In Dhaka",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTYwMGE3MmItOTY2Ni00MTBlLWI5MzEtYjliM2ZjYTAyMTEwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Rakkhosh",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Domm",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDY5MTJmNDEtMjM5Zi00NmEwLWI5YjgtMzc2MmRhYTYyMDRmXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Oru Durooha Saahacharyathil",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDE2ZDE0ZjktMGJmYi00YTY5LWEzNGMtODc2YTgyMjBmMTZhXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Sulabh Complex",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://images.metahub.space/poster/small/tt0856797/img",
-      "res_list": []
-    },
-    {
-      "name": "Pother Pechal",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "N/A",
-      "res_list": []
-    },
-    {
-      "name": "Proshnouttor",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "N/A",
-      "res_list": []
-    },
-    {
-      "name": "Sakkhi",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTMyMDM1ZjMtZjIyZS00MGMwLThiOTItZDk0MWE4MzNlZjExXkEyXkFqcGc@._V1_SX250.jpg",
-      "res_list": []
-    },
     {
       "name": "Utsaber Ratri",
       "category": "Bangla Movies",
@@ -214,6 +81,36 @@
           "episode": "Episode 04",
           "resolution": "HD 1080P",
           "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E04%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 01-07",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01-07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 02",
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E02%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 05",
+          "resolution": "HD 1080P",
+          "link": "https://3859a1741e502aa2fdfc59293a117e53.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Chokro%20%5BS02E05%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 06",
+          "resolution": "HD 1080P",
+          "link": "https://7af295b604ab51f8d8eb38819a2104c6.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Chokro%20%5BS02E06%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 07",
+          "resolution": "HD 1080P",
+          "link": "https://a775d5553cda320d7f593d6b8f6acb1d.r2.cloudflarestorage.com/neodrive/CINEFREAK.TOP%20-%20Chokro%20%5BS02E07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
         }
       ]
     },
@@ -240,13 +137,6 @@
           "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Love%20Sitter%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
         }
       ]
-    },
-    {
-      "name": "Download Ekshathe Alada",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8yTY1o45qdQWZoKofRBTfCyb3o.jpg",
-      "res_list": []
     },
     {
       "name": "Rongin Shurma",
@@ -343,13 +233,6 @@
           "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Tobuo%20Bhalobashi%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
-    },
-    {
-      "name": "Dhumketu",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzJkYzRhNWQtM2I3Mi00YWVhLWE4MDktNGYwMzdlMWE3NWE5XkEyXkFqcGdeQXVyNzg5NTU2MzQ@._V1_SX300.jpg",
-      "res_list": []
     },
     {
       "name": "Bhaggyo Lokkhi",
@@ -476,20 +359,6 @@
       ]
     },
     {
-      "name": "Moyurakkhi",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjg0ZjlhY2MtY2E2Mi00MWI4LTlhNmQtODRmYmQzODgxYjFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Aliya Basu Gayab Hai",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGRlZmVlOGEtNjhhMi00YzhkLTk5NzYtOTAwZGMwZjVmNGY3XkEyXkFqcGc@._V1_SX250.jpg",
-      "res_list": []
-    },
-    {
       "name": "Blind",
       "category": "Bangla Movies",
       "year": "2023",
@@ -500,13 +369,6 @@
           "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
         }
       ]
-    },
-    {
-      "name": "Unish20",
-      "category": "Bangla Movies",
-      "year": "2023",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNDJjNjZlZWEtYzYzZC00NThiLWI5MjgtNmNiYmM2YjYzZGQ2XkEyXkFqcGc@._V1_SX250.jpg",
-      "res_list": []
     },
     {
       "name": "Bloody Daddy",
@@ -531,13 +393,6 @@
           "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
-    },
-    {
-      "name": "Abar Bochhor Koori Pore",
-      "category": "Bangla Movies",
-      "year": "2022",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYmQ5OGNiNTUtYTI0Yy00MTM0LThmOTctMTc2Mzc1MjMxNzFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "res_list": []
     },
     {
       "name": "Bhediya",
@@ -600,20 +455,6 @@
       ]
     },
     {
-      "name": "[18+] Vrindavani Vairagya",
-      "category": "Bangla Movies",
-      "year": "2018",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTc2ZDY3ZmItMWM1ZC00NWM3LTkyNWItMTAyNTBhODIwMTE3XkEyXkFqcGc@._V1_SX250.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Download Aami Ashbo Phirey",
-      "category": "Bangla Movies",
-      "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10rpTbaWkLyrieHpvMeEHN7BJCR.jpg",
-      "res_list": []
-    },
-    {
       "name": "Fidaa",
       "category": "Bangla Movies",
       "year": "2018",
@@ -662,20 +503,6 @@
       ]
     },
     {
-      "name": "The Amazing Spider-Man 2",
-      "category": "Bangla Movies",
-      "year": "2014",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "res_list": []
-    },
-    {
-      "name": "The Amazing Spider-Man",
-      "category": "Bangla Movies",
-      "year": "2012",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "res_list": []
-    },
-    {
       "name": "Ami Subhash Bolchi",
       "category": "Bangla Movies",
       "year": "2011",
@@ -686,20 +513,6 @@
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
-    },
-    {
-      "name": "Spider-Man",
-      "category": "Bangla Movies",
-      "year": "2002",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg",
-      "res_list": []
-    },
-    {
-      "name": "Hothat Brishti",
-      "category": "Bangla Movies",
-      "year": "1998",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzA5YTJjMDItNTQ0Yy00OWEzLWJmODAtNzEzNjljMWM2NWY2XkEyXkFqcGc@._V1_SX250.jpg",
-      "res_list": []
     }
   ]
 }
