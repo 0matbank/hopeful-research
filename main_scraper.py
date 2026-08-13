@@ -767,6 +767,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 # ==============================================================================
 async def main():
     state = load_tracker_state()
+    failed_repairs = load_failed_repairs()  # <--- এখানে failed_repairs লোড করা হলো
     cat_index = state.get("current_category_index", 0)
     run_count = state.get("run_count", 1)
 
@@ -775,7 +776,7 @@ async def main():
     is_repair_mode = False
     force_ignore_cooldown = False
 
-    # 🛠️ মোড ডিটেকশন (সবার আগে চেক করবে যাতে ভুলক্রমে ম্যানুয়ালে না যায়)
+    # 🛠️ মোড ডিটেকশন
     if SCAN_MODE in ["REPAIR_AUTO", "REPAIR_ROTATION"]:
         is_repair_mode = True
         if cat_index >= len(CATEGORIES_LIST):
