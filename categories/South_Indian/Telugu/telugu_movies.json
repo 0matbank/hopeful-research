@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 28,
-    "last_updated": "2026-08-13 | 20:00:36 (UTC)",
+    "total_movies": 25,
+    "last_updated": "2026-08-13 | 20:57:03 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -269,20 +269,6 @@
       ]
     },
     {
-      "name": "Mareechika",
-      "category": "Telugu Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q76fBsZBiHrWqPdRyqszLXJc0SK.jpg",
-      "res_list": []
-    },
-    {
-      "name": "M4M",
-      "category": "Telugu Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg",
-      "res_list": []
-    },
-    {
       "name": "Ugly Story",
       "category": "Telugu Movies",
       "year": "2026",
@@ -413,13 +399,6 @@
           "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
-    },
-    {
-      "name": "Hero",
-      "category": "Telugu Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUSvQSpR2TXsRbBX2b9Bhwh3jl9.jpg",
-      "res_list": []
     },
     {
       "name": "Tuck Jagadish",
