@@ -217,7 +217,7 @@ def is_stream_link_dead_sync(stream_url):
     return True
 
 # ==============================================================================
-# 🎬 পোস্টার ফেচিং সিস্টেম (TMDB -> OMDb/IMDb -> Cinemeta Multi-Fallback)
+# 🎬 পোস্টার ফেচিং সিস্টেম
 # ==============================================================================
 def fetch_tmdb_poster_sync(movie_name, year):
     if not TMDB_API_KEY:
@@ -345,7 +345,7 @@ async def fetch_tmdb_poster(movie_name, year):
     return await asyncio.to_thread(fetch_poster_sync_combined, movie_name, year)
 
 # ==============================================================================
-# 📑 ব্যাকআপ রিডার (আগের কোনো মুভি ডিলিট হবে না)
+# 📑 ব্যাকআপ রিডার
 # ==============================================================================
 def parse_existing_output_file(file_path):
     if not os.path.exists(file_path):
@@ -424,6 +424,21 @@ def save_tracker_state(state):
     os.makedirs("history", exist_ok=True)
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
+
+def load_failed_repairs():
+    os.makedirs("history", exist_ok=True)
+    if os.path.exists(FAILED_REPAIRS_FILE):
+        try:
+            with open(FAILED_REPAIRS_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
+
+def save_failed_repairs(failed_dict):
+    os.makedirs("history", exist_ok=True)
+    with open(FAILED_REPAIRS_FILE, "w", encoding="utf-8") as f:
+        json.dump(failed_dict, f, indent=2)
 
 def detect_resolution_from_stream_url(stream_url):
     clean_path = urllib.parse.unquote(stream_url.split('?')[0]).upper()
@@ -566,7 +581,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 let matches = [];
                 let seenUrls = new Set();
 
-                // ১. যদি পেজে .ep-card (সিরিজ পেজ) থাকে, তবে কার্ড বাই কার্ড আলাদা স্ক্যান
+                // 1. যদি পেজে .ep-card (সিরিজ পেজ) থাকে, তবে কার্ড বাই কার্ড আলাদা স্ক্যান
                 let epCards = Array.from(document.querySelectorAll('.ep-card'));
                 if (epCards.length > 0) {
                     epCards.forEach(card => {
@@ -580,11 +595,11 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                             let parentBox = a.closest('.download-links, .watch-links, .quality-box, .dlbtn-container');
                             let parentClass = parentBox ? parentBox.className.toLowerCase() : '';
 
-                            // ❌ Download বাটন সম্পূর্ণ বাদ দেওয়া
+                            // Download বাটন সম্পূর্ণ বাদ দেওয়া
                             if (txt.includes('download') && !txt.includes('watch')) return;
                             if (parentClass.includes('download-links')) return;
 
-                            # ৭২০পি বা ৪৮০পি বাটন এড়িয়ে চলা
+                            // ৭২০পি বা ৪৮০পি বাটন এড়িয়ে চলা
                             if ((txt.includes('720p') || txt.includes('480p')) && !txt.includes('1080p')) return;
 
                             let isTrueWatch3Marker = false;
@@ -605,7 +620,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                         });
                     });
                 } else {
-                    // ২. সাধারণ সিঙ্গেল মুভি পেজ স্ক্যান
+                    // 2. সাধারণ সিঙ্গেল মুভি পেজ স্ক্যান
                     let headers = Array.from(document.querySelectorAll('h1, h2, h3, h4, h5, .movie-title'));
                     headers.forEach(h => {
                         let hText = (h.innerText || '').toLowerCase();
@@ -757,19 +772,42 @@ async def main():
 
     target_category_name = None
     is_auto_mode = False
+    is_repair_mode = False
+    force_ignore_cooldown = False
 
-    if SCAN_MODE in ["AUTO", "ALL"]:
+    # 🛠️ মোড ডিটেকশন (সবার আগে চেক করবে যাতে ভুলক্রমে ম্যানুয়ালে না যায়)
+    if SCAN_MODE in ["REPAIR_AUTO", "REPAIR_ROTATION"]:
+        is_repair_mode = True
+        if cat_index >= len(CATEGORIES_LIST):
+            cat_index = 0
+        target_category_name = CATEGORIES_LIST[cat_index]
+        print(f"🛠️ [REPAIR AUTO ROTATION] Repairing Category ({cat_index+1}/{len(CATEGORIES_LIST)}): '{target_category_name}'", flush=True)
+
+    elif SCAN_MODE in ["REPAIR_SPECIFIC", "REPAIR", "REPAIR_LINKS"]:
+        is_repair_mode = True
+        force_ignore_cooldown = True
+        matched_cat = None
+        for cat_name in CATEGORIES_LIST:
+            if cat_name.lower().replace(" ", "").replace("-", "") == REPAIR_CATEGORY.lower().replace(" ", "").replace("-", ""):
+                matched_cat = cat_name
+                break
+        target_category_name = matched_cat if matched_cat else CATEGORIES_LIST[0]
+        print(f"🛠️ [REPAIR SPECIFIC] Repairing Specified Category: '{target_category_name}' (Cooldown Bypassed)", flush=True)
+
+    elif SCAN_MODE in ["AUTO", "ALL"]:
         is_auto_mode = True
         if cat_index >= len(CATEGORIES_LIST):
             cat_index = 0
         target_category_name = CATEGORIES_LIST[cat_index]
         print(f"🔄 [ROTATIONAL SYSTEM] Running Active Category: '{target_category_name}' (Run {run_count}/3)", flush=True)
+
     elif SCAN_MODE == "FORCE_NEXT":
         is_auto_mode = True
         cat_index = (cat_index + 1) % len(CATEGORIES_LIST)
         run_count = 1
         target_category_name = CATEGORIES_LIST[cat_index]
         print(f"⏩ [FORCE NEXT] Switched to Next Category: '{target_category_name}' (Run 1/3)", flush=True)
+
     else:
         for cat_name in CATEGORIES_LIST:
             if cat_name.lower().replace(" ", "").replace("-", "") == SCAN_MODE.lower().replace(" ", "").replace("-", ""):
@@ -789,15 +827,66 @@ async def main():
 
     os.makedirs(cat_dir, exist_ok=True)
 
-    # 📝 ১. আগের মুভি ফাইল এবং হিস্টরি নিখুঁতভাবে লোড করা
     existing_movies = parse_existing_output_file(output_filename)
-    existing_names = {m["name"].lower() for m in existing_movies}
-    print(f"📂 Loaded {len(existing_movies)} existing movie(s) from previous scans.", flush=True)
+    existing_map = {m["name"].lower(): m for m in existing_movies}
+    print(f"📂 Loaded {len(existing_movies)} existing movie/series record(s).", flush=True)
 
+    history_urls_list = []
     scraped_history = set()
     if os.path.exists(history_filename):
         with open(history_filename, "r", encoding="utf-8") as f:
-            scraped_history = set(line.strip().rstrip('/') for line in f if line.strip())
+            for line in f:
+                l_str = line.strip()
+                if l_str:
+                    scraped_history.add(l_str.rstrip('/'))
+                    history_urls_list.append(l_str)
+
+    def get_exact_history_url_for_movie(m):
+        movie_name = m["name"]
+        clean_m = re.sub(r'[^a-z0-9]+', '', movie_name.lower())
+        for h_url in reversed(history_urls_list):
+            h_slug = h_url.rstrip('/').split('/')[-1]
+            clean_h = re.sub(r'[^a-z0-9]+', '', h_slug)
+            if clean_m in clean_h or clean_h in clean_m:
+                return h_url if h_url.endswith('/') else f"{h_url}/"
+        slug = re.sub(r'[^a-z0-9]+', '-', movie_name.lower()).strip('-')
+        year = m.get("year", "N/A")
+        is_series = any(item.get('season') != "N/A" or item.get('episode') != "N/A" for item in m.get('res_list', []))
+        suffix = "full-series-download" if is_series else "full-movie-download"
+        if year and str(year).isdigit() and year != "N/A":
+            return f"{MAIN_SITE_URL}{slug}-{year}-{suffix}/"
+        else:
+            return f"{MAIN_SITE_URL}{slug}-{suffix}/"
+
+    # ⚡ ২. কুইক এইচটিটিপি হেলথ চেক ও রিপেয়ার কিউ তৈরি
+    repair_candidate_urls = []
+    current_time_sec = time.time()
+    
+    if existing_movies:
+        print("⚡ Performing Quick HTTP Stream Health Check on existing records...", flush=True)
+        for m in existing_movies:
+            movie_key = m["name"].lower()
+            last_failed_time = failed_repairs.get(movie_key, 0)
+            if not force_ignore_cooldown and (current_time_sec - last_failed_time) < 86400:
+                continue
+
+            valid_res_list = []
+            has_dead_link = False
+            for res_item in m.get("res_list", []):
+                s_link = res_item.get("link", "")
+                if is_stream_link_dead_sync(s_link):
+                    has_dead_link = True
+                    print(f"  ❌ Dead Link Detected for: {m['name']} ({res_item.get('resolution', 'HD')})", flush=True)
+                else:
+                    valid_res_list.append(res_item)
+            
+            m["res_list"] = valid_res_list
+
+            if has_dead_link:
+                generated_url = get_exact_history_url_for_movie(m)
+                if generated_url and generated_url not in repair_candidate_urls:
+                    repair_candidate_urls.append(generated_url)
+                    print(f"  🔗 Repair URL Queued: {generated_url}")
 
     sem = asyncio.Semaphore(3)
 
@@ -813,65 +902,93 @@ async def main():
             print(f"📂 Navigating to Category: {target_category_name} ({cat_slug})", flush=True)
             print(f"==================================================", flush=True)
 
-            page_main = await browser.new_page()
+            candidate_new_links = []
+            candidate_series_links = []
 
-            async def route_interceptor(route):
-                url = route.request.url.lower()
-                if any(ad in url for ad in AD_AND_ANALYTICS_DOMAINS) or url.endswith((".png", ".jpg", ".jpeg", ".woff2")):
-                    await route.abort()
-                else:
-                    await route.continue_()
+            if not is_repair_mode:
+                page_main = await browser.new_page()
 
-            await page_main.route("**/*", route_interceptor)
+                async def route_interceptor(route):
+                    url = route.request.url.lower()
+                    if any(ad in url for ad in AD_AND_ANALYTICS_DOMAINS) or url.endswith((".png", ".jpg", ".jpeg", ".woff2")):
+                        await route.abort()
+                    else:
+                        await route.continue_()
 
-            category_url = f"{MAIN_SITE_URL}{cat_slug}/"
-            await page_main.goto(category_url, timeout=35000, wait_until="domcontentloaded")
+                await page_main.route("**/*", route_interceptor)
 
-            new_movie_urls = []
-            current_page_num = 1
-            MAX_PAGE_SAFETY_LIMIT = 5
+                category_url = f"{MAIN_SITE_URL}{cat_slug}/"
+                await page_main.goto(category_url, timeout=35000, wait_until="domcontentloaded")
 
-            # 🎯 ২. হিস্টরিতে না থাকা একদম নতুন ১০টি মুভি খুঁজে বের করা
-            while len(new_movie_urls) < TARGET_LIMIT_MOVIES and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
-                print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
+                current_page_num = 1
+                MAX_PAGE_SAFETY_LIMIT = 5
 
-                links = await page_main.evaluate("""
-                    () => {
-                        let postAnchors = Array.from(document.querySelectorAll('article a, .post-card a, .type-post a, .entry-title a, h2 a, h3 a'));
-                        return postAnchors.map(a => a.href).filter(href => href && href.startsWith('http'));
-                    }
-                """)
+                while (len(candidate_new_links) + len(candidate_series_links)) < TARGET_LIMIT_MOVIES and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
+                    print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
 
-                if not links:
-                    raw_links = await page_main.eval_on_selector_all("a", "elements => elements.map(e => e.href)")
-                    links = [l for l in raw_links if l and ("full-movie-download" in l or l.endswith("-download/"))]
+                    links = await page_main.evaluate("""
+                        () => {
+                            let postAnchors = Array.from(document.querySelectorAll('article a, .post-card a, .type-post a, .entry-title a, h2 a, h3 a'));
+                            return postAnchors.map(a => a.href).filter(href => href && href.startsWith('http'));
+                        }
+                    """)
 
-                for link in links:
-                    link_clean = link.rstrip('/')
-                    if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean or "full-series" in link_clean):
-                        if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
-                            if link_clean not in scraped_history and link_clean not in new_movie_urls and f"{link_clean}/" not in scraped_history:
-                                new_movie_urls.append(link)
-                                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
-                                    break
+                    if not links:
+                        raw_links = await page_main.eval_on_selector_all("a", "elements => elements.map(e => e.href)")
+                        links = [l for l in raw_links if l and ("full-movie-download" in l or l.endswith("-download/"))]
 
-                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
-                    break
+                    for link in links:
+                        link_clean = link.rstrip('/')
+                        if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean or "full-series" in link_clean):
+                            if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
+                                is_new = link_clean not in scraped_history and f"{link_clean}/" not in scraped_history
+                                is_series = "full-series" in link_clean or "series-download" in link_clean
 
-                current_page_num += 1
-                if current_page_num <= MAX_PAGE_SAFETY_LIMIT:
-                    try:
-                        next_page_url = f"{MAIN_SITE_URL}{cat_slug}/page/{current_page_num}/"
-                        await page_main.goto(next_page_url, timeout=25000, wait_until="domcontentloaded")
-                    except Exception:
+                                if is_new:
+                                    if link not in candidate_new_links:
+                                        candidate_new_links.append(link)
+                                elif is_series:
+                                    if link not in candidate_series_links:
+                                        candidate_series_links.append(link)
+
+                    if len(candidate_new_links) >= TARGET_LIMIT_MOVIES:
                         break
 
-            await page_main.close()
+                    current_page_num += 1
+                    if current_page_num <= MAX_PAGE_SAFETY_LIMIT:
+                        try:
+                            next_page_url = f"{MAIN_SITE_URL}{cat_slug}/page/{current_page_num}/"
+                            await page_main.goto(next_page_url, timeout=25000, wait_until="domcontentloaded")
+                        except Exception:
+                            break
 
-            # 🎯 ৩. নতুন মুভিগুলো পাওয়ার পর সেগুলোকে স্ক্র্যাপ করা
-            new_movies_list = []
+                await page_main.close()
+
+            new_movie_urls = []
+            
+            for r_url in repair_candidate_urls:
+                if r_url not in new_movie_urls:
+                    new_movie_urls.append(r_url)
+                    if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                        break
+
+            if len(new_movie_urls) < TARGET_LIMIT_MOVIES:
+                for n_url in candidate_new_links:
+                    if n_url not in new_movie_urls:
+                        new_movie_urls.append(n_url)
+                        if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                            break
+
+            if len(new_movie_urls) < TARGET_LIMIT_MOVIES:
+                for s_url in candidate_series_links:
+                    if s_url not in new_movie_urls:
+                        new_movie_urls.append(s_url)
+                        if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                            break
+
+            # 🎯 ৩. প্লে-রাইট এক্সট্রাকশন এবং অটো-মার্জিং
             if new_movie_urls:
-                print(f"🚀 Found {len(new_movie_urls)} new unique movie(s). Starting extraction...\n", flush=True)
+                print(f"🚀 Found {len(new_movie_urls)} target URL(s) to process. Starting Playwright Extraction...\n", flush=True)
                 tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                 parallel_results = await asyncio.gather(*tasks)
 
@@ -898,31 +1015,53 @@ async def main():
                                 if fn_clean:
                                     clean_name = fn_clean
 
-                        if clean_name.lower() not in existing_names:
+                        key_name = clean_name.lower()
+
+                        parsed_res_list = []
+                        for item in res_list:
+                            meta = parse_link_metadata(item['link'], item['resolution'])
+                            parsed_res_list.append(meta)
+
+                        if key_name in existing_map:
+                            old_movie = existing_map[key_name]
+                            existing_links = {item['link'] for item in old_movie.get('res_list', [])}
+                            added_count = 0
+                            
+                            for new_item in parsed_res_list:
+                                if new_item['link'] not in existing_links:
+                                    if not is_stream_link_dead_sync(new_item['link']):
+                                        old_movie['res_list'].append(new_item)
+                                        existing_links.add(new_item['link'])
+                                        added_count += 1
+
+                            if added_count > 0:
+                                print(f"🔄 [REPAIRED/UPDATED] Updated {added_count} stream link(s) for '{clean_name}'", flush=True)
+                                if key_name in failed_repairs:
+                                    del failed_repairs[key_name]
+                            else:
+                                failed_repairs[key_name] = time.time()
+                        else:
                             poster_url = web_poster if web_poster != "N/A" else "N/A"
                             if poster_url == "N/A":
                                 poster_url = await fetch_tmdb_poster(clean_name, year)
 
-                            parsed_res_list = []
-                            for item in res_list:
-                                meta = parse_link_metadata(item['link'], item['resolution'])
-                                parsed_res_list.append(meta)
-
-                            new_movies_list.append({
+                            movie_obj = {
                                 "name": clean_name,
                                 "category": categories,
                                 "year": year,
                                 "poster": poster_url,
-                                "res_list": parsed_res_list
-                            })
-                            existing_names.add(clean_name.lower())
+                                "res_list": [i for i in parsed_res_list if not is_stream_link_dead_sync(i['link'])]
+                            }
+                            existing_map[key_name] = movie_obj
             else:
-                print("ℹ️ No new movies found to scrape on category pages.", flush=True)
+                print("ℹ️ No new movies, updates, or dead links to repair.", flush=True)
 
-            # 🎯 ৪. পুরানো + নতুন সব মুভি একত্রিত করা (নো-ডিলিট লজিক)
-            all_movies = existing_movies + new_movies_list
+            save_failed_repairs(failed_repairs)
 
-            # 🎯 ৫. [POSTER & YEAR AUTO-REPAIR] পুরানো মুভির Year লিঙ্ক থেকে রিকভার ও মিসিং পোস্টার TMDB ব্যাকফিল
+            # 🎯 ৪. সম্পূর্ণ তালিকা একত্রিত করা
+            all_movies = list(existing_map.values())
+
+            # 🎯 ৫. [POSTER & YEAR AUTO-REPAIR]
             for m in all_movies:
                 if not m.get("year") or m["year"] == "N/A":
                     if m.get("res_list"):
@@ -938,7 +1077,7 @@ async def main():
                     if repaired_poster != "N/A":
                         m["poster"] = repaired_poster
 
-            # 🎯 ৬. সাল অনুযায়ী বড় থেকে ছোট (Descending - 2026, 2025, 2024...) সাজানো
+            # 🎯 ৬. সাল অনুযায়ী সাজানো
             def get_sort_year(m):
                 y = m.get("year", "0")
                 return int(y) if str(y).isdigit() else 0
@@ -948,7 +1087,7 @@ async def main():
             current_utc_time = datetime.now(timezone.utc).strftime("%Y-%m-%d | %H:%M:%S (UTC)")
             total_items_count = len(all_movies)
 
-            # 🎯 ৭. TXT ফাইল জেনারেট ও ওভাররাইট করা (১ থেকে N পারফেক্ট সিরিয়াল)
+            # 🎯 ৭. TXT ফাইল ওভাররাইট
             with open(output_filename, "w", encoding="utf-8") as f:
                 f.write("=" * 80 + "\n")
                 f.write(f"CATEGORY: {target_category_name}\n")
@@ -996,7 +1135,7 @@ async def main():
 
                     f.write("=" * 80 + "\n\n")
 
-            # 🎯 ৮. JSON ফাইল জেনারেট ও ওভাররাইট করা (সাধারণ মুভিতে season/episode বাদ দিয়ে ক্লিন JSON)
+            # 🎯 ৮. JSON ফাইল ওভাররাইট
             clean_movies_for_json = []
             for movie in all_movies:
                 m_obj = {
@@ -1034,7 +1173,7 @@ async def main():
             with open(json_filename, "w", encoding="utf-8") as jf:
                 json.dump(json_payload, jf, indent=2, ensure_ascii=False)
 
-            # 🎯 ৯. M3U ফাইল জেনারেট ও ওভাররাইট করা
+            # 🎯 ৯. M3U ফাইল ওভাররাইট
             with open(m3u_filename, "w", encoding="utf-8") as m3u:
                 m3u.write("#EXTM3U\n")
                 m3u.write(f"#EXT-X-NAME: {target_category_name}\n")
@@ -1069,12 +1208,12 @@ async def main():
         finally:
             await browser.close()
 
-    if is_auto_mode:
-        if run_count >= 3:
+    if is_auto_mode or is_repair_mode:
+        if run_count >= 3 or is_repair_mode:
             next_index = (cat_index + 1) % len(CATEGORIES_LIST)
             state["current_category_index"] = next_index
             state["run_count"] = 1
-            print(f"🔄 [STATE UPDATE] Completed 3/3 runs for '{target_category_name}'. Rotated to next category: '{CATEGORIES_LIST[next_index]}'", flush=True)
+            print(f"🔄 [STATE UPDATE] Category rotated to next: '{CATEGORIES_LIST[next_index]}'", flush=True)
         else:
             state["current_category_index"] = cat_index
             state["run_count"] = run_count + 1
