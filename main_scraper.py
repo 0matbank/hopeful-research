@@ -584,7 +584,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                             if (txt.includes('download') && !txt.includes('watch')) return;
                             if (parentClass.includes('download-links')) return;
 
-                            # ৭২০পি বা ৪৮০পি বাটন এড়িয়ে চলা
+                            // ৭২০পি বা ৪৮০পি বাটন এড়িয়ে চলা
                             if ((txt.includes('720p') || txt.includes('480p')) && !txt.includes('1080p')) return;
 
                             let isTrueWatch3Marker = false;
