@@ -1,0 +1,107 @@
+name: 🎬 Movie Scraper (With Cloudflare WARP)
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # প্রতি ৬ ঘণ্টায় একবার auto run
+  workflow_dispatch:
+    inputs:
+      scan_mode:
+        description: 'Scan Mode'
+        required: true
+        default: 'AUTO'
+        type: choice
+        options:
+          - AUTO
+          - FORCE_NEXT
+          - REPAIR_AUTO
+          - REPAIR_SPECIFIC
+      repair_category:
+        description: 'Repair Category (শুধু REPAIR_SPECIFIC-এ দরকার)'
+        required: false
+        default: 'Bangla Movies'
+        type: choice
+        options:
+          - Bangla Movies
+          - English Movies
+          - Hindi Movies
+          - Hindi Dubbed Movies
+          - Bangla Dubbed
+          - Tamil Movies
+          - Malayalam Movies
+          - Kannada Movies
+          - Telugu Movies
+          - Disney Hotstar
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # STEP 1: Repo Clone
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # STEP 2: Cloudflare WARP (GitHub IP mask → site block এড়ায়)
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 🌐 Install & Connect Cloudflare WARP
+        run: |
+          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update -qq
+          sudo apt-get install -y cloudflare-warp
+          sudo warp-cli --accept-tos register
+          sudo warp-cli --accept-tos connect
+          sleep 5
+          echo "📍 IP after WARP:"
+          curl -s https://api.ipify.org && echo ""
+          echo "✅ Cloudflare WARP Connected!"
+
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # STEP 3: Python Setup + Dependencies
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 🐍 Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 📦 Install Playwright & Dependencies
+        run: |
+          pip install -q playwright nest_asyncio
+          playwright install chromium --with-deps
+
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # STEP 4: Run Scraper
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 🎬 Run Movie Scraper
+        env:
+          MAIN_SITE_URL: ${{ secrets.MAIN_SITE_URL }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+          SCAN_MODE: ${{ github.event.inputs.scan_mode || 'AUTO' }}
+          REPAIR_CATEGORY: ${{ github.event.inputs.repair_category || 'Bangla Movies' }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          echo "=================================================="
+          echo "🎬 Running Scraper [Mode: $SCAN_MODE]"
+          echo "=================================================="
+          python -u main_scraper.py
+
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      # STEP 5: Commit & Push Results
+      # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      - name: 📤 Push Updated Data to GitHub
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add categories/ history/
+          git diff --staged --quiet || git commit -m "🤖 Auto Scrape [Mode: ${{ github.event.inputs.scan_mode || 'AUTO' }}]"
+          git push
