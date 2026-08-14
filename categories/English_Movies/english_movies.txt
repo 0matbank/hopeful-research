@@ -1,13 +1,135 @@
 ================================================================================
 CATEGORY: English Movies
-TOTAL MOVIES: 37
-LAST UPDATED: 2026-08-14 | 08:58:50 (UTC)
+TOTAL MOVIES: 10
+LAST UPDATED: 2026-08-14 | 15:39:24 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Show name: [18+] Soulm8te
+Movie name: Night Nurse
 Category: English Movies
 Year: 2026
-Poster: https://m.media-amazon.com/images/M/MV5BNmY1NmU5NjMtYjU2YS00YjI5LWExNDItNDA3N2M5YWJiZDhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Night%20Nurse%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-2
+Movie name: Young Washington
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Young%20Washington%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-3
+Movie name: Our Hero, Balthazar
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxVTarvl5OLoU9YWIYygby6R0KI.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Our%20Hero%20Balthazar%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-4
+Movie name: In The Grey
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-5
+Movie name: Stand Your Ground
+Category: English Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-6
+Movie name: Barbarian
+Category: English Movies
+Year: 2022
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Barbarian%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-7
+Movie name: Gold
+Category: English Movies
+Year: 2022
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu8IwL6q8y7Mi016Uios7LXz0hc.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-8
+Movie name: Wind Walkers
+Category: English Movies
+Year: 2015
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G8rw9hY9fvqCtFf1jUzww189yO.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Wind%20Walkers%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-9
+Movie name: Oculus
+Category: English Movies
+Year: 2014
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-10
+Movie name: Higher Learning
+Category: English Movies
+Year: 1995
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuud1Blsdwo1KQRdz5UVwjlLAWQ.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
 
