@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
-TOTAL MOVIES: 21
-LAST UPDATED: 2026-08-13 | 20:56:58 (UTC)
+TOTAL MOVIES: 24
+LAST UPDATED: 2026-08-15 | 13:44:17 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -76,6 +76,17 @@ STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-6
+Movie name: Moda Kavida Vaatavarana
+Category: Kannada Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-7
 Movie name: Royal
 Category: Kannada Movies
 Year: 2025
@@ -92,7 +103,7 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
+Movie-8
 Movie name: Mark
 Category: Kannada Movies
 Year: 2025
@@ -109,7 +120,7 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-9
 Movie name: Agnyathavasi
 Category: Kannada Movies
 Year: 2025
@@ -120,7 +131,7 @@ STREAM Link 1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-10
 Movie name: Usiru
 Category: Kannada Movies
 Year: 2025
@@ -131,7 +142,7 @@ STREAM Link 1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-11
 Movie name: Maadeva
 Category: Kannada Movies
 Year: 2025
@@ -142,7 +153,7 @@ STREAM Link 1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
+Movie-12
 Movie name: I Am God
 Category: Kannada Movies
 Year: 2025
@@ -159,7 +170,7 @@ STREAM Link 3: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-12
+Movie-13
 Movie name: GST
 Category: Kannada Movies
 Year: 2025
@@ -170,7 +181,7 @@ STREAM Link 1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-14
 Movie name: Love U Muddu
 Category: Kannada Movies
 Year: 2025
@@ -181,7 +192,7 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-15
 Movie name: Vritta
 Category: Kannada Movies
 Year: 2025
@@ -192,7 +203,35 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-15
+Movie-16
+Movie name: 45
+Category: Kannada Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+
+RESOLUTION 2: 4K 2160P HEVC
+STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-17
+Movie name: The Devil
+Category: Kannada Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUXN4dgmelSEa7VRqcpIhngGCu.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-18
 Movie name: Chef Chidambara
 Category: Kannada Movies
 Year: 2024
@@ -203,7 +242,7 @@ STREAM Link 1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-19
 Movie name: Bhairathi Ranagal
 Category: Kannada Movies
 Year: 2024
@@ -220,7 +259,7 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-20
 Movie name: Gurudev Hoysala
 Category: Kannada Movies
 Year: 2023
@@ -231,7 +270,7 @@ STREAM Link 1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-21
 Movie name: Love Mocktail 2
 Category: Kannada Movies
 Year: 2022
@@ -248,7 +287,7 @@ STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-22
 Movie name: Pogaru
 Category: Kannada Movies
 Year: 2021
@@ -259,7 +298,7 @@ STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-23
 Movie name: Hero
 Category: Kannada Movies
 Year: 2021
@@ -270,7 +309,7 @@ STREAM Link 1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
+Movie-24
 Movie name: Aa Karaala Ratri
 Category: Kannada Movies
 Year: 2018
