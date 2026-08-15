@@ -1,0 +1,860 @@
+================================================================================
+CATEGORY: Disney Hotstar
+TOTAL MOVIES: 26
+LAST UPDATED: 2026-08-13 | 20:58:20 (UTC)
+NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
+================================================================================
+
+Movie-1
+Movie name: Beast
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Beast%20%282026%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Beast%20%282026%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Beast%20%282026%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-2
+Movie name: Uyir
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-3
+Show name: House Of The Dragon
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg
+
+Season: S03
+
+Episode: Episode 01
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E01%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-4: 4K 2160P HEVC
+  Link-4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E01%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+Episode: Episode 02
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E02%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-4: 4K 2160P HEVC
+  Link-4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E02%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+Episode: Episode 03
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E03%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E03%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E03%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-4: 4K 2160P HEVC
+  Link-4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E03%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+Episode: Episode 04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E04%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-4: 4K 2160P HEVC
+  Link-4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E04%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+Episode: Episode 05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E05%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-4: 4K 2160P HEVC
+  Link-4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E05%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+Episode: Episode 06
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E06%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-4: 4K 2160P HEVC
+  Link-4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E06%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+Episode: Episode 07
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E07%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-4: 4K 2160P HEVC
+  Link-4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E07%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+Episode: Episode 08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E08%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E08%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-4
+Show name: Thukra Ke Mera Pyaar
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnWyFmAGQaUdi1kISvXqy20HHoR.jpg
+
+Season: S02
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E09-12%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E09-12%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Episode: Episode 13-16
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E13-16%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Episode: Episode 17-20
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E17-20%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E17-20%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Episode: Episode 21-25
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E21-25%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E21-25%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Episode: Episode 26-29
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Episode: Episode 30-33
+  Resolution-1: HD 1080P
+  Link-1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E30-33%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-5
+Show name: Resort
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL7iOwqapRRb7eKKlXI4FDaP6rh.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 13-16
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 17-20
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 21-24
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 25-28
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 29-32
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 33-36
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 37-40
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 41-44
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 45-48
+  Resolution-1: HD 1080P
+  Link-1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 49-52
+  Resolution-1: HD 1080P
+  Link-1: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 53-56
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 57-60
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 61-64
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 65-68
+  Resolution-1: HD 1080P
+  Link-1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 69-72
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E69-72%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 73-76
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 77-80
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 81-84
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E81-84%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E81-84%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 85-88
+  Resolution-1: HD 1080P
+  Link-1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E85-88%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-6
+Show name: Cousins And Kalyanams
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEfHZNS071Qa0ycrUhySEjRdXXB.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%20Kalyanams%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 13-16
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 17-20
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 21-24
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 25-28
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 29-32
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 33-36
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 37-40
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 41-44
+  Resolution-1: HD 1080P
+  Link-1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-7
+Show name: Brothers And Sisters
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUmJyNe5UT301KwVWrxctpP2sqU.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 13-16
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 17-20
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 21-24
+  Resolution-1: HD 1080P
+  Link-1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 25-28
+  Resolution-1: HD 1080P
+  Link-1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 29-32
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 33-36
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 37-40
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 41-44
+  Resolution-1: HD 1080P
+  Link-1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-8
+Show name: Batchmates
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04GVavxTuTWCNrtbllGrQiRvbp.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 13-16
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 17-20
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 21-24
+  Resolution-1: HD 1080P
+  Link-1: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 25-28
+  Resolution-1: HD 1080P
+  Link-1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 29-32
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 33-36
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 37-40
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 41-44
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 45-48
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 49-52
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 53-56
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 57-60
+  Resolution-1: HD 1080P
+  Link-1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-9
+Show name: Perfect Crown
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-10
+Movie name: Chinna Chinna Aasai
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-11
+Show name: Pompeii: Out Of Time With Tom Hiddleston
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg
+
+Season: S01
+
+Episode: N/A
+  Resolution-1: HD 1080P
+  Link-1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Pompeii%20Out%20of%20Time%20with%20Tom%20Hiddleston%20%282026%29%20S01%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-12
+Movie name: Maa Inti Bangaram
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20WEB-DL%20%5BTelugu%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-13
+Show name: Dutton Ranch
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg
+
+Season: S01
+
+Episode: Episode 01
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 02
+  Resolution-1: HD 1080P
+  Link-1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 03
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E03%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 07
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E07%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E08%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 09
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E09%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-14
+Movie name: Mollywood Times
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-15
+Show name: Pritam And Pedro
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC0MtWrnC0SZICFHazagIfVKy0x.jpg
+
+Season: S01
+
+Episode: N/A
+  Resolution-1: HD 1080P
+  Link-1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Pritam%20And%20Pedro%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-16
+Movie name: Tavvai
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-17
+Show name: Save The Tigers
+Category: Disney Hotstar
+Year: 2026
+Poster: https://cinefreak.net/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-1.38.46-AM.webp
+
+Season: S01
+
+Episode: N/A
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282024%29%20S02%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-18
+Movie name: Dridam
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JqWaizfeplMDEZGuJAZZUO4Xtp.jpg
+
+RESOLUTION 1: 4K 2160P HEVC
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-19
+Show name: Star Trek: Starfleet Academy
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg
+
+Season: S01
+
+Episode: Episode 01-05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Starfleet%20Academy%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-20
+Show name: Lingam
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqO8IY6V9T8HNG4mefxPfyLzRpW.jpg
+
+Season: S01
+
+Episode: N/A
+  Resolution-1: HD 1080P
+  Link-1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lingam%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-21
+Show name: Dear X
+Category: Disney Hotstar
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbFg7Ve5BYLPxtEXW9dn4pHPLdx.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-22
+Movie name: A Woman Called Mother
+Category: Disney Hotstar
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojWSVt7O92ZLtEUyQs8u5pRI40b.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%201080p%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-23
+Movie name: Junior
+Category: Disney Hotstar
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWak2wkhTmWFnR8GODZvE1xyBaJ.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-24
+Show name: A Shop For Killers
+Category: Disney Hotstar
+Year: 2024
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E01-04%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-25
+Show name: Ayali
+Category: Disney Hotstar
+Year: 2023
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFQ46nRkYCCKj1zRU6AaeFVm32l.jpg
+
+Season: S01
+
+Episode: N/A
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ayali%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-26
+Show name: 24: India
+Category: Disney Hotstar
+Year: 2013
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab46GZYGn63DbswgIKMepgj4yZP.jpg
+
+Season: S01
+
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E01-04%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 05-08
+  Resolution-1: HD 1080P
+  Link-1: https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 09-12
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E09-12%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 13-16
+  Resolution-1: HD 1080P
+  Link-1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E13-16%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 17-20
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E17-20%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+Episode: Episode 21-24
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E21-24%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
