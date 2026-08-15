@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 10,
-    "last_updated": "2026-08-13 | 20:57:55 (UTC)",
+    "total_movies": 15,
+    "last_updated": "2026-08-15 | 13:37:18 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -183,6 +183,58 @@
       ]
     },
     {
+      "name": "Aroopi",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Achyuta Avataaram",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH5QDBV55imyvC31MMdxTtHUT6t.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Kattalan",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kattalan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20LiNE-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Kattalan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20LiNE-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -223,6 +275,18 @@
       ]
     },
     {
+      "name": "Pongala",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Christy",
       "category": "Malayalam Movies",
       "year": "2023",
@@ -239,6 +303,18 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Kadina Kadoramee Andakadaham",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeyVlSv6ouJkCYQ7Gg5n2qAftjq.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Kadina%20Kadoramee%20Andakadaham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },
