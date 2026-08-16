@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 28,
-    "last_updated": "2026-08-15 | 13:11:01 (UTC)",
+    "total_movies": 29,
+    "last_updated": "2026-08-16 | 18:20:06 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -368,6 +368,20 @@
           "episode": "Episode 46-47",
           "resolution": "HD 1080P",
           "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E46-47%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Declassified: Operation Sindoor",
+      "category": "Bangla Dubbed",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/original/w7eJIMCc4DRWM2o5HleNmy8ezKw.jpg",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Declassified%20Operation%20Sindoor%20%5BS01E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

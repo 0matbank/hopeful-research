@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 28
-LAST UPDATED: 2026-08-15 | 13:11:01 (UTC)
+TOTAL MOVIES: 29
+LAST UPDATED: 2026-08-16 | 18:20:06 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -316,6 +316,20 @@ Episode: Episode 46-47
 ================================================================================
 
 Movie-17
+Show name: Declassified: Operation Sindoor
+Category: Bangla Dubbed
+Year: 2026
+Poster: https://image.tmdb.org/t/p/original/w7eJIMCc4DRWM2o5HleNmy8ezKw.jpg
+
+Season: S01
+
+Episode: Episode 01
+  Resolution-1: HD 1080P
+  Link-1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Declassified%20Operation%20Sindoor%20%5BS01E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-18
 Show name: The Secret Of The Shiledars
 Category: Bangla Dubbed
 Year: 2025
@@ -329,7 +343,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-18
+Movie-19
 Movie name: Motu Patlu Ka Goa Dhamaal
 Category: Bangla Dubbed
 Year: 2025
@@ -340,7 +354,7 @@ STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-20
 Movie name: Motu Patlu & The Madness Of Multiverse
 Category: Bangla Dubbed
 Year: 2025
@@ -351,7 +365,7 @@ STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-21
 Movie name: Motu Patlu & The Case Of Project X
 Category: Bangla Dubbed
 Year: 2025
@@ -362,7 +376,7 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
+Movie-22
 Movie name: Chikoo Aur Bunty Siblings Not Allowed
 Category: Bangla Dubbed
 Year: 2025
@@ -373,7 +387,7 @@ STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-23
 Movie name: Motu Patlu & The Mighty Magnathor
 Category: Bangla Dubbed
 Year: 2025
@@ -384,7 +398,7 @@ STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-24
 Movie name: Motu Patlu Vs The Ghost House
 Category: Bangla Dubbed
 Year: 2025
@@ -395,7 +409,7 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-24
+Movie-25
 Movie name: Maadeva
 Category: Bangla Dubbed
 Year: 2025
@@ -406,7 +420,7 @@ STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
+Movie-26
 Movie name: Aliya Basu Gayab Hai
 Category: Bangla Dubbed
 Year: 2024
@@ -417,7 +431,7 @@ STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
+Movie-27
 Movie name: Voyal
 Category: Bangla Dubbed
 Year: 2024
@@ -428,7 +442,7 @@ STREAM Link 1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
+Movie-28
 Show name: Ayali
 Category: Bangla Dubbed
 Year: 2023
@@ -442,7 +456,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-28
+Movie-29
 Movie name: Shiva The Tiny Men From Mountain
 Category: Bangla Dubbed
 Year: 2019
