@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 40,
-    "last_updated": "2026-08-13 | 20:57:37 (UTC)",
+    "total_movies": 49,
+    "last_updated": "2026-08-16 | 12:23:28 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -424,6 +424,126 @@
       ]
     },
     {
+      "name": "Euphoria",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aroopi",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "G.D.N",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20HDTC%20%5BHindi%20LiNE-Tamil%5D%201080p%20HEVC.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20HDTC%20%5BHindi%20LiNE-Tamil%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Achyuta Avataaram",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH5QDBV55imyvC31MMdxTtHUT6t.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Moda Kavida Vaatavarana",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Kattalan",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kattalan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20LiNE-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Kattalan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20LiNE-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Oru Durooha Saahacharyathil",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Hindi Dubbed Movies",
       "year": "2025",
@@ -536,6 +656,46 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sahasam",
+      "category": "Hindi Dubbed Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW2F8OAO3cTBsbvPhhd1YC0OAcw.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Sahasam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Sahasam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Sahasam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Honeymoon Express",
+      "category": "Hindi Dubbed Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCt5k3coJbOF02hwXVT9gV59a2W.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Honeymoon%20Express%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Honeymoon%20Express%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Honeymoon%20Express%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
