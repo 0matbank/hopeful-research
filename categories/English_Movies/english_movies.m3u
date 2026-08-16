@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: English Movies
-#EXT-X-TOTAL-ITEMS: 10
-#EXT-X-UPDATED: 2026-08-14 | 15:39:24 (UTC)
+#EXT-X-TOTAL-ITEMS: 20
+#EXT-X-UPDATED: 2026-08-16 | 00:44:50 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg" group-title="English Movies", Night Nurse (2026) - HD 1080P
@@ -16,6 +16,20 @@ https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20In%20the
 https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="English Movies", In The Grey (2026) - 4K 2160P HEVC
 https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg" group-title="English Movies", The End Of Oak Street (2026) - HEVC 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20HDTS%20%5BHindi%20LiNE-English%5D%201080p%20HEVC%20HC-ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg" group-title="English Movies", The End Of Oak Street (2026) - HD 1080P
+https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20HDTS%20%5BHindi%20LiNE-English%5D%201080p%20HC-ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PGFmwhZWPkQs4nZVRpxa7o3K5o.jpg" group-title="English Movies", To The Max (2026) - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20To%20The%20Max%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg" group-title="English Movies", All Night Wrong (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20All%20Night%20Wrong%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLshM7DZECutuQVpMfhDiPZUQC.jpg" group-title="English Movies", My Best Friend, His Girlfriend And Me (2026) - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20My%20Best%20Friend%20His%20Girlfriend%20and%20Me%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3NNwo7kImaJS7fL6YlBsJx0i6R.jpg" group-title="English Movies", Don't Say Good Luck (2026) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uJcIW0PL4vNZvk0z6kwWdOqLv6.jpg" group-title="English Movies", Vampires Of The Velvet Lounge (2026) - HD 1080P
+https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Vampires%20Of%20The%20Velvet%20Lounge%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg" group-title="English Movies", Stand Your Ground (2025) - HEVC 1080P
 https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4GW1qTNjooEFSXDBVDMmYb52qC.jpg" group-title="English Movies", Stand Your Ground (2025) - HD 1080P
@@ -28,11 +42,23 @@ https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Gold%20%
 https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu8IwL6q8y7Mi016Uios7LXz0hc.jpg" group-title="English Movies", Gold (2022) - 4K 2160P HEVC
 https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hVEsBS4vnozB1yAsMiqW0IMxyp.jpg" group-title="English Movies", Coma (2020) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G8rw9hY9fvqCtFf1jUzww189yO.jpg" group-title="English Movies", Wind Walkers (2015) - HD 1080P
 https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Wind%20Walkers%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg" group-title="English Movies", Oculus (2014) - HEVC 1080P
 https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg" group-title="English Movies", Oculus (2014) - HD 1080P
 https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45D153Bk0bNwonV1w5IBBvqssPV.jpg" group-title="English Movies", Need For Speed (2014) - HEVC 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45D153Bk0bNwonV1w5IBBvqssPV.jpg" group-title="English Movies", Need For Speed (2014) - HD 1080P
+https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg" group-title="English Movies", The Prestige (2006) - HD 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuud1Blsdwo1KQRdz5UVwjlLAWQ.jpg" group-title="English Movies", Higher Learning (1995) - HD 1080P
 https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIsuIWnvDozlQP4ya6OZEXqDecj.jpg" group-title="English Movies", Rabid (1977) - HEVC 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIsuIWnvDozlQP4ya6OZEXqDecj.jpg" group-title="English Movies", Rabid (1977) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv

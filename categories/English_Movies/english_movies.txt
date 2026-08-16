@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: English Movies
-TOTAL MOVIES: 10
-LAST UPDATED: 2026-08-14 | 15:39:24 (UTC)
+TOTAL MOVIES: 20
+LAST UPDATED: 2026-08-16 | 00:44:50 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -56,6 +56,75 @@ STREAM Link 3: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-5
+Movie name: The End Of Oak Street
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20HDTS%20%5BHindi%20LiNE-English%5D%201080p%20HEVC%20HC-ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20HDTS%20%5BHindi%20LiNE-English%5D%201080p%20HC-ESub.mkv
+
+================================================================================
+
+Movie-6
+Movie name: To The Max
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PGFmwhZWPkQs4nZVRpxa7o3K5o.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20To%20The%20Max%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-7
+Movie name: All Night Wrong
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20All%20Night%20Wrong%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-8
+Movie name: My Best Friend, His Girlfriend And Me
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLshM7DZECutuQVpMfhDiPZUQC.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20My%20Best%20Friend%20His%20Girlfriend%20and%20Me%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-9
+Movie name: Don't Say Good Luck
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3NNwo7kImaJS7fL6YlBsJx0i6R.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-10
+Movie name: Vampires Of The Velvet Lounge
+Category: English Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uJcIW0PL4vNZvk0z6kwWdOqLv6.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Vampires%20Of%20The%20Velvet%20Lounge%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-11
 Movie name: Stand Your Ground
 Category: English Movies
 Year: 2025
@@ -69,7 +138,7 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
+Movie-12
 Movie name: Barbarian
 Category: English Movies
 Year: 2022
@@ -80,7 +149,7 @@ STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
+Movie-13
 Movie name: Gold
 Category: English Movies
 Year: 2022
@@ -97,7 +166,18 @@ STREAM Link 3: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-14
+Movie name: Coma
+Category: English Movies
+Year: 2020
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hVEsBS4vnozB1yAsMiqW0IMxyp.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-15
 Movie name: Wind Walkers
 Category: English Movies
 Year: 2015
@@ -108,7 +188,7 @@ STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-16
 Movie name: Oculus
 Category: English Movies
 Year: 2014
@@ -122,7 +202,32 @@ STREAM Link 2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-17
+Movie name: Need For Speed
+Category: English Movies
+Year: 2014
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/45D153Bk0bNwonV1w5IBBvqssPV.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-18
+Movie name: The Prestige
+Category: English Movies
+Year: 2006
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-19
 Movie name: Higher Learning
 Category: English Movies
 Year: 1995
@@ -130,6 +235,20 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuud1Blsdwo1KQRdz5UVwjlL
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-20
+Movie name: Rabid
+Category: English Movies
+Year: 1977
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIsuIWnvDozlQP4ya6OZEXqDecj.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 
