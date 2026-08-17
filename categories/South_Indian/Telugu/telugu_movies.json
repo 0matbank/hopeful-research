@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 29,
-    "last_updated": "2026-08-15 | 14:27:17 (UTC)",
+    "total_movies": 38,
+    "last_updated": "2026-08-17 | 18:29:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -374,6 +374,106 @@
       ]
     },
     {
+      "name": "Euphoria",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sathi Leelavathi",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/povosquaaJWFjgTqd2ObTIvwl8.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Sathi%20Leelavathi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Sathi%20Leelavathi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Gaayapadda Simham",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx40U1uLHwBpdbVxIMC57jyIAaf.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Gaayapadda%20Simham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Gaayapadda%20Simham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lechindi Mahila Lokam",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2t1rNPSGPZMQKuaNJU6od6QqAU.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Lechindi%20Mahila%20Lokam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Lechindi%20Mahila%20Lokam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Raakaasa",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3SQJAjtcPQ3uF4Y4VQcoofdcX2.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Biker",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNN0DqB7fwGeX3uNhTfQzzKhgTP.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Biker%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Biker%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shanmukha",
       "category": "Telugu Movies",
       "year": "2025",
@@ -434,6 +534,22 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Arjun%20Son%20of%20Vyjayanthi%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Anaganaga",
+      "category": "Telugu Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep3Bhk34epfWY1LrRfyqZli07Cl.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -542,6 +658,34 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "A Aa",
+      "category": "Telugu Movies",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDkmxToe0sNQGNaur5pYWGWFXEX.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20A%20Aa%20%282016%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Brindavanam",
+      "category": "Telugu Movies",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8l2z3abBgXvIpQUEHLVt9sLMcCp.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Brindavanam%20%282010%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Brindavanam%20%282010%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     }
