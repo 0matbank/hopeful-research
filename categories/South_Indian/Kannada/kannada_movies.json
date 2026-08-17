@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 24,
-    "last_updated": "2026-08-15 | 13:44:17 (UTC)",
+    "total_movies": 28,
+    "last_updated": "2026-08-17 | 12:27:22 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -263,6 +263,34 @@
       ]
     },
     {
+      "name": "Choo Mantar",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niKNhXDy7rkvjxRoxgy31sMXQZg.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Gatha Vaibhava",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aacJ77PR6wx1KE6MQN9IUeytg2J.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gatha%20Vaibhava%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Chef Chidambara",
       "category": "Kannada Movies",
       "year": "2024",
@@ -351,6 +379,18 @@
       ]
     },
     {
+      "name": "Inspector Vikram",
+      "category": "Kannada Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeSqY7sKVehJC9J0Y0yKNMnhg7W.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Vikram%20%282021%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Aa Karaala Ratri",
       "category": "Kannada Movies",
       "year": "2018",
@@ -359,6 +399,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Terrorist",
+      "category": "Kannada Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4hb4kW0MhsQi2tF5ldWIbwsV8.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Terrorist%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
         }
       ]
     }
