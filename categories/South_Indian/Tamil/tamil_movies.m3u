@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: Tamil Movies
-#EXT-X-TOTAL-ITEMS: 10
-#EXT-X-UPDATED: 2026-08-15 | 13:29:22 (UTC)
+#EXT-X-TOTAL-ITEMS: 15
+#EXT-X-UPDATED: 2026-08-17 | 00:47:24 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL7iOwqapRRb7eKKlXI4FDaP6rh.jpg" group-title="Tamil Movies - Resort", Resort - S01Episode 01-04 - HD 1080P
@@ -106,6 +106,22 @@ https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Parimala
 https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN2TOTKin83av7hwYnwAKSd3EG8.jpg" group-title="Tamil Movies", Parimala & Co (2026) - 4K 2160P HEVC
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op0ShZAmDxbpsURTLprWFWo9vSk.jpg" group-title="Tamil Movies", Blast (2026) - HEVC 1080P
+https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op0ShZAmDxbpsURTLprWFWo9vSk.jpg" group-title="Tamil Movies", Blast (2026) - HD 1080P
+https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op0ShZAmDxbpsURTLprWFWo9vSk.jpg" group-title="Tamil Movies", Blast (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op0ShZAmDxbpsURTLprWFWo9vSk.jpg" group-title="Tamil Movies", Blast (2026) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OtWZntMIolnOmVpoJeE5Nq3o2Q.jpg" group-title="Tamil Movies", The Village (2023) - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20The%20Village%20%282023%29%20S01%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg" group-title="Tamil Movies", Maruthi Nagar Police Station (2023) - HD 1080P
+https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfK7CTnhoFcxRVNk04bUHQjq3AJ.jpg" group-title="Tamil Movies", Yaanai (2022) - HEVC 1080P
+https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfK7CTnhoFcxRVNk04bUHQjq3AJ.jpg" group-title="Tamil Movies", Yaanai (2022) - HD 1080P
+https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLV0a7Mod9kyzvRluRi5dWP2An5.jpg" group-title="Tamil Movies", Naan Sirithal (2020) - HEVC 1080P
 https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLV0a7Mod9kyzvRluRi5dWP2An5.jpg" group-title="Tamil Movies", Naan Sirithal (2020) - HD 1080P
@@ -114,3 +130,7 @@ https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Naan%20S
 https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukaXSfyN1RoTKQ34YgjyBOd4ZhQ.jpg" group-title="Tamil Movies", Mafia (2020) - HD 1080P
 https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwGChfkDcxljj4pgb53A7JonOqU.jpg" group-title="Tamil Movies", Raatchasi (2019) - HD 1080P
+https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwGChfkDcxljj4pgb53A7JonOqU.jpg" group-title="Tamil Movies", Raatchasi (2019) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
