@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: English Movies
-TOTAL MOVIES: 20
-LAST UPDATED: 2026-08-16 | 00:44:50 (UTC)
+TOTAL MOVIES: 28
+LAST UPDATED: 2026-08-18 | 12:27:29 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -139,6 +139,17 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-12
+Movie name: Sidelined 2: Intercepted
+Category: English Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Bad%20Boy%20And%20Me%202%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-13
 Movie name: Barbarian
 Category: English Movies
 Year: 2022
@@ -149,7 +160,7 @@ STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-14
 Movie name: Gold
 Category: English Movies
 Year: 2022
@@ -166,7 +177,7 @@ STREAM Link 3: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-15
 Movie name: Coma
 Category: English Movies
 Year: 2020
@@ -177,7 +188,29 @@ STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-15
+Movie-16
+Movie name: Fatale
+Category: English Movies
+Year: 2020
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Fatale%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-17
+Movie name: The Invisible Man
+Category: English Movies
+Year: 2020
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-18
 Movie name: Wind Walkers
 Category: English Movies
 Year: 2015
@@ -188,7 +221,7 @@ STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-19
 Movie name: Oculus
 Category: English Movies
 Year: 2014
@@ -202,7 +235,7 @@ STREAM Link 2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-20
 Movie name: Need For Speed
 Category: English Movies
 Year: 2014
@@ -216,7 +249,57 @@ STREAM Link 2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-21
+Movie name: Monster Beach
+Category: English Movies
+Year: 2014
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAsdqTDDZdMR2rNtV9DANA722zt.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Monster%20Beach%20%282014%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-22
+Movie name: RED 2
+Category: English Movies
+Year: 2013
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbksijr6g340yFWRgI4JfwrtM9h.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-23
+Movie name: Casino Jack
+Category: English Movies
+Year: 2010
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dpicp6VEtCSj39XBG5mnbe5TQ9.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Casino%20Jack%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-24
+Movie name: RED
+Category: English Movies
+Year: 2010
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-25
 Movie name: The Prestige
 Category: English Movies
 Year: 2006
@@ -227,7 +310,7 @@ STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-26
 Movie name: Higher Learning
 Category: English Movies
 Year: 1995
@@ -238,7 +321,18 @@ STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-27
+Movie name: Robotrix
+Category: English Movies
+Year: 1991
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ikwwNbk7GVorndt8lUyzaqIWpu.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Robotrix%20%281991%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-28
 Movie name: Rabid
 Category: English Movies
 Year: 1977

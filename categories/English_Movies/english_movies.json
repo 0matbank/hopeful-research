@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 20,
-    "last_updated": "2026-08-16 | 00:44:50 (UTC)",
+    "total_movies": 28,
+    "last_updated": "2026-08-18 | 12:27:29 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -155,6 +155,18 @@
       ]
     },
     {
+      "name": "Sidelined 2: Intercepted",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Bad%20Boy%20And%20Me%202%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Barbarian",
       "category": "English Movies",
       "year": "2022",
@@ -195,6 +207,30 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Fatale",
+      "category": "English Movies",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Fatale%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Invisible Man",
+      "category": "English Movies",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -243,6 +279,62 @@
       ]
     },
     {
+      "name": "Monster Beach",
+      "category": "English Movies",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAsdqTDDZdMR2rNtV9DANA722zt.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Monster%20Beach%20%282014%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "RED 2",
+      "category": "English Movies",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbksijr6g340yFWRgI4JfwrtM9h.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Casino Jack",
+      "category": "English Movies",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dpicp6VEtCSj39XBG5mnbe5TQ9.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Casino%20Jack%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "RED",
+      "category": "English Movies",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Prestige",
       "category": "English Movies",
       "year": "2006",
@@ -263,6 +355,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Robotrix",
+      "category": "English Movies",
+      "year": "1991",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ikwwNbk7GVorndt8lUyzaqIWpu.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Robotrix%20%281991%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
