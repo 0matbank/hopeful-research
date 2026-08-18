@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 48,
-    "last_updated": "2026-08-15 | 18:17:08 (UTC)",
+    "total_movies": 57,
+    "last_updated": "2026-08-18 | 06:29:34 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -297,6 +297,86 @@
       ]
     },
     {
+      "name": "Bonolota Express",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Bonolota-Express-2026-v2.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20HoiChoi%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20RAW%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Prince: Once Upon A Time In Dhaka",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Prince.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Rakkhosh",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Rakkhosh-2026.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Domm",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOJg5L4YXmeZxSYqpTZI8LMfdQk.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Domm%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sulabh Complex",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/THUMB_2026-03-17_4254008.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Sulabh%20Complex%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Pother Pechal",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBizJg4OaEqwHWMBZjXKiZnBw37.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Pother%20Pechal%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Saralakkho Holmes",
       "category": "Bangla Movies",
       "year": "2025",
@@ -553,6 +633,18 @@
       ]
     },
     {
+      "name": "Abar Bochhor Koori Pore",
+      "category": "Bangla Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ye2UHIBz3CTA9a0PnSpipatd4n8.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Abar%20Bochhor%20Koori%20Pore%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Brombhodoityo",
       "category": "Bangla Movies",
       "year": "2020",
@@ -601,6 +693,18 @@
       ]
     },
     {
+      "name": "[18+] Vrindavani Vairagya",
+      "category": "Bangla Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtyvlyzjBuHWTlkQJTAz0uYtrIG.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shikari",
       "category": "Bangla Movies",
       "year": "2016",
@@ -633,6 +737,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Spider-Man",
+      "category": "Bangla Movies",
+      "year": "2002",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Spider-Man-2002-.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
         }
       ]
     }
