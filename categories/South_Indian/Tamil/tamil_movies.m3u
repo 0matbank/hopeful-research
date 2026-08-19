@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: Tamil Movies
-#EXT-X-TOTAL-ITEMS: 15
-#EXT-X-UPDATED: 2026-08-17 | 00:47:24 (UTC)
+#EXT-X-TOTAL-ITEMS: 23
+#EXT-X-UPDATED: 2026-08-19 | 18:27:07 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL7iOwqapRRb7eKKlXI4FDaP6rh.jpg" group-title="Tamil Movies - Resort", Resort - S01Episode 01-04 - HD 1080P
@@ -114,6 +114,30 @@ https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Blast%20
 https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/op0ShZAmDxbpsURTLprWFWo9vSk.jpg" group-title="Tamil Movies", Blast (2026) - 4K 2160P HEVC
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Tamil Movies", Heartin (2026) - HEVC 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Tamil Movies", Heartin (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Tamil Movies", Heartin (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Tamil Movies", Heartin (2026) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jFuUoddURp94ZvL7haeunK7fsm.jpg" group-title="Tamil Movies", Kenatha Kanom (2026) - 4K 2160P HEVC
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kenatha%20Kanom%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="Tamil Movies", Karuppu (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="Tamil Movies", Karuppu (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg" group-title="Tamil Movies", Karuppu (2026) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFjy89xe1Us6iRfdsKAn05Y1XGX.jpg" group-title="Tamil Movies", Satan (2026) - HEVC 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Satan%20%E2%80%93%20The%20Dark%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFNwJcIqA2jVQ8ZCB7Jk2Q1cVx7.jpg" group-title="Tamil Movies", Gamblers (2025) - HD 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Gamblers%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcZl2itDpPLKvMrd8C2hNxifGMp.jpg" group-title="Tamil Movies", Oru Nodi (2024) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Nodi%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67uhvmZ3nEeLYRtBKYNVpxt6bAl.jpg" group-title="Tamil Movies", Boat (2024) - HD 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Boat%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OtWZntMIolnOmVpoJeE5Nq3o2Q.jpg" group-title="Tamil Movies", The Village (2023) - HD 1080P
 https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20The%20Village%20%282023%29%20S01%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg" group-title="Tamil Movies", Maruthi Nagar Police Station (2023) - HD 1080P
@@ -134,3 +158,5 @@ https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Mafia%20
 https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwGChfkDcxljj4pgb53A7JonOqU.jpg" group-title="Tamil Movies", Raatchasi (2019) - HD 1080P
 https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etW6tRiYL11J9UFQMl6ipja9PvC.jpg" group-title="Tamil Movies", Pudhupettai (2006) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
