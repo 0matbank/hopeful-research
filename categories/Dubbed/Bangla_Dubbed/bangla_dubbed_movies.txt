@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 29
-LAST UPDATED: 2026-08-16 | 18:20:06 (UTC)
+TOTAL MOVIES: 33
+LAST UPDATED: 2026-08-19 | 12:37:34 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -457,6 +457,17 @@ Episode: N/A
 ================================================================================
 
 Movie-29
+Movie name: Kadakh
+Category: Bangla Dubbed
+Year: 2020
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvnJ92WolGcVr72LxBKAXP6twY6.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kadakh%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-30
 Movie name: Shiva The Tiny Men From Mountain
 Category: Bangla Dubbed
 Year: 2019
@@ -464,6 +475,42 @@ Poster: https://i.postimg.cc/FsSNXsn1/Screenshot-2.jpg
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-31
+Movie name: The Amazing Spider-Man 2
+Category: Bangla Dubbed
+Year: 2014
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-32
+Show name: Man Vs. Wild
+Category: Bangla Dubbed
+Year: 2006
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Man-vs.-Wild-2006.jpg
+
+Season: S01
+
+Episode: Episode 01-05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Man%20vs%20Wild%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-33
+Movie name: Spider-Man
+Category: Bangla Dubbed
+Year: 2002
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Spider-Man-2002-.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
