@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: Hindi Movies
-#EXT-X-TOTAL-ITEMS: 50
-#EXT-X-UPDATED: 2026-08-16 | 06:28:03 (UTC)
+#EXT-X-TOTAL-ITEMS: 56
+#EXT-X-UPDATED: 2026-08-19 | 00:42:34 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI0YmViZTktOGZkNS00NzEzLTg2YjAtZWJjZTRlNjA5ZjBjXkEyXkFqcGc@._V1_SX250.jpg" group-title="Hindi Movies", Uttar Da Puttar (2026) - HD 1080P
@@ -166,6 +166,8 @@ https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Main%20V
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Main%20Vaapas%20Aaunga%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xufqFe1roAAWBc01hmKL3tGVJDQ.jpg" group-title="Hindi Movies", Navras Katha Collage (2024) - HD 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Navras%20Katha%20Collage%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDN3gBR8h5BKDCCHP57CvwBONKH.jpg" group-title="Hindi Movies", The Birthday Boy (2024) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Birthday%20Boy%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdmMWZhNjItMjExZi00OGM3LWJiNzgtNjlkZmNlYjU1OGI3XkEyXkFqcGc@._V1_SX300.jpg" group-title="Hindi Movies", Khufiya (2023) - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Khufiya%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaUOV9VCNM5MjrmonqgH4o3XNwQ.jpg" group-title="Hindi Movies", Jaane Jaan (2023) - HEVC 1080P
@@ -176,16 +178,28 @@ https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Jaane%20
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Jaane%20Jaan%20%282023%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mXKx1rAilqmObNTHbQkmMIIahh.jpg" group-title="Hindi Movies", Ishq-e-Nadaan (2023) - HD 1080P
 https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ishq-e-Nadaan%20%282023%29%20HD-Rip%20%5BHindi%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mp4KqqVU6uUNwnpYqAtthik1DB.jpg" group-title="Hindi Movies", Tiku Weds Sheru (2023) - HEVC 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20HEVC%20ESubs.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mp4KqqVU6uUNwnpYqAtthik1DB.jpg" group-title="Hindi Movies", Tiku Weds Sheru (2023) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESubs.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99DkKzMm7SrNw8p6jozCkKmOnTy.jpg" group-title="Hindi Movies", Satyaprem Ki Katha (2023) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Satyaprem%20Ki%20Katha%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99DkKzMm7SrNw8p6jozCkKmOnTy.jpg" group-title="Hindi Movies", Satyaprem Ki Katha (2023) - 4K 2160P HEVC
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Satyaprem%20Ki%20Katha%20%282023%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYyZTU5YmQtN2U2OC00NzE3LTk4ODItMTZhMGI5NzdmMGZjXkEyXkFqcGc@._V1_SX300.jpg" group-title="Hindi Movies", Jogi (2022) - HD 1080P
 https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYyZTU5YmQtN2U2OC00NzE3LTk4ODItMTZhMGI5NzdmMGZjXkEyXkFqcGc@._V1_SX300.jpg" group-title="Hindi Movies", Jogi (2022) - HD 1080P
 https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvnJ92WolGcVr72LxBKAXP6twY6.jpg" group-title="Hindi Movies", Kadakh (2020) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kadakh%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NjNjgwNzItODU2Yy00MjUwLWEzNTgtN2NiZDlkZmU0Mjc4XkEyXkFqcGdeQXVyMTE5NTIwOTY@._V1_SX300.jpg" group-title="Hindi Movies", Fever (2016) - HEVC 1080P
 https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NjNjgwNzItODU2Yy00MjUwLWEzNTgtN2NiZDlkZmU0Mjc4XkEyXkFqcGdeQXVyMTE5NTIwOTY@._V1_SX300.jpg" group-title="Hindi Movies", Fever (2016) - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NjNjgwNzItODU2Yy00MjUwLWEzNTgtN2NiZDlkZmU0Mjc4XkEyXkFqcGdeQXVyMTE5NTIwOTY@._V1_SX300.jpg" group-title="Hindi Movies", Fever (2016) - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bbJBjCcyjYyMG9kW38X55tgiYu.jpg" group-title="Hindi Movies", Badlapur (2015) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMzYjM0YTYtMzIwNi00YTkwLWJmMjUtODlkNGQxYmE0YTgyXkEyXkFqcGc@._V1_SX300.jpg" group-title="Hindi Movies", Arjun: The Warrior Prince (2012) - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Arjun%20The%20Warrior%20Prince%20%282012%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKImRBNLjn0cBZCnK4KqMUnDaC6.jpg" group-title="Hindi Movies", Cocktail (2012) - HEVC 1080P
@@ -194,6 +208,8 @@ https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Cocktail
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKImRBNLjn0cBZCnK4KqMUnDaC6.jpg" group-title="Hindi Movies", Cocktail (2012) - HD 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wadMSZ16EMmJkMcVwKapF6XaYwb.jpg" group-title="Hindi Movies", Saheb Biwi Aur Gangster (2011) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Saheb%20Biwi%20Aur%20Gangster%20%282011%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgxMzExMzUwNV5BMl5BanBnXkFtZTcwMDc2MjUwNA@@._V1_SX300.jpg" group-title="Hindi Movies", Udaan (2010) - HD 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Udaan%20%282010%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4qctwtUwTEnA1gqQhM84MUygXp.jpg" group-title="Hindi Movies", Batwara (1947) - HEVC 1080P
