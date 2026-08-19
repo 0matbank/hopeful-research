@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: Hindi Dubbed Movies
-#EXT-X-TOTAL-ITEMS: 49
-#EXT-X-UPDATED: 2026-08-16 | 12:23:28 (UTC)
+#EXT-X-TOTAL-ITEMS: 58
+#EXT-X-UPDATED: 2026-08-19 | 06:35:36 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg" group-title="Hindi Dubbed Movies", Uyir (2026) - HEVC 1080P
@@ -160,6 +160,38 @@ https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Kattalan
 https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg" group-title="Hindi Dubbed Movies", Oru Durooha Saahacharyathil (2026) - HD 1080P
 https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Hindi Dubbed Movies", Heartin (2026) - HEVC 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Hindi Dubbed Movies", Heartin (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Hindi Dubbed Movies", Heartin (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Hindi Dubbed Movies", Heartin (2026) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVENga0uWeOM3vc7KtLhieBwNRy.jpg" group-title="Hindi Dubbed Movies", Godari Gattupaina (2026) - HEVC 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVENga0uWeOM3vc7KtLhieBwNRy.jpg" group-title="Hindi Dubbed Movies", Godari Gattupaina (2026) - HD 1080P
+https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVENga0uWeOM3vc7KtLhieBwNRy.jpg" group-title="Hindi Dubbed Movies", Godari Gattupaina (2026) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FdB3kXZbQnZVLoOv37by69VS1K.jpg" group-title="Hindi Dubbed Movies", DC (2026) - HD 1080P
+https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FdB3kXZbQnZVLoOv37by69VS1K.jpg" group-title="Hindi Dubbed Movies", DC (2026) - HD 1080P
+https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20HQ%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yNf3kFRSO7ojLDJUA5iOtHYPLQF.jpg" group-title="Hindi Dubbed Movies", M.R.P (2026) - HEVC 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20MRP%20Neekentha%20Naakentha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yNf3kFRSO7ojLDJUA5iOtHYPLQF.jpg" group-title="Hindi Dubbed Movies", M.R.P (2026) - HD 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20MRP%20Neekentha%20Naakentha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yNf3kFRSO7ojLDJUA5iOtHYPLQF.jpg" group-title="Hindi Dubbed Movies", M.R.P (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20MRP%20Neekentha%20Naakentha%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg" group-title="Hindi Dubbed Movies", Idhayam Murali (2026) - HEVC 1080P
+https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg" group-title="Hindi Dubbed Movies", Idhayam Murali (2026) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg" group-title="Hindi Dubbed Movies", Idhayam Murali (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg" group-title="Hindi Dubbed Movies", Idhayam Murali (2026) - 4K 2160P HEVC
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg" group-title="Hindi Dubbed Movies", The Malabar Tales (2025) - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg" group-title="Hindi Dubbed Movies", The Malabar Tales (2025) - 4K 2160P HEVC
@@ -200,6 +232,16 @@ https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Sahasam%
 https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Sahasam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW2F8OAO3cTBsbvPhhd1YC0OAcw.jpg" group-title="Hindi Dubbed Movies", Sahasam (2025) - HD 1080P
 https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Sahasam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg" group-title="Hindi Dubbed Movies", Pongala (2025) - HD 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg" group-title="Hindi Dubbed Movies", 45 (2025) - HD 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg" group-title="Hindi Dubbed Movies", 45 (2025) - 4K 2160P HEVC
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUXN4dgmelSEa7VRqcpIhngGCu.jpg" group-title="Hindi Dubbed Movies", The Devil (2025) - HEVC 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUXN4dgmelSEa7VRqcpIhngGCu.jpg" group-title="Hindi Dubbed Movies", The Devil (2025) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCt5k3coJbOF02hwXVT9gV59a2W.jpg" group-title="Hindi Dubbed Movies", Honeymoon Express (2024) - HEVC 1080P
 https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Honeymoon%20Express%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCt5k3coJbOF02hwXVT9gV59a2W.jpg" group-title="Hindi Dubbed Movies", Honeymoon Express (2024) - HD 1080P
@@ -222,6 +264,8 @@ https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Thank%20
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Thank%20You%20Teacher%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg" group-title="Hindi Dubbed Movies", Maruthi Nagar Police Station (2023) - HD 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeyVlSv6ouJkCYQ7Gg5n2qAftjq.jpg" group-title="Hindi Dubbed Movies", Kadina Kadoramee Andakadaham (2023) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Kadina%20Kadoramee%20Andakadaham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnXC26Zp6EGk4A1JUXQVQ7IT8RG.jpg" group-title="Hindi Dubbed Movies", Love Mocktail 2 (2022) - HEVC 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnXC26Zp6EGk4A1JUXQVQ7IT8RG.jpg" group-title="Hindi Dubbed Movies", Love Mocktail 2 (2022) - HD 1080P
