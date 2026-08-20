@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 23,
-    "last_updated": "2026-08-17 | 06:41:15 (UTC)",
+    "total_movies": 31,
+    "last_updated": "2026-08-20 | 00:45:19 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -327,6 +327,62 @@
       ]
     },
     {
+      "name": "Drishyam 3",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSBVjFjxvG94ypIi13Mdomz4j52.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Madhuvidhu",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygv3smYLajcZieZv1isFzvZsuRB.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Madhuvidhu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Madhuvidhu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Vaazha II",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "res_list": [
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bharathanatyam 2 Mohiniyattam",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxz8X9FK3aOE9AtKnwp8ZZQDob.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -395,6 +451,30 @@
       ]
     },
     {
+      "name": "Dheeram",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/df5IaJtB0dmUkDfOCbr0xkPTXDc.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Vaazha",
+      "category": "Malayalam Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SFL0Z5x4FQTNYoDCp6SbbyydQm.jpg",
+      "res_list": [
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Christy",
       "category": "Malayalam Movies",
       "year": "2023",
@@ -443,6 +523,18 @@
       ]
     },
     {
+      "name": "Neru",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM0KzatdBj1AebrMaRLbiKuYcLU.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Heaven",
       "category": "Malayalam Movies",
       "year": "2022",
@@ -455,6 +547,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Malikappuram",
+      "category": "Malayalam Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CFhiwbxJXu7YpOJG3vG1TRB0Zd.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Malikappuram%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },

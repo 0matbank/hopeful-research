@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: Malayalam Movies
-#EXT-X-TOTAL-ITEMS: 23
-#EXT-X-UPDATED: 2026-08-17 | 06:41:15 (UTC)
+#EXT-X-TOTAL-ITEMS: 31
+#EXT-X-UPDATED: 2026-08-20 | 00:45:19 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg" group-title="Malayalam Movies", Uyir (2026) - HEVC 1080P
@@ -98,6 +98,18 @@ https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Patriot%
 https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg" group-title="Malayalam Movies", Patriot (2026) - 4K 2160P HEVC
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSBVjFjxvG94ypIi13Mdomz4j52.jpg" group-title="Malayalam Movies", Drishyam 3 (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygv3smYLajcZieZv1isFzvZsuRB.jpg" group-title="Malayalam Movies", Madhuvidhu (2026) - HEVC 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Madhuvidhu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygv3smYLajcZieZv1isFzvZsuRB.jpg" group-title="Malayalam Movies", Madhuvidhu (2026) - HD 1080P
+https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Madhuvidhu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg" group-title="Malayalam Movies", Vaazha II (2026) - 4K 2160P HEVC
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxz8X9FK3aOE9AtKnwp8ZZQDob.jpg" group-title="Malayalam Movies", Bharathanatyam 2 Mohiniyattam (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxz8X9FK3aOE9AtKnwp8ZZQDob.jpg" group-title="Malayalam Movies", Bharathanatyam 2 Mohiniyattam (2026) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg" group-title="Malayalam Movies", The Malabar Tales (2025) - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg" group-title="Malayalam Movies", The Malabar Tales (2025) - 4K 2160P HEVC
@@ -116,6 +128,10 @@ https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Pongala%
 https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYCJihP5IQwUw9RMSmeGg7yU1FP.jpg" group-title="Malayalam Movies", Written & Directed By God (2025) - HD 1080P
 https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/df5IaJtB0dmUkDfOCbr0xkPTXDc.jpg" group-title="Malayalam Movies", Dheeram (2025) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SFL0Z5x4FQTNYoDCp6SbbyydQm.jpg" group-title="Malayalam Movies", Vaazha (2024) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg" group-title="Malayalam Movies", Christy (2023) - HEVC 1080P
 https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg" group-title="Malayalam Movies", Christy (2023) - HD 1080P
@@ -128,10 +144,14 @@ https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Kadina%2
 https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkxJZRFILnpCdVBppxx5qXvJSKY.jpg" group-title="Malayalam Movies", Neelavelicham (2023) - HD 1080P
 https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM0KzatdBj1AebrMaRLbiKuYcLU.jpg" group-title="Malayalam Movies", Neru (2023) - HEVC 1080P
+https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7R95cC7pjHLeDmQ0tX8gILX9dty.jpg" group-title="Malayalam Movies", Heaven (2022) - HD 1080P
 https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7R95cC7pjHLeDmQ0tX8gILX9dty.jpg" group-title="Malayalam Movies", Heaven (2022) - HD 1080P
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CFhiwbxJXu7YpOJG3vG1TRB0Zd.jpg" group-title="Malayalam Movies", Malikappuram (2022) - HD 1080P
+https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Malikappuram%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7E9mFsCwm6s5k0akviOIuVIKIU.jpg" group-title="Malayalam Movies", Big Brother (2020) - HD 1080P
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7E9mFsCwm6s5k0akviOIuVIKIU.jpg" group-title="Malayalam Movies", Big Brother (2020) - HD 1080P
