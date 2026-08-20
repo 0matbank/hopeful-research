@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 38,
-    "last_updated": "2026-08-17 | 18:29:45 (UTC)",
+    "total_movies": 43,
+    "last_updated": "2026-08-20 | 12:31:00 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -474,6 +474,38 @@
       ]
     },
     {
+      "name": "Srinivasa Mangapuram",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqV5a8SPAP0oW59MzMshIJra3r4.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lenin",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shanmukha",
       "category": "Telugu Movies",
       "year": "2025",
@@ -574,6 +606,18 @@
       ]
     },
     {
+      "name": "Hero",
+      "category": "Telugu Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUSvQSpR2TXsRbBX2b9Bhwh3jl9.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://m.media-amazon.com/images/I/C1972uokaQL.mp4"
+        }
+      ]
+    },
+    {
       "name": "Tuck Jagadish",
       "category": "Telugu Movies",
       "year": "2021",
@@ -634,6 +678,18 @@
       ]
     },
     {
+      "name": "Gaddalakonda Ganesh",
+      "category": "Telugu Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZwBVIwRi0vAaBGeG31UIkx4ygQ.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gaddalakonda%20Ganesh%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Bluff Master",
       "category": "Telugu Movies",
       "year": "2018",
@@ -642,6 +698,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Bluff%20Master%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chal Mohan Ranga",
+      "category": "Telugu Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qawBFeXKfsUNIfnq4cTJbg1INFK.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Chal%20Mohan%20Ranga%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p.mkv"
         }
       ]
     },
