@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 56,
-    "last_updated": "2026-08-19 | 00:42:34 (UTC)",
+    "total_movies": 61,
+    "last_updated": "2026-08-21 | 12:30:42 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -599,6 +599,22 @@
       ]
     },
     {
+      "name": "The Great Grand Superhero",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Great%20Grand%20Superhero%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Great%20Grand%20Superhero%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Navras Katha Collage",
       "category": "Hindi Movies",
       "year": "2024",
@@ -619,6 +635,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Birthday%20Boy%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aliya Basu Gayab Hai",
+      "category": "Hindi Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVEEJlh4CA8IZIPZrosc9ZWLhI5.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -699,6 +727,30 @@
       ]
     },
     {
+      "name": "Sirf Ek Bandaa Kaafi Hai",
+      "category": "Hindi Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8wMjVoQOyo9XUOrQk60WCcklCj.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sirf%20Ek%20Bandaa%20Kaafi%20Hai%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mujib: The Making Of A Nation",
+      "category": "Hindi Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71CE8chmoFjNtZIcGOSnD6dDn7O.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Mujib%20The%20Making%20of%20Nation%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Jogi",
       "category": "Hindi Movies",
       "year": "2022",
@@ -711,6 +763,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "420 IPC",
+      "category": "Hindi Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63JxHmYhVGENCtq5tFYLsnZKHGx.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20420%20IPC%20%282021%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
