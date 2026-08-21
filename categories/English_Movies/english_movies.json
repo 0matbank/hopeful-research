@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 28,
-    "last_updated": "2026-08-18 | 12:27:29 (UTC)",
+    "total_movies": 34,
+    "last_updated": "2026-08-21 | 06:31:54 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -139,6 +139,30 @@
       ]
     },
     {
+      "name": "Backrooms",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20DV%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Stand Your Ground",
       "category": "English Movies",
       "year": "2025",
@@ -163,6 +187,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Bad%20Boy%20And%20Me%202%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Alien Invasion : Rise Of The Phoenix",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQydQDc5lBOUBvft8PuOUQ7r4NY.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Alien%20Invasion%20Rise%20of%20the%20Phoenix%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -199,6 +235,18 @@
       ]
     },
     {
+      "name": "He's All That",
+      "category": "English Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Hes%20All%20That%20%282021%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Coma",
       "category": "English Movies",
       "year": "2020",
@@ -231,6 +279,30 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Toy Story 4",
+      "category": "English Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Secret Life Of Pets 2",
+      "category": "English Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -355,6 +427,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Toy Story",
+      "category": "English Movies",
+      "year": "1995",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
