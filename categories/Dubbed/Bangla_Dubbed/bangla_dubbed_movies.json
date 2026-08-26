@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 33,
-    "last_updated": "2026-08-19 | 12:37:34 (UTC)",
+    "total_movies": 35,
+    "last_updated": "2026-08-26 | 12:34:50 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -386,6 +386,18 @@
       ]
     },
     {
+      "name": "Sakkhi",
+      "category": "Bangla Dubbed",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Saandrithazh-2026.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Saandrithazh%20-%20Sakkhi%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20Bongo%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Secret Of The Shiledars",
       "category": "Bangla Dubbed",
       "year": "2025",
@@ -503,6 +515,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Voyal%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chutney Sambar",
+      "category": "Bangla Dubbed",
+      "year": "2024",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Chutney-Sambar-2024.webp",
+      "res_list": [
+        {
+          "season": "S01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chutney%20Sambar%20%282024%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
