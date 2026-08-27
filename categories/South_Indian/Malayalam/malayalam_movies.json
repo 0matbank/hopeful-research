@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 31,
-    "last_updated": "2026-08-20 | 00:45:19 (UTC)",
+    "total_movies": 39,
+    "last_updated": "2026-08-27 | 05:52:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -383,6 +383,90 @@
       ]
     },
     {
+      "name": "I, Nobody",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Oru Durooha Saahacharyathil",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4IZvI3w177lfEJxDj9OOYF1R7U.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aadu 3",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yzYF6MGJ9oZGobttiiUz0RYpRX.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Aadu%203%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Aadu%203%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Prathichaya",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o69YKFd5WSwX1f9PBG47QfcGzX4.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Prathichaya%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Valathu Vashathe Kallan",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uACEmeokX7MRgxzj8n427OcN8HK.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Valathu%20Vashathe%20Kallan%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Valathu%20Vashathe%20Kallan%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20AMZN%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Valathu%20Vashathe%20Kallan%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -535,6 +619,38 @@
       ]
     },
     {
+      "name": "Samara",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn1Ce6cYs2GoXUOFyg5ZrtZ2y2T.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Samara%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Romancham",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p8ux2AGYn3U2mEAbKmizAh6PL1.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20HEVC%20Esub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20Esub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%202160p%20HEVC%20Esub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Heaven",
       "category": "Malayalam Movies",
       "year": "2022",
@@ -579,6 +695,18 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Premam",
+      "category": "Malayalam Movies",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfMgsfDrtouYOM6MbrkHtU96Xij.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Premam%20%282015%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
         }
       ]
     }
