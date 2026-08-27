@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 32,
-    "last_updated": "2026-08-20 | 06:32:53 (UTC)",
+    "total_movies": 39,
+    "last_updated": "2026-08-27 | 17:09:39 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -95,6 +95,26 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Toxic: A Fairy Tale For Grown-ups",
+      "category": "Kannada Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HEVC%20HC-ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HC-ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
         }
       ]
     },
@@ -375,6 +395,62 @@
       ]
     },
     {
+      "name": "Kaalapatthar",
+      "category": "Kannada Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTELAAH02Xv8BNXa6n2uBo853pR.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://m.media-amazon.com/images/I/91tM7VzYXSL.mp4"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://m.media-amazon.com/images/I/91v31-0CMPL.mp4"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Tenant",
+      "category": "Kannada Movies",
+      "year": "2024",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/10/Tenant-2024.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tenant%20%282024%29%20WEB-DL%20%5BHindi%20ORG%5D%20UPlay%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Judgement",
+      "category": "Kannada Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hApU7HueijYukY1Wb3vCcO4n3KC.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Judgement%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Krishnam Pranaya Sakhi",
+      "category": "Kannada Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3swr0fu3NAm0myEaeJVTorMiG.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Krishnam%20Pranaya%20Sakhi%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20SNXT%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Gurudev Hoysala",
       "category": "Kannada Movies",
       "year": "2023",
@@ -475,6 +551,34 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Terrorist%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Rangi Taranga",
+      "category": "Kannada Movies",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvE6k9noK4BaU2F1GBhVe7vvjcI.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET%20-%20Rangi%20Taranga%20%282015%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET%20-%20Rangi%20Taranga%20%282015%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Ugramm",
+      "category": "Kannada Movies",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AdrI68ggKpSBRE2EbnvajeD53q.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ugramm%20%282014%29%20HDRip%20%5BHind-Kannada%5D%201080p%20ESub.mkv"
         }
       ]
     }
