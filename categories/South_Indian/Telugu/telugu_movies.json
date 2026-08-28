@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 43,
-    "last_updated": "2026-08-20 | 12:31:00 (UTC)",
+    "total_movies": 49,
+    "last_updated": "2026-08-28 | 01:58:36 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -506,6 +506,64 @@
       ]
     },
     {
+      "name": "Part-Timers",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jtHkKhkA4kioi4km8uPql5G7WH.jpg",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-04",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Newton's 3rd Law",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1TtmLR2ydmUZGnYXsThpZ99I2X.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chennai Love Story",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shanmukha",
       "category": "Telugu Movies",
       "year": "2025",
@@ -586,6 +644,30 @@
       ]
     },
     {
+      "name": "Mowgli",
+      "category": "Telugu Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWUvV7hEHUrIm5GyoIVWAukzKDX.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mowgli%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "CSI Sanatan",
+      "category": "Telugu Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Ghost",
       "category": "Telugu Movies",
       "year": "2022",
@@ -614,6 +696,30 @@
         {
           "resolution": "HD 1080P",
           "link": "https://m.media-amazon.com/images/I/C1972uokaQL.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Sita Ramam",
+      "category": "Telugu Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1O94ZBzsQXJihtVkrsStRLyUDR.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
