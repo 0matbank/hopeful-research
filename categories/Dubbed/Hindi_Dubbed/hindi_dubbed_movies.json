@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 68,
-    "last_updated": "2026-08-21 | 18:26:48 (UTC)",
+    "total_movies": 78,
+    "last_updated": "2026-08-29 | 20:14:12 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -784,6 +784,94 @@
       ]
     },
     {
+      "name": "Newton's 3rd Law",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1TtmLR2ydmUZGnYXsThpZ99I2X.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Anbe Diana",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Toxic: A Fairy Tale For Grown-ups",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HEVC%20HC-ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HC-ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "I, Nobody",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Hindi Dubbed Movies",
       "year": "2025",
@@ -988,6 +1076,18 @@
       ]
     },
     {
+      "name": "Surrender",
+      "category": "Hindi Dubbed Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4RBmd46UWfTRudGkYOnvFLbtX3.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Honeymoon Express",
       "category": "Hindi Dubbed Movies",
       "year": "2024",
@@ -1096,6 +1196,18 @@
       ]
     },
     {
+      "name": "CSI Sanatan",
+      "category": "Hindi Dubbed Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Love Mocktail 2",
       "category": "Hindi Dubbed Movies",
       "year": "2022",
@@ -1164,6 +1276,30 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Ini%20Utharam%20%282022%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sita Ramam",
+      "category": "Hindi Dubbed Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1O94ZBzsQXJihtVkrsStRLyUDR.jpg",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1284,6 +1420,42 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Oh%20Baby%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Srirastu Subhamastu",
+      "category": "Hindi Dubbed Movies",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYfkUX61GyyWxxzGve5dQlWJl4c.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Srirastu%20Subhamastu%20%282016%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Kaashmora",
+      "category": "Hindi Dubbed Movies",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTYbSIkPavrvjy09C4TRUAAeghN.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kaashmora%20%282016%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Rajakumarudu",
+      "category": "Hindi Dubbed Movies",
+      "year": "1999",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acfiuO2xCOKLWkl9muBRUOWKWok.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Prince%20No%201%20%282000%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
         }
       ]
     }
