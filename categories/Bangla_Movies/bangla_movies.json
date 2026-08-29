@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 61,
-    "last_updated": "2026-08-21 | 00:49:50 (UTC)",
+    "total_movies": 67,
+    "last_updated": "2026-08-29 | 01:21:43 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -401,6 +401,54 @@
       ]
     },
     {
+      "name": "The University Of Chankharpul",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cv2Lz7snJUhWQj8ZRGhbQ74gfLd.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20University%20of%20Chankharpul%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Ultorath",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtb6ZT7HCl9rJhRrvXduin6LF8.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ultorath%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sakkhi",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Saandrithazh-2026.webp",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Saandrithazh%20-%20Sakkhi%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20Bongo%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Vijaynagar'er Hirey",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqAzNuR0N5zKeUseUEu0PRLori2.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Vijaynagar%27er%20Hirey%20%282026%29%20HDTC%20%5BBengali%5D%201080p%20HC-ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Saralakkho Holmes",
       "category": "Bangla Movies",
       "year": "2025",
@@ -537,6 +585,18 @@
       ]
     },
     {
+      "name": "Babu Shona",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtb6ZT7HCl9rJhRrvXduin6LF8.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Babu%20Shona%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Abigail",
       "category": "Bangla Movies",
       "year": "2024",
@@ -569,6 +629,18 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Moyurakkhi%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Padatik",
+      "category": "Bangla Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYIyedqE7v014isQICC9ALoUuU5.jpg",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Padatik%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
         }
       ]
     },
