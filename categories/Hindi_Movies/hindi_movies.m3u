@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-NAME: Hindi Movies
-#EXT-X-TOTAL-ITEMS: 61
-#EXT-X-UPDATED: 2026-08-21 | 12:30:42 (UTC)
+#EXT-X-TOTAL-ITEMS: 68
+#EXT-X-UPDATED: 2026-08-29 | 16:18:40 (UTC)
 #EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI0YmViZTktOGZkNS00NzEzLTg2YjAtZWJjZTRlNjA5ZjBjXkEyXkFqcGc@._V1_SX250.jpg" group-title="Hindi Movies", Uttar Da Puttar (2026) - HD 1080P
@@ -168,6 +168,32 @@ https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Main%20V
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Great%20Grand%20Superhero%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg" group-title="Hindi Movies", The Great Grand Superhero (2026) - 4K 2160P HEVC
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Great%20Grand%20Superhero%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MZ0PJeqQIFeRZtJvJ3chAexiJp.jpg" group-title="Hindi Movies", Bandar (2026) - HEVC 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MZ0PJeqQIFeRZtJvJ3chAexiJp.jpg" group-title="Hindi Movies", Bandar (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MZ0PJeqQIFeRZtJvJ3chAexiJp.jpg" group-title="Hindi Movies", Bandar (2026) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg" group-title="Hindi Movies", Babita Singh Reporting (2026) - HEVC 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg" group-title="Hindi Movies", Babita Singh Reporting (2026) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg" group-title="Hindi Movies", Babita Singh Reporting (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg" group-title="Hindi Movies", Babita Singh Reporting (2026) - 4K 2160P HEVC
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg" group-title="Hindi Movies", Haunted 3D: Ghosts Of The Past (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Haunted%203D%20Echoes%20of%20the%20Past%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="Hindi Movies", Bhooth Bangla (2026) - HEVC 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="Hindi Movies", Bhooth Bangla (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="Hindi Movies", Bhooth Bangla (2026) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="Hindi Movies", Bhooth Bangla (2026) - 4K 2160P HEVC
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llAejc0j8CKQbO8t0VzSqqDSWMj.jpg" group-title="Hindi Movies", Tortoise: The Tale Of Murders (2025) - HD 1080P
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Murder%20Files%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xufqFe1roAAWBc01hmKL3tGVJDQ.jpg" group-title="Hindi Movies", Navras Katha Collage (2024) - HD 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Navras%20Katha%20Collage%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDN3gBR8h5BKDCCHP57CvwBONKH.jpg" group-title="Hindi Movies", The Birthday Boy (2024) - HD 1080P
@@ -224,6 +250,10 @@ https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Cocktail
 https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Saheb%20Biwi%20Aur%20Gangster%20%282011%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgxMzExMzUwNV5BMl5BanBnXkFtZTcwMDc2MjUwNA@@._V1_SX300.jpg" group-title="Hindi Movies", Udaan (2010) - HD 1080P
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Udaan%20%282010%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVUSxtJM3arL5VIUIRNYde20EF0.jpg" group-title="Hindi Movies", A Wednesday! (2008) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68M7izYXT9gGV5LOXfZ9OHyz0VO.jpg" group-title="Hindi Movies", Dial (1975) - HD 1080P
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dial%201975%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4qctwtUwTEnA1gqQhM84MUygXp.jpg" group-title="Hindi Movies", Batwara (1947) - HEVC 1080P
 https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Batwara%201947%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4qctwtUwTEnA1gqQhM84MUygXp.jpg" group-title="Hindi Movies", Batwara (1947) - HD 1080P
