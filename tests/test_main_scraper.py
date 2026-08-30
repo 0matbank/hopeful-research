@@ -101,6 +101,15 @@ class MovieScraperTests(unittest.TestCase):
             ("The Bad Boy And Me 2", "2026"),
         )
 
+    def test_matching_stream_title_does_not_override_source_page_year(self):
+        res_list = [{
+            "link": "https://cdn.example.com/CINEFREAK.TOP%20-%20BrocheVarueVarura%20%282021%29%20WEB-DL%201080p.mkv"
+        }]
+        self.assertEqual(
+            main_scraper.resolve_movie_identity("Brochevarevarura (2019) Full Movie", res_list),
+            ("Brochevarevarura", "2019"),
+        )
+
     def test_poster_validation_rejects_unrelated_result(self):
         self.assertFalse(main_scraper.poster_result_matches("Paint On Dry Leaf", "2026", "Rongin Shurma", "2026"))
         self.assertTrue(main_scraper.poster_result_matches("Need for Speed", "2014", "Need for Speed", "2014"))

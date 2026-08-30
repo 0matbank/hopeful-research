@@ -327,13 +327,22 @@ def resolve_movie_identity(page_title, res_list):
     stream_name, stream_year = extract_stream_identity(res_list)
     descriptive_words = re.findall(r"[A-Za-z]{2,}", stream_name)
     stream_name_is_descriptive = len(descriptive_words) >= 2 and bool(re.search(r"\s", stream_name))
+    used_stream_identity = False
     if not page_name or page_name == "Movie Post":
-        page_name = stream_name if stream_name_is_descriptive else "Movie Post"
+        if stream_name_is_descriptive:
+            page_name = stream_name
+            used_stream_identity = True
+        else:
+            page_name = "Movie Post"
     elif stream_name_is_descriptive and title_similarity(page_name, stream_name) < 0.55:
         print(f"WARNING: Title/content mismatch: page='{page_name}', stream='{stream_name}'. Using stream identity.", flush=True)
         page_name = stream_name
+        used_stream_identity = True
 
-    year = stream_year if stream_year != "N/A" else page_year
+    if stream_year != "N/A" and (page_year == "N/A" or used_stream_identity):
+        year = stream_year
+    else:
+        year = page_year
     return page_name, year
 
 
