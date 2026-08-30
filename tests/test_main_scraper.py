@@ -278,8 +278,15 @@ class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
             }
             with patch.object(main_scraper, "is_stream_link_dead_sync", return_value=False) as health_check:
                 await main_scraper.repair_dead_links("Test", config, respect_cooldown=False)
-
-            self.assertEqual(health_check.call_count, 25)
+                self.assertEqual(health_check.call_count, 25)
+                health_check.reset_mock()
+                await main_scraper.repair_dead_links(
+                    "Test",
+                    config,
+                    respect_cooldown=False,
+                    target_source_urls={"https://example.com/movie-24"},
+                )
+                self.assertEqual(health_check.call_count, 1)
 
 
 if __name__ == "__main__":

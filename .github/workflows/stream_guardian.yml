@@ -1,0 +1,117 @@
+name: 🛡️ Stream Guardian
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/stream_guardian.yml'
+      - 'stream_guardian.py'
+      - 'main_scraper.py'
+      - 'requirements.txt'
+  schedule:
+    - cron: '17 */3 * * *'  # প্রতি ৩ ঘণ্টায়; main scanner-এর ১৭ মিনিট পরে
+  workflow_dispatch:
+    inputs:
+      guardian_mode:
+        description: 'Guardian Mode'
+        required: true
+        default: 'APPLY'
+        type: choice
+        options:
+          - APPLY
+          - DRY_RUN
+      guardian_category:
+        description: 'Category'
+        required: true
+        default: 'All'
+        type: choice
+        options:
+          - All
+          - Bangla Movies
+          - English Movies
+          - Hindi Movies
+          - Hindi Dubbed Movies
+          - Bangla Dubbed
+          - Tamil Movies
+          - Malayalam Movies
+          - Kannada Movies
+          - Telugu Movies
+          - Disney Hotstar
+
+permissions:
+  contents: write
+
+concurrency:
+  group: movie-catalog-writer
+  cancel-in-progress: false
+
+jobs:
+  guardian:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: 🌐 Install & Connect Cloudflare WARP
+        run: |
+          curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt-get update -qq
+          sudo apt-get install -y cloudflare-warp
+          sudo systemctl start warp-svc || true
+          sleep 2
+          sudo warp-cli --accept-tos registration new
+          sudo warp-cli --accept-tos connect
+          sleep 5
+          echo "📍 IP after WARP:"
+          curl -s https://api.ipify.org && echo ""
+
+      - name: 🐍 Setup Python 3.12
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 📦 Install Guardian Dependencies
+        run: |
+          pip install -q -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: 🛡️ Audit and Repair Streams
+        env:
+          MAIN_SITE_URL: ${{ secrets.MAIN_SITE_URL }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+          GUARDIAN_MODE: ${{ github.event_name == 'push' && 'DRY_RUN' || (github.event.inputs.guardian_mode || 'APPLY') }}
+          GUARDIAN_CATEGORY: ${{ github.event.inputs.guardian_category || 'All' }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          if [ "$GUARDIAN_MODE" = "DRY_RUN" ]; then
+            python -u stream_guardian.py --dry-run --category "$GUARDIAN_CATEGORY"
+          else
+            python -u stream_guardian.py --apply --category "$GUARDIAN_CATEGORY"
+          fi
+
+      - name: 📊 Upload Guardian Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stream-guardian-report-${{ github.run_number }}
+          path: guardian-report.json
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: 📤 Push Guardian Repairs
+        if: success() && (github.event_name == 'schedule' || github.event.inputs.guardian_mode == 'APPLY')
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add categories/ history/
+          git diff --staged --quiet || git commit -m "🛡️ Stream Guardian automatic repair"
+          git push

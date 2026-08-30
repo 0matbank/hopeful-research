@@ -1476,6 +1476,7 @@ async def repair_dead_links(
     *,
     respect_cooldown=True,
     max_repair_minutes=MAX_REPAIR_MINUTES,
+    target_source_urls=None,
 ):
     """Category-র existing movies-এ dead link চেক করে fresh link দিয়ে replace করে।"""
     json_filename = config["json"]
@@ -1514,10 +1515,15 @@ async def repair_dead_links(
     movies_with_dead_links = []
 
     # পুরো category check করি; আগের first-20 logic পরের movie-গুলোকে অনন্তকাল বাদ দিত।
+    target_source_urls = {
+        normalize_source_url(url) for url in (target_source_urls or []) if normalize_source_url(url)
+    }
     candidates = []
     for movie in existing_movies:
         movie_name = movie.get("name", "Unknown")
         movie_category = movie.get("category", target_category_name)
+        if target_source_urls and normalize_source_url(movie.get("source_url", "")) not in target_source_urls:
+            continue
         if respect_cooldown and should_skip_repair(movie_name, movie_category, failed_repairs):
             print(f"⏭️ Skipping '{movie_name}' (failed repair < 24h ago)", flush=True)
             continue

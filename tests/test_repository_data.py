@@ -47,6 +47,16 @@ class RepositoryDataTests(unittest.TestCase):
                 ]
                 self.assertEqual(len(identities), len(set(identities)))
 
+    def test_scanner_and_guardian_share_one_non_cancelling_write_lock(self):
+        scanner_workflow = (ROOT / ".github/workflows/scraper.yml").read_text(encoding="utf-8")
+        guardian_workflow = (ROOT / ".github/workflows/stream_guardian.yml").read_text(encoding="utf-8")
+        for workflow in (scanner_workflow, guardian_workflow):
+            self.assertIn("group: movie-catalog-writer", workflow)
+            self.assertIn("cancel-in-progress: false", workflow)
+        self.assertIn("cron: '17 */3 * * *'", guardian_workflow)
+        self.assertIn("github.event_name == 'push' && 'DRY_RUN'", guardian_workflow)
+        self.assertNotIn("Auto Repair Dead Links", scanner_workflow)
+
 
 if __name__ == "__main__":
     unittest.main()
