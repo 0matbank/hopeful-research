@@ -152,6 +152,68 @@ class MovieScraperTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "Duplicate source_url"):
                 main_scraper.save_category_outputs("Test", self.make_config(root), movies)
 
+    def test_repair_removes_unreplaceable_dead_quality_when_alive_quality_remains(self):
+        alive_link = "https://cdn.example.com/movie.1080p.mkv"
+        original = [
+            {"resolution": "HEVC 1080P", "link": "https://cdn.example.com/dead-hevc.mkv"},
+            {"resolution": "HD 1080P", "link": alive_link},
+        ]
+        repaired, replaced, removed = main_scraper.reconcile_repair_links(
+            original,
+            [0],
+            [{"resolution": "HD 1080P", "link": alive_link}],
+        )
+        self.assertEqual(repaired, [original[1]])
+        self.assertEqual((replaced, removed), (0, 1))
+
+    def test_repair_matches_fresh_links_by_resolution(self):
+        original = [
+            {"resolution": "HD 1080P", "link": "https://cdn.example.com/dead-hd.mkv"},
+            {"resolution": "HEVC 1080P", "link": "https://cdn.example.com/dead-hevc.mkv"},
+        ]
+        fresh = [
+            {"resolution": "HEVC 1080P", "link": "https://cdn.example.com/fresh-hevc.mkv"},
+            {"resolution": "HD 1080P", "link": "https://cdn.example.com/fresh-hd.mkv"},
+        ]
+        repaired, replaced, removed = main_scraper.reconcile_repair_links(original, [0, 1], fresh)
+        self.assertEqual([item["resolution"] for item in repaired], ["HD 1080P", "HEVC 1080P"])
+        self.assertEqual((replaced, removed), (2, 0))
+
+    def test_repair_does_not_assign_a_different_season_to_dead_episode(self):
+        original = [{
+            "season": "S01",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://cdn.example.com/dead-s1e1.mkv",
+        }]
+        fresh = [{
+            "season": "S02",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://cdn.example.com/fresh-s2e1.mkv",
+        }]
+        repaired, replaced, removed = main_scraper.reconcile_repair_links(original, [0], fresh)
+        self.assertEqual(repaired[0]["season"], "S02")
+        self.assertEqual((replaced, removed), (0, 1))
+
+    def test_site_search_rejects_unrelated_first_result(self):
+        unrelated = {
+            "href": "https://example.com/random-action-movie-2026-download",
+            "text": "Random Action Movie (2026)",
+        }
+        exact = {
+            "href": "https://example.com/hero-2021-full-movie-download",
+            "text": "Hero (2021) Full Movie Download",
+        }
+        self.assertLess(main_scraper.site_search_match_score("Hero", unrelated), 0.72)
+        self.assertGreaterEqual(main_scraper.site_search_match_score("Hero", exact), 0.72)
+
+    def test_failed_repair_cache_is_category_scoped(self):
+        failures = {}
+        main_scraper.record_failed_repair("Hero", "Bangla Movies", ["dead"], failures)
+        self.assertTrue(main_scraper.should_skip_repair("Hero", "Bangla Movies", failures))
+        self.assertFalse(main_scraper.should_skip_repair("Hero", "Hindi Movies", failures))
+
 
 class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
     async def test_auto_repair_does_not_overwrite_scan_rotation(self):
@@ -169,6 +231,55 @@ class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(state["run_count"], 2)
         self.assertEqual(state["repair_category_index"], 5)
         save_state.assert_called_once_with(state)
+
+    async def test_specific_repair_bypasses_cooldown_and_gets_full_time_budget(self):
+        repair = AsyncMock()
+        with (
+            patch.object(main_scraper, "SCAN_MODE", "REPAIR_SPECIFIC"),
+            patch.object(main_scraper, "REPAIR_CATEGORY", "Hindi Movies"),
+            patch.object(main_scraper, "load_tracker_state", return_value={}),
+            patch.object(main_scraper, "repair_dead_links", repair),
+        ):
+            await main_scraper.main()
+
+        repair.assert_awaited_once_with(
+            "Hindi Movies",
+            main_scraper.CATEGORIES_MAP["Hindi Movies"],
+            respect_cooldown=False,
+            max_repair_minutes=75,
+        )
+
+    async def test_specific_repair_checks_beyond_the_old_first_twenty_limit(self):
+        with tempfile.TemporaryDirectory() as root:
+            category_dir = Path(root) / "category"
+            category_dir.mkdir()
+            json_path = category_dir / "movies.json"
+            movies = [
+                {
+                    "name": f"Movie {index}",
+                    "category": "Test",
+                    "year": "2026",
+                    "poster": "N/A",
+                    "source_url": f"https://example.com/movie-{index}",
+                    "res_list": [{
+                        "resolution": "HD 1080P",
+                        "link": f"https://cdn.example.com/movie-{index}.mkv",
+                    }],
+                }
+                for index in range(25)
+            ]
+            json_path.write_text(json.dumps({"movies": movies}), encoding="utf-8")
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(json_path),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            with patch.object(main_scraper, "is_stream_link_dead_sync", return_value=False) as health_check:
+                await main_scraper.repair_dead_links("Test", config, respect_cooldown=False)
+
+            self.assertEqual(health_check.call_count, 25)
 
 
 if __name__ == "__main__":

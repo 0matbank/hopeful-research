@@ -414,8 +414,11 @@ def is_page_url_alive_sync(page_url):
             if resp.status in [200, 301, 302]:
                 return True
     except urllib.error.HTTPError as e:
-        if e.code in [404, 410, 403]:
+        if e.code in [404, 410]:
             return False
+        # Cloudflare অনেক সময় urllib HEAD-এ 403 দিলেও browser/WARP-এ page খোলে।
+        if e.code == 403:
+            return True
     except Exception:
         pass
     return False
@@ -440,11 +443,20 @@ def save_failed_repairs(data):
     with open(FAILED_REPAIRS_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-def should_skip_repair(movie_name, failed_repairs):
+def failed_repair_key(movie_name, category):
+    return f"{normalize_title_key(category)}::{normalize_title_key(movie_name)}"
+
+
+def should_skip_repair(movie_name, category, failed_repairs):
     """24 ঘণ্টার মধ্যে আবার retry করবে না।"""
-    key = movie_name.lower().strip()
-    if key in failed_repairs:
-        entry = failed_repairs[key]
+    key = failed_repair_key(movie_name, category)
+    entry = failed_repairs.get(key)
+    if entry is None:
+        # পুরোনো title-only tracker backward-compatibleভাবে পড়ি, কিন্তু category মিললেই।
+        legacy_entry = failed_repairs.get(movie_name.lower().strip())
+        if isinstance(legacy_entry, dict) and legacy_entry.get("category") == category:
+            entry = legacy_entry
+    if entry is not None:
         # পুরনো বা corrupt entry (float/int/string) হলে skip করো
         if not isinstance(entry, dict):
             return False
@@ -462,7 +474,7 @@ def should_skip_repair(movie_name, failed_repairs):
 
 def record_failed_repair(movie_name, category, dead_links, failed_repairs):
     """Failed repair log করে।"""
-    key = movie_name.lower().strip()
+    key = failed_repair_key(movie_name, category)
     # পুরনো entry dict না হলে (corrupt/float), attempt_count 0 থেকে শুরু
     old_entry = failed_repairs.get(key, {})
     old_count = old_entry.get("attempt_count", 0) if isinstance(old_entry, dict) else 0
@@ -473,6 +485,14 @@ def record_failed_repair(movie_name, category, dead_links, failed_repairs):
         "last_attempt": datetime.now(timezone.utc).isoformat(),
         "attempt_count": old_count + 1
     }
+
+
+def clear_failed_repair(movie_name, category, failed_repairs):
+    failed_repairs.pop(failed_repair_key(movie_name, category), None)
+    legacy_key = movie_name.lower().strip()
+    legacy_entry = failed_repairs.get(legacy_key)
+    if isinstance(legacy_entry, dict) and legacy_entry.get("category") == category:
+        failed_repairs.pop(legacy_key, None)
 
 # ==============================================================================
 # 🎬 পোস্টার ফেচিং সিস্টেম (TMDB -> OMDb/IMDb -> Cinemeta Multi-Fallback)
@@ -1278,6 +1298,14 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 # ==============================================================================
 # 🔍 Main Site Search — Movie Name দিয়ে নতুন Page URL খোঁজা
 # ==============================================================================
+def site_search_match_score(movie_name, result):
+    href = result.get("href", "")
+    text = result.get("text", "")
+    page_name, _ = resolve_movie_identity(text, [])
+    slug = urllib.parse.unquote(urllib.parse.urlparse(href).path).strip("/").rsplit("/", 1)[-1]
+    return max(title_similarity(movie_name, page_name), title_similarity(movie_name, slug))
+
+
 async def search_movie_on_site(browser, movie_name, cat_slug):
     """Main site-এ movie name দিয়ে search করে matching page URL বের করে।"""
     found_url = None
@@ -1313,21 +1341,13 @@ async def search_movie_on_site(browser, movie_name, cat_slug):
                 }
             """)
 
-            if search_results:
-                query_lower = clean_query.lower()
-                for result in search_results:
-                    result_text_lower = result.get("text", "").lower()
-                    query_words = set(query_lower.split())
-                    result_words = set(result_text_lower.split())
-                    overlap = len(query_words & result_words)
-                    if overlap >= max(1, len(query_words) // 2):
-                        found_url = result["href"]
-                        print(f"   ✅ Search match found: {found_url}", flush=True)
-                        break
-
-                if not found_url and search_results:
-                    found_url = search_results[0]["href"]
-                    print(f"   ⚠️ No exact match, using first result: {found_url}", flush=True)
+            ranked_results = sorted(
+                ((site_search_match_score(movie_name, result), result["href"]) for result in search_results),
+                reverse=True,
+            )
+            if ranked_results and ranked_results[0][0] >= 0.72:
+                score, found_url = ranked_results[0]
+                print(f"   ✅ Search match found ({score:.2f}): {found_url}", flush=True)
         except Exception as e:
             print(f"   ⚠️ Search failed: {e}", flush=True)
 
@@ -1346,21 +1366,13 @@ async def search_movie_on_site(browser, movie_name, cat_slug):
                     }
                 """)
 
-                query_lower = clean_title_for_tmdb(movie_name).lower()
-                for link_info in cat_links:
-                    link_text_lower = link_info.get("text", "").lower()
-                    link_slug = link_info["href"].lower().split("/")[-1] if "/" in link_info["href"] else ""
-                    query_words = set(query_lower.split())
-                    text_words = set(link_text_lower.split())
-                    slug_words = set(link_slug.replace("-", " ").split())
-
-                    text_overlap = len(query_words & text_words)
-                    slug_overlap = len(query_words & slug_words)
-
-                    if text_overlap >= max(1, len(query_words) // 2) or slug_overlap >= max(1, len(query_words) // 2):
-                        found_url = link_info["href"]
-                        print(f"   ✅ Category page match: {found_url}", flush=True)
-                        break
+                ranked_links = sorted(
+                    ((site_search_match_score(movie_name, result), result["href"]) for result in cat_links),
+                    reverse=True,
+                )
+                if ranked_links and ranked_links[0][0] >= 0.72:
+                    score, found_url = ranked_links[0]
+                    print(f"   ✅ Category page match ({score:.2f}): {found_url}", flush=True)
             except Exception as e:
                 print(f"   ⚠️ Category scan failed: {e}", flush=True)
 
@@ -1372,9 +1384,99 @@ async def search_movie_on_site(browser, movie_name, cat_slug):
 # ==============================================================================
 # 🛠️ Dead Link Repair Pipeline (পুরানো মুভির Dead Link চেক ও রিপেয়ার)
 # ==============================================================================
-REPAIR_LIMIT_PER_RUN = 20
+REPAIR_CHECK_CONCURRENCY = 15
 
-async def repair_dead_links(target_category_name, config):
+
+def reconcile_repair_links(original_res_list, dead_indices, validated_fresh):
+    """Replace dead entries deterministically and never report success with dead leftovers."""
+    dead_indices = set(dead_indices)
+    new_res_list = []
+    seen_links = set()
+
+    for index, item in enumerate(original_res_list):
+        link = item.get("link", "")
+        if index not in dead_indices and link and link not in seen_links:
+            new_res_list.append(dict(item))
+            seen_links.add(link)
+
+    fresh_candidates = []
+    for fresh in validated_fresh:
+        fresh_item = dict(fresh)
+        detected = parse_link_metadata(
+            fresh_item.get("link", ""), fresh_item.get("resolution", "HD 1080P")
+        )
+        for key in ("season", "episode"):
+            if fresh_item.get(key, "N/A") == "N/A" and detected[key] != "N/A":
+                fresh_item[key] = detected[key]
+        link = fresh_item.get("link", "")
+        if link and link not in seen_links and all(link != item.get("link") for item in fresh_candidates):
+            fresh_candidates.append(fresh_item)
+
+    def candidate_score(old_item, fresh_item):
+        score = 0
+        for key in ("season", "episode"):
+            old_value = old_item.get(key, "N/A")
+            fresh_value = fresh_item.get(key, "N/A")
+            if old_value != "N/A" and fresh_value == old_value:
+                score += 4
+            elif old_value != "N/A" and fresh_value != "N/A" and fresh_value != old_value:
+                score -= 6
+        if fresh_item.get("resolution", "HD 1080P") == old_item.get("resolution", "HD 1080P"):
+            score += 2
+        return score
+
+    replaced_count = 0
+    for index in sorted(dead_indices):
+        old_item = original_res_list[index]
+        if not fresh_candidates:
+            continue
+        compatible_indexes = []
+        for candidate_index, fresh_item in enumerate(fresh_candidates):
+            metadata_conflict = any(
+                old_item.get(key, "N/A") != "N/A"
+                and fresh_item.get(key, "N/A") != "N/A"
+                and old_item.get(key) != fresh_item.get(key)
+                for key in ("season", "episode")
+            )
+            if not metadata_conflict:
+                compatible_indexes.append(candidate_index)
+        if not compatible_indexes:
+            continue
+        best_index = max(
+            compatible_indexes,
+            key=lambda candidate_index: candidate_score(old_item, fresh_candidates[candidate_index]),
+        )
+        fresh_item = fresh_candidates.pop(best_index)
+        replacement = {
+            "resolution": fresh_item.get("resolution", old_item.get("resolution", "HD 1080P")),
+            "link": fresh_item["link"],
+        }
+        for key in ("season", "episode"):
+            value = fresh_item.get(key, "N/A")
+            if value == "N/A":
+                value = old_item.get(key, "N/A")
+            if value != "N/A":
+                replacement[key] = value
+        new_res_list.append(replacement)
+        seen_links.add(replacement["link"])
+        replaced_count += 1
+
+    for fresh_item in fresh_candidates:
+        link = fresh_item.get("link", "")
+        if link and link not in seen_links:
+            new_res_list.append(fresh_item)
+            seen_links.add(link)
+
+    removed_count = len(dead_indices) - replaced_count
+    return new_res_list, replaced_count, removed_count
+
+async def repair_dead_links(
+    target_category_name,
+    config,
+    *,
+    respect_cooldown=True,
+    max_repair_minutes=MAX_REPAIR_MINUTES,
+):
     """Category-র existing movies-এ dead link চেক করে fresh link দিয়ে replace করে।"""
     json_filename = config["json"]
     output_filename = config["file"]
@@ -1411,25 +1513,21 @@ async def repair_dead_links(target_category_name, config):
     # ৩. Dead link detection — সব movie ও link একসাথে parallel চেক (⚡ Fast)
     movies_with_dead_links = []
 
-    # Limit করা movies বাছাই (skip ও limit আগেই apply)
+    # পুরো category check করি; আগের first-20 logic পরের movie-গুলোকে অনন্তকাল বাদ দিত।
     candidates = []
-    checked_count = 0
     for movie in existing_movies:
-        if checked_count >= REPAIR_LIMIT_PER_RUN:
-            print(f"⚠️ Repair limit reached ({REPAIR_LIMIT_PER_RUN} movies checked). Remaining will be checked next run.", flush=True)
-            break
         movie_name = movie.get("name", "Unknown")
-        if should_skip_repair(movie_name, failed_repairs):
+        movie_category = movie.get("category", target_category_name)
+        if respect_cooldown and should_skip_repair(movie_name, movie_category, failed_repairs):
             print(f"⏭️ Skipping '{movie_name}' (failed repair < 24h ago)", flush=True)
             continue
         res_list = movie.get("res_list", [])
         if not res_list:
             continue
-        checked_count += 1
         candidates.append(movie)
 
-    # ⚡ সব link একসাথে parallel check (max 15 concurrent)
-    sem = asyncio.Semaphore(15)
+    # ⚡ সব link একসাথে parallel check
+    sem = asyncio.Semaphore(REPAIR_CHECK_CONCURRENCY)
 
     async def check_one_link(movie_name, idx, link):
         """একটা link check করে result দেয়।"""
@@ -1482,6 +1580,9 @@ async def repair_dead_links(target_category_name, config):
 
         try:
             for repair_info in movies_with_dead_links:
+                if is_time_running_out(max_repair_minutes):
+                    print("⏰ Repair time budget reached; completed changes will be saved safely.", flush=True)
+                    break
                 movie = repair_info["movie"]
                 dead_indices = repair_info["dead_indices"]
                 movie_name = movie.get("name", "Unknown")
@@ -1540,53 +1641,29 @@ async def repair_dead_links(target_category_name, config):
                     else:
                         print(f"   ⚠️ Fresh link ALSO dead (skipping): {fresh_link[:70]}...", flush=True)
 
-                if not validated_fresh:
-                    print(f"   ❌ All fresh links are also dead for '{movie_name}'. Logging as failed.", flush=True)
+                # Step F: dead entry replace; replacement না থাকলেও অন্য alive quality থাকলে dead entry বাদ দিই।
+                original_res_list = movie.get("res_list", [])
+                new_res_list, replaced_links, removed_dead_links = reconcile_repair_links(
+                    original_res_list, dead_indices, validated_fresh
+                )
+
+                if not new_res_list:
+                    print(f"   ❌ No usable stream remains for '{movie_name}'. Logging as failed.", flush=True)
                     record_failed_repair(movie_name, movie_category, repair_info["dead_links"], failed_repairs)
                     failed_count += 1
                     continue
 
-                # Step F: Dead link replace করা
-                original_res_list = movie.get("res_list", [])
-                new_res_list = []
-
-                for idx, item in enumerate(original_res_list):
-                    if idx in dead_indices:
-                        old_res = item.get("resolution", "HD 1080P")
-                        replaced = False
-                        for fresh in validated_fresh:
-                            fresh_res = fresh.get("resolution", "HD 1080P")
-                            if fresh_res == old_res or not replaced:
-                                new_item = {
-                                    "resolution": fresh.get("resolution", old_res),
-                                    "link": fresh["link"]
-                                }
-                                if item.get("season") and item["season"] != "N/A":
-                                    new_item["season"] = item["season"]
-                                if item.get("episode") and item["episode"] != "N/A":
-                                    new_item["episode"] = item["episode"]
-                                new_res_list.append(new_item)
-                                validated_fresh.remove(fresh)
-                                replaced = True
-                                break
-                        if not replaced:
-                            new_res_list.append(item)
-                    else:
-                        new_res_list.append(item)
-
-                # বাকি validated fresh links যেগুলো unused — add করা
-                for extra_fresh in validated_fresh:
-                    new_res_list.append(extra_fresh)
-
                 movie["res_list"] = new_res_list
                 movie["source_url"] = normalize_source_url(repair_page_url)
                 repaired_count += 1
-                print(f"   ✅ Successfully repaired '{movie_name}'!", flush=True)
+                print(
+                    f"   ✅ Successfully repaired '{movie_name}' "
+                    f"(replaced={replaced_links}, removed_dead={removed_dead_links})!",
+                    flush=True,
+                )
 
                 # Repair সফল হলে failed_repairs থেকে remove
-                key = movie_name.lower().strip()
-                if key in failed_repairs:
-                    del failed_repairs[key]
+                clear_failed_repair(movie_name, movie_category, failed_repairs)
 
         finally:
             await browser.close()
@@ -1651,7 +1728,13 @@ async def main():
             print(f"⚠️ Invalid REPAIR_CATEGORY. Defaulting to '{repair_cat}'", flush=True)
         repair_config = CATEGORIES_MAP[repair_cat]
         print(f"🛠️ [REPAIR SPECIFIC] Repairing Category: '{repair_cat}'", flush=True)
-        await repair_dead_links(repair_cat, repair_config)
+        # Manual repair পুরো category check করে এবং আগের failed cooldown bypass করে।
+        await repair_dead_links(
+            repair_cat,
+            repair_config,
+            respect_cooldown=False,
+            max_repair_minutes=75,
+        )
         print("\n🎉 Repair Completed Successfully!", flush=True)
         return
     else:
