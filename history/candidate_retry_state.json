@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "categories": {
+    "Bangla Dubbed": {
+      "https://cinefreak.net/cid-2025-season-2-web-dl-bengali-dubbed-sliv-web-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-30T11:00:03.038394+00:00",
+        "retry_after_epoch": 1788130803,
+        "retry_after": "2026-08-30T23:00:03.038394+00:00"
+      },
+      "https://cinefreak.net/spider-man-far-from-home-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-30T11:00:03.038447+00:00",
+        "retry_after_epoch": 1788130803,
+        "retry_after": "2026-08-30T23:00:03.038447+00:00"
+      },
+      "https://cinefreak.net/ray-2021-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-30T11:00:03.039531+00:00",
+        "retry_after_epoch": 1788130803,
+        "retry_after": "2026-08-30T23:00:03.039531+00:00"
+      },
+      "https://cinefreak.net/oops-ab-kya-2025-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-30T11:00:03.039758+00:00",
+        "retry_after_epoch": 1788130803,
+        "retry_after": "2026-08-30T23:00:03.039758+00:00"
+      }
+    }
+  }
+}

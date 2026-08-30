@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 36
-LAST UPDATED: 2026-08-30 | 07:38:58 (UTC)
+TOTAL MOVIES: 42
+LAST UPDATED: 2026-08-30 | 11:00:03 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -164,7 +164,7 @@ Movie-9
 Show name: Emergency Room
 Category: Bangla Dubbed
 Year: 2026
-Poster: https://cineimg.xyz/images/6e1d5200a795935c009730c0fbb51ff0.jpg
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP37X9Qm0i8F3UucC6buI0MsI5z.jpg
 Source URL: https://cinefreak.net/emergency-room-2025-full-series-download
 
 Season: S01
@@ -512,6 +512,37 @@ Episode: N/A
 ================================================================================
 
 Movie-30
+Movie name: Abigail
+Category: Bangla Dubbed
+Year: 2024
+Poster: https://cinefreak.net/wp-content/uploads/2026/04/Abigail-2024.webp
+Source URL: https://cinefreak.net/abigail-2024-bengali-dubbed-full-movie-download
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-31
+Show name: 1000 Babies
+Category: Bangla Dubbed
+Year: 2024
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4NujYjc4GkbjWlwCJpybuFzFWt.jpg
+Source URL: https://cinefreak.net/1000-babies-2024-full-series-download
+
+Season: S01
+Episode: Episode 01-04
+  Resolution-1: 4K 2160P HEVC
+  Link-1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+Season: S01
+Episode: Episode 05-07
+  Resolution-2: 4K 2160P HEVC
+  Link-2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E05-07%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-32
 Show name: Ayali
 Category: Bangla Dubbed
 Year: 2023
@@ -525,7 +556,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-31
+Movie-33
 Show name: Save The Tigers
 Category: Bangla Dubbed
 Year: 2023
@@ -544,7 +575,50 @@ Episode: N/A
 
 ================================================================================
 
-Movie-32
+Movie-34
+Movie name: Blind
+Category: Bangla Dubbed
+Year: 2023
+Poster: https://cinefreak.net/wp-content/uploads/2026/04/Blind-2023.webp
+Source URL: https://cinefreak.net/blind-2023-full-movie-download
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-35
+Show name: Undekhi
+Category: Bangla Dubbed
+Year: 2022
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/enb1Ylom4P5ovmDznPeKwEloxO3.jpg
+Source URL: https://cinefreak.net/undekhi-2020-full-series-download
+
+Season: S02
+Episode: Episode 01-05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E01-05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Season: S02
+Episode: Episode 06-10
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-36
+Movie name: Bhediya
+Category: Bangla Dubbed
+Year: 2022
+Poster: https://cinefreak.net/wp-content/uploads/2026/04/Bhediya-2022.webp
+Source URL: https://cinefreak.net/bhediya-2022-full-movie-download
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-37
 Movie name: Kadakh
 Category: Bangla Dubbed
 Year: 2019
@@ -556,7 +630,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-38
 Movie name: Shiva The Tiny Men From Mountain
 Category: Bangla Dubbed
 Year: 2019
@@ -568,7 +642,7 @@ STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-39
 Movie name: The Amazing Spider-Man 2
 Category: Bangla Dubbed
 Year: 2014
@@ -580,7 +654,19 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-40
+Movie name: The Amazing Spider-Man
+Category: Bangla Dubbed
+Year: 2012
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2012.jpg
+Source URL: https://cinefreak.net/the-amazing-spider-man-2012-bengali-dubbed-full-movie-download
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-41
 Show name: Man Vs. Wild
 Category: Bangla Dubbed
 Year: 2006
@@ -594,7 +680,7 @@ Episode: Episode 01-05
 
 ================================================================================
 
-Movie-36
+Movie-42
 Movie name: Spider-Man
 Category: Bangla Dubbed
 Year: 2002
