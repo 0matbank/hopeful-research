@@ -25,6 +25,18 @@
         "last_failed_at": "2026-08-30T11:00:03.039758+00:00",
         "retry_after_epoch": 1788130803,
         "retry_after": "2026-08-30T23:00:03.039758+00:00"
+      },
+      "https://cinefreak.net/blink-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-30T15:44:39.067245+00:00",
+        "retry_after_epoch": 1788147879,
+        "retry_after": "2026-08-31T03:44:39.067245+00:00"
+      },
+      "https://cinefreak.net/the-fall-guy-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-30T15:44:39.067428+00:00",
+        "retry_after_epoch": 1788147879,
+        "retry_after": "2026-08-31T03:44:39.067428+00:00"
       }
     }
   }
