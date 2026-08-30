@@ -10,6 +10,8 @@ import random
 import os
 import sys
 import time
+import unicodedata
+from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from playwright.async_api import async_playwright
 
@@ -240,6 +242,108 @@ def clean_title_for_tmdb(name):
     clean = re.sub(r'\s+', ' ', clean).strip()
     return clean
 
+
+def normalize_title_key(value):
+    """Return a conservative comparison key for movie-title validation."""
+    text = unicodedata.normalize("NFKD", str(value or ""))
+    text = text.encode("ascii", "ignore").decode("ascii").lower()
+    text = text.replace("&", " and ")
+    text = re.sub(r"\[18\+\]", " ", text)
+    text = re.sub(r"\b(?:full|movie|series|watch|download|web|dl|bluray|hdtc|esub|hevc)\b", " ", text)
+    return re.sub(r"[^a-z0-9]+", "", text)
+
+
+def title_similarity(left, right):
+    left_key = normalize_title_key(left)
+    right_key = normalize_title_key(right)
+    if not left_key or not right_key:
+        return 0.0
+    if left_key == right_key:
+        return 1.0
+    if left_key in right_key or right_key in left_key:
+        shorter = min(len(left_key), len(right_key))
+        longer = max(len(left_key), len(right_key))
+        return 0.80 + (0.20 * shorter / longer)
+    return SequenceMatcher(None, left_key, right_key).ratio()
+
+
+def movie_identity_key(name, year, is_series=False):
+    """Keep separate releases/pages while merging exact title/year duplicates."""
+    normalized_year = str(year) if str(year).isdigit() else "N/A"
+    title_key = normalize_title_key(name)
+    if re.match(r"^\s*the\b", str(name or ""), flags=re.IGNORECASE):
+        title_key = title_key[3:]
+    return title_key, normalized_year
+
+
+def extract_stream_identity(res_list):
+    """Extract the content title/year from a captured direct-stream filename."""
+    for item in res_list or []:
+        stream_url = urllib.parse.unquote(item.get("link", ""))
+        filename = urllib.parse.urlparse(stream_url).path.rsplit("/", 1)[-1]
+        filename = re.sub(r"\.(?:mkv|mp4|m3u8)$", "", filename, flags=re.IGNORECASE)
+        filename = re.sub(r"^CINEFREAK\.TOP\s*-\s*", "", filename, flags=re.IGNORECASE)
+
+        year_match = re.search(r"\(((?:19|20)\d{2})\)", filename)
+        stream_year = year_match.group(1) if year_match else "N/A"
+        title_part = filename[:year_match.start()] if year_match else filename
+        title_part = re.split(
+            r"\s*(?:\[S\d{1,2}E\d|\bS\d{1,2}\b|\bWEB-DL\b|\bBluRay\b|\bHDTC\b|\bDS4K\b|\b1080p\b|\b2160p\b)",
+            title_part,
+            maxsplit=1,
+            flags=re.IGNORECASE,
+        )[0]
+        stream_title = re.sub(r"\s+", " ", title_part).strip(" -_[]()")
+        if stream_title:
+            return stream_title, stream_year
+    return "", "N/A"
+
+
+def resolve_movie_identity(page_title, res_list):
+    """Prefer stream metadata only when it clearly contradicts the page title."""
+    page_title = re.sub(r"\s+", " ", str(page_title or "")).strip()
+    page_year_match = re.search(r"\(((?:19|20)\d{2})\)", page_title)
+    if not page_year_match:
+        page_year_match = re.search(r"\b((?:19|20)\d{2})\b", page_title)
+    page_year = page_year_match.group(1) if page_year_match else "N/A"
+
+    page_name = page_title
+    if page_year_match:
+        leading_title = page_title[:page_year_match.start()].strip()
+        if leading_title:
+            page_name = leading_title
+    page_name = re.split(
+        r"\s*(?:\||\bFull Movie\b|\bWEB-DL\b|\bBluRay\b|\bHDTC\b)",
+        page_name,
+        maxsplit=1,
+        flags=re.IGNORECASE,
+    )[0]
+    page_name = re.sub(r"^Watch\s+", "", page_name, flags=re.IGNORECASE)
+    page_name = re.sub(r"[\s\-\[\]()]+$", "", page_name).strip()
+
+    stream_name, stream_year = extract_stream_identity(res_list)
+    descriptive_words = re.findall(r"[A-Za-z]{2,}", stream_name)
+    stream_name_is_descriptive = len(descriptive_words) >= 2 and bool(re.search(r"\s", stream_name))
+    if not page_name or page_name == "Movie Post":
+        page_name = stream_name if stream_name_is_descriptive else "Movie Post"
+    elif stream_name_is_descriptive and title_similarity(page_name, stream_name) < 0.55:
+        print(f"WARNING: Title/content mismatch: page='{page_name}', stream='{stream_name}'. Using stream identity.", flush=True)
+        page_name = stream_name
+
+    year = stream_year if stream_year != "N/A" else page_year
+    return page_name, year
+
+
+def poster_result_matches(movie_name, year, result_title, result_year=None):
+    """Reject unrelated first-search-result posters."""
+    if title_similarity(movie_name, result_title) < 0.72:
+        return False
+    wanted_year = str(year or "")
+    found_year_match = re.search(r"\b(?:19|20)\d{2}\b", str(result_year or ""))
+    if wanted_year.isdigit() and found_year_match and wanted_year != found_year_match.group(0):
+        return False
+    return True
+
 # ==============================================================================
 # ⚡ রিয়েল ওয়াচ লিঙ্ক প্রটেক্টেড হেলথ চেক (Improved — CDN ও validate করে)
 # ==============================================================================
@@ -408,7 +512,19 @@ def fetch_tmdb_poster_sync(movie_name, year):
                 pass
 
         if results:
-            for item in results:
+            ranked_results = sorted(
+                results,
+                key=lambda item: max(
+                    title_similarity(movie_name, item.get("title", "")),
+                    title_similarity(movie_name, item.get("original_title", "")),
+                ),
+                reverse=True,
+            )
+            for item in ranked_results:
+                result_title = item.get("title") or item.get("original_title") or ""
+                result_year = item.get("release_date", "")
+                if not poster_result_matches(movie_name, year, result_title, result_year):
+                    continue
                 poster_path = item.get("poster_path")
                 if poster_path:
                     return f"https://image.tmdb.org/t/p/w600_and_h900_bestv2{poster_path}"
@@ -435,7 +551,12 @@ def fetch_omdb_poster_sync(movie_name, year):
                     if resp.status == 200:
                         data = json.loads(resp.read().decode('utf-8'))
                         poster = data.get("Poster")
-                        if poster and poster != "N/A" and poster.startswith("http"):
+                        if (
+                            poster
+                            and poster != "N/A"
+                            and poster.startswith("http")
+                            and poster_result_matches(movie_name, year, data.get("Title", ""), data.get("Year", ""))
+                        ):
                             return poster
             except Exception:
                 pass
@@ -447,7 +568,12 @@ def fetch_omdb_poster_sync(movie_name, year):
                 if resp.status == 200:
                     data = json.loads(resp.read().decode('utf-8'))
                     poster = data.get("Poster")
-                    if poster and poster != "N/A" and poster.startswith("http"):
+                    if (
+                        poster
+                        and poster != "N/A"
+                        and poster.startswith("http")
+                        and poster_result_matches(movie_name, year, data.get("Title", ""), data.get("Year", ""))
+                    ):
                         return poster
         except Exception:
             pass
@@ -473,9 +599,17 @@ def fetch_cinemeta_poster_sync(movie_name, year):
                 data = json.loads(resp.read().decode('utf-8'))
                 metas = data.get("metas", [])
                 if metas and isinstance(metas, list):
-                    poster = metas[0].get("poster")
-                    if poster and poster.startswith("http"):
-                        return poster
+                    ranked_metas = sorted(
+                        metas,
+                        key=lambda item: title_similarity(movie_name, item.get("name", "")),
+                        reverse=True,
+                    )
+                    for item in ranked_metas:
+                        if not poster_result_matches(movie_name, year, item.get("name", ""), item.get("releaseInfo", "")):
+                            continue
+                        poster = item.get("poster")
+                        if poster and poster.startswith("http"):
+                            return poster
     except Exception:
         pass
     return "N/A"
@@ -520,6 +654,7 @@ def parse_existing_output_file(file_path):
             cat_m = re.search(r"Category:\s*(.*)", block)
             year_m = re.search(r"Year:\s*(.*)", block)
             poster_m = re.search(r"Poster:\s*(.*)", block)
+            source_m = re.search(r"Source URL:\s*(.*)", block)
 
             if not name_m:
                 continue
@@ -528,6 +663,7 @@ def parse_existing_output_file(file_path):
             cat = cat_m.group(1).strip() if cat_m else "N/A"
             year_str = year_m.group(1).strip() if year_m else "N/A"
             poster = poster_m.group(1).strip() if poster_m else "N/A"
+            source_url = source_m.group(1).strip().rstrip("/") if source_m else ""
 
             res_list = []
             current_season = "N/A"
@@ -558,11 +694,242 @@ def parse_existing_output_file(file_path):
                     "category": cat,
                     "year": year_str,
                     "poster": poster,
+                    "source_url": source_url,
                     "res_list": res_list
                 })
     except Exception as e:
         print(f"⚠️ Error reading existing file {file_path}: {e}", flush=True)
     return movies
+
+
+def normalize_source_url(url):
+    return str(url or "").strip().rstrip("/")
+
+
+def load_history_urls(history_filename):
+    if not os.path.exists(history_filename):
+        return []
+    seen = set()
+    urls = []
+    with open(history_filename, "r", encoding="utf-8") as history_file:
+        for line in history_file:
+            url = normalize_source_url(line)
+            if url and url not in seen:
+                seen.add(url)
+                urls.append(url)
+    return urls
+
+
+def append_unique_url(filename, url):
+    normalized_url = normalize_source_url(url)
+    if not normalized_url:
+        return
+    existing_urls = set(load_history_urls(filename))
+    if normalized_url not in existing_urls:
+        with open(filename, "a", encoding="utf-8", newline="\n") as output_file:
+            output_file.write(f"{normalized_url}\n")
+
+
+def source_url_match_score(movie, source_url):
+    slug = urllib.parse.unquote(urllib.parse.urlparse(source_url).path).strip("/").rsplit("/", 1)[-1]
+    scores = [title_similarity(movie.get("name", ""), slug)]
+    stream_name, _ = extract_stream_identity(movie.get("res_list", []))
+    if stream_name:
+        scores.append(title_similarity(stream_name, slug))
+    return max(scores)
+
+
+def find_source_url_for_movie(movie, history_urls):
+    stored_url = normalize_source_url(movie.get("source_url", ""))
+    if stored_url:
+        return stored_url
+    ranked = sorted(
+        ((source_url_match_score(movie, url), url) for url in history_urls),
+        reverse=True,
+    )
+    if ranked and ranked[0][0] >= 0.72:
+        return ranked[0][1]
+    return ""
+
+
+def is_series_movie(movie):
+    res_list = movie.get("res_list", [])
+    return any(
+        item.get("season", "N/A") != "N/A" or item.get("episode", "N/A") != "N/A"
+        for item in res_list
+        if isinstance(item, dict)
+    )
+
+
+def merge_duplicate_movies(movies):
+    """Merge duplicate records after recovering series metadata from filenames."""
+    merged = []
+    by_identity = {}
+    alias_source_urls = []
+    for movie in movies:
+        normalized_res_list = []
+        for item in movie.get("res_list", []):
+            normalized_item = dict(item)
+            detected = parse_link_metadata(item.get("link", ""), item.get("resolution", "HD 1080P"))
+            if normalized_item.get("season", "N/A") == "N/A" and detected["season"] != "N/A":
+                normalized_item["season"] = detected["season"]
+            if normalized_item.get("episode", "N/A") == "N/A" and detected["episode"] != "N/A":
+                normalized_item["episode"] = detected["episode"]
+            normalized_res_list.append(normalized_item)
+        movie["res_list"] = normalized_res_list
+
+        identity = movie_identity_key(movie.get("name", ""), movie.get("year"), is_series_movie(movie))
+        if identity not in by_identity:
+            by_identity[identity] = movie
+            merged.append(movie)
+            continue
+
+        target = by_identity[identity]
+        existing_links = {item.get("link") for item in target.get("res_list", [])}
+        for item in movie.get("res_list", []):
+            if item.get("link") not in existing_links:
+                target.setdefault("res_list", []).append(item)
+                existing_links.add(item.get("link"))
+        if target.get("poster") in {None, "", "N/A", "None"} and movie.get("poster"):
+            target["poster"] = movie["poster"]
+        alias_url = normalize_source_url(movie.get("source_url", ""))
+        if alias_url and alias_url != normalize_source_url(target.get("source_url", "")):
+            alias_source_urls.append(alias_url)
+
+    return merged, alias_source_urls
+
+
+def save_category_outputs(target_category_name, config, movies):
+    """Write TXT/JSON/M3U/history from one canonical in-memory movie list."""
+    output_filename = config["file"]
+    json_filename = config["json"]
+    m3u_filename = config["m3u"]
+    history_filename = os.path.join(config["dir"], "history.txt")
+    skipped_history_filename = os.path.join(config["dir"], "history_skipped.txt")
+
+    movies, alias_source_urls = merge_duplicate_movies(movies)
+    for alias_url in alias_source_urls:
+        append_unique_url(skipped_history_filename, alias_url)
+
+    def get_sort_year(movie):
+        value = movie.get("year", "0")
+        return int(value) if str(value).isdigit() else 0
+
+    movies.sort(key=get_sort_year, reverse=True)
+    current_utc_time = datetime.now(timezone.utc).strftime("%Y-%m-%d | %H:%M:%S (UTC)")
+    total_items_count = len(movies)
+
+    source_urls = []
+    for movie in movies:
+        source_url = normalize_source_url(movie.get("source_url", ""))
+        if not source_url:
+            raise ValueError(f"Missing source_url for '{movie.get('name', 'Unknown')}'")
+        movie["source_url"] = source_url
+        source_urls.append(source_url)
+        if not movie.get("name") or not movie.get("res_list"):
+            raise ValueError(f"Incomplete movie record for source URL: {source_url}")
+
+    if len(set(source_urls)) != len(source_urls):
+        raise ValueError("Duplicate source_url values found; history cannot be synchronized safely")
+
+    with open(output_filename, "w", encoding="utf-8", newline="\n") as output_file:
+        output_file.write("=" * 80 + "\n")
+        output_file.write(f"CATEGORY: {target_category_name}\n")
+        output_file.write(f"TOTAL MOVIES: {total_items_count}\n")
+        output_file.write(f"LAST UPDATED: {current_utc_time}\n")
+        output_file.write("NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.\n")
+        output_file.write("=" * 80 + "\n\n")
+
+        for index, movie in enumerate(movies, 1):
+            is_series = is_series_movie(movie)
+            title_type = "Show name" if is_series else "Movie name"
+            output_file.write(f"Movie-{index}\n")
+            output_file.write(f"{title_type}: {movie['name']}\n")
+            output_file.write(f"Category: {movie['category']}\n")
+            output_file.write(f"Year: {movie['year']}\n")
+            output_file.write(f"Poster: {movie['poster']}\n")
+            output_file.write(f"Source URL: {movie['source_url']}\n\n")
+
+            if is_series:
+                for link_index, item in enumerate(movie["res_list"], 1):
+                    # প্রতি link-এর metadata লিখি, যাতে mixed season/episode carry-over না হয়।
+                    output_file.write(f"Season: {item.get('season', 'N/A')}\n")
+                    output_file.write(f"Episode: {item.get('episode', 'N/A')}\n")
+                    output_file.write(f"  Resolution-{link_index}: {item.get('resolution', 'HD 1080P')}\n")
+                    output_file.write(f"  Link-{link_index}: {item['link']}\n")
+                    output_file.write("\n")
+            else:
+                for link_index, item in enumerate(movie["res_list"], 1):
+                    output_file.write(f"RESOLUTION {link_index}: {item.get('resolution', 'HD 1080P')}\n")
+                    output_file.write(f"STREAM Link {link_index}: {item['link']}\n\n")
+            output_file.write("=" * 80 + "\n\n")
+
+    clean_movies_for_json = []
+    for movie in movies:
+        movie_object = {
+            "name": movie["name"],
+            "category": movie["category"],
+            "year": movie["year"],
+            "poster": movie["poster"],
+            "source_url": movie["source_url"],
+            "res_list": [],
+        }
+        for item in movie.get("res_list", []):
+            result_item = {}
+            if item.get("season", "N/A") != "N/A":
+                result_item["season"] = item["season"]
+            if item.get("episode", "N/A") != "N/A":
+                result_item["episode"] = item["episode"]
+            result_item["resolution"] = item.get("resolution", "HD 1080P")
+            result_item["link"] = item.get("link", "")
+            movie_object["res_list"].append(result_item)
+        clean_movies_for_json.append(movie_object)
+
+    json_payload = {
+        "category_info": {
+            "category_name": target_category_name,
+            "total_movies": total_items_count,
+            "last_updated": current_utc_time,
+            "purpose": "Strictly for educational purposes and not for commercial use.",
+        },
+        "movies": clean_movies_for_json,
+    }
+    with open(json_filename, "w", encoding="utf-8", newline="\n") as json_file:
+        json.dump(json_payload, json_file, indent=2, ensure_ascii=False)
+
+    with open(m3u_filename, "w", encoding="utf-8", newline="\n") as m3u_file:
+        m3u_file.write("#EXTM3U\n")
+        m3u_file.write(f"#EXT-X-NAME: {target_category_name}\n")
+        m3u_file.write(f"#EXT-X-TOTAL-ITEMS: {total_items_count}\n")
+        m3u_file.write(f"#EXT-X-UPDATED: {current_utc_time}\n")
+        m3u_file.write("#EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.\n\n")
+        for movie in movies:
+            source_attr = movie["source_url"].replace('"', "%22")
+            poster_attr = movie.get("poster", "N/A").replace('"', "%22")
+            for item in movie.get("res_list", []):
+                link_value = item.get("link")
+                if not link_value:
+                    continue
+                resolution = item.get("resolution", "HD 1080P")
+                season = item.get("season", "N/A")
+                episode = item.get("episode", "N/A")
+                if season != "N/A" or episode != "N/A":
+                    metadata_parts = [value for value in (season, episode) if value != "N/A"]
+                    title = f"{movie['name']} - {' '.join(metadata_parts)} - {resolution}"
+                    group = f"{target_category_name} - {movie['name']}"
+                else:
+                    title = f"{movie['name']} ({movie.get('year', 'N/A')}) - {resolution}"
+                    group = target_category_name
+                m3u_file.write(
+                    f'#EXTINF:-1 tvg-logo="{poster_attr}" group-title="{group}" source-url="{source_attr}", {title}\n'
+                )
+                m3u_file.write(f"{link_value}\n")
+
+    with open(history_filename, "w", encoding="utf-8", newline="\n") as history_file:
+        for source_url in source_urls:
+            history_file.write(f"{source_url}\n")
+
+    return total_items_count
 
 def load_tracker_state():
     os.makedirs("history", exist_ok=True)
@@ -1124,16 +1491,8 @@ async def repair_dead_links(target_category_name, config):
 
                 # Step A: history.txt থেকে original page URL খোঁজা
                 history_filename = os.path.join(cat_dir, "history.txt")
-                original_page_url = None
-
-                if os.path.exists(history_filename):
-                    name_slug = movie_name.lower().replace(" ", "-").replace("'", "").replace(":", "")
-                    with open(history_filename, "r", encoding="utf-8") as hf:
-                        for line in hf:
-                            line = line.strip()
-                            if name_slug in line.lower() or any(word in line.lower() for word in movie_name.lower().split()[:3] if len(word) > 3):
-                                original_page_url = line
-                                break
+                history_urls = load_history_urls(history_filename)
+                original_page_url = find_source_url_for_movie(movie, history_urls)
 
                 # Step B: Original page alive কিনা চেক
                 repair_page_url = None
@@ -1220,6 +1579,7 @@ async def repair_dead_links(target_category_name, config):
                     new_res_list.append(extra_fresh)
 
                 movie["res_list"] = new_res_list
+                movie["source_url"] = normalize_source_url(repair_page_url)
                 repaired_count += 1
                 print(f"   ✅ Successfully repaired '{movie_name}'!", flush=True)
 
@@ -1236,124 +1596,7 @@ async def repair_dead_links(target_category_name, config):
 
     # ৬. Updated files সেভ (TXT, JSON, M3U)
     if repaired_count > 0:
-        def get_sort_year(m):
-            y = m.get("year", "0")
-            return int(y) if str(y).isdigit() else 0
-        existing_movies.sort(key=get_sort_year, reverse=True)
-
-        current_utc_time = datetime.now(timezone.utc).strftime("%Y-%m-%d | %H:%M:%S (UTC)")
-        total_items_count = len(existing_movies)
-
-        # TXT file
-        with open(output_filename, "w", encoding="utf-8") as f:
-            f.write("=" * 80 + "\n")
-            f.write(f"CATEGORY: {target_category_name}\n")
-            f.write(f"TOTAL MOVIES: {total_items_count}\n")
-            f.write(f"LAST UPDATED: {current_utc_time}\n")
-            f.write("NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.\n")
-            f.write("=" * 80 + "\n\n")
-
-            for idx, movie in enumerate(existing_movies, 1):
-                is_series = any(item.get('season') != "N/A" or item.get('episode') != "N/A" for item in movie['res_list']) if isinstance(movie['res_list'], list) and len(movie['res_list']) > 0 and isinstance(movie['res_list'][0], dict) else False
-                title_type = "Show name" if is_series else "Movie name"
-
-                f.write(f"Movie-{idx}\n")
-                f.write(f"{title_type}: {movie['name']}\n")
-                f.write(f"Category: {movie['category']}\n")
-                f.write(f"Year: {movie['year']}\n")
-                f.write(f"Poster: {movie['poster']}\n\n")
-
-                if is_series and movie['res_list']:
-                    season_str = "S01"
-                    for item in movie['res_list']:
-                        if item.get('season') != "N/A":
-                            season_str = item['season']
-                            break
-                    f.write(f"Season: {season_str}\n\n")
-
-                    episodes_group = {}
-                    for item in movie['res_list']:
-                        e_val = item.get('episode', 'N/A')
-                        if e_val not in episodes_group:
-                            episodes_group[e_val] = []
-                        episodes_group[e_val].append(item)
-
-                    for ep_name, links in episodes_group.items():
-                        f.write(f"Episode: {ep_name}\n")
-                        for r_idx, l_item in enumerate(links, 1):
-                            f.write(f"  Resolution-{r_idx}: {l_item.get('resolution', 'HD 1080P')}\n")
-                            f.write(f"  Link-{r_idx}: {l_item['link']}\n")
-                        f.write("\n")
-                elif movie['res_list']:
-                    for r_idx, item in enumerate(movie['res_list'], 1):
-                        res_title = item.get('resolution', 'HD 1080P')
-                        f.write(f"RESOLUTION {r_idx}: {res_title}\n")
-                        f.write(f"STREAM Link {r_idx}: {item['link']}\n\n")
-
-                f.write("=" * 80 + "\n\n")
-
-        # JSON file
-        clean_movies_for_json = []
-        for movie in existing_movies:
-            m_obj = {
-                "name": movie["name"],
-                "category": movie["category"],
-                "year": movie["year"],
-                "poster": movie["poster"],
-                "res_list": []
-            }
-            for item in movie.get("res_list", []):
-                res_item = {}
-                s_val = item.get("season")
-                e_val = item.get("episode")
-                if s_val and s_val != "N/A":
-                    res_item["season"] = s_val
-                if e_val and e_val != "N/A":
-                    res_item["episode"] = e_val
-                res_item["resolution"] = item.get("resolution", "HD 1080P")
-                res_item["link"] = item.get("link", "")
-                m_obj["res_list"].append(res_item)
-            clean_movies_for_json.append(m_obj)
-
-        json_payload = {
-            "category_info": {
-                "category_name": target_category_name,
-                "total_movies": total_items_count,
-                "last_updated": current_utc_time,
-                "purpose": "Strictly for educational purposes and not for commercial use."
-            },
-            "movies": clean_movies_for_json
-        }
-        with open(json_filename, "w", encoding="utf-8") as jf:
-            json.dump(json_payload, jf, indent=2, ensure_ascii=False)
-
-        # M3U file
-        with open(m3u_filename, "w", encoding="utf-8") as m3u:
-            m3u.write("#EXTM3U\n")
-            m3u.write(f"#EXT-X-NAME: {target_category_name}\n")
-            m3u.write(f"#EXT-X-TOTAL-ITEMS: {total_items_count}\n")
-            m3u.write(f"#EXT-X-UPDATED: {current_utc_time}\n")
-            m3u.write("#EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.\n\n")
-
-            for movie in existing_movies:
-                m_name = movie['name']
-                m_poster = movie.get('poster', 'N/A')
-                m_year = movie.get('year', 'N/A')
-                for item in movie.get('res_list', []):
-                    res_label = item.get('resolution', 'HD 1080P')
-                    link_val = item.get('link')
-                    season_val = item.get('season', 'N/A')
-                    ep_val = item.get('episode', 'N/A')
-                    if link_val:
-                        if season_val != "N/A" and ep_val != "N/A":
-                            title_str = f"{m_name} - {season_val}{ep_val} - {res_label}"
-                            group_str = f"{target_category_name} - {m_name}"
-                        else:
-                            title_str = f"{m_name} ({m_year}) - {res_label}"
-                            group_str = target_category_name
-                        m3u.write(f'#EXTINF:-1 tvg-logo="{m_poster}" group-title="{group_str}", {title_str}\n')
-                        m3u.write(f"{link_val}\n")
-
+        save_category_outputs(target_category_name, config, existing_movies)
         print(f"\n✅ Repair complete! Repaired: {repaired_count}, Failed: {failed_count}", flush=True)
         print(f"✅ Updated TXT, JSON, M3U files for [{target_category_name}].", flush=True)
     else:
@@ -1385,17 +1628,17 @@ async def main():
         target_category_name = CATEGORIES_LIST[cat_index]
         print(f"⏩ [FORCE NEXT] Switched to Next Category: '{target_category_name}' (Run 1/3)", flush=True)
     elif SCAN_MODE == "REPAIR_AUTO":
-        # 🛠️ REPAIR_AUTO — ট্র্যাকার স্টেট অনুযায়ী category rotate করে repair
-        if cat_index >= len(CATEGORIES_LIST):
-            cat_index = 0
-        repair_cat = CATEGORIES_LIST[cat_index]
+        # 🛠️ REPAIR_AUTO — scan rotation না বদলে নিজের category rotate করে
+        repair_index = state.get("repair_category_index", cat_index)
+        if repair_index >= len(CATEGORIES_LIST):
+            repair_index = 0
+        repair_cat = CATEGORIES_LIST[repair_index]
         repair_config = CATEGORIES_MAP[repair_cat]
         print(f"🛠️ [REPAIR AUTO] Repairing Category: '{repair_cat}'", flush=True)
         await repair_dead_links(repair_cat, repair_config)
-        # Rotate to next category for next run
-        next_index = (cat_index + 1) % len(CATEGORIES_LIST)
-        state["current_category_index"] = next_index
-        state["run_count"] = 1
+        # Repair-এর rotation আলাদা; current_category_index/run_count scanner-এর জন্য অপরিবর্তিত
+        next_index = (repair_index + 1) % len(CATEGORIES_LIST)
+        state["repair_category_index"] = next_index
         save_tracker_state(state)
         print(f"🔄 [STATE UPDATE] Repair done for '{repair_cat}'. Next repair target: '{CATEGORIES_LIST[next_index]}'", flush=True)
         print("\n🎉 Repair Completed Successfully!", flush=True)
@@ -1427,18 +1670,26 @@ async def main():
     json_filename = config["json"]
     m3u_filename = config["m3u"]
     history_filename = os.path.join(cat_dir, "history.txt")
+    skipped_history_filename = os.path.join(cat_dir, "history_skipped.txt")
 
     os.makedirs(cat_dir, exist_ok=True)
 
     # 📝 ১. আগের মুভি ফাইল এবং হিস্টরি নিখুঁতভাবে লোড করা
     existing_movies = parse_existing_output_file(output_filename)
-    existing_names = {m["name"].lower() for m in existing_movies}
+    for movie in existing_movies:
+        resolved_name, resolved_year = resolve_movie_identity(movie.get("name", ""), movie.get("res_list", []))
+        movie["name"] = resolved_name
+        if resolved_year != "N/A":
+            movie["year"] = resolved_year
+    existing_by_identity = {
+        movie_identity_key(movie["name"], movie.get("year"), is_series_movie(movie)): movie
+        for movie in existing_movies
+    }
+    existing_identities = set(existing_by_identity)
     print(f"📂 Loaded {len(existing_movies)} existing movie(s) from previous scans.", flush=True)
 
-    scraped_history = set()
-    if os.path.exists(history_filename):
-        with open(history_filename, "r", encoding="utf-8") as f:
-            scraped_history = set(line.strip().rstrip('/') for line in f if line.strip())
+    scraped_history = set(load_history_urls(history_filename))
+    scraped_history.update(load_history_urls(skipped_history_filename))
 
     # GitHub runner-এ CPU/RAM কম → বেশি browser = ধীর
     # ২টা browser একসাথে = repair-এর মতো fast
@@ -1524,47 +1775,49 @@ async def main():
                     tasks = [safe_process(browser, movie_url, idx, target_category_name) for idx, movie_url in enumerate(new_movie_urls, 1)]
                     parallel_results = await asyncio.gather(*tasks)
 
-                with open(history_filename, "a", encoding="utf-8") as h_file:
-                    for movie_url, title, categories, res_list, web_poster in parallel_results:
-                        if res_list:
-                            h_file.write(f"{movie_url}\n")
-
                 for movie_url, title, categories, res_list, web_poster in parallel_results:
                     if res_list:
-                        year_match = re.search(r'\b(20\d{2}|19\d{2})\b', title)
-                        year = year_match.group(1) if year_match else "N/A"
-                        clean_name = title.split(f"({year})")[0].split(year)[0].strip() if year_match else title
-                        clean_name = re.sub(r'[\s\-\[\]\(\)]+$', '', clean_name).strip()
+                        clean_name, year = resolve_movie_identity(title, res_list)
 
-                        if (year == "N/A" or not clean_name):
-                            first_link = urllib.parse.unquote(res_list[0]['link'])
-                            fn = first_link.split('/')[-1]
-                            fn_year = re.search(r'\b(20\d{2}|19\d{2})\b', fn)
-                            if fn_year and year == "N/A":
-                                year = fn_year.group(1)
-                            if not clean_name or len(clean_name) < 3:
-                                fn_clean = fn.split('(')[0].replace('CINEFREAK.TOP -', '').strip()
-                                if fn_clean:
-                                    clean_name = fn_clean
+                        parsed_res_list = []
+                        for item in res_list:
+                            meta = parse_link_metadata(item['link'], item['resolution'])
+                            parsed_res_list.append(meta)
 
-                        if clean_name.lower() not in existing_names:
+                        identity = movie_identity_key(
+                            clean_name,
+                            year,
+                            any(item.get("season", "N/A") != "N/A" for item in parsed_res_list),
+                        )
+                        if identity not in existing_identities:
                             poster_url = web_poster if web_poster != "N/A" else "N/A"
                             if poster_url == "N/A":
                                 poster_url = await fetch_tmdb_poster(clean_name, year)
 
-                            parsed_res_list = []
-                            for item in res_list:
-                                meta = parse_link_metadata(item['link'], item['resolution'])
-                                parsed_res_list.append(meta)
-
-                            new_movies_list.append({
+                            new_movie = {
                                 "name": clean_name,
                                 "category": categories,
                                 "year": year,
                                 "poster": poster_url,
+                                "source_url": normalize_source_url(movie_url),
                                 "res_list": parsed_res_list
+                            }
+                            new_movies_list.append(new_movie)
+                            existing_by_identity[identity] = new_movie
+                            existing_identities.add(identity)
+                        else:
+                            # একই title/year-এর আলাদা source page-এ নতুন quality/episode থাকতে পারে।
+                            # Record-টি writer-এ পাঠালে canonical merge হবে এবং alias URL সংরক্ষিত থাকবে।
+                            target_movie = existing_by_identity[identity]
+                            new_movies_list.append({
+                                "name": clean_name,
+                                "category": categories,
+                                "year": year,
+                                "poster": web_poster if web_poster != "N/A" else target_movie.get("poster", "N/A"),
+                                "source_url": normalize_source_url(movie_url),
+                                "res_list": parsed_res_list,
                             })
-                            existing_names.add(clean_name.lower())
+                            print(f"INFO: Merging duplicate movie identity: '{clean_name}' ({year})", flush=True)
             else:
                 print("ℹ️ No new movies found to scrape on category pages.", flush=True)
 
@@ -1574,145 +1827,16 @@ async def main():
             # 🎯 ৫. [POSTER & YEAR AUTO-REPAIR] পুরানো মুভির Year লিঙ্ক থেকে রিকভার ও মিসিং পোস্টার TMDB ব্যাকফিল
             for m in all_movies:
                 if not m.get("year") or m["year"] == "N/A":
-                    if m.get("res_list"):
-                        for item in m["res_list"]:
-                            link_str = urllib.parse.unquote(item.get("link", ""))
-                            y_match = re.search(r'\b(20\d{2}|19\d{2})\b', link_str)
-                            if y_match:
-                                m["year"] = y_match.group(1)
-                                break
+                    _, stream_year = extract_stream_identity(m.get("res_list", []))
+                    if stream_year != "N/A":
+                        m["year"] = stream_year
 
                 if not m.get("poster") or m["poster"] in ["N/A", "", "None"] or "cineimg.xyz" in m["poster"]:
                     repaired_poster = await fetch_tmdb_poster(m["name"], m["year"])
                     if repaired_poster != "N/A":
                         m["poster"] = repaired_poster
 
-            # 🎯 ৬. সাল অনুযায়ী বড় থেকে ছোট (Descending - 2026, 2025, 2024...) সাজানো
-            def get_sort_year(m):
-                y = m.get("year", "0")
-                return int(y) if str(y).isdigit() else 0
-
-            all_movies.sort(key=get_sort_year, reverse=True)
-
-            current_utc_time = datetime.now(timezone.utc).strftime("%Y-%m-%d | %H:%M:%S (UTC)")
-            total_items_count = len(all_movies)
-
-            # 🎯 ৭. TXT ফাইল জেনারেট ও ওভাররাইট করা (১ থেকে N পারফেক্ট সিরিয়াল)
-            with open(output_filename, "w", encoding="utf-8") as f:
-                f.write("=" * 80 + "\n")
-                f.write(f"CATEGORY: {target_category_name}\n")
-                f.write(f"TOTAL MOVIES: {total_items_count}\n")
-                f.write(f"LAST UPDATED: {current_utc_time}\n")
-                f.write("NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.\n")
-                f.write("=" * 80 + "\n\n")
-
-                for idx, movie in enumerate(all_movies, 1):
-                    is_series = any(item.get('season') != "N/A" or item.get('episode') != "N/A" for item in movie['res_list']) if isinstance(movie['res_list'], list) and len(movie['res_list']) > 0 and isinstance(movie['res_list'][0], dict) else False
-                    title_type = "Show name" if is_series else "Movie name"
-
-                    f.write(f"Movie-{idx}\n")
-                    f.write(f"{title_type}: {movie['name']}\n")
-                    f.write(f"Category: {movie['category']}\n")
-                    f.write(f"Year: {movie['year']}\n")
-                    f.write(f"Poster: {movie['poster']}\n\n")
-
-                    if is_series and movie['res_list']:
-                        season_str = "S01"
-                        for item in movie['res_list']:
-                            if item.get('season') != "N/A":
-                                season_str = item['season']
-                                break
-                        f.write(f"Season: {season_str}\n\n")
-
-                        episodes_group = {}
-                        for item in movie['res_list']:
-                            e_val = item.get('episode', 'N/A')
-                            if e_val not in episodes_group:
-                                episodes_group[e_val] = []
-                            episodes_group[e_val].append(item)
-
-                        for ep_name, links in episodes_group.items():
-                            f.write(f"Episode: {ep_name}\n")
-                            for r_idx, l_item in enumerate(links, 1):
-                                f.write(f"  Resolution-{r_idx}: {l_item.get('resolution', 'HD 1080P')}\n")
-                                f.write(f"  Link-{r_idx}: {l_item['link']}\n")
-                            f.write("\n")
-                    elif movie['res_list']:
-                        for r_idx, item in enumerate(movie['res_list'], 1):
-                            res_title = item.get('resolution', 'HD 1080P')
-                            f.write(f"RESOLUTION {r_idx}: {res_title}\n")
-                            f.write(f"STREAM Link {r_idx}: {item['link']}\n\n")
-
-                    f.write("=" * 80 + "\n\n")
-
-            # 🎯 ৮. JSON ফাইল জেনারেট ও ওভাররাইট করা (সাধারণ মুভিতে season/episode বাদ দিয়ে ক্লিন JSON)
-            clean_movies_for_json = []
-            for movie in all_movies:
-                m_obj = {
-                    "name": movie["name"],
-                    "category": movie["category"],
-                    "year": movie["year"],
-                    "poster": movie["poster"],
-                    "res_list": []
-                }
-                for item in movie.get("res_list", []):
-                    res_item = {}
-                    s_val = item.get("season")
-                    e_val = item.get("episode")
-
-                    if s_val and s_val != "N/A":
-                        res_item["season"] = s_val
-                    if e_val and e_val != "N/A":
-                        res_item["episode"] = e_val
-
-                    res_item["resolution"] = item.get("resolution", "HD 1080P")
-                    res_item["link"] = item.get("link", "")
-                    m_obj["res_list"].append(res_item)
-
-                clean_movies_for_json.append(m_obj)
-
-            json_payload = {
-                "category_info": {
-                    "category_name": target_category_name,
-                    "total_movies": total_items_count,
-                    "last_updated": current_utc_time,
-                    "purpose": "Strictly for educational purposes and not for commercial use."
-                },
-                "movies": clean_movies_for_json
-            }
-            with open(json_filename, "w", encoding="utf-8") as jf:
-                json.dump(json_payload, jf, indent=2, ensure_ascii=False)
-
-            # 🎯 ৯. M3U ফাইল জেনারেট ও ওভাররাইট করা
-            with open(m3u_filename, "w", encoding="utf-8") as m3u:
-                m3u.write("#EXTM3U\n")
-                m3u.write(f"#EXT-X-NAME: {target_category_name}\n")
-                m3u.write(f"#EXT-X-TOTAL-ITEMS: {total_items_count}\n")
-                m3u.write(f"#EXT-X-UPDATED: {current_utc_time}\n")
-                m3u.write("#EXT-X-NOTICE: Strictly for EDUCATIONAL PURPOSES only, not for commercial use.\n\n")
-
-                for movie in all_movies:
-                    m_name = movie['name']
-                    m_poster = movie.get('poster', 'N/A')
-                    m_year = movie.get('year', 'N/A')
-                    
-                    for item in movie.get('res_list', []):
-                        res_label = item.get('resolution', 'HD 1080P')
-                        link_val = item.get('link')
-                        season_val = item.get('season', 'N/A')
-                        ep_val = item.get('episode', 'N/A')
-                        
-                        if link_val:
-                            if season_val != "N/A" and ep_val != "N/A":
-                                title_str = f"{m_name} - {season_val}{ep_val} - {res_label}"
-                                group_str = f"{target_category_name} - {m_name}"
-                            else:
-                                title_str = f"{m_name} ({m_year}) - {res_label}"
-                                group_str = target_category_name
-                                
-                            m3u.write(f'#EXTINF:-1 tvg-logo="{m_poster}" group-title="{group_str}", {title_str}\n')
-                            m3u.write(f"{link_val}\n")
-
+            total_items_count = save_category_outputs(target_category_name, config, all_movies)
             print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] (Total: {total_items_count} movies).", flush=True)
 
         finally:

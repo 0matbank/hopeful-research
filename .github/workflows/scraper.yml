@@ -2,7 +2,7 @@ name: 🎬 Movie Scraper (With Cloudflare WARP)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # প্রতি ৬ ঘণ্টায় একবার auto run
+    - cron: '0 0,12 * * *'  # প্রতিদিন বাংলাদেশ সময় সকাল ৬টা ও সন্ধ্যা ৬টা
   workflow_dispatch:
     inputs:
       scan_mode:
@@ -72,7 +72,7 @@ jobs:
       # STEP 3: Python Setup + Dependencies
       # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
       - name: 🐍 Setup Python 3.12
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: 'pip'

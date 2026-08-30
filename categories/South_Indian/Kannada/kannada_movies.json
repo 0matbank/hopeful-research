@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Kannada Movies",
     "total_movies": 39,
-    "last_updated": "2026-08-27 | 17:09:39 (UTC)",
+    "last_updated": "2026-08-30 | 07:35:03 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -11,6 +11,7 @@
       "category": "Kannada Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIt1gkiGrBkHiBJUYIf64gcg32y.jpg",
+      "source_url": "https://cinefreak.net/the-rise-of-ashoka-2026-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -27,6 +28,7 @@
       "category": "Kannada Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/89Tuu93NTJVef2Y4iATRwlyAO37.jpg",
+      "source_url": "https://cinefreak.net/second-case-of-seetharam-2026-full-movie-download",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -47,6 +49,7 @@
       "category": "Kannada Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg",
+      "source_url": "https://cinefreak.net/valavaara-2026-full-movie-download",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -67,6 +70,7 @@
       "category": "Kannada Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+      "source_url": "https://cinefreak.net/kd-the-devil-2026-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -79,6 +83,7 @@
       "category": "Kannada Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg",
+      "source_url": "https://cinefreak.net/karikaada-2026-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -91,6 +96,7 @@
       "category": "Kannada Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg",
+      "source_url": "https://cinefreak.net/moda-kavida-vaatavarana-2026-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -103,6 +109,7 @@
       "category": "Kannada Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg",
+      "source_url": "https://cinefreak.net/toxic-a-fairy-tale-for-grown-ups-2026-full-movie-download",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -119,30 +126,11 @@
       ]
     },
     {
-      "name": "Royal",
-      "category": "Kannada Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgJRjE2wuw4EQ6RMxttK8uNSvI.jpg",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Mark",
       "category": "Kannada Movies",
-      "year": "2025",
+      "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+      "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -159,10 +147,32 @@
       ]
     },
     {
+      "name": "Royal",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgJRjE2wuw4EQ6RMxttK8uNSvI.jpg",
+      "source_url": "https://cinefreak.net/royal-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Agnyathavasi",
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ephTFUQNYhBmYjKqMoMazzHpVqu.jpg",
+      "source_url": "https://cinefreak.net/agnyathavasi-2025-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -175,6 +185,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg",
+      "source_url": "https://cinefreak.net/usiru-2025-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -187,6 +198,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaZRRKY1PsA10pOaegvN0XbYsAi.jpg",
+      "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -199,6 +211,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg",
+      "source_url": "https://cinefreak.net/i-am-god-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -219,6 +232,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOzf9I1cXNN6MPeNQ7H35NAMNeh.jpg",
+      "source_url": "https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -231,6 +245,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWfasv0Bi0tOQPdvJWbAhXyqSzH.jpg",
+      "source_url": "https://cinefreak.net/love-u-muddu-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -243,6 +258,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQECu9AKL2OpzFFNaMX3rEfGAQk.jpg",
+      "source_url": "https://cinefreak.net/vritta-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -255,6 +271,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg",
+      "source_url": "https://cinefreak.net/45-2025-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -271,6 +288,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUXN4dgmelSEa7VRqcpIhngGCu.jpg",
+      "source_url": "https://cinefreak.net/the-devil-2025-full-movie-download",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -287,6 +305,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niKNhXDy7rkvjxRoxgy31sMXQZg.jpg",
+      "source_url": "https://cinefreak.net/choo-mantar-2025-full-movie-download",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -303,6 +322,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aacJ77PR6wx1KE6MQN9IUeytg2J.jpg",
+      "source_url": "https://cinefreak.net/gatha-vaibhava-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -315,6 +335,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg",
+      "source_url": "https://cinefreak.net/bank-of-bhagyalakshmi-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -331,6 +352,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6NVUbgHIz3SmrRSLU4xlfzL2Mi.jpg",
+      "source_url": "https://cinefreak.net/brat-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -347,6 +369,7 @@
       "category": "Kannada Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8GhftTjP05Zr9l6BBZNzWtIEpA.jpg",
+      "source_url": "https://cinefreak.net/kantara-chapter-1-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-amazon-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -367,6 +390,7 @@
       "category": "Kannada Movies",
       "year": "2024",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAqYULyRX4yTEXkoM9erpVyeKnh.jpg",
+      "source_url": "https://cinefreak.net/chef-chidambara-2024-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -379,6 +403,7 @@
       "category": "Kannada Movies",
       "year": "2024",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSfKNoycKKSSkcvFbyekwcjuIOp.jpg",
+      "source_url": "https://cinefreak.net/bhairathi-ranagal-2024-hindi-fan-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -399,6 +424,7 @@
       "category": "Kannada Movies",
       "year": "2024",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTELAAH02Xv8BNXa6n2uBo853pR.jpg",
+      "source_url": "https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -419,6 +445,7 @@
       "category": "Kannada Movies",
       "year": "2024",
       "poster": "https://cinefreak.net/wp-content/uploads/2025/10/Tenant-2024.jpg",
+      "source_url": "https://cinefreak.net/tenant-2024-hindi-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -431,6 +458,7 @@
       "category": "Kannada Movies",
       "year": "2024",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hApU7HueijYukY1Wb3vCcO4n3KC.jpg",
+      "source_url": "https://cinefreak.net/the-judgement-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -443,6 +471,7 @@
       "category": "Kannada Movies",
       "year": "2024",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3swr0fu3NAm0myEaeJVTorMiG.jpg",
+      "source_url": "https://cinefreak.net/krishnam-pranaya-sakhi-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -455,6 +484,7 @@
       "category": "Kannada Movies",
       "year": "2023",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dMhkqkdjuXqa9oC3ZNxyypDYuq.jpg",
+      "source_url": "https://cinefreak.net/gurudev-hoysala-2023-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -467,6 +497,7 @@
       "category": "Kannada Movies",
       "year": "2022",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnXC26Zp6EGk4A1JUXQVQ7IT8RG.jpg",
+      "source_url": "https://cinefreak.net/love-mocktail-2-2022-full-movie-download",
       "res_list": [
         {
           "resolution": "HEVC 1080P",
@@ -487,6 +518,7 @@
       "category": "Kannada Movies",
       "year": "2022",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DLVucAGkA8WhgsyaSTcIentB5U.jpg",
+      "source_url": "https://cinefreak.net/thurthu-nirgamana-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -495,22 +527,11 @@
       ]
     },
     {
-      "name": "Pogaru",
-      "category": "Kannada Movies",
-      "year": "2021",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKulrSnAylrwOvXOYmJsHGTb4r1.jpg",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Hero",
       "category": "Kannada Movies",
       "year": "2021",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZAxSiL5csPIe6Q1V8pbwz69U5m.jpg",
+      "source_url": "https://cinefreak.net/hero-2021-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -523,6 +544,7 @@
       "category": "Kannada Movies",
       "year": "2021",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeSqY7sKVehJC9J0Y0yKNMnhg7W.jpg",
+      "source_url": "https://cinefreak.net/inspector-vikram-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -531,22 +553,24 @@
       ]
     },
     {
-      "name": "Aa Karaala Ratri",
+      "name": "Pogaru",
       "category": "Kannada Movies",
-      "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eebyDiBgu2dCFwBtWzVZgtrxn5u.jpg",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKulrSnAylrwOvXOYmJsHGTb4r1.jpg",
+      "source_url": "https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          "link": "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
         }
       ]
     },
     {
       "name": "The Terrorist",
       "category": "Kannada Movies",
-      "year": "2018",
+      "year": "2020",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4hb4kW0MhsQi2tF5ldWIbwsV8.jpg",
+      "source_url": "https://cinefreak.net/the-terrorist-2018-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -555,10 +579,24 @@
       ]
     },
     {
+      "name": "Aa Karaala Ratri",
+      "category": "Kannada Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eebyDiBgu2dCFwBtWzVZgtrxn5u.jpg",
+      "source_url": "https://cinefreak.net/aa-karaala-ratri-2018-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Rangi Taranga",
       "category": "Kannada Movies",
       "year": "2015",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvE6k9noK4BaU2F1GBhVe7vvjcI.jpg",
+      "source_url": "https://cinefreak.net/rangi-taranga-2015-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
@@ -575,6 +613,7 @@
       "category": "Kannada Movies",
       "year": "2014",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AdrI68ggKpSBRE2EbnvajeD53q.jpg",
+      "source_url": "https://cinefreak.net/ugramm-2014-hindi-dubbed-hindi-kannada-hdrip-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
           "resolution": "HD 1080P",
