@@ -28,7 +28,10 @@ OMDB_API_KEY = os.environ.get("OMDB_API_KEY", "e0d2217b")
 
 STATE_FILE = "history/tracker_state.json"
 FAILED_REPAIRS_FILE = "history/failed_repairs.json"
+CANDIDATE_RETRY_FILE = "history/candidate_retry_state.json"
 TARGET_LIMIT_MOVIES = 10
+CANDIDATE_DISCOVERY_LIMIT = 60
+CANDIDATE_RETRY_DELAYS_HOURS = (12, 24, 72, 168)
 
 CATEGORIES_LIST = [
     "Bangla Movies",
@@ -318,7 +321,7 @@ def resolve_movie_identity(page_title, res_list):
         maxsplit=1,
         flags=re.IGNORECASE,
     )[0]
-    page_name = re.sub(r"^Watch\s+", "", page_name, flags=re.IGNORECASE)
+    page_name = re.sub(r"^(?:Watch|Download)\s+", "", page_name, flags=re.IGNORECASE)
     page_name = re.sub(r"[\s\-\[\]()]+$", "", page_name).strip()
 
     stream_name, stream_year = extract_stream_identity(res_list)
@@ -748,6 +751,80 @@ def append_unique_url(filename, url):
     if normalized_url not in existing_urls:
         with open(filename, "a", encoding="utf-8", newline="\n") as output_file:
             output_file.write(f"{normalized_url}\n")
+
+
+def load_candidate_retry_state(filename=CANDIDATE_RETRY_FILE):
+    """Load retry cooldowns for category-page candidates that produced no stream."""
+    if not os.path.exists(filename):
+        return {"version": 1, "categories": {}}
+    try:
+        with open(filename, "r", encoding="utf-8") as state_file:
+            state = json.load(state_file)
+        if not isinstance(state, dict) or not isinstance(state.get("categories"), dict):
+            raise ValueError("invalid candidate retry state")
+        state["version"] = 1
+        return state
+    except Exception:
+        return {"version": 1, "categories": {}}
+
+
+def save_candidate_retry_state(state, filename=CANDIDATE_RETRY_FILE):
+    """Persist candidate retry state without risking a partially written JSON file."""
+    parent = os.path.dirname(filename) or "."
+    os.makedirs(parent, exist_ok=True)
+    temporary_filename = f"{filename}.tmp"
+    with open(temporary_filename, "w", encoding="utf-8", newline="\n") as state_file:
+        json.dump(state, state_file, indent=2, ensure_ascii=False)
+        state_file.write("\n")
+    os.replace(temporary_filename, filename)
+
+
+def select_scan_candidates(discovered_urls, category, retry_state, now_timestamp=None, limit=TARGET_LIMIT_MOVIES):
+    """Prefer unseen candidates and postpone failed ones until their retry window."""
+    now_timestamp = time.time() if now_timestamp is None else float(now_timestamp)
+    category_state = retry_state.setdefault("categories", {}).setdefault(category, {})
+    fresh = []
+    due = []
+    cooling = []
+    seen = set()
+
+    for raw_url in discovered_urls:
+        url = normalize_source_url(raw_url)
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        entry = category_state.get(url)
+        if not isinstance(entry, dict):
+            fresh.append(url)
+        elif float(entry.get("retry_after_epoch", 0) or 0) <= now_timestamp:
+            due.append(url)
+        else:
+            cooling.append(url)
+
+    selected = (fresh + due)[:limit]
+    return selected, len(cooling)
+
+
+def record_candidate_outcome(category, url, succeeded, retry_state, now_timestamp=None):
+    """Clear successful candidates or apply bounded exponential retry backoff."""
+    now_timestamp = time.time() if now_timestamp is None else float(now_timestamp)
+    normalized_url = normalize_source_url(url)
+    category_state = retry_state.setdefault("categories", {}).setdefault(category, {})
+
+    if succeeded:
+        return category_state.pop(normalized_url, None) is not None
+
+    previous = category_state.get(normalized_url, {})
+    failure_count = int(previous.get("failure_count", 0) or 0) + 1
+    delay_index = min(failure_count - 1, len(CANDIDATE_RETRY_DELAYS_HOURS) - 1)
+    delay_hours = CANDIDATE_RETRY_DELAYS_HOURS[delay_index]
+    category_state[normalized_url] = {
+        "failure_count": failure_count,
+        "last_failed_at": datetime.fromtimestamp(now_timestamp, timezone.utc).isoformat(),
+        "retry_after_epoch": int(now_timestamp + delay_hours * 3600),
+        "retry_after": datetime.fromtimestamp(now_timestamp + delay_hours * 3600, timezone.utc).isoformat(),
+    }
+    return True
 
 
 def source_url_match_score(movie, source_url):
@@ -1779,6 +1856,13 @@ async def main():
 
     scraped_history = set(load_history_urls(history_filename))
     scraped_history.update(load_history_urls(skipped_history_filename))
+    candidate_retry_state = load_candidate_retry_state()
+    retry_entries = candidate_retry_state.setdefault("categories", {}).setdefault(target_category_name, {})
+    retry_state_changed = False
+    for completed_url in list(retry_entries):
+        if normalize_source_url(completed_url) in scraped_history:
+            retry_entries.pop(completed_url, None)
+            retry_state_changed = True
 
     # GitHub runner-এ CPU/RAM কম → বেশি browser = ধীর
     # ২টা browser একসাথে = repair-এর মতো fast
@@ -1810,12 +1894,12 @@ async def main():
             category_url = f"{MAIN_SITE_URL}{cat_slug}/"
             await page_main.goto(category_url, timeout=35000, wait_until="domcontentloaded")
 
-            new_movie_urls = []
+            discovered_movie_urls = []
             current_page_num = 1
             MAX_PAGE_SAFETY_LIMIT = 5
 
             # 🎯 ২. হিস্টরিতে না থাকা একদম নতুন ১০টি মুভি খুঁজে বের করা
-            while len(new_movie_urls) < TARGET_LIMIT_MOVIES and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
+            while len(discovered_movie_urls) < CANDIDATE_DISCOVERY_LIMIT and current_page_num <= MAX_PAGE_SAFETY_LIMIT:
                 print(f"📄 Scanning Category Page {current_page_num}...", flush=True)
 
                 links = await page_main.evaluate("""
@@ -1833,12 +1917,13 @@ async def main():
                     link_clean = link.rstrip('/')
                     if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean or "full-series" in link_clean):
                         if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
-                            if link_clean not in scraped_history and link_clean not in new_movie_urls and f"{link_clean}/" not in scraped_history:
-                                new_movie_urls.append(link)
-                                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                            normalized_link = normalize_source_url(link_clean)
+                            if normalized_link not in scraped_history and normalized_link not in discovered_movie_urls:
+                                discovered_movie_urls.append(normalized_link)
+                                if len(discovered_movie_urls) >= CANDIDATE_DISCOVERY_LIMIT:
                                     break
 
-                if len(new_movie_urls) >= TARGET_LIMIT_MOVIES:
+                if len(discovered_movie_urls) >= CANDIDATE_DISCOVERY_LIMIT:
                     break
 
                 current_page_num += 1
@@ -1848,6 +1933,17 @@ async def main():
                         await page_main.goto(next_page_url, timeout=25000, wait_until="domcontentloaded")
                     except Exception:
                         break
+
+            new_movie_urls, cooling_candidate_count = select_scan_candidates(
+                discovered_movie_urls,
+                target_category_name,
+                candidate_retry_state,
+            )
+            if cooling_candidate_count:
+                print(
+                    f"⏳ Deferred {cooling_candidate_count} failed candidate(s); scanning fresh/deeper posts instead.",
+                    flush=True,
+                )
 
             await page_main.close()
 
@@ -1865,6 +1961,12 @@ async def main():
                     parallel_results = await asyncio.gather(*tasks)
 
                 for movie_url, title, categories, res_list, web_poster in parallel_results:
+                    retry_state_changed = record_candidate_outcome(
+                        target_category_name,
+                        movie_url,
+                        bool(res_list),
+                        candidate_retry_state,
+                    ) or retry_state_changed
                     if res_list:
                         clean_name, year = resolve_movie_identity(title, res_list)
 
@@ -1926,6 +2028,8 @@ async def main():
                         m["poster"] = repaired_poster
 
             total_items_count = save_category_outputs(target_category_name, config, all_movies)
+            if retry_state_changed:
+                save_candidate_retry_state(candidate_retry_state)
             print(f"✅ Successfully updated TXT, JSON, and M3U files for [{target_category_name}] (Total: {total_items_count} movies).", flush=True)
 
         finally:

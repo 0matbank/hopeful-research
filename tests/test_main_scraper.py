@@ -83,6 +83,15 @@ class MovieScraperTests(unittest.TestCase):
         }]
         self.assertEqual(main_scraper.resolve_movie_identity("1920 (2008) Full Movie", res_list), ("1920", "2008"))
 
+    def test_download_prefix_is_not_part_of_movie_title(self):
+        res_list = [{
+            "link": "https://cdn.example.com/CINEFREAK.TOP%20-%20Vishnu%20Vinyasam%20%282026%29%20WEB-DL%201080p.mkv"
+        }]
+        self.assertEqual(
+            main_scraper.resolve_movie_identity("Download Vishnu Vinyasam (2026)", res_list),
+            ("Vishnu Vinyasam", "2026"),
+        )
+
     def test_gross_page_stream_mismatch_uses_content_identity(self):
         res_list = [{
             "link": "https://cdn.example.com/CINEFREAK.TOP%20-%20The%20Bad%20Boy%20And%20Me%202%20%282026%29%20WEB-DL%201080p.mkv"
@@ -216,6 +225,40 @@ class MovieScraperTests(unittest.TestCase):
 
 
 class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
+    def test_failed_candidates_do_not_block_fresh_deeper_posts(self):
+        failed_urls = [f"https://example.com/failed-{index}" for index in range(10)]
+        fresh_urls = [f"https://example.com/fresh-{index}" for index in range(10)]
+        state = {"version": 1, "categories": {}}
+        for url in failed_urls:
+            main_scraper.record_candidate_outcome("Test", url, False, state, now_timestamp=1000)
+
+        selected, cooling = main_scraper.select_scan_candidates(
+            failed_urls + fresh_urls,
+            "Test",
+            state,
+            now_timestamp=1001,
+        )
+
+        self.assertEqual(selected, fresh_urls)
+        self.assertEqual(cooling, 10)
+
+    def test_failed_candidate_is_retried_after_backoff_and_success_clears_it(self):
+        url = "https://example.com/retry-me"
+        state = {"version": 1, "categories": {}}
+        main_scraper.record_candidate_outcome("Test", url, False, state, now_timestamp=1000)
+
+        selected, cooling = main_scraper.select_scan_candidates([url], "Test", state, now_timestamp=1001)
+        self.assertEqual(selected, [])
+        self.assertEqual(cooling, 1)
+
+        selected, cooling = main_scraper.select_scan_candidates(
+            [url], "Test", state, now_timestamp=1000 + 12 * 3600
+        )
+        self.assertEqual(selected, [url])
+        self.assertEqual(cooling, 0)
+        self.assertTrue(main_scraper.record_candidate_outcome("Test", url, True, state, now_timestamp=2000))
+        self.assertNotIn(url, state["categories"]["Test"])
+
     async def test_auto_repair_does_not_overwrite_scan_rotation(self):
         state = {"current_category_index": 4, "run_count": 2}
         repair = AsyncMock()

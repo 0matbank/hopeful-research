@@ -67,9 +67,15 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 )
 
             report = json.loads(report_path.read_text(encoding="utf-8"))
+            expected_movies = 0
+            expected_stream_entries = 0
+            for category in main_scraper.CATEGORIES_LIST:
+                payload = json.loads(Path(main_scraper.CATEGORIES_MAP[category]["json"]).read_text(encoding="utf-8"))
+                expected_movies += len(payload["movies"])
+                expected_stream_entries += sum(len(movie.get("res_list", [])) for movie in payload["movies"])
             self.assertEqual(exit_code, 0)
-            self.assertEqual(report["movies"], 497)
-            self.assertEqual(report["stream_entries"], 1152)
+            self.assertEqual(report["movies"], expected_movies)
+            self.assertEqual(report["stream_entries"], expected_stream_entries)
             self.assertEqual(report["alive"], report["unique_streams"])
             self.assertFalse(state_path.exists())
             self.assertFalse(quarantine_path.exists())
