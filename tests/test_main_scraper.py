@@ -361,13 +361,24 @@ class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
                 await main_scraper.repair_dead_links("Test", config, respect_cooldown=False)
                 self.assertEqual(health_check.call_count, 25)
                 health_check.reset_mock()
+                second_link = "https://cdn.example.com/movie-24-alt.mkv"
+                movies[24]["res_list"].append({
+                    "resolution": "HEVC 1080P",
+                    "link": second_link,
+                })
+                json_path.write_text(json.dumps({"movies": movies}), encoding="utf-8")
+                selected_link = "https://cdn.example.com/movie-24.mkv"
                 await main_scraper.repair_dead_links(
                     "Test",
                     config,
                     respect_cooldown=False,
                     target_source_urls={"https://example.com/movie-24"},
+                    target_stream_urls={
+                        "https://example.com/movie-24": {selected_link},
+                    },
                 )
                 self.assertEqual(health_check.call_count, 1)
+                health_check.assert_called_once_with(selected_link)
 
     async def test_guardian_retries_missing_buttons_and_keeps_complete_fresh_set(self):
         with tempfile.TemporaryDirectory() as root:
@@ -419,11 +430,16 @@ class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
                 patch.object(main_scraper, "async_playwright", return_value=PlaywrightContext()),
                 patch.object(main_scraper, "is_page_url_alive_sync", return_value=True),
                 patch.object(main_scraper, "is_stream_link_dead_sync", return_value=False),
+                patch.object(
+                    main_scraper,
+                    "probe_stream_link_sync",
+                    return_value={"status": "alive", "reason": "media_bytes_ok", "http_status": 206},
+                ),
                 patch.object(main_scraper, "process_movie_parallel_pipeline", pipeline),
                 patch.object(main_scraper, "load_failed_repairs", return_value={}),
                 patch.object(main_scraper, "save_failed_repairs"),
             ):
-                await main_scraper.repair_dead_links(
+                summary = await main_scraper.repair_dead_links(
                     "Test",
                     config,
                     respect_cooldown=False,
@@ -434,7 +450,87 @@ class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
 
             saved = json.loads(Path(config["json"]).read_text(encoding="utf-8"))["movies"][0]
             self.assertEqual(pipeline.await_count, 2)
+            self.assertEqual(summary["updated"], 1)
+            self.assertEqual(summary["unchanged"], 0)
             self.assertEqual([item["link"] for item in saved["res_list"]], [item["link"] for item in second_attempt])
+
+    async def test_refresh_with_same_link_and_ad_does_not_rewrite_catalogue(self):
+        with tempfile.TemporaryDirectory() as root:
+            category_dir = Path(root) / "category"
+            category_dir.mkdir()
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(category_dir / "movies.json"),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            source_url = "https://example.com/movie"
+            old_link = "https://cdn.example.com/movie.mkv"
+            ad_link = "https://m.media-amazon.com/images/I/example.mp4"
+            movie = {
+                "name": "Example Movie",
+                "category": "Test",
+                "year": "2026",
+                "poster": "N/A",
+                "source_url": source_url,
+                "res_list": [{"resolution": "HD 1080P", "link": old_link}],
+            }
+            json_path = Path(config["json"])
+            json_path.write_text(json.dumps({"movies": [movie]}), encoding="utf-8")
+            Path(config["dir"], "history.txt").write_text(source_url + "\n", encoding="utf-8")
+            original_json = json_path.read_bytes()
+            fresh_items = [
+                {"resolution": "HD 1080P", "link": old_link},
+                {"resolution": "HD 1080P", "link": ad_link},
+            ]
+            pipeline = AsyncMock(return_value=(
+                source_url,
+                "Example Movie",
+                "Test",
+                fresh_items,
+                "N/A",
+            ))
+            browser = SimpleNamespace(close=AsyncMock())
+            playwright = SimpleNamespace(chromium=SimpleNamespace(launch=AsyncMock(return_value=browser)))
+
+            class PlaywrightContext:
+                async def __aenter__(self):
+                    return playwright
+
+                async def __aexit__(self, exc_type, exc, traceback):
+                    return False
+
+            def probe(url, timeout=8):
+                if url == ad_link:
+                    return {"status": "dead", "reason": "non_movie_media_asset", "http_status": 0}
+                return {"status": "alive", "reason": "media_bytes_ok", "http_status": 206}
+
+            with (
+                patch.object(main_scraper, "async_playwright", return_value=PlaywrightContext()),
+                patch.object(main_scraper, "is_page_url_alive_sync", return_value=True),
+                patch.object(main_scraper, "is_stream_link_dead_sync", return_value=False),
+                patch.object(main_scraper, "probe_stream_link_sync", side_effect=probe),
+                patch.object(main_scraper, "process_movie_parallel_pipeline", pipeline),
+                patch.object(main_scraper, "load_failed_repairs", return_value={}),
+                patch.object(main_scraper, "save_failed_repairs"),
+                patch.object(main_scraper, "record_failed_repair") as record_failure,
+            ):
+                summary = await main_scraper.repair_dead_links(
+                    "Test",
+                    config,
+                    respect_cooldown=False,
+                    target_source_urls={source_url},
+                    force_refresh_source_urls={source_url},
+                    expected_source_counts={source_url: 2},
+                )
+
+            self.assertEqual(summary["updated"], 0)
+            self.assertEqual(summary["unchanged"], 1)
+            self.assertEqual(summary["failed"], 0)
+            self.assertEqual(json_path.read_bytes(), original_json)
+            self.assertFalse(Path(config["m3u"]).exists())
+            record_failure.assert_not_called()
 
 
 if __name__ == "__main__":

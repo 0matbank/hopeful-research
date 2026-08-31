@@ -10,7 +10,7 @@ on:
       - 'main_scraper.py'
       - 'requirements.txt'
   schedule:
-    - cron: '17 */3 * * *'  # প্রতি ৩ ঘণ্টায়; main scanner-এর ১৭ মিনিট পরে
+    - cron: '17 */2 * * *'  # প্রতি ২ ঘণ্টায়; এক run-এ সর্বোচ্চ ১৫টি confirmed dead stream link
   workflow_dispatch:
     inputs:
       guardian_mode:
@@ -113,5 +113,15 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add categories/ history/
-          git diff --staged --quiet || git commit -m "🛡️ Stream Guardian automatic repair"
+          if git diff --staged --quiet; then
+            echo "No catalogue/state change; nothing to commit or push."
+            exit 0
+          fi
+          REMOTE_HEAD="$(git ls-remote origin refs/heads/main | cut -f1)"
+          CHECKED_OUT_HEAD="$(git rev-parse HEAD)"
+          if [ "$REMOTE_HEAD" != "$CHECKED_OUT_HEAD" ]; then
+            echo "::warning::Remote main changed during this run; skipping stale Guardian push safely."
+            exit 0
+          fi
+          git commit -m "🛡️ Stream Guardian automatic repair"
           git push

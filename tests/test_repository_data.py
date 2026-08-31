@@ -55,7 +55,8 @@ class RepositoryDataTests(unittest.TestCase):
         for workflow in (scanner_workflow, guardian_workflow):
             self.assertIn("group: movie-catalog-writer", workflow)
             self.assertIn("cancel-in-progress: false", workflow)
-        self.assertIn("cron: '17 */3 * * *'", guardian_workflow)
+        self.assertIn("cron: '17 */2 * * *'", guardian_workflow)
+        self.assertIn("সর্বোচ্চ ১৫টি confirmed dead stream link", guardian_workflow)
         self.assertIn("github.event_name == 'push' && 'DRY_RUN'", guardian_workflow)
         self.assertNotIn("Auto Repair Dead Links", scanner_workflow)
         self.assertNotIn("REPAIR_AUTO", scanner_workflow)

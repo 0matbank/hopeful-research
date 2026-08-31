@@ -1651,8 +1651,17 @@ async def repair_dead_links(
     target_source_urls=None,
     force_refresh_source_urls=None,
     expected_source_counts=None,
+    target_stream_urls=None,
 ):
     """Category-র existing movies-এ dead link চেক করে fresh link দিয়ে replace করে।"""
+    repair_summary = {
+        "attempted": 0,
+        "updated": 0,
+        "unchanged": 0,
+        "failed": 0,
+        "skipped": 0,
+        "outcomes": {},
+    }
     json_filename = config["json"]
     output_filename = config["file"]
     m3u_filename = config["m3u"]
@@ -1666,7 +1675,7 @@ async def repair_dead_links(
 
     if not existing_movies:
         print(f"ℹ️ No existing movies found for [{target_category_name}]. Nothing to repair.", flush=True)
-        return
+        return repair_summary
 
     print(f"\n{'='*60}", flush=True)
     print(f"REPAIR MODE: Checking [{target_category_name}] - {len(existing_movies)} movie(s)", flush=True)
@@ -1691,6 +1700,11 @@ async def repair_dead_links(
         normalize_source_url(url): int(count)
         for url, count in (expected_source_counts or {}).items()
         if normalize_source_url(url) and int(count) > 0
+    }
+    target_stream_urls = {
+        normalize_source_url(source_url): {str(link).strip() for link in links if str(link).strip()}
+        for source_url, links in (target_stream_urls or {}).items()
+        if normalize_source_url(source_url)
     }
     candidates = []
     for movie in existing_movies:
@@ -1725,9 +1739,12 @@ async def repair_dead_links(
         """একটা movie-র সব link parallel check করে।"""
         movie_name = movie.get("name", "Unknown")
         res_list = movie.get("res_list", [])
+        source_url = normalize_source_url(movie.get("source_url", ""))
+        selected_links = target_stream_urls.get(source_url)
         tasks = [
             check_one_link(movie_name, idx, item.get("link", ""))
             for idx, item in enumerate(res_list)
+            if selected_links is None or item.get("link", "") in selected_links
         ]
         results = await asyncio.gather(*tasks)
         dead_indices = [idx for idx, is_dead, _ in results if is_dead]
@@ -1749,7 +1766,7 @@ async def repair_dead_links(
 
     if not movies_with_dead_links:
         print(f"\n✅ All checked links are alive! No repairs needed for [{target_category_name}].", flush=True)
-        return
+        return repair_summary
 
     print(
         f"\n🔧 Found {len(movies_with_dead_links)} movie(s) requiring repair/refresh. Starting...\n",
@@ -1757,24 +1774,27 @@ async def repair_dead_links(
     )
 
     # ৪. Repair — Playwright দিয়ে fresh link scrape
-    repaired_count = 0
-    failed_count = 0
-
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=LAUNCH_ARGS)
 
         try:
-            repair_sem = asyncio.Semaphore(2 if RUN_ENV == "github" else 3)
+            # GitHub Guardian intentionally repairs one source at a time. The
+            # persistent queue carries the remaining work into later runs.
+            repair_sem = asyncio.Semaphore(1 if RUN_ENV == "github" else 3)
 
             async def repair_one(repair_info, repair_index):
                 async with repair_sem:
+                    queued_source_url = normalize_source_url(
+                        repair_info["movie"].get("source_url", "")
+                    )
                     if is_time_running_out(max_repair_minutes):
                         print("⏰ Repair time budget reached; skipping remaining repair work safely.", flush=True)
-                        return 0, 0
+                        return queued_source_url, "skipped"
 
                     movie = repair_info["movie"]
                     dead_indices = repair_info["dead_indices"]
                     force_refresh = repair_info["force_refresh"]
+                    refresh_only = force_refresh and not dead_indices
                     movie_name = movie.get("name", "Unknown")
                     movie_category = movie.get("category", target_category_name)
                     print(f"\n🔧 Repairing [{repair_index}/{len(movies_with_dead_links)}]: '{movie_name}'", flush=True)
@@ -1796,6 +1816,13 @@ async def repair_dead_links(
                     if not repair_page_url:
                         repair_page_url = await search_movie_on_site(browser, movie_name, cat_slug)
                         if not repair_page_url:
+                            if refresh_only:
+                                print(
+                                    f"   ⚠️ Refresh checked for '{movie_name}', but its source page "
+                                    "could not be resolved. Existing playable links were kept.",
+                                    flush=True,
+                                )
+                                return queued_source_url, "unchanged"
                             print(f"   ❌ Could not find '{movie_name}' on site. Logging as failed.", flush=True)
                             record_failed_repair(
                                 movie_name,
@@ -1803,7 +1830,7 @@ async def repair_dead_links(
                                 repair_info["dead_links"],
                                 failed_repairs,
                             )
-                            return 0, 1
+                            return queued_source_url, "failed"
 
                     current_source_url = normalize_source_url(movie.get("source_url", ""))
                     expected_count = expected_source_counts.get(current_source_url, 0)
@@ -1825,22 +1852,39 @@ async def repair_dead_links(
                         )
                         if fresh_res_list:
                             fresh_checks = await asyncio.gather(*[
-                                asyncio.to_thread(is_stream_link_dead_sync, item.get("link", ""))
+                                asyncio.to_thread(probe_stream_link_sync, item.get("link", ""))
                                 for item in fresh_res_list
                             ])
-                            for fresh_item, fresh_dead in zip(fresh_res_list, fresh_checks):
+                            for fresh_item, fresh_probe in zip(fresh_res_list, fresh_checks):
                                 fresh_link = fresh_item.get("link", "")
-                                if not fresh_dead:
+                                if fresh_probe.get("status") == "alive":
                                     validated_fresh.append(fresh_item)
                                     print(f"   ✅ Validated fresh link: {fresh_link[:70]}...", flush=True)
+                                elif fresh_probe.get("reason") == "non_movie_media_asset":
+                                    print(
+                                        f"   🚫 Rejected non-movie/ad media asset: {fresh_link[:70]}...",
+                                        flush=True,
+                                    )
                                 else:
-                                    print(f"   ⚠️ Fresh link ALSO dead (skipping): {fresh_link[:70]}...", flush=True)
+                                    print(
+                                        f"   ⚠️ Fresh link rejected "
+                                        f"({fresh_probe.get('reason', 'not_playable')}): {fresh_link[:70]}...",
+                                        flush=True,
+                                    )
 
                         canonical_fresh = canonical_fresh_res_list(validated_fresh)
                         if not expected_count or len(canonical_fresh) >= expected_count:
                             break
 
                     if not validated_fresh:
+                        if refresh_only:
+                            print(
+                                f"   ℹ️ Refresh checked for '{movie_name}'; no additional valid "
+                                "movie stream was captured. Existing playable links were kept.",
+                                flush=True,
+                            )
+                            clear_failed_repair(movie_name, movie_category, failed_repairs)
+                            return queued_source_url, "unchanged"
                         print(f"   ❌ No fresh stream links found for '{movie_name}'. Logging as failed.", flush=True)
                         record_failed_repair(
                             movie_name,
@@ -1848,7 +1892,7 @@ async def repair_dead_links(
                             repair_info["dead_links"],
                             failed_repairs,
                         )
-                        return 0, 1
+                        return queued_source_url, "failed"
 
                     canonical_fresh = canonical_fresh_res_list(validated_fresh)
                     if expected_count and len(canonical_fresh) >= expected_count:
@@ -1879,25 +1923,43 @@ async def repair_dead_links(
                             repair_info["dead_links"],
                             failed_repairs,
                         )
-                        return 0, 1
+                        return queued_source_url, "failed"
 
+                    original_res_list = movie.get("res_list", [])
+                    original_source_url = normalize_source_url(movie.get("source_url", ""))
+                    new_source_url = normalize_source_url(repair_page_url)
+                    catalog_changed = (
+                        original_res_list != new_res_list
+                        or original_source_url != new_source_url
+                    )
                     movie["res_list"] = new_res_list
-                    movie["source_url"] = normalize_source_url(repair_page_url)
+                    movie["source_url"] = new_source_url
                     clear_failed_repair(movie_name, movie_category, failed_repairs)
+                    if catalog_changed:
+                        print(
+                            f"   ✅ Updated catalogue for '{movie_name}' "
+                            f"(replaced={replaced_links}, removed_dead={removed_dead_links}, "
+                            f"source_refresh={force_refresh}, current_links={len(new_res_list)}).",
+                            flush=True,
+                        )
+                        return queued_source_url, "updated"
+
                     print(
-                        f"   ✅ Successfully repaired '{movie_name}' "
-                        f"(replaced={replaced_links}, removed_dead={removed_dead_links}, "
-                        f"source_refresh={force_refresh}, current_links={len(new_res_list)})!",
+                        f"   ℹ️ Refresh checked for '{movie_name}'; no catalogue change "
+                        f"(current_links={len(new_res_list)}).",
                         flush=True,
                     )
-                    return 1, 0
+                    return queued_source_url, "unchanged"
 
             repair_results = await asyncio.gather(*[
                 repair_one(repair_info, index)
                 for index, repair_info in enumerate(movies_with_dead_links, 1)
             ])
-            repaired_count = sum(result[0] for result in repair_results)
-            failed_count = sum(result[1] for result in repair_results)
+            repair_summary["attempted"] = len(repair_results)
+            for source_url, result in repair_results:
+                repair_summary[result] += 1
+                if source_url:
+                    repair_summary["outcomes"][source_url] = result
 
         finally:
             await browser.close()
@@ -1906,12 +1968,24 @@ async def repair_dead_links(
     save_failed_repairs(failed_repairs)
 
     # ৬. Updated files সেভ (TXT, JSON, M3U)
-    if repaired_count > 0:
+    if repair_summary["updated"] > 0:
         save_category_outputs(target_category_name, config, existing_movies)
-        print(f"\n✅ Repair complete! Repaired: {repaired_count}, Failed: {failed_count}", flush=True)
+        print(
+            f"\n✅ Repair check complete! Updated: {repair_summary['updated']}, "
+            f"Unchanged: {repair_summary['unchanged']}, Failed: {repair_summary['failed']}, "
+            f"Skipped: {repair_summary['skipped']}",
+            flush=True,
+        )
         print(f"✅ Updated TXT, JSON, M3U files for [{target_category_name}].", flush=True)
     else:
-        print(f"\n⚠️ No movies were successfully repaired. Failed: {failed_count}", flush=True)
+        print(
+            f"\nℹ️ Repair check complete with no catalogue rewrite. "
+            f"Unchanged: {repair_summary['unchanged']}, Failed: {repair_summary['failed']}, "
+            f"Skipped: {repair_summary['skipped']}",
+            flush=True,
+        )
+
+    return repair_summary
 
 
 
