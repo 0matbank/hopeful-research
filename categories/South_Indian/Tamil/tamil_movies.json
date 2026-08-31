@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Tamil Movies",
-    "total_movies": 31,
-    "last_updated": "2026-08-30 | 19:27:33 (UTC)",
+    "total_movies": 39,
+    "last_updated": "2026-08-31 | 18:24:14 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -590,6 +590,57 @@
       ]
     },
     {
+      "name": "Anbe Diana",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+      "source_url": "https://cinefreak.net/anbe-diana-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "TN 2026",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
+      "source_url": "https://cinefreak.net/tn-2026-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20TN%202026%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Karaa",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w500/toWMJcEqHIt7Tqk5UoMGElbDSNI.jpg",
+      "source_url": "https://cinefreak.net/karaa-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Karaa%20%282026%29%20HDTC%20%5BTamil%20LiNE%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Kenatha Kanom",
       "category": "Tamil Movies",
       "year": "2025",
@@ -629,6 +680,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mahasenha%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Surrender",
+      "category": "Tamil Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4RBmd46UWfTRudGkYOnvFLbtX3.jpg",
+      "source_url": "https://cinefreak.net/surrender-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -724,6 +788,19 @@
       ]
     },
     {
+      "name": "Run Baby Run",
+      "category": "Tamil Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8IuI1vB8qcrH6MKPu9FP0Xtbh.jpg",
+      "source_url": "https://cinefreak.net/run-baby-run-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Run%20Baby%20Run%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Yaanai",
       "category": "Tamil Movies",
       "year": "2022",
@@ -737,6 +814,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "FIR",
+      "category": "Tamil Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWzHTCh3ZCUsotpP7zyOBkb2bB7.jpg",
+      "source_url": "https://cinefreak.net/fir-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20FIR%20%282022%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20FIR%20%282022%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -792,6 +886,40 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Paayum Puli",
+      "category": "Tamil Movies",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFZ1hFL8rHmq54VEHcqTWHMaSxe.jpg",
+      "source_url": "https://cinefreak.net/paayum-puli-2015-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Paayum%20Puli%20%282015%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Paayum%20Puli%20%282015%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Thangamagan",
+      "category": "Tamil Movies",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cndTIjQx0AvRzbZFsKQrz7G5dA3.jpg",
+      "source_url": "https://cinefreak.net/thangamagan-2015-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Thanga%20Magan%20%282015%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thanga%20Magan%20%282015%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },

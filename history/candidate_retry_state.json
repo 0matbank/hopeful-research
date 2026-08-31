@@ -76,6 +76,20 @@
         "retry_after_epoch": 1788202243,
         "retry_after": "2026-08-31T18:50:43.176155+00:00"
       }
+    },
+    "Tamil Movies": {
+      "https://cinefreak.net/anali-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T18:24:14.317329+00:00",
+        "retry_after_epoch": 1788243854,
+        "retry_after": "2026-09-01T06:24:14.317329+00:00"
+      },
+      "https://cinefreak.net/uthama-puthiran-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T18:24:14.317385+00:00",
+        "retry_after_epoch": 1788243854,
+        "retry_after": "2026-09-01T06:24:14.317385+00:00"
+      }
     }
   }
 }
