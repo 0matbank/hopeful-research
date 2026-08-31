@@ -62,6 +62,11 @@ class RepositoryDataTests(unittest.TestCase):
         self.assertNotIn("REPAIR_AUTO", scanner_workflow)
         self.assertNotIn("REPAIR_SPECIFIC", scanner_workflow)
         self.assertNotIn("repair_category:", scanner_workflow)
+        self.assertIn("- MANUAL_CATEGORY", scanner_workflow)
+        self.assertIn("scan_category:", scanner_workflow)
+        self.assertIn("github.event.inputs.scan_category", scanner_workflow)
+        for category_name in main_scraper.CATEGORIES_LIST:
+            self.assertIn(f"- {category_name}", scanner_workflow)
 
 
 if __name__ == "__main__":

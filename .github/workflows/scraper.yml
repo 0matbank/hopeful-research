@@ -13,6 +13,23 @@ on:
         options:
           - AUTO
           - FORCE_NEXT
+          - MANUAL_CATEGORY
+      scan_category:
+        description: 'Manual Category (শুধু MANUAL_CATEGORY mode-এ ব্যবহার হবে)'
+        required: false
+        default: 'Bangla Movies'
+        type: choice
+        options:
+          - Bangla Movies
+          - English Movies
+          - Hindi Movies
+          - Hindi Dubbed Movies
+          - Bangla Dubbed
+          - Tamil Movies
+          - Malayalam Movies
+          - Kannada Movies
+          - Telugu Movies
+          - Disney Hotstar
 
 concurrency:
   group: movie-catalog-writer
@@ -76,7 +93,7 @@ jobs:
           MAIN_SITE_URL: ${{ secrets.MAIN_SITE_URL }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
-          SCAN_MODE: ${{ github.event.inputs.scan_mode || 'AUTO' }}
+          SCAN_MODE: ${{ github.event.inputs.scan_mode == 'MANUAL_CATEGORY' && github.event.inputs.scan_category || github.event.inputs.scan_mode || 'AUTO' }}
           PYTHONUNBUFFERED: "1"
         run: |
           echo "=================================================="
@@ -92,5 +109,5 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add categories/ history/
-          git diff --staged --quiet || git commit -m "🤖 Auto Scrape [Mode: ${{ github.event.inputs.scan_mode || 'AUTO' }}]"
+          git diff --staged --quiet || git commit -m "🤖 Auto Scrape [Mode: ${{ github.event.inputs.scan_mode == 'MANUAL_CATEGORY' && github.event.inputs.scan_category || github.event.inputs.scan_mode || 'AUTO' }}]"
           git push
