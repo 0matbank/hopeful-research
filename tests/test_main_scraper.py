@@ -2,6 +2,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 from unittest.mock import AsyncMock, patch
 
 import main_scraper
@@ -33,7 +34,10 @@ class MovieScraperTests(unittest.TestCase):
             config = self.make_config(root)
             main_scraper.save_category_outputs("Test", config, [movie])
             payload = json.loads(Path(config["json"]).read_text(encoding="utf-8"))
+            txt = Path(config["file"]).read_text(encoding="utf-8")
             self.assertNotIn("season", payload["movies"][0]["res_list"][0])
+            self.assertNotIn("Source URL:", txt)
+            self.assertNotIn(movie["source_url"], txt)
             self.assertEqual(
                 Path(config["dir"], "history.txt").read_text(encoding="utf-8").splitlines(),
                 ["https://example.com/example-movie"],
@@ -52,7 +56,8 @@ class MovieScraperTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as root:
             config = self.make_config(root)
             main_scraper.save_category_outputs("Test", config, [movie])
-            parsed = main_scraper.parse_existing_output_file(config["file"])
+            Path(config["json"]).unlink()
+            parsed = main_scraper.load_existing_movies(config)
             self.assertEqual(parsed[0]["source_url"], movie["source_url"])
             self.assertEqual(parsed[0]["res_list"][0]["season"], "S01")
 
@@ -71,7 +76,7 @@ class MovieScraperTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as root:
             config = self.make_config(root)
             main_scraper.save_category_outputs("Test", config, [movie])
-            parsed = main_scraper.parse_existing_output_file(config["file"])
+            parsed = main_scraper.load_existing_movies(config)
             self.assertEqual([item["season"] for item in parsed[0]["res_list"]], ["S01", "S02"])
             m3u = Path(config["m3u"]).read_text(encoding="utf-8")
             self.assertIn("Example Show - S01 - HD 1080P", m3u)
@@ -113,6 +118,51 @@ class MovieScraperTests(unittest.TestCase):
     def test_poster_validation_rejects_unrelated_result(self):
         self.assertFalse(main_scraper.poster_result_matches("Paint On Dry Leaf", "2026", "Rongin Shurma", "2026"))
         self.assertTrue(main_scraper.poster_result_matches("Need for Speed", "2014", "Need for Speed", "2014"))
+
+    def test_media_payload_validation_rejects_html_and_accepts_mkv_mp4_hls(self):
+        self.assertFalse(main_scraper.is_media_payload_sample(b"<!doctype html><html>Denied</html>", "text/html"))
+        self.assertTrue(main_scraper.is_media_payload_sample(b"\x1aE\xdf\xa3" + b"x" * 64, "application/octet-stream"))
+        self.assertTrue(main_scraper.is_media_payload_sample(b"\x00\x00\x00\x18ftypisom" + b"x" * 64, "video/mp4"))
+        self.assertTrue(main_scraper.is_media_payload_sample(b"#EXTM3U\n#EXT-X-VERSION:3", "application/vnd.apple.mpegurl"))
+
+    def test_short_advertising_media_assets_are_not_movie_streams(self):
+        advertising_urls = [
+            "https://turbohost26.online/landers/example/assets/img/background.mp4",
+            "https://video.wixstatic.com/video/example/480p/mp4/file.mp4",
+            "https://m.media-amazon.com/images/I/example.mp4",
+            "https://www.vpnapptoggle.com/video/vid_1_mp4.mp4",
+            "https://chatmate.tv/low-power-mode.mp4",
+        ]
+        for url in advertising_urls:
+            with self.subTest(url=url):
+                self.assertTrue(main_scraper.is_obvious_non_movie_media_url(url))
+                self.assertEqual(main_scraper.probe_stream_link_sync(url)["reason"], "non_movie_media_asset")
+
+        self.assertFalse(
+            main_scraper.is_obvious_non_movie_media_url(
+                "https://pub-example.r2.dev/CINEFREAK.TOP%20-%20Movie%20(2026)%201080p.mkv"
+            )
+        )
+
+    def test_resolution_detector_preserves_hq_quality(self):
+        self.assertEqual(
+            main_scraper.detect_resolution_from_stream_url(
+                "https://cdn.example.com/Example.WEB-DL.HQ.1080p.mkv"
+            ),
+            "HQ 1080P",
+        )
+
+    def test_current_source_stream_set_replaces_stale_subset(self):
+        fresh = [
+            {"resolution": "HEVC 1080P", "link": "https://cdn.example.com/hevc.mkv"},
+            {"resolution": "HD 1080P", "link": "https://cdn.example.com/hd.mkv"},
+            {"resolution": "HQ 1080P", "link": "https://cdn.example.com/hq.mkv"},
+            {"resolution": "4K 2160P HEVC", "link": "https://cdn.example.com/4k.mkv"},
+            {"resolution": "4K 2160P HEVC", "link": "https://cdn.example.com/4k.mkv"},
+        ]
+        canonical = main_scraper.canonical_fresh_res_list(fresh)
+        self.assertEqual(len(canonical), 4)
+        self.assertEqual([item["link"] for item in canonical], [item["link"] for item in fresh[:4]])
 
     def test_movie_identity_keeps_remakes_and_separate_series_releases(self):
         self.assertNotEqual(
@@ -268,38 +318,17 @@ class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
         self.assertTrue(main_scraper.record_candidate_outcome("Test", url, True, state, now_timestamp=2000))
         self.assertNotIn(url, state["categories"]["Test"])
 
-    async def test_auto_repair_does_not_overwrite_scan_rotation(self):
-        state = {"current_category_index": 4, "run_count": 2}
-        repair = AsyncMock()
-        with (
-            patch.object(main_scraper, "SCAN_MODE", "REPAIR_AUTO"),
-            patch.object(main_scraper, "load_tracker_state", return_value=state),
-            patch.object(main_scraper, "save_tracker_state") as save_state,
-            patch.object(main_scraper, "repair_dead_links", repair),
-        ):
-            await main_scraper.main()
-
-        self.assertEqual(state["current_category_index"], 4)
-        self.assertEqual(state["run_count"], 2)
-        self.assertEqual(state["repair_category_index"], 5)
-        save_state.assert_called_once_with(state)
-
-    async def test_specific_repair_bypasses_cooldown_and_gets_full_time_budget(self):
-        repair = AsyncMock()
-        with (
-            patch.object(main_scraper, "SCAN_MODE", "REPAIR_SPECIFIC"),
-            patch.object(main_scraper, "REPAIR_CATEGORY", "Hindi Movies"),
-            patch.object(main_scraper, "load_tracker_state", return_value={}),
-            patch.object(main_scraper, "repair_dead_links", repair),
-        ):
-            await main_scraper.main()
-
-        repair.assert_awaited_once_with(
-            "Hindi Movies",
-            main_scraper.CATEGORIES_MAP["Hindi Movies"],
-            respect_cooldown=False,
-            max_repair_minutes=75,
-        )
+    async def test_legacy_main_scanner_repair_modes_are_disabled(self):
+        for mode in ("REPAIR_AUTO", "REPAIR_SPECIFIC"):
+            with self.subTest(mode=mode):
+                repair = AsyncMock()
+                with (
+                    patch.object(main_scraper, "SCAN_MODE", mode),
+                    patch.object(main_scraper, "load_tracker_state", return_value={}),
+                    patch.object(main_scraper, "repair_dead_links", repair),
+                ):
+                    await main_scraper.main()
+                repair.assert_not_awaited()
 
     async def test_specific_repair_checks_beyond_the_old_first_twenty_limit(self):
         with tempfile.TemporaryDirectory() as root:
@@ -339,6 +368,73 @@ class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
                     target_source_urls={"https://example.com/movie-24"},
                 )
                 self.assertEqual(health_check.call_count, 1)
+
+    async def test_guardian_retries_missing_buttons_and_keeps_complete_fresh_set(self):
+        with tempfile.TemporaryDirectory() as root:
+            category_dir = Path(root) / "category"
+            category_dir.mkdir()
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(category_dir / "movies.json"),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            source_url = "https://example.com/movie"
+            old_link = "https://cdn.example.com/old.mkv"
+            movie = {
+                "name": "Example Movie",
+                "category": "Test",
+                "year": "2026",
+                "poster": "N/A",
+                "source_url": source_url,
+                "res_list": [{"resolution": "HD 1080P", "link": old_link}],
+            }
+            Path(config["json"]).write_text(json.dumps({"movies": [movie]}), encoding="utf-8")
+            Path(config["dir"], "history.txt").write_text(source_url + "\n", encoding="utf-8")
+
+            first_attempt = [
+                {"resolution": "HEVC 1080P", "link": "https://cdn.example.com/one.mkv"},
+                {"resolution": "HD 1080P", "link": "https://cdn.example.com/two.mkv"},
+            ]
+            second_attempt = first_attempt + [
+                {"resolution": "HQ 1080P", "link": "https://cdn.example.com/three.mkv"},
+                {"resolution": "4K 2160P", "link": "https://cdn.example.com/four.mkv"},
+            ]
+            pipeline = AsyncMock(side_effect=[
+                (source_url, "Example Movie", "Test", first_attempt, "N/A"),
+                (source_url, "Example Movie", "Test", second_attempt, "N/A"),
+            ])
+            browser = SimpleNamespace(close=AsyncMock())
+            playwright = SimpleNamespace(chromium=SimpleNamespace(launch=AsyncMock(return_value=browser)))
+
+            class PlaywrightContext:
+                async def __aenter__(self):
+                    return playwright
+
+                async def __aexit__(self, exc_type, exc, traceback):
+                    return False
+
+            with (
+                patch.object(main_scraper, "async_playwright", return_value=PlaywrightContext()),
+                patch.object(main_scraper, "is_page_url_alive_sync", return_value=True),
+                patch.object(main_scraper, "is_stream_link_dead_sync", return_value=False),
+                patch.object(main_scraper, "process_movie_parallel_pipeline", pipeline),
+                patch.object(main_scraper, "load_failed_repairs", return_value={}),
+                patch.object(main_scraper, "save_failed_repairs"),
+            ):
+                await main_scraper.repair_dead_links(
+                    "Test",
+                    config,
+                    respect_cooldown=False,
+                    target_source_urls={source_url},
+                    force_refresh_source_urls={source_url},
+                    expected_source_counts={source_url: 4},
+                )
+
+            saved = json.loads(Path(config["json"]).read_text(encoding="utf-8"))["movies"][0]
+            self.assertEqual(pipeline.await_count, 2)
+            self.assertEqual([item["link"] for item in saved["res_list"]], [item["link"] for item in second_attempt])
 
 
 if __name__ == "__main__":

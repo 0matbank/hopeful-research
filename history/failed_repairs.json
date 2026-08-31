@@ -14,5 +14,133 @@
     ],
     "last_attempt": "2026-08-26T12:35:29.296452+00:00",
     "attempt_count": 4
+  },
+  "banglamovies::lawhogourangernaamre": {
+    "name": "Lawho Gouranger Naam Re",
+    "category": "Bangla Movies",
+    "dead_links": [],
+    "last_attempt": "2026-08-30T18:41:28.375620+00:00",
+    "attempt_count": 4
+  },
+  "banglamovies::swastiksanket": {
+    "name": "Swastik Sanket",
+    "category": "Bangla Movies",
+    "dead_links": [],
+    "last_attempt": "2026-08-30T18:43:21.712889+00:00",
+    "attempt_count": 4
+  },
+  "hindimovies::dugdug": {
+    "name": "Dug Dug",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-08-30T13:36:08.523383+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::jogi": {
+    "name": "Jogi",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-08-30T13:38:22.046452+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::highvoltagerakshak": {
+    "name": "High Voltage Rakshak",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20High%20Voltage%20Rakshak%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-08-30T13:51:49.769005+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::writtenanddirectedbygod": {
+    "name": "Written & Directed By God",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-08-30T13:54:02.916695+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::writtenanddirectedbygod": {
+    "name": "Written & Directed By God",
+    "category": "Malayalam Movies",
+    "dead_links": [],
+    "last_attempt": "2026-08-30T19:39:06.518638+00:00",
+    "attempt_count": 3
+  },
+  "kannadamovies::usiru": {
+    "name": "Usiru",
+    "category": "Kannada Movies",
+    "dead_links": [],
+    "last_attempt": "2026-08-30T19:41:05.075089+00:00",
+    "attempt_count": 3
+  },
+  "kannadamovies::gst": {
+    "name": "GST",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-08-30T14:32:38.440342+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::chefchidambara": {
+    "name": "Chef Chidambara",
+    "category": "Kannada Movies",
+    "dead_links": [],
+    "last_attempt": "2026-08-30T19:44:41.412231+00:00",
+    "attempt_count": 3
+  },
+  "kannadamovies::hero": {
+    "name": "Hero",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-08-30T14:35:51.097449+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::pogaru": {
+    "name": "Pogaru",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-08-30T14:36:25.035357+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::nawabcafe": {
+    "name": "Nawab Cafe",
+    "category": "Telugu Movies",
+    "dead_links": [],
+    "last_attempt": "2026-08-30T19:48:42.689236+00:00",
+    "attempt_count": 3
+  },
+  "banglamovies::bhaggyolokkhi": {
+    "name": "Bhaggyo Lokkhi",
+    "category": "Bangla Movies",
+    "dead_links": [],
+    "last_attempt": "2026-08-30T18:41:27.053704+00:00",
+    "attempt_count": 2
+  },
+  "kannadamovies::kaalapatthar": {
+    "name": "Kaalapatthar",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://m.media-amazon.com/images/I/91tM7VzYXSL.mp4",
+      "https://m.media-amazon.com/images/I/91v31-0CMPL.mp4",
+      "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
+    ],
+    "last_attempt": "2026-08-30T18:20:35.795793+00:00",
+    "attempt_count": 1
   }
 }

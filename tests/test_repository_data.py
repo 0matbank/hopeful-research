@@ -31,6 +31,8 @@ class RepositoryDataTests(unittest.TestCase):
 
                 self.assertEqual(payload["category_info"]["total_movies"], len(movies))
                 self.assertEqual(len(re.findall(r"(?m)^(?:Movie name|Show name):", txt)), len(movies))
+                self.assertNotIn("Source URL:", txt)
+                self.assertTrue(all(source_url not in txt for source_url in source_urls))
                 self.assertEqual(Counter(json_links), Counter(txt_links))
                 self.assertEqual(Counter(json_links), Counter(m3u_links))
                 self.assertEqual(source_urls, history)
@@ -56,6 +58,9 @@ class RepositoryDataTests(unittest.TestCase):
         self.assertIn("cron: '17 */3 * * *'", guardian_workflow)
         self.assertIn("github.event_name == 'push' && 'DRY_RUN'", guardian_workflow)
         self.assertNotIn("Auto Repair Dead Links", scanner_workflow)
+        self.assertNotIn("REPAIR_AUTO", scanner_workflow)
+        self.assertNotIn("REPAIR_SPECIFIC", scanner_workflow)
+        self.assertNotIn("repair_category:", scanner_workflow)
 
 
 if __name__ == "__main__":

@@ -2,11 +2,13 @@
 
 import argparse
 import asyncio
+import html
 import json
 import os
-import socket
+import re
 import urllib.error
 import urllib.request
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
@@ -20,6 +22,7 @@ STATE_FILE = ROOT / "history" / "link_guardian_state.json"
 QUARANTINE_FILE = ROOT / "history" / "link_guardian_quarantine.json"
 DEFAULT_REPORT_FILE = ROOT / "guardian-report.json"
 PROBE_CONCURRENCY = 30
+SOURCE_AUDIT_CONCURRENCY = 30
 TRANSIENT_FAILURE_THRESHOLD = 2
 OUTAGE_CIRCUIT_BREAKER_RATIO = 0.10
 QUARANTINE_RETRY_LIMIT = 5
@@ -65,43 +68,14 @@ def load_category_movies(config):
     return payload.get("movies", []) if isinstance(payload, dict) else []
 
 
-def is_cdn_url(url):
-    lowered = str(url).lower()
-    return any(value in lowered for value in ("r2.dev", "cloudflarestorage.com", "pub-"))
-
-
-def request_status(url, method):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-    if method == "GET":
-        headers["Range"] = "bytes=0-1023"
-    request = urllib.request.Request(url, headers=headers, method=method)
-    try:
-        with urllib.request.urlopen(request, timeout=8) as response:
-            return response.status, ""
-    except urllib.error.HTTPError as error:
-        return error.code, f"http_{error.code}"
-    except (urllib.error.URLError, TimeoutError, socket.timeout) as error:
-        return 0, type(error).__name__.lower()
-    except Exception as error:
-        return 0, type(error).__name__.lower()
-
-
 def probe_stream_once(url):
-    if not url:
-        return ProbeResult(url, "dead", "empty_url")
-
-    head_status, head_reason = request_status(url, "HEAD")
-    if head_status in {200, 206} or (head_status == 403 and is_cdn_url(url)):
-        return ProbeResult(url, "alive", "head_ok", head_status)
-
-    get_status, get_reason = request_status(url, "GET")
-    if get_status in {200, 206} or (get_status == 403 and is_cdn_url(url)):
-        return ProbeResult(url, "alive", "range_get_ok", get_status)
-    if get_status in {404, 410} and head_status in {404, 410}:
-        return ProbeResult(url, "dead", f"confirmed_http_{get_status}", get_status)
-
-    reason = get_reason or head_reason or f"http_{get_status or head_status}"
-    return ProbeResult(url, "transient", reason, get_status or head_status)
+    result = scraper.probe_stream_link_sync(url, timeout=8)
+    return ProbeResult(
+        url,
+        result["status"],
+        result["reason"],
+        result.get("http_status", 0),
+    )
 
 
 def probe_stream(url, transient_retries=2):
@@ -125,6 +99,127 @@ def probe_many(urls, concurrency=PROBE_CONCURRENCY):
             except Exception as error:
                 results[url] = ProbeResult(url, "transient", type(error).__name__.lower())
     return results
+
+
+def target_option_urls_from_html(raw_html):
+    """Extract the same Watch options targeted by the unchanged browser pipeline."""
+    raw_html = str(raw_html or "")
+    lowered_html = raw_html.lower()
+    if re.search(r'''class=["'][^"']*\bep-card\b''', raw_html, re.IGNORECASE):
+        urls = []
+        for anchor_match in re.finditer(
+            r"<a\b([^>]*)>(.*?)</a>",
+            raw_html,
+            re.IGNORECASE | re.DOTALL,
+        ):
+            # Series extractor selects anchors inside .watch-links and rejects
+            # 720p/480p buttons. The latest preceding box class identifies which
+            # quality box owns the anchor in the server-rendered markup.
+            watch_position = lowered_html.rfind("watch-links", 0, anchor_match.start())
+            download_position = lowered_html.rfind("download-links", 0, anchor_match.start())
+            if watch_position <= download_position:
+                continue
+            button_text = html.unescape(re.sub(r"<[^>]+>", " ", anchor_match.group(2)))
+            button_text = " ".join(button_text.split()).lower()
+            if "download" in button_text:
+                continue
+            if any(marker in button_text for marker in ("720p", "480p")) and "1080p" not in button_text:
+                continue
+            href_match = re.search(r'''href=["']([^"']+)''', anchor_match.group(1), re.IGNORECASE)
+            if href_match:
+                href = html.unescape(href_match.group(1)).strip()
+                if "generate.php" in href and href not in urls:
+                    urls.append(href)
+        return urls
+
+    header_matches = list(
+        re.finditer(r"<h[1-5]\b[^>]*>(.*?)</h[1-5]>", raw_html, re.IGNORECASE | re.DOTALL)
+    )
+    urls = []
+    for index, header_match in enumerate(header_matches):
+        header_text = html.unescape(re.sub(r"<[^>]+>", " ", header_match.group(1)))
+        header_text = " ".join(header_text.split()).lower()
+        if not any(marker in header_text for marker in ("1080p", "2160p", "4k", "hevc")):
+            continue
+        if any(marker in header_text for marker in ("720p", "480p")) and "1080p" not in header_text:
+            continue
+
+        end = (
+            header_matches[index + 1].start()
+            if index + 1 < len(header_matches)
+            else min(len(raw_html), header_match.end() + 5000)
+        )
+        block = raw_html[header_match.end():end]
+        watch_match = re.search(
+            r"<a\b([^>]*\bdlbtn-watch\b[^>]*)>",
+            block,
+            re.IGNORECASE | re.DOTALL,
+        )
+        if not watch_match:
+            continue
+        href_match = re.search(r'''href=["']([^"']+)''', watch_match.group(1), re.IGNORECASE)
+        if href_match:
+            href = html.unescape(href_match.group(1)).strip()
+            if href and href not in urls:
+                urls.append(href)
+    return urls
+
+
+def source_target_option_count(source_url):
+    request = urllib.request.Request(
+        source_url,
+        headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"},
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=15) as response:
+            raw_html = response.read().decode("utf-8", "replace")
+        return len(target_option_urls_from_html(raw_html)), "ok"
+    except urllib.error.HTTPError as error:
+        return None, f"http_{error.code}"
+    except Exception as error:
+        return None, type(error).__name__.lower()
+
+
+def audit_source_completeness(catalog):
+    """Find non-series records whose live source page exposes more target buttons."""
+    owners = {}
+    for category_name, category_data in catalog.items():
+        for movie in category_data["movies"]:
+            source_url = scraper.normalize_source_url(movie.get("source_url", ""))
+            if not source_url:
+                continue
+            stored_count = len({item.get("link", "") for item in movie.get("res_list", []) if item.get("link")})
+            owners.setdefault(source_url, []).append((category_name, stored_count))
+
+    results = {}
+    with ThreadPoolExecutor(max_workers=SOURCE_AUDIT_CONCURRENCY) as executor:
+        pending = {executor.submit(source_target_option_count, url): url for url in owners}
+        for future in as_completed(pending):
+            url = pending[future]
+            try:
+                results[url] = future.result()
+            except Exception as error:
+                results[url] = (None, type(error).__name__.lower())
+
+    incomplete_sources = {}
+    observed_source_counts = {}
+    incomplete_movies = 0
+    for source_url, source_owners in owners.items():
+        source_count, _ = results[source_url]
+        if source_count is None:
+            continue
+        for category_name, stored_count in source_owners:
+            observed_source_counts.setdefault(category_name, {})[source_url] = source_count
+            if source_count > stored_count:
+                incomplete_sources.setdefault(category_name, {})[source_url] = source_count
+                incomplete_movies += 1
+
+    stats = {
+        "source_pages_checked": sum(count is not None for count, _ in results.values()),
+        "source_pages_failed": sum(count is None for count, _ in results.values()),
+        "source_incomplete_movies": incomplete_movies,
+    }
+    return incomplete_sources, observed_source_counts, stats
 
 
 def selected_category_names(requested):
@@ -383,6 +478,9 @@ async def run_guardian(category_names, apply_changes, report_path):
         "transient": 0,
         "confirmed_dead": 0,
         "affected_movies": 0,
+        "source_pages_checked": 0,
+        "source_pages_failed": 0,
+        "source_incomplete_movies": 0,
         "repaired_categories": 0,
         "dead_links_removed": 0,
         "quarantined_movies": 0,
@@ -404,6 +502,7 @@ async def run_guardian(category_names, apply_changes, report_path):
     probes = await asyncio.to_thread(probe_many, owners)
     report["alive"] = sum(result.status == "alive" for result in probes.values())
     report["transient"] = sum(result.status == "transient" for result in probes.values())
+    report["probe_reasons"] = dict(sorted(Counter(result.reason for result in probes.values()).items()))
 
     previous_state = load_json(STATE_FILE, {"version": 1, "suspects": {}})
     confirmed, suspects = classify_probes(probes, previous_state)
@@ -429,6 +528,12 @@ async def run_guardian(category_names, apply_changes, report_path):
         }
     report["affected_movies"] = len(affected_movies)
 
+    incomplete_sources, observed_source_counts, source_audit_stats = await asyncio.to_thread(
+        audit_source_completeness,
+        catalog,
+    )
+    report.update(source_audit_stats)
+
     # Widespread timeout/5xx সাধারণত runner/CDN outage; confirmed 404 repair আটকাবে না।
     transient_ratio = report["transient"] / max(1, len(owners))
     if report["transient"] and transient_ratio >= OUTAGE_CIRCUIT_BREAKER_RATIO:
@@ -436,21 +541,36 @@ async def run_guardian(category_names, apply_changes, report_path):
         report["message"] = "Systemic transient failure threshold reached; no catalogue mutation was allowed."
     elif apply_changes:
         await restore_quarantined(quarantine, category_names, report)
-        for category_name, source_urls in affected_sources.items():
+        repair_categories = set(affected_sources) | set(incomplete_sources)
+        for category_name in category_names:
+            if category_name not in repair_categories:
+                continue
+            dead_source_urls = affected_sources.get(category_name, set())
+            refresh_source_counts = incomplete_sources.get(category_name, {})
+            refresh_source_urls = set(refresh_source_counts)
+            source_urls = dead_source_urls | refresh_source_urls
+            expected_source_counts = {
+                source_url: count
+                for source_url, count in observed_source_counts.get(category_name, {}).items()
+                if source_url in source_urls
+            }
             await scraper.repair_dead_links(
                 category_name,
                 scraper.CATEGORIES_MAP[category_name],
                 respect_cooldown=False,
                 max_repair_minutes=70,
                 target_source_urls=source_urls,
+                force_refresh_source_urls=refresh_source_urls,
+                expected_source_counts=expected_source_counts,
             )
-            await clean_after_targeted_repair(
-                category_name,
-                source_urls,
-                quarantine,
-                report,
-                affected_identities.get(category_name),
-            )
+            if dead_source_urls:
+                await clean_after_targeted_repair(
+                    category_name,
+                    dead_source_urls,
+                    quarantine,
+                    report,
+                    affected_identities.get(category_name),
+                )
             report["repaired_categories"] += 1
 
     # বর্তমান catalogue-এ আর নেই এমন URL suspect state থেকে সরিয়ে দিই।

@@ -15,6 +15,14 @@ from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from playwright.async_api import async_playwright
 
+# Scheduled runs normally use UTF-8, but an imported scanner can inherit the
+# legacy Windows console encoding.  Keep status output from aborting a repair.
+if os.name == "nt" and hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, OSError, ValueError):
+        pass
+
 nest_asyncio.apply()
 
 # ==============================================================================
@@ -22,7 +30,6 @@ nest_asyncio.apply()
 # ==============================================================================
 MAIN_SITE_URL = os.environ.get("MAIN_SITE_URL", "").rstrip("/") + "/"
 SCAN_MODE = os.environ.get("SCAN_MODE", "AUTO").strip()
-REPAIR_CATEGORY = os.environ.get("REPAIR_CATEGORY", "Bangla Movies").strip()
 TMDB_API_KEY = os.environ.get("TMDB_API_KEY", "")
 OMDB_API_KEY = os.environ.get("OMDB_API_KEY", "e0d2217b")
 
@@ -359,58 +366,91 @@ def poster_result_matches(movie_name, year, result_title, result_year=None):
 # ==============================================================================
 # ⚡ রিয়েল ওয়াচ লিঙ্ক প্রটেক্টেড হেলথ চেক (Improved — CDN ও validate করে)
 # ==============================================================================
-def is_stream_link_dead_sync(stream_url):
-    """Stream URL alive কিনা চেক করে। True = Dead, False = Alive."""
-    if not stream_url or stream_url in ["N/A", ""]:
+def is_media_payload_sample(payload, content_type="", url=""):
+    """Recognize actual media bytes and reject HTML/JSON error bodies."""
+    payload = bytes(payload or b"")
+    content_type = str(content_type or "").split(";", 1)[0].strip().lower()
+    prefix = payload[:512].lstrip().lower()
+
+    if not payload or prefix.startswith((b"<!doctype html", b"<html", b"<?xml", b"{")):
+        return False
+    if payload.startswith(b"\x1aE\xdf\xa3"):  # Matroska/WebM EBML
+        return True
+    if b"ftyp" in payload[:64]:  # MP4/MOV
+        return True
+    if prefix.startswith(b"#extm3u"):  # HLS playlist
+        return True
+    if payload.startswith((b"FLV", b"OggS")):
+        return True
+    if payload.startswith(b"RIFF") and payload[8:12] in {b"AVI ", b"WAVE"}:
+        return True
+    if len(payload) > 376 and payload[0] == 0x47 and payload[188] == 0x47:
+        return True
+    return content_type.startswith(("video/", "audio/")) and len(payload) >= 1024
+
+
+def is_obvious_non_movie_media_url(stream_url):
+    """Reject short advertising/product assets that happen to be valid video files."""
+    try:
+        parsed = urllib.parse.urlsplit(str(stream_url or "").strip())
+    except ValueError:
         return True
 
-    clean_url = stream_url.strip()
+    host = parsed.netloc.lower().split(":", 1)[0]
+    path = urllib.parse.unquote(parsed.path).lower()
+    if host in {"video.wixstatic.com", "m.media-amazon.com", "www.vpnapptoggle.com", "vpnapptoggle.com"}:
+        return True
+    return any(marker in path for marker in (
+        "/landers/",
+        "/assets/img/",
+        "/480p/mp4/file.mp4",
+        "/background.mp4",
+        "/low-power-mode.mp4",
+    ))
 
-    # CDN URL-এর জন্য বেশি timeout দিয়ে actual check করা (আগে blind skip ছিল)
-    is_cdn = any(cdn in clean_url for cdn in ["r2.dev", "cloudflarestorage.com", "r2.cloudflarestorage", "pub-"])
-    check_timeout = 5 if is_cdn else 3
 
-    # ১. HEAD request দিয়ে চেক
+def probe_stream_link_sync(stream_url, timeout=8):
+    """Return an alive/dead/transient verdict based on readable media bytes."""
+    clean_url = str(stream_url or "").strip()
+    if not clean_url or clean_url == "N/A":
+        return {"status": "dead", "reason": "empty_url", "http_status": 0}
+    if is_obvious_non_movie_media_url(clean_url):
+        return {"status": "dead", "reason": "non_movie_media_asset", "http_status": 0}
+
+    request = urllib.request.Request(
+        clean_url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+            "Range": "bytes=0-65535",
+            "Accept": "*/*",
+            "Accept-Encoding": "identity",
+        },
+        method="GET",
+    )
     try:
-        req = urllib.request.Request(
-            clean_url,
-            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"},
-            method="HEAD"
-        )
-        with urllib.request.urlopen(req, timeout=check_timeout) as resp:
-            if resp.status in [200, 206, 403]:
-                return False
-    except urllib.error.HTTPError as e:
-        # 404/410 মানে confirmed dead
-        if e.code in [404, 410]:
-            return True
-        # 403 CDN-এ মানে file exist করে কিন্তু direct access block
-        if e.code == 403 and is_cdn:
-            return False
-    except Exception:
-        pass
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            status = int(response.status)
+            payload = response.read(65536)
+            content_type = response.headers.get("Content-Type", "")
+            if status in {200, 206} and is_media_payload_sample(payload, content_type, clean_url):
+                return {"status": "alive", "reason": "media_bytes_ok", "http_status": status}
+            if status in {200, 206}:
+                return {"status": "dead", "reason": "non_media_payload", "http_status": status}
+            return {"status": "transient", "reason": f"http_{status}", "http_status": status}
+    except urllib.error.HTTPError as error:
+        status = int(error.code)
+        if status in {401, 403, 404, 410}:
+            return {"status": "dead", "reason": f"http_{status}", "http_status": status}
+        return {"status": "transient", "reason": f"http_{status}", "http_status": status}
+    except (urllib.error.URLError, TimeoutError) as error:
+        return {"status": "transient", "reason": type(error).__name__.lower(), "http_status": 0}
+    except Exception as error:
+        return {"status": "transient", "reason": type(error).__name__.lower(), "http_status": 0}
 
-    # ২. HEAD fail করলে GET fallback (কিছু server HEAD support করে না)
-    try:
-        req = urllib.request.Request(
-            clean_url,
-            headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                "Range": "bytes=0-1023"
-            }
-        )
-        with urllib.request.urlopen(req, timeout=check_timeout) as resp:
-            if resp.status in [200, 206, 403]:
-                return False
-    except urllib.error.HTTPError as e:
-        if e.code in [404, 410]:
-            return True
-        if e.code == 403 and is_cdn:
-            return False
-    except Exception:
-        pass
 
-    return True
+def is_stream_link_dead_sync(stream_url):
+    """True unless a range GET returns recognizable playable media bytes."""
+    return probe_stream_link_sync(stream_url)["status"] != "alive"
 
 def is_page_url_alive_sync(page_url):
     """Movie page URL (website page) alive কিনা চেক করে।"""
@@ -667,7 +707,7 @@ async def fetch_tmdb_poster(movie_name, year):
 # ==============================================================================
 # 📑 ব্যাকআপ রিডার (আগের কোনো মুভি ডিলিট হবে না)
 # ==============================================================================
-def parse_existing_output_file(file_path):
+def parse_existing_output_file(file_path, source_urls=None):
     if not os.path.exists(file_path):
         return []
 
@@ -731,6 +771,11 @@ def parse_existing_output_file(file_path):
                 })
     except Exception as e:
         print(f"⚠️ Error reading existing file {file_path}: {e}", flush=True)
+    if source_urls:
+        normalized_sources = [normalize_source_url(url) for url in source_urls]
+        for index, movie in enumerate(movies):
+            if not movie.get("source_url") and index < len(normalized_sources):
+                movie["source_url"] = normalized_sources[index]
     return movies
 
 
@@ -750,6 +795,25 @@ def load_history_urls(history_filename):
                 seen.add(url)
                 urls.append(url)
     return urls
+
+
+def load_existing_movies(config):
+    """Load canonical JSON, with a history-mapped TXT fallback for recovery."""
+    json_filename = config["json"]
+    if os.path.exists(json_filename):
+        try:
+            with open(json_filename, "r", encoding="utf-8") as json_file:
+                movies = json.load(json_file).get("movies", [])
+            if movies:
+                return movies
+        except Exception:
+            pass
+
+    history_filename = os.path.join(config["dir"], "history.txt")
+    return parse_existing_output_file(
+        config["file"],
+        load_history_urls(history_filename),
+    )
 
 
 def append_unique_url(filename, url):
@@ -953,8 +1017,7 @@ def save_category_outputs(target_category_name, config, movies):
             output_file.write(f"{title_type}: {movie['name']}\n")
             output_file.write(f"Category: {movie['category']}\n")
             output_file.write(f"Year: {movie['year']}\n")
-            output_file.write(f"Poster: {movie['poster']}\n")
-            output_file.write(f"Source URL: {movie['source_url']}\n\n")
+            output_file.write(f"Poster: {movie['poster']}\n\n")
 
             if is_series:
                 for link_index, item in enumerate(movie["res_list"], 1):
@@ -1063,6 +1126,8 @@ def detect_resolution_from_stream_url(stream_url):
     if is_4k:
         return "4K 2160P HEVC" if is_hevc else "4K 2160P"
     elif is_1080p:
+        if re.search(r"(?:^|[. _-])HQ(?:[. _-]|$)", filename):
+            return "HQ 1080P HEVC" if is_hevc else "HQ 1080P"
         return "HEVC 1080P" if is_hevc else "HD 1080P"
 
     return "HEVC 1080P" if is_hevc else "HD 1080P"
@@ -1556,6 +1621,27 @@ def reconcile_repair_links(original_res_list, dead_indices, validated_fresh):
     removed_count = len(dead_indices) - replaced_count
     return new_res_list, replaced_count, removed_count
 
+
+def canonical_fresh_res_list(validated_fresh):
+    """Return the current source page's validated stream set, in button order."""
+    canonical = []
+    seen_links = set()
+    for item in validated_fresh:
+        fresh_item = dict(item)
+        link = fresh_item.get("link", "")
+        if not link or link in seen_links:
+            continue
+        detected = parse_link_metadata(
+            link,
+            fresh_item.get("resolution", "HD 1080P"),
+        )
+        for key in ("season", "episode"):
+            if fresh_item.get(key, "N/A") == "N/A" and detected[key] != "N/A":
+                fresh_item[key] = detected[key]
+        canonical.append(fresh_item)
+        seen_links.add(link)
+    return canonical
+
 async def repair_dead_links(
     target_category_name,
     config,
@@ -1563,6 +1649,8 @@ async def repair_dead_links(
     respect_cooldown=True,
     max_repair_minutes=MAX_REPAIR_MINUTES,
     target_source_urls=None,
+    force_refresh_source_urls=None,
+    expected_source_counts=None,
 ):
     """Category-র existing movies-এ dead link চেক করে fresh link দিয়ে replace করে।"""
     json_filename = config["json"]
@@ -1574,24 +1662,14 @@ async def repair_dead_links(
     os.makedirs(cat_dir, exist_ok=True)
 
     # ১. Existing movies লোড করা
-    existing_movies = []
-    if os.path.exists(json_filename):
-        try:
-            with open(json_filename, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                existing_movies = data.get("movies", [])
-        except Exception:
-            pass
-
-    if not existing_movies:
-        existing_movies = parse_existing_output_file(output_filename)
+    existing_movies = load_existing_movies(config)
 
     if not existing_movies:
         print(f"ℹ️ No existing movies found for [{target_category_name}]. Nothing to repair.", flush=True)
         return
 
     print(f"\n{'='*60}", flush=True)
-    print(f"🛠️ REPAIR MODE: Checking [{target_category_name}] — {len(existing_movies)} movie(s)", flush=True)
+    print(f"REPAIR MODE: Checking [{target_category_name}] - {len(existing_movies)} movie(s)", flush=True)
     print(f"{'='*60}\n", flush=True)
 
     # ২. Failed repairs tracker লোড
@@ -1603,6 +1681,16 @@ async def repair_dead_links(
     # পুরো category check করি; আগের first-20 logic পরের movie-গুলোকে অনন্তকাল বাদ দিত।
     target_source_urls = {
         normalize_source_url(url) for url in (target_source_urls or []) if normalize_source_url(url)
+    }
+    force_refresh_source_urls = {
+        normalize_source_url(url)
+        for url in (force_refresh_source_urls or [])
+        if normalize_source_url(url)
+    }
+    expected_source_counts = {
+        normalize_source_url(url): int(count)
+        for url, count in (expected_source_counts or {}).items()
+        if normalize_source_url(url) and int(count) > 0
     }
     candidates = []
     for movie in existing_movies:
@@ -1650,18 +1738,23 @@ async def repair_dead_links(
     all_movie_results = await asyncio.gather(*[check_movie_links(m) for m in candidates])
 
     for movie, dead_indices, dead_links in all_movie_results:
-        if dead_indices:
+        force_refresh = normalize_source_url(movie.get("source_url", "")) in force_refresh_source_urls
+        if dead_indices or force_refresh:
             movies_with_dead_links.append({
                 "movie": movie,
                 "dead_indices": dead_indices,
-                "dead_links": dead_links
+                "dead_links": dead_links,
+                "force_refresh": force_refresh,
             })
 
     if not movies_with_dead_links:
         print(f"\n✅ All checked links are alive! No repairs needed for [{target_category_name}].", flush=True)
         return
 
-    print(f"\n🔧 Found {len(movies_with_dead_links)} movie(s) with dead links. Starting repair...\n", flush=True)
+    print(
+        f"\n🔧 Found {len(movies_with_dead_links)} movie(s) requiring repair/refresh. Starting...\n",
+        flush=True,
+    )
 
     # ৪. Repair — Playwright দিয়ে fresh link scrape
     repaired_count = 0
@@ -1671,91 +1764,140 @@ async def repair_dead_links(
         browser = await p.chromium.launch(headless=True, args=LAUNCH_ARGS)
 
         try:
-            for repair_info in movies_with_dead_links:
-                if is_time_running_out(max_repair_minutes):
-                    print("⏰ Repair time budget reached; completed changes will be saved safely.", flush=True)
-                    break
-                movie = repair_info["movie"]
-                dead_indices = repair_info["dead_indices"]
-                movie_name = movie.get("name", "Unknown")
-                movie_category = movie.get("category", target_category_name)
+            repair_sem = asyncio.Semaphore(2 if RUN_ENV == "github" else 3)
 
-                print(f"\n🔧 Repairing: '{movie_name}'", flush=True)
+            async def repair_one(repair_info, repair_index):
+                async with repair_sem:
+                    if is_time_running_out(max_repair_minutes):
+                        print("⏰ Repair time budget reached; skipping remaining repair work safely.", flush=True)
+                        return 0, 0
 
-                # Step A: history.txt থেকে original page URL খোঁজা
-                history_filename = os.path.join(cat_dir, "history.txt")
-                history_urls = load_history_urls(history_filename)
-                original_page_url = find_source_url_for_movie(movie, history_urls)
+                    movie = repair_info["movie"]
+                    dead_indices = repair_info["dead_indices"]
+                    force_refresh = repair_info["force_refresh"]
+                    movie_name = movie.get("name", "Unknown")
+                    movie_category = movie.get("category", target_category_name)
+                    print(f"\n🔧 Repairing [{repair_index}/{len(movies_with_dead_links)}]: '{movie_name}'", flush=True)
 
-                # Step B: Original page alive কিনা চেক
-                repair_page_url = None
+                    history_filename = os.path.join(cat_dir, "history.txt")
+                    history_urls = load_history_urls(history_filename)
+                    original_page_url = find_source_url_for_movie(movie, history_urls)
+                    repair_page_url = None
 
-                if original_page_url:
-                    print(f"   📄 Found history URL: {original_page_url}", flush=True)
-                    page_alive = await asyncio.to_thread(is_page_url_alive_sync, original_page_url)
-                    if page_alive:
-                        repair_page_url = original_page_url
-                        print(f"   ✅ Original page is alive!", flush=True)
+                    if original_page_url:
+                        print(f"   📄 Found history URL: {original_page_url}", flush=True)
+                        page_alive = await asyncio.to_thread(is_page_url_alive_sync, original_page_url)
+                        if page_alive:
+                            repair_page_url = original_page_url
+                            print("   ✅ Original page is alive!", flush=True)
+                        else:
+                            print("   ❌ Original page is DEAD (404). Searching for new page...", flush=True)
+
+                    if not repair_page_url:
+                        repair_page_url = await search_movie_on_site(browser, movie_name, cat_slug)
+                        if not repair_page_url:
+                            print(f"   ❌ Could not find '{movie_name}' on site. Logging as failed.", flush=True)
+                            record_failed_repair(
+                                movie_name,
+                                movie_category,
+                                repair_info["dead_links"],
+                                failed_repairs,
+                            )
+                            return 0, 1
+
+                    current_source_url = normalize_source_url(movie.get("source_url", ""))
+                    expected_count = expected_source_counts.get(current_source_url, 0)
+                    validated_fresh = []
+                    scrape_attempts = 2 if expected_count else 1
+                    for scrape_attempt in range(1, scrape_attempts + 1):
+                        if scrape_attempt > 1:
+                            print(
+                                f"   🔁 Missing-button retry {scrape_attempt}/{scrape_attempts} "
+                                f"for '{movie_name}'...",
+                                flush=True,
+                            )
+                        print(f"   🎬 Re-scraping from: {repair_page_url}", flush=True)
+                        _, _, _, fresh_res_list, _ = await process_movie_parallel_pipeline(
+                            browser,
+                            repair_page_url,
+                            repair_index,
+                            target_category_name,
+                        )
+                        if fresh_res_list:
+                            fresh_checks = await asyncio.gather(*[
+                                asyncio.to_thread(is_stream_link_dead_sync, item.get("link", ""))
+                                for item in fresh_res_list
+                            ])
+                            for fresh_item, fresh_dead in zip(fresh_res_list, fresh_checks):
+                                fresh_link = fresh_item.get("link", "")
+                                if not fresh_dead:
+                                    validated_fresh.append(fresh_item)
+                                    print(f"   ✅ Validated fresh link: {fresh_link[:70]}...", flush=True)
+                                else:
+                                    print(f"   ⚠️ Fresh link ALSO dead (skipping): {fresh_link[:70]}...", flush=True)
+
+                        canonical_fresh = canonical_fresh_res_list(validated_fresh)
+                        if not expected_count or len(canonical_fresh) >= expected_count:
+                            break
+
+                    if not validated_fresh:
+                        print(f"   ❌ No fresh stream links found for '{movie_name}'. Logging as failed.", flush=True)
+                        record_failed_repair(
+                            movie_name,
+                            movie_category,
+                            repair_info["dead_links"],
+                            failed_repairs,
+                        )
+                        return 0, 1
+
+                    canonical_fresh = canonical_fresh_res_list(validated_fresh)
+                    if expected_count and len(canonical_fresh) >= expected_count:
+                        # All currently advertised target buttons were captured and
+                        # validated, so the source page can safely be authoritative.
+                        new_res_list = canonical_fresh
+                        replaced_links = min(len(dead_indices), len(new_res_list))
+                        removed_dead_links = max(0, len(dead_indices) - replaced_links)
                     else:
-                        print(f"   ❌ Original page is DEAD (404). Searching for new page...", flush=True)
+                        # A click can fail transiently even when its button exists.
+                        # Preserve old playable entries and merge any fresh successes.
+                        new_res_list, replaced_links, removed_dead_links = reconcile_repair_links(
+                            movie.get("res_list", []),
+                            dead_indices,
+                            canonical_fresh,
+                        )
+                        if expected_count:
+                            print(
+                                f"   ⚠️ Captured {len(canonical_fresh)}/{expected_count} advertised "
+                                "options; using non-destructive merge.",
+                                flush=True,
+                            )
+                    if not new_res_list:
+                        print(f"   ❌ No usable stream remains for '{movie_name}'. Logging as failed.", flush=True)
+                        record_failed_repair(
+                            movie_name,
+                            movie_category,
+                            repair_info["dead_links"],
+                            failed_repairs,
+                        )
+                        return 0, 1
 
-                # Step C: Page dead বা history-তে URL নেই → main site search
-                if not repair_page_url:
-                    searched_url = await search_movie_on_site(browser, movie_name, cat_slug)
-                    if searched_url:
-                        repair_page_url = searched_url
-                    else:
-                        print(f"   ❌ Could not find '{movie_name}' on site. Logging as failed.", flush=True)
-                        record_failed_repair(movie_name, movie_category, repair_info["dead_links"], failed_repairs)
-                        failed_count += 1
-                        continue
+                    movie["res_list"] = new_res_list
+                    movie["source_url"] = normalize_source_url(repair_page_url)
+                    clear_failed_repair(movie_name, movie_category, failed_repairs)
+                    print(
+                        f"   ✅ Successfully repaired '{movie_name}' "
+                        f"(replaced={replaced_links}, removed_dead={removed_dead_links}, "
+                        f"source_refresh={force_refresh}, current_links={len(new_res_list)})!",
+                        flush=True,
+                    )
+                    return 1, 0
 
-                # Step D: Page থেকে fresh stream link scrape
-                print(f"   🎬 Re-scraping from: {repair_page_url}", flush=True)
-                _, _, _, fresh_res_list, _ = await process_movie_parallel_pipeline(
-                    browser, repair_page_url, 0, target_category_name
-                )
-
-                if not fresh_res_list:
-                    print(f"   ❌ No fresh stream links found for '{movie_name}'. Logging as failed.", flush=True)
-                    record_failed_repair(movie_name, movie_category, repair_info["dead_links"], failed_repairs)
-                    failed_count += 1
-                    continue
-
-                # Step E: নতুন link validate করা (double-check)
-                validated_fresh = []
-                for fresh_item in fresh_res_list:
-                    fresh_link = fresh_item.get("link", "")
-                    fresh_dead = await asyncio.to_thread(is_stream_link_dead_sync, fresh_link)
-                    if not fresh_dead:
-                        validated_fresh.append(fresh_item)
-                        print(f"   ✅ Validated fresh link: {fresh_link[:70]}...", flush=True)
-                    else:
-                        print(f"   ⚠️ Fresh link ALSO dead (skipping): {fresh_link[:70]}...", flush=True)
-
-                # Step F: dead entry replace; replacement না থাকলেও অন্য alive quality থাকলে dead entry বাদ দিই।
-                original_res_list = movie.get("res_list", [])
-                new_res_list, replaced_links, removed_dead_links = reconcile_repair_links(
-                    original_res_list, dead_indices, validated_fresh
-                )
-
-                if not new_res_list:
-                    print(f"   ❌ No usable stream remains for '{movie_name}'. Logging as failed.", flush=True)
-                    record_failed_repair(movie_name, movie_category, repair_info["dead_links"], failed_repairs)
-                    failed_count += 1
-                    continue
-
-                movie["res_list"] = new_res_list
-                movie["source_url"] = normalize_source_url(repair_page_url)
-                repaired_count += 1
-                print(
-                    f"   ✅ Successfully repaired '{movie_name}' "
-                    f"(replaced={replaced_links}, removed_dead={removed_dead_links})!",
-                    flush=True,
-                )
-
-                # Repair সফল হলে failed_repairs থেকে remove
-                clear_failed_repair(movie_name, movie_category, failed_repairs)
+            repair_results = await asyncio.gather(*[
+                repair_one(repair_info, index)
+                for index, repair_info in enumerate(movies_with_dead_links, 1)
+            ])
+            repaired_count = sum(result[0] for result in repair_results)
+            failed_count = sum(result[1] for result in repair_results)
 
         finally:
             await browser.close()
@@ -1796,38 +1938,8 @@ async def main():
         run_count = 1
         target_category_name = CATEGORIES_LIST[cat_index]
         print(f"⏩ [FORCE NEXT] Switched to Next Category: '{target_category_name}' (Run 1/3)", flush=True)
-    elif SCAN_MODE == "REPAIR_AUTO":
-        # 🛠️ REPAIR_AUTO — scan rotation না বদলে নিজের category rotate করে
-        repair_index = state.get("repair_category_index", cat_index)
-        if repair_index >= len(CATEGORIES_LIST):
-            repair_index = 0
-        repair_cat = CATEGORIES_LIST[repair_index]
-        repair_config = CATEGORIES_MAP[repair_cat]
-        print(f"🛠️ [REPAIR AUTO] Repairing Category: '{repair_cat}'", flush=True)
-        await repair_dead_links(repair_cat, repair_config)
-        # Repair-এর rotation আলাদা; current_category_index/run_count scanner-এর জন্য অপরিবর্তিত
-        next_index = (repair_index + 1) % len(CATEGORIES_LIST)
-        state["repair_category_index"] = next_index
-        save_tracker_state(state)
-        print(f"🔄 [STATE UPDATE] Repair done for '{repair_cat}'. Next repair target: '{CATEGORIES_LIST[next_index]}'", flush=True)
-        print("\n🎉 Repair Completed Successfully!", flush=True)
-        return
-    elif SCAN_MODE == "REPAIR_SPECIFIC":
-        # 🛠️ REPAIR_SPECIFIC — নির্দিষ্ট category repair
-        repair_cat = REPAIR_CATEGORY
-        if repair_cat not in CATEGORIES_MAP:
-            repair_cat = CATEGORIES_LIST[0]
-            print(f"⚠️ Invalid REPAIR_CATEGORY. Defaulting to '{repair_cat}'", flush=True)
-        repair_config = CATEGORIES_MAP[repair_cat]
-        print(f"🛠️ [REPAIR SPECIFIC] Repairing Category: '{repair_cat}'", flush=True)
-        # Manual repair পুরো category check করে এবং আগের failed cooldown bypass করে।
-        await repair_dead_links(
-            repair_cat,
-            repair_config,
-            respect_cooldown=False,
-            max_repair_minutes=75,
-        )
-        print("\n🎉 Repair Completed Successfully!", flush=True)
+    elif SCAN_MODE in {"REPAIR_AUTO", "REPAIR_SPECIFIC"}:
+        print("Legacy main-scanner repair mode is disabled. Use Stream Guardian.", flush=True)
         return
     else:
         for cat_name in CATEGORIES_LIST:
@@ -1850,7 +1962,7 @@ async def main():
     os.makedirs(cat_dir, exist_ok=True)
 
     # 📝 ১. আগের মুভি ফাইল এবং হিস্টরি নিখুঁতভাবে লোড করা
-    existing_movies = parse_existing_output_file(output_filename)
+    existing_movies = load_existing_movies(config)
     for movie in existing_movies:
         resolved_name, resolved_year = resolve_movie_identity(movie.get("name", ""), movie.get("res_list", []))
         movie["name"] = resolved_name

@@ -10,16 +10,58 @@ import stream_guardian
 
 
 class StreamProbeTests(unittest.TestCase):
-    def test_head_404_is_not_dead_when_range_get_works(self):
-        with patch.object(stream_guardian, "request_status", side_effect=[(404, "http_404"), (206, "")]):
+    def test_source_html_extractor_counts_only_target_watch_buttons(self):
+        html = """
+        <h4 class="movie-title">Alpha HEVC 720p</h4>
+        <div><a class="dlbtn dlbtn-watch" href="https://example.com/720">Watch Online</a></div>
+        <h4 class="movie-title">Alpha HEVC 1080p</h4>
+        <div><a class="dlbtn dlbtn-watch" href="https://example.com/hevc">Watch Online</a></div>
+        <h4 class="movie-title">Alpha HD 1080p</h4>
+        <div><a class="dlbtn dlbtn-download" href="https://example.com/download">Download</a>
+        <a class="dlbtn dlbtn-watch" href="https://example.com/hd">Watch Online</a></div>
+        <h4 class="movie-title">Alpha 4K-2160p SDR HEVC</h4>
+        <div><a class="dlbtn dlbtn-watch" href="https://example.com/4k">Watch Online</a></div>
+        """
+        self.assertEqual(
+            stream_guardian.target_option_urls_from_html(html),
+            ["https://example.com/hevc", "https://example.com/hd", "https://example.com/4k"],
+        )
+
+    def test_source_html_extractor_counts_series_watch_grid_not_download_grid(self):
+        html = """
+        <div class="ep-card">
+          <div class="quality-box watch-links"><div class="quality-grid">
+            <a href="/generate.php?id=watch720">HD 720p</a>
+            <a href="/generate.php?id=watch1080">HD 1080p</a>
+          </div></div>
+          <div class="quality-box download-links"><div class="quality-grid">
+            <a href="/generate.php?id=download1080">HD 1080p</a>
+          </div></div>
+        </div>
+        """
+        self.assertEqual(
+            stream_guardian.target_option_urls_from_html(html),
+            ["/generate.php?id=watch1080"],
+        )
+
+    def test_playable_media_probe_is_alive(self):
+        with patch.object(
+            main_scraper,
+            "probe_stream_link_sync",
+            return_value={"status": "alive", "reason": "media_bytes_ok", "http_status": 206},
+        ):
             result = stream_guardian.probe_stream_once("https://cdn.example.com/movie.mkv")
         self.assertEqual(result.status, "alive")
 
-    def test_two_404_responses_are_confirmed_dead(self):
-        with patch.object(stream_guardian, "request_status", side_effect=[(404, "http_404"), (404, "http_404")]):
+    def test_403_is_dead_not_alive_for_a_cdn_url(self):
+        with patch.object(
+            main_scraper,
+            "probe_stream_link_sync",
+            return_value={"status": "dead", "reason": "http_403", "http_status": 403},
+        ):
             result = stream_guardian.probe_stream_once("https://cdn.example.com/movie.mkv")
         self.assertEqual(result.status, "dead")
-        self.assertEqual(result.http_status, 404)
+        self.assertEqual(result.http_status, 403)
 
     def test_transient_failure_requires_two_separate_runs(self):
         url = "https://cdn.example.com/movie.mkv"
@@ -61,6 +103,11 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 patch.object(stream_guardian, "STATE_FILE", state_path),
                 patch.object(stream_guardian, "QUARANTINE_FILE", quarantine_path),
                 patch.object(stream_guardian, "probe_many", all_alive),
+                patch.object(
+                    stream_guardian,
+                    "audit_source_completeness",
+                    return_value=({}, {}, {"source_pages_checked": 0, "source_pages_failed": 0, "source_incomplete_movies": 0}),
+                ),
             ):
                 exit_code = await stream_guardian.run_guardian(
                     list(main_scraper.CATEGORIES_LIST), False, report_path
@@ -133,6 +180,11 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 patch.object(stream_guardian, "QUARANTINE_FILE", root / "quarantine.json"),
                 patch.object(stream_guardian, "OUTAGE_CIRCUIT_BREAKER_RATIO", 1.1),
                 patch.object(stream_guardian, "probe_many", probe_urls),
+                patch.object(
+                    stream_guardian,
+                    "audit_source_completeness",
+                    return_value=({}, {}, {"source_pages_checked": 0, "source_pages_failed": 0, "source_incomplete_movies": 0}),
+                ),
                 patch.object(main_scraper, "repair_dead_links", repair),
             ):
                 exit_code = await stream_guardian.run_guardian(["Test"], True, root / "report.json")
@@ -140,9 +192,67 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
             self.assertEqual(exit_code, 0)
             kwargs = repair.await_args.kwargs
             self.assertEqual(kwargs["target_source_urls"], {source_url})
+            self.assertEqual(kwargs["force_refresh_source_urls"], set())
+            self.assertEqual(kwargs["expected_source_counts"], {})
             result = json.loads(Path(config["json"]).read_text(encoding="utf-8"))["movies"][0]
             self.assertEqual(result["res_list"][0]["link"], fresh_url)
             self.assertEqual(result["source_url"], moved_source_url)
+
+    async def test_apply_force_refreshes_alive_movie_with_missing_source_buttons(self):
+        with tempfile.TemporaryDirectory() as root:
+            root = Path(root)
+            category_dir = root / "category"
+            category_dir.mkdir()
+            source_url = "https://example.com/movie"
+            stream_url = "https://cdn.example.com/alive.mkv"
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(category_dir / "movies.json"),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            movie = {
+                "name": "Example Movie",
+                "category": "Test",
+                "year": "2026",
+                "poster": "N/A",
+                "source_url": source_url,
+                "res_list": [{"resolution": "HD 1080P", "link": stream_url}],
+            }
+            main_scraper.save_category_outputs("Test", config, [movie])
+
+            def all_alive(urls, concurrency=stream_guardian.PROBE_CONCURRENCY):
+                return {
+                    url: stream_guardian.ProbeResult(url, "alive", "media_bytes_ok", 206)
+                    for url in urls
+                }
+
+            repair = AsyncMock()
+            with (
+                patch.dict(main_scraper.CATEGORIES_MAP, {"Test": config}),
+                patch.object(stream_guardian, "ROOT", root),
+                patch.object(stream_guardian, "STATE_FILE", root / "state.json"),
+                patch.object(stream_guardian, "QUARANTINE_FILE", root / "quarantine.json"),
+                patch.object(stream_guardian, "probe_many", all_alive),
+                patch.object(
+                    stream_guardian,
+                    "audit_source_completeness",
+                    return_value=(
+                        {"Test": {source_url: 4}},
+                        {"Test": {source_url: 4}},
+                        {"source_pages_checked": 1, "source_pages_failed": 0, "source_incomplete_movies": 1},
+                    ),
+                ),
+                patch.object(main_scraper, "repair_dead_links", repair),
+            ):
+                exit_code = await stream_guardian.run_guardian(["Test"], True, root / "report.json")
+
+            self.assertEqual(exit_code, 0)
+            repair.assert_awaited_once()
+            self.assertEqual(repair.await_args.kwargs["target_source_urls"], {source_url})
+            self.assertEqual(repair.await_args.kwargs["force_refresh_source_urls"], {source_url})
+            self.assertEqual(repair.await_args.kwargs["expected_source_counts"], {source_url: 4})
 
     async def test_mass_failure_circuit_breaker_blocks_repairs(self):
         with tempfile.TemporaryDirectory() as root:
@@ -179,6 +289,11 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 patch.object(stream_guardian, "STATE_FILE", root / "state.json"),
                 patch.object(stream_guardian, "QUARANTINE_FILE", root / "quarantine.json"),
                 patch.object(stream_guardian, "probe_many", all_transient),
+                patch.object(
+                    stream_guardian,
+                    "audit_source_completeness",
+                    return_value=({}, {}, {"source_pages_checked": 0, "source_pages_failed": 0, "source_incomplete_movies": 0}),
+                ),
                 patch.object(main_scraper, "repair_dead_links", repair),
             ):
                 exit_code = await stream_guardian.run_guardian(["Test"], True, root / "report.json")

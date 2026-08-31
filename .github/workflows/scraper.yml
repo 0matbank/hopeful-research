@@ -13,24 +13,6 @@ on:
         options:
           - AUTO
           - FORCE_NEXT
-          - REPAIR_AUTO
-          - REPAIR_SPECIFIC
-      repair_category:
-        description: 'Repair Category (শুধু REPAIR_SPECIFIC-এ দরকার)'
-        required: false
-        default: 'Bangla Movies'
-        type: choice
-        options:
-          - Bangla Movies
-          - English Movies
-          - Hindi Movies
-          - Hindi Dubbed Movies
-          - Bangla Dubbed
-          - Tamil Movies
-          - Malayalam Movies
-          - Kannada Movies
-          - Telugu Movies
-          - Disney Hotstar
 
 concurrency:
   group: movie-catalog-writer
@@ -95,7 +77,6 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
           SCAN_MODE: ${{ github.event.inputs.scan_mode || 'AUTO' }}
-          REPAIR_CATEGORY: ${{ github.event.inputs.repair_category || 'Bangla Movies' }}
           PYTHONUNBUFFERED: "1"
         run: |
           echo "=================================================="
@@ -111,5 +92,5 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add categories/ history/
-          git diff --staged --quiet || git commit -m "🤖 Auto Scrape + Repair [Mode: ${{ github.event.inputs.scan_mode || 'AUTO' }}]"
+          git diff --staged --quiet || git commit -m "🤖 Auto Scrape [Mode: ${{ github.event.inputs.scan_mode || 'AUTO' }}]"
           git push

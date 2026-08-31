@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Bangla Movies",
     "total_movies": 76,
-    "last_updated": "2026-08-30 | 07:35:03 (UTC)",
+    "last_updated": "2026-08-30 | 18:44:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -71,33 +71,51 @@
       "res_list": [
         {
           "season": "S02",
-          "episode": "Episode 01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
-        },
-        {
-          "season": "S02",
-          "episode": "Episode 03",
-          "resolution": "HD 1080P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E03%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
-        },
-        {
-          "season": "S02",
-          "episode": "Episode 04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E04%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
-        },
-        {
-          "season": "S02",
           "episode": "Episode 01-07",
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01-07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
         },
         {
           "season": "S02",
+          "episode": "Episode 01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
           "episode": "Episode 02",
           "resolution": "HD 1080P",
           "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E02%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 03",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E03%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 04",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E04%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 05",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E05%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 06",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E06%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        },
+        {
+          "season": "S02",
+          "episode": "Episode 07",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
         }
       ]
     },
@@ -416,7 +434,7 @@
       ]
     },
     {
-      "name": "Download Ekshathe Alada",
+      "name": "Ekshathe Alada",
       "category": "Bangla Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8yTY1o45qdQWZoKofRBTfCyb3o.jpg",
@@ -555,6 +573,10 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Saralakkha%20Holmes%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Saralakkha%20Holmes%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -568,6 +590,14 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -581,6 +611,10 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Tobuo%20Bhalobashi%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tobuo%20Bhalobashi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -624,6 +658,10 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Projapati%202%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Projapati%202%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC.mkv"
         }
       ]
     },
@@ -641,7 +679,7 @@
       ]
     },
     {
-      "name": "Download Lawho Gouranger Naam Re",
+      "name": "Lawho Gouranger Naam Re",
       "category": "Bangla Movies",
       "year": "2025",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8CHcwfl1ZjPdujGX5n9ALpQ0cm.jpg",
@@ -732,6 +770,10 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -957,7 +999,7 @@
       ]
     },
     {
-      "name": "Download Aami Ashbo Phirey",
+      "name": "Aami Ashbo Phirey",
       "category": "Bangla Movies",
       "year": "2018",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10rpTbaWkLyrieHpvMeEHN7BJCR.jpg",
@@ -979,6 +1021,10 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p%20ESub.mkv"
         }
       ]
     },

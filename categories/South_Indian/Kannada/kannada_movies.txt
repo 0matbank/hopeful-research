@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
-TOTAL MOVIES: 39
-LAST UPDATED: 2026-08-30 | 07:35:03 (UTC)
+TOTAL MOVIES: 35
+LAST UPDATED: 2026-08-30 | 19:46:45 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -10,13 +10,12 @@ Movie name: The Rise Of Ashoka
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIt1gkiGrBkHiBJUYIf64gcg32y.jpg
-Source URL: https://cinefreak.net/the-rise-of-ashoka-2026-full-movie-download
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -25,16 +24,15 @@ Movie name: Second Case Of Seetharam
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/89Tuu93NTJVef2Y4iATRwlyAO37.jpg
-Source URL: https://cinefreak.net/second-case-of-seetharam-2026-full-movie-download
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20%20Second%20Case%20of%20Seetharam%20%282026%29%20WEB-DL%20%5BHindi%20ORG-Kannada%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20%20Second%20Case%20of%20Seetharam%20%282026%29%20WEB-DL%20%5BHindi%20ORG-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20%20Second%20Case%20of%20Seetharam%20%282026%29%20WEB-DL%20%5BHindi%20ORG-Kannada%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20%20Second%20Case%20of%20Seetharam%20%282026%29%20WEB-DL%20%5BHindi%20ORG-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20%20Second%20Case%20of%20Seetharam%20%282026%29%20WEB-DL%20%5BHindi%20ORG-Kannada%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20%20Second%20Case%20of%20Seetharam%20%282026%29%20WEB-DL%20%5BHindi%20ORG-Kannada%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -43,16 +41,15 @@ Movie name: Valavaara
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg
-Source URL: https://cinefreak.net/valavaara-2026-full-movie-download
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+RESOLUTION 2: 4K 2160P HEVC
+STREAM Link 2: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
-RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+RESOLUTION 3: HEVC 1080P
+STREAM Link 3: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -61,7 +58,6 @@ Movie name: KD – The Devil
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg
-Source URL: https://cinefreak.net/kd-the-devil-2026-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20KD%20The%20Devil%20%282026%29%20WEB-DL%20%5BKannada%5D%20ZEE5%201080p%20ESub.mkv
@@ -73,10 +69,15 @@ Movie name: Karikaada
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg
-Source URL: https://cinefreak.net/karikaada-2026-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Karikaada%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+
+RESOLUTION 2: HEVC 1080P
+STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Karikaada%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karikaada%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -85,7 +86,6 @@ Movie name: Moda Kavida Vaatavarana
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg
-Source URL: https://cinefreak.net/moda-kavida-vaatavarana-2026-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
@@ -97,7 +97,6 @@ Movie name: Toxic: A Fairy Tale For Grown-ups
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg
-Source URL: https://cinefreak.net/toxic-a-fairy-tale-for-grown-ups-2026-full-movie-download
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HEVC%20HC-ESub.mkv
@@ -115,16 +114,12 @@ Movie name: Mark
 Category: Kannada Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg
-Source URL: https://cinefreak.net/mark-2025-full-movie-download
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv
-
-RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -133,16 +128,12 @@ Movie name: Royal
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgJRjE2wuw4EQ6RMxttK8uNSvI.jpg
-Source URL: https://cinefreak.net/royal-2025-full-movie-download
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -151,7 +142,6 @@ Movie name: Agnyathavasi
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ephTFUQNYhBmYjKqMoMazzHpVqu.jpg
-Source URL: https://cinefreak.net/agnyathavasi-2025-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Agnyathavasi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
@@ -163,7 +153,6 @@ Movie name: Usiru
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg
-Source URL: https://cinefreak.net/usiru-2025-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
@@ -175,10 +164,12 @@ Movie name: Maadeva
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaZRRKY1PsA10pOaegvN0XbYsAi.jpg
-Source URL: https://cinefreak.net/maadeva-2025-full-movie-download
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -187,61 +178,48 @@ Movie name: I Am God
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg
-Source URL: https://cinefreak.net/i-am-god-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
 Movie-14
-Movie name: GST
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOzf9I1cXNN6MPeNQ7H35NAMNeh.jpg
-Source URL: https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-15
 Movie name: Love U Muddu
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWfasv0Bi0tOQPdvJWbAhXyqSzH.jpg
-Source URL: https://cinefreak.net/love-u-muddu-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-16
+Movie-15
 Movie name: Vritta
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQECu9AKL2OpzFFNaMX3rEfGAQk.jpg
-Source URL: https://cinefreak.net/vritta-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Vritta%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20ZEE5%201080p%20ESub.mkv
+RESOLUTION 1: 4K 2160P HEVC
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Vritta%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
-Movie-17
+Movie-16
 Movie name: 45
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg
-Source URL: https://cinefreak.net/45-2025-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
@@ -251,12 +229,11 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-17
 Movie name: The Devil
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUXN4dgmelSEa7VRqcpIhngGCu.jpg
-Source URL: https://cinefreak.net/the-devil-2025-full-movie-download
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20HEVC%20ESub.mkv
@@ -266,12 +243,11 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-18
 Movie name: Choo Mantar
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/niKNhXDy7rkvjxRoxgy31sMXQZg.jpg
-Source URL: https://cinefreak.net/choo-mantar-2025-full-movie-download
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
@@ -281,24 +257,22 @@ STREAM Link 2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-19
 Movie name: Gatha Vaibhava
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/aacJ77PR6wx1KE6MQN9IUeytg2J.jpg
-Source URL: https://cinefreak.net/gatha-vaibhava-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gatha%20Vaibhava%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-21
+Movie-20
 Movie name: Bank Of Bhagyalakshmi
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg
-Source URL: https://cinefreak.net/bank-of-bhagyalakshmi-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
@@ -306,14 +280,16 @@ STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
+
 ================================================================================
 
-Movie-22
+Movie-21
 Movie name: Brat
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6NVUbgHIz3SmrRSLU4xlfzL2Mi.jpg
-Source URL: https://cinefreak.net/brat-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20BRAT%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
@@ -323,216 +299,164 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-22
 Movie name: Kantara: Chapter 1
 Category: Kannada Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8GhftTjP05Zr9l6BBZNzWtIEpA.jpg
-Source URL: https://cinefreak.net/kantara-chapter-1-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-amazon-gdrive-esub-cinefreak
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://video.wixstatic.com/video/579a8c_a649a6c468dd44a88dddd3d6122b5b86/480p/mp4/file.mp4
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20Chapter%201%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20Chapter%201%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kantara%20Chapter%201%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20Chapter%201%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20Chapter%201%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20Chapter%201%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
-Movie-24
+Movie-23
 Movie name: Chef Chidambara
 Category: Kannada Movies
 Year: 2024
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAqYULyRX4yTEXkoM9erpVyeKnh.jpg
-Source URL: https://cinefreak.net/chef-chidambara-2024-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv
 
 ================================================================================
 
-Movie-25
+Movie-24
 Movie name: Bhairathi Ranagal
 Category: Kannada Movies
 Year: 2024
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSfKNoycKKSSkcvFbyekwcjuIOp.jpg
-Source URL: https://cinefreak.net/bhairathi-ranagal-2024-hindi-fan-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-26
-Movie name: Kaalapatthar
-Category: Kannada Movies
-Year: 2024
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTELAAH02Xv8BNXa6n2uBo853pR.jpg
-Source URL: https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://m.media-amazon.com/images/I/91tM7VzYXSL.mp4
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://m.media-amazon.com/images/I/91v31-0CMPL.mp4
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4
-
-================================================================================
-
-Movie-27
+Movie-25
 Movie name: Tenant
 Category: Kannada Movies
 Year: 2024
 Poster: https://cinefreak.net/wp-content/uploads/2025/10/Tenant-2024.jpg
-Source URL: https://cinefreak.net/tenant-2024-hindi-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tenant%20%282024%29%20WEB-DL%20%5BHindi%20ORG%5D%20UPlay%201080p.mkv
 
 ================================================================================
 
-Movie-28
+Movie-26
 Movie name: The Judgement
 Category: Kannada Movies
 Year: 2024
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hApU7HueijYukY1Wb3vCcO4n3KC.jpg
-Source URL: https://cinefreak.net/the-judgement-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Judgement%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-29
+Movie-27
 Movie name: Krishnam Pranaya Sakhi
 Category: Kannada Movies
 Year: 2024
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3swr0fu3NAm0myEaeJVTorMiG.jpg
-Source URL: https://cinefreak.net/krishnam-pranaya-sakhi-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Krishnam%20Pranaya%20Sakhi%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20SNXT%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-30
+Movie-28
 Movie name: Gurudev Hoysala
 Category: Kannada Movies
 Year: 2023
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dMhkqkdjuXqa9oC3ZNxyypDYuq.jpg
-Source URL: https://cinefreak.net/gurudev-hoysala-2023-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Gurudev%20Hoysala%20%282023%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv
 
+RESOLUTION 2: HEVC 1080P
+STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Gurudev%20Hoysala%20%282023%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20HEVC%20ESub.mkv
+
 ================================================================================
 
-Movie-31
+Movie-29
 Movie name: Love Mocktail 2
 Category: Kannada Movies
 Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnXC26Zp6EGk4A1JUXQVQ7IT8RG.jpg
-Source URL: https://cinefreak.net/love-mocktail-2-2022-full-movie-download
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-32
+Movie-30
 Movie name: Thurthu Nirgamana
 Category: Kannada Movies
 Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DLVucAGkA8WhgsyaSTcIentB5U.jpg
-Source URL: https://cinefreak.net/thurthu-nirgamana-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Thurthu%20Nirgamana%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-33
-Movie name: Hero
-Category: Kannada Movies
-Year: 2021
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZAxSiL5csPIe6Q1V8pbwz69U5m.jpg
-Source URL: https://cinefreak.net/hero-2021-full-movie-download
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-34
+Movie-31
 Movie name: Inspector Vikram
 Category: Kannada Movies
 Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeSqY7sKVehJC9J0Y0yKNMnhg7W.jpg
-Source URL: https://cinefreak.net/inspector-vikram-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Vikram%20%282021%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv
 
 ================================================================================
 
-Movie-35
-Movie name: Pogaru
-Category: Kannada Movies
-Year: 2020
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKulrSnAylrwOvXOYmJsHGTb4r1.jpg
-Source URL: https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-36
+Movie-32
 Movie name: The Terrorist
 Category: Kannada Movies
 Year: 2020
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4hb4kW0MhsQi2tF5ldWIbwsV8.jpg
-Source URL: https://cinefreak.net/the-terrorist-2018-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Terrorist%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv
 
 ================================================================================
 
-Movie-37
+Movie-33
 Movie name: Aa Karaala Ratri
 Category: Kannada Movies
 Year: 2018
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/eebyDiBgu2dCFwBtWzVZgtrxn5u.jpg
-Source URL: https://cinefreak.net/aa-karaala-ratri-2018-full-movie-download
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-38
+Movie-34
 Movie name: Rangi Taranga
 Category: Kannada Movies
 Year: 2015
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvE6k9noK4BaU2F1GBhVe7vvjcI.jpg
-Source URL: https://cinefreak.net/rangi-taranga-2015-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET%20-%20Rangi%20Taranga%20%282015%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
@@ -542,12 +466,11 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET
 
 ================================================================================
 
-Movie-39
+Movie-35
 Movie name: Ugramm
 Category: Kannada Movies
 Year: 2014
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AdrI68ggKpSBRE2EbnvajeD53q.jpg
-Source URL: https://cinefreak.net/ugramm-2014-hindi-dubbed-hindi-kannada-hdrip-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ugramm%20%282014%29%20HDRip%20%5BHind-Kannada%5D%201080p%20ESub.mkv
