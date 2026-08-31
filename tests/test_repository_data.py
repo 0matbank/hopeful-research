@@ -58,6 +58,13 @@ class RepositoryDataTests(unittest.TestCase):
         self.assertIn("cron: '17 */2 * * *'", guardian_workflow)
         self.assertIn("সর্বোচ্চ ১৫টি confirmed dead stream link", guardian_workflow)
         self.assertIn("github.event_name == 'push' && 'DRY_RUN'", guardian_workflow)
+        self.assertIn("id: guardian_repair", guardian_workflow)
+        self.assertIn("continue-on-error: true", guardian_workflow)
+        self.assertIn(
+            "if: always() && (github.event_name == 'schedule' || github.event.inputs.guardian_mode == 'APPLY')",
+            guardian_workflow,
+        )
+        self.assertIn("steps.guardian_repair.outcome == 'failure'", guardian_workflow)
         self.assertNotIn("Auto Repair Dead Links", scanner_workflow)
         self.assertNotIn("REPAIR_AUTO", scanner_workflow)
         self.assertNotIn("REPAIR_SPECIFIC", scanner_workflow)

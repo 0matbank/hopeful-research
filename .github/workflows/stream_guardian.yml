@@ -84,6 +84,8 @@ jobs:
           playwright install chromium --with-deps
 
       - name: 🛡️ Audit and Repair Streams
+        id: guardian_repair
+        continue-on-error: true
         env:
           MAIN_SITE_URL: ${{ secrets.MAIN_SITE_URL }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
@@ -108,7 +110,7 @@ jobs:
           retention-days: 14
 
       - name: 📤 Push Guardian Repairs
-        if: success() && (github.event_name == 'schedule' || github.event.inputs.guardian_mode == 'APPLY')
+        if: always() && (github.event_name == 'schedule' || github.event.inputs.guardian_mode == 'APPLY')
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
@@ -125,3 +127,9 @@ jobs:
           fi
           git commit -m "🛡️ Stream Guardian automatic repair"
           git push
+
+      - name: Propagate Guardian Failure After Saving Repairs
+        if: always() && steps.guardian_repair.outcome == 'failure'
+        run: |
+          echo "::error::Guardian failed after any completed repair checkpoints were saved."
+          exit 1

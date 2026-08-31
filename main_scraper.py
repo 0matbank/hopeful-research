@@ -1781,6 +1781,7 @@ async def repair_dead_links(
             # GitHub Guardian intentionally repairs one source at a time. The
             # persistent queue carries the remaining work into later runs.
             repair_sem = asyncio.Semaphore(1 if RUN_ENV == "github" else 3)
+            catalogue_checkpoint_lock = asyncio.Lock()
 
             async def repair_one(repair_info, repair_index):
                 async with repair_sem:
@@ -1932,9 +1933,18 @@ async def repair_dead_links(
                         original_res_list != new_res_list
                         or original_source_url != new_source_url
                     )
-                    movie["res_list"] = new_res_list
-                    movie["source_url"] = new_source_url
-                    clear_failed_repair(movie_name, movie_category, failed_repairs)
+                    async with catalogue_checkpoint_lock:
+                        movie["res_list"] = new_res_list
+                        movie["source_url"] = new_source_url
+                        clear_failed_repair(movie_name, movie_category, failed_repairs)
+                        if catalog_changed:
+                            # Persist each validated replacement immediately so a
+                            # later source failure cannot discard completed repairs.
+                            save_category_outputs(
+                                target_category_name,
+                                config,
+                                existing_movies,
+                            )
                     if catalog_changed:
                         print(
                             f"   ✅ Updated catalogue for '{movie_name}' "

@@ -284,6 +284,96 @@ class MovieScraperTests(unittest.TestCase):
 
 
 class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
+    async def test_successful_repair_is_checkpointed_before_later_source_failure(self):
+        with tempfile.TemporaryDirectory() as root:
+            category_dir = Path(root) / "category"
+            category_dir.mkdir()
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(category_dir / "movies.json"),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            first_source = "https://example.com/first"
+            second_source = "https://example.com/second"
+            first_dead = "https://cdn.example.com/first-dead.mkv"
+            second_dead = "https://cdn.example.com/second-dead.mkv"
+            first_fresh = "https://cdn.example.com/first-fresh.mkv"
+            movies = [
+                {
+                    "name": "First Movie",
+                    "category": "Test",
+                    "year": "2026",
+                    "poster": "N/A",
+                    "source_url": first_source,
+                    "res_list": [{"resolution": "HD 1080P", "link": first_dead}],
+                },
+                {
+                    "name": "Second Movie",
+                    "category": "Test",
+                    "year": "2026",
+                    "poster": "N/A",
+                    "source_url": second_source,
+                    "res_list": [{"resolution": "HD 1080P", "link": second_dead}],
+                },
+            ]
+            main_scraper.save_category_outputs("Test", config, movies)
+
+            pipeline = AsyncMock(side_effect=[
+                (
+                    first_source,
+                    "First Movie",
+                    "Test",
+                    [{"resolution": "HD 1080P", "link": first_fresh}],
+                    "N/A",
+                ),
+                RuntimeError("second source browser failure"),
+            ])
+            browser = SimpleNamespace(close=AsyncMock())
+            playwright = SimpleNamespace(
+                chromium=SimpleNamespace(launch=AsyncMock(return_value=browser))
+            )
+            manager = AsyncMock()
+            manager.__aenter__.return_value = playwright
+            manager.__aexit__.return_value = False
+
+            with (
+                patch.object(main_scraper, "async_playwright", return_value=manager),
+                patch.object(main_scraper, "RUN_ENV", "github"),
+                patch.object(main_scraper, "is_stream_link_dead_sync", return_value=True),
+                patch.object(main_scraper, "is_page_url_alive_sync", return_value=True),
+                patch.object(main_scraper, "process_movie_parallel_pipeline", pipeline),
+                patch.object(
+                    main_scraper,
+                    "probe_stream_link_sync",
+                    return_value={
+                        "status": "alive",
+                        "reason": "media_bytes_ok",
+                        "http_status": 206,
+                    },
+                ),
+            ):
+                with self.assertRaisesRegex(RuntimeError, "second source browser failure"):
+                    await main_scraper.repair_dead_links(
+                        "Test",
+                        config,
+                        respect_cooldown=False,
+                        target_source_urls={first_source, second_source},
+                        target_stream_urls={
+                            first_source: {first_dead},
+                            second_source: {second_dead},
+                        },
+                    )
+
+            payload = json.loads(Path(config["json"]).read_text(encoding="utf-8"))
+            repaired = next(
+                movie for movie in payload["movies"] if movie["name"] == "First Movie"
+            )
+            self.assertEqual(repaired["res_list"][0]["link"], first_fresh)
+            self.assertIn(first_fresh, Path(config["file"]).read_text(encoding="utf-8"))
+            self.assertIn(first_fresh, Path(config["m3u"]).read_text(encoding="utf-8"))
+
     def test_failed_candidates_do_not_block_fresh_deeper_posts(self):
         failed_urls = [f"https://example.com/failed-{index}" for index in range(10)]
         fresh_urls = [f"https://example.com/fresh-{index}" for index in range(10)]
