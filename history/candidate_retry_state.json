@@ -37,6 +37,12 @@
         "last_failed_at": "2026-08-30T15:44:39.067428+00:00",
         "retry_after_epoch": 1788147879,
         "retry_after": "2026-08-31T03:44:39.067428+00:00"
+      },
+      "https://cinefreak.net/bad-genius-2017-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T02:00:28.391467+00:00",
+        "retry_after_epoch": 1788184828,
+        "retry_after": "2026-08-31T14:00:28.391467+00:00"
       }
     }
   }
