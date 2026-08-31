@@ -45,39 +45,138 @@
       "attempt_count": 0,
       "last_attempt": ""
     },
-    "disneyhotstar::https://cinefreak.net/one-two-cha-cha-chaa-2026-full-movie-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/one-two-cha-cha-chaa-2026-full-movie-download",
+    "telugumovies::https://cinefreak.net/batchmates-2026-full-series-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/batchmates-2026-full-series-download",
       "kind": "refresh",
-      "expected_count": 3,
+      "expected_count": 18,
       "dead_links": [],
-      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
-      "last_seen": "2026-08-31T07:02:08.114328+00:00",
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
-    "disneyhotstar::https://cinefreak.net/mark-2025-full-movie-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+    "telugumovies::https://cinefreak.net/nawab-cafe-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/nawab-cafe-2026-full-movie-download",
       "kind": "refresh",
-      "expected_count": 3,
+      "expected_count": 2,
       "dead_links": [],
-      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
-      "last_seen": "2026-08-31T07:02:08.114328+00:00",
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
-    "disneyhotstar::https://cinefreak.net/good-night-2023-full-movie-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/good-night-2023-full-movie-download",
+    "telugumovies::https://cinefreak.net/m4m-motive-for-murder-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/m4m-motive-for-murder-2026-full-movie-download",
       "kind": "refresh",
       "expected_count": 3,
       "dead_links": [],
-      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
-      "last_seen": "2026-08-31T07:02:08.114328+00:00",
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/gaayapadda-simham-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/gaayapadda-simham-2026-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 4,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/lechindi-mahila-lokam-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/lechindi-mahila-lokam-2026-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/biker-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/biker-2026-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 4,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/anaganaga-2025-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/anaganaga-2025-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/hero-2022-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/hero-2022-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/tuck-jagadish-2021-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/tuck-jagadish-2021-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 4,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/oh-baby-2019-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/oh-baby-2019-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/bluff-master-2018-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/bluff-master-2018-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 2,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/brindavanam-2010-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/brindavanam-2010-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
+      "last_seen": "2026-08-31T07:21:04.884889+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     }
   },
-  "updated_at": "2026-08-31T07:12:52.180334+00:00"
+  "updated_at": "2026-08-31T07:21:04.886341+00:00"
 }
