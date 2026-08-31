@@ -174,6 +174,89 @@ class MovieScraperTests(unittest.TestCase):
             main_scraper.movie_identity_key("East Palace", "2026", True),
         )
 
+    def test_repair_identity_guard_accepts_only_the_same_movie(self):
+        movie = {
+            "name": "Example Movie",
+            "year": "2026",
+            "res_list": [{"resolution": "HD 1080P", "link": "https://cdn.example.com/old.mkv"}],
+        }
+        correct = [{
+            "resolution": "HD 1080P",
+            "link": "https://cdn.example.com/CINEFREAK.TOP%20-%20Example%20Movie%20(2026)%201080p.mkv",
+        }]
+        wrong_movie = [{
+            "resolution": "HD 1080P",
+            "link": "https://cdn.example.com/CINEFREAK.TOP%20-%20Different%20Movie%20(2026)%201080p.mkv",
+        }]
+        wrong_year = [{
+            "resolution": "HD 1080P",
+            "link": "https://cdn.example.com/CINEFREAK.TOP%20-%20Example%20Movie%20(1999)%201080p.mkv",
+        }]
+
+        self.assertTrue(
+            main_scraper.repair_source_matches_movie(
+                movie, "Example Movie (2026)", correct
+            )[0]
+        )
+        self.assertFalse(
+            main_scraper.repair_source_matches_movie(
+                movie, "Different Movie (2026)", wrong_movie
+            )[0]
+        )
+        self.assertFalse(
+            main_scraper.repair_source_matches_movie(
+                movie, "Example Movie (1999)", wrong_year
+            )[0]
+        )
+        self.assertFalse(
+            main_scraper.repair_source_matches_movie(
+                movie, "Example Movie (2026)", correct + wrong_movie
+            )[0]
+        )
+        series_link = [{
+            "season": "S01",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://cdn.example.com/Example%20Movie%20(2026)%20S01E01%201080p.mkv",
+        }]
+        self.assertFalse(
+            main_scraper.repair_source_matches_movie(
+                movie, "Example Movie (2026)", series_link
+            )[0]
+        )
+        series_movie = {**movie, "res_list": series_link}
+        self.assertTrue(
+            main_scraper.repair_source_matches_movie(
+                series_movie, "Example Movie (2026)", series_link
+            )[0]
+        )
+        alias_movie = {
+            "name": "Cha Garam",
+            "year": "2026",
+            "res_list": [{
+                "resolution": "HD 1080P",
+                "link": "https://old.example.com/Cha%20Gorom%20(2026)%201080p.mkv",
+            }],
+        }
+        trusted_alias = [{
+            "resolution": "HD 1080P",
+            "link": "https://new.example.com/Cha%20Gorom%20(2026)%201080p.mkv",
+        }]
+        unseen_alias = [{
+            "resolution": "HD 1080P",
+            "link": "https://new.example.com/Cha%20Random%20(2026)%201080p.mkv",
+        }]
+        self.assertTrue(
+            main_scraper.repair_source_matches_movie(
+                alias_movie, "Cha Garam (2026)", trusted_alias
+            )[0]
+        )
+        self.assertFalse(
+            main_scraper.repair_source_matches_movie(
+                alias_movie, "Cha Garam (2026)", unseen_alias
+            )[0]
+        )
+
     def test_duplicate_series_sources_merge_new_episode_links(self):
         first = {
             "name": "The East Palace",
@@ -261,7 +344,7 @@ class MovieScraperTests(unittest.TestCase):
             "link": "https://cdn.example.com/fresh-s2e1.mkv",
         }]
         repaired, replaced, removed = main_scraper.reconcile_repair_links(original, [0], fresh)
-        self.assertEqual(repaired[0]["season"], "S02")
+        self.assertEqual(repaired, [])
         self.assertEqual((replaced, removed), (0, 1))
 
     def test_site_search_rejects_unrelated_first_result(self):
@@ -284,6 +367,80 @@ class MovieScraperTests(unittest.TestCase):
 
 
 class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
+    async def test_wrong_movie_fresh_link_is_rejected_without_rewriting_outputs(self):
+        with tempfile.TemporaryDirectory() as root:
+            category_dir = Path(root) / "category"
+            category_dir.mkdir()
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(category_dir / "movies.json"),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            source_url = "https://example.com/target-movie"
+            dead_link = "https://cdn.example.com/Target%20Movie%20(2026)%201080p.mkv"
+            wrong_link = "https://cdn.example.com/Different%20Movie%20(2026)%201080p.mkv"
+            movie = {
+                "name": "Target Movie",
+                "category": "Test",
+                "year": "2026",
+                "poster": "N/A",
+                "source_url": source_url,
+                "res_list": [{"resolution": "HD 1080P", "link": dead_link}],
+            }
+            main_scraper.save_category_outputs("Test", config, [movie])
+            original_outputs = {
+                key: Path(config[key]).read_bytes()
+                for key in ("json", "m3u", "file")
+            }
+
+            browser = SimpleNamespace(close=AsyncMock())
+            playwright = SimpleNamespace(
+                chromium=SimpleNamespace(launch=AsyncMock(return_value=browser))
+            )
+            manager = AsyncMock()
+            manager.__aenter__.return_value = playwright
+            manager.__aexit__.return_value = False
+            pipeline = AsyncMock(return_value=(
+                source_url,
+                "Different Movie (2026)",
+                "Test",
+                [{"resolution": "HD 1080P", "link": wrong_link}],
+                "N/A",
+            ))
+
+            with (
+                patch.object(main_scraper, "async_playwright", return_value=manager),
+                patch.object(main_scraper, "is_stream_link_dead_sync", return_value=True),
+                patch.object(main_scraper, "is_page_url_alive_sync", return_value=True),
+                patch.object(main_scraper, "process_movie_parallel_pipeline", pipeline),
+                patch.object(
+                    main_scraper,
+                    "probe_stream_link_sync",
+                    return_value={
+                        "status": "alive",
+                        "reason": "media_bytes_ok",
+                        "http_status": 206,
+                    },
+                ),
+                patch.object(main_scraper, "load_failed_repairs", return_value={}),
+                patch.object(main_scraper, "save_failed_repairs"),
+            ):
+                summary = await main_scraper.repair_dead_links(
+                    "Test",
+                    config,
+                    respect_cooldown=False,
+                    target_source_urls={source_url},
+                    target_stream_urls={source_url: {dead_link}},
+                )
+
+            self.assertEqual(summary["updated"], 0)
+            self.assertEqual(summary["identity_mismatch"], 1)
+            self.assertEqual(summary["outcomes"][source_url], "identity_mismatch")
+            for key, original_bytes in original_outputs.items():
+                self.assertEqual(Path(config[key]).read_bytes(), original_bytes)
+
     async def test_successful_repair_is_checkpointed_before_later_source_failure(self):
         with tempfile.TemporaryDirectory() as root:
             category_dir = Path(root) / "category"

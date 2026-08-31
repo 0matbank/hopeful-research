@@ -353,6 +353,67 @@ def resolve_movie_identity(page_title, res_list):
     return page_name, year
 
 
+def repair_source_matches_movie(movie, scraped_title, fresh_res_list):
+    """Require strong identity agreement before publishing repair links."""
+    expected_name = str(movie.get("name", "") or "").strip()
+    expected_year = str(movie.get("year", "N/A") or "N/A")
+    expected_series = is_series_movie(movie)
+    resolved_name, resolved_year = resolve_movie_identity(scraped_title, fresh_res_list)
+
+    expected_title_key = movie_identity_key(
+        expected_name,
+        expected_year,
+        expected_series,
+    )[0]
+    resolved_title_key = movie_identity_key(
+        resolved_name,
+        resolved_year,
+        is_series_movie({"res_list": fresh_res_list}),
+    )[0]
+    if not expected_title_key or expected_title_key != resolved_title_key:
+        return False, f"title_mismatch:{resolved_name or 'unknown'}"
+
+    if expected_year.isdigit() and str(resolved_year).isdigit() and expected_year != str(resolved_year):
+        return False, f"year_mismatch:{resolved_year}"
+
+    fresh_series = is_series_movie({"res_list": fresh_res_list})
+    if expected_series != fresh_series:
+        return False, "content_type_mismatch"
+
+    # A page title can be correct while one captured player serves unrelated
+    # media. Check every descriptive direct-stream filename independently.
+    # Existing exact stream-title aliases are trusted only for this same movie;
+    # a new, previously unseen alias is never learned during repair.
+    trusted_stream_title_keys = set()
+    for old_item in movie.get("res_list", []):
+        old_stream_name, _ = extract_stream_identity([old_item])
+        old_descriptive_words = re.findall(r"[A-Za-z]{2,}", old_stream_name)
+        if len(old_descriptive_words) >= 2 and re.search(r"\s", old_stream_name):
+            trusted_stream_title_keys.add(
+                movie_identity_key(old_stream_name, "N/A", expected_series)[0]
+            )
+
+    for item in fresh_res_list or []:
+        stream_name, stream_year = extract_stream_identity([item])
+        descriptive_words = re.findall(r"[A-Za-z]{2,}", stream_name)
+        if len(descriptive_words) < 2 or not re.search(r"\s", stream_name):
+            continue
+        stream_title_key = movie_identity_key(
+            stream_name,
+            stream_year,
+            fresh_series,
+        )[0]
+        if (
+            stream_title_key != expected_title_key
+            and stream_title_key not in trusted_stream_title_keys
+        ):
+            return False, f"stream_title_mismatch:{stream_name}"
+        if expected_year.isdigit() and str(stream_year).isdigit() and expected_year != str(stream_year):
+            return False, f"stream_year_mismatch:{stream_year}"
+
+    return True, "identity_match"
+
+
 def poster_result_matches(movie_name, year, result_title, result_year=None):
     """Reject unrelated first-search-result posters."""
     if title_similarity(movie_name, result_title) < 0.72:
@@ -1612,7 +1673,28 @@ def reconcile_repair_links(original_res_list, dead_indices, validated_fresh):
         seen_links.add(replacement["link"])
         replaced_count += 1
 
+    targeted_dead_items = [
+        original_res_list[index]
+        for index in sorted(dead_indices)
+        if 0 <= index < len(original_res_list)
+    ]
+    target_has_episode_identity = any(
+        item.get("season", "N/A") != "N/A" or item.get("episode", "N/A") != "N/A"
+        for item in targeted_dead_items
+    )
     for fresh_item in fresh_candidates:
+        if target_has_episode_identity:
+            compatible_with_target = any(
+                not any(
+                    old_item.get(key, "N/A") != "N/A"
+                    and fresh_item.get(key, "N/A") != "N/A"
+                    and old_item.get(key) != fresh_item.get(key)
+                    for key in ("season", "episode")
+                )
+                for old_item in targeted_dead_items
+            )
+            if not compatible_with_target:
+                continue
         link = fresh_item.get("link", "")
         if link and link not in seen_links:
             new_res_list.append(fresh_item)
@@ -1659,6 +1741,7 @@ async def repair_dead_links(
         "updated": 0,
         "unchanged": 0,
         "failed": 0,
+        "identity_mismatch": 0,
         "skipped": 0,
         "outcomes": {},
     }
@@ -1845,13 +1928,14 @@ async def repair_dead_links(
                                 flush=True,
                             )
                         print(f"   🎬 Re-scraping from: {repair_page_url}", flush=True)
-                        _, _, _, fresh_res_list, _ = await process_movie_parallel_pipeline(
+                        _, scraped_title, _, fresh_res_list, _ = await process_movie_parallel_pipeline(
                             browser,
                             repair_page_url,
                             repair_index,
                             target_category_name,
                         )
                         if fresh_res_list:
+                            attempt_validated = []
                             fresh_checks = await asyncio.gather(*[
                                 asyncio.to_thread(probe_stream_link_sync, item.get("link", ""))
                                 for item in fresh_res_list
@@ -1859,7 +1943,7 @@ async def repair_dead_links(
                             for fresh_item, fresh_probe in zip(fresh_res_list, fresh_checks):
                                 fresh_link = fresh_item.get("link", "")
                                 if fresh_probe.get("status") == "alive":
-                                    validated_fresh.append(fresh_item)
+                                    attempt_validated.append(fresh_item)
                                     print(f"   ✅ Validated fresh link: {fresh_link[:70]}...", flush=True)
                                 elif fresh_probe.get("reason") == "non_movie_media_asset":
                                     print(
@@ -1872,6 +1956,24 @@ async def repair_dead_links(
                                         f"({fresh_probe.get('reason', 'not_playable')}): {fresh_link[:70]}...",
                                         flush=True,
                                     )
+
+                            if attempt_validated:
+                                attempt_canonical = canonical_fresh_res_list(
+                                    attempt_validated
+                                )
+                                identity_matches, identity_reason = repair_source_matches_movie(
+                                    movie,
+                                    scraped_title,
+                                    attempt_canonical,
+                                )
+                                if not identity_matches:
+                                    print(
+                                        f"   REJECTED wrong-movie repair for '{movie_name}' "
+                                        f"({identity_reason}). Existing catalogue was kept.",
+                                        flush=True,
+                                    )
+                                    return queued_source_url, "identity_mismatch"
+                                validated_fresh.extend(attempt_canonical)
 
                         canonical_fresh = canonical_fresh_res_list(validated_fresh)
                         if not expected_count or len(canonical_fresh) >= expected_count:
@@ -1983,6 +2085,7 @@ async def repair_dead_links(
         print(
             f"\n✅ Repair check complete! Updated: {repair_summary['updated']}, "
             f"Unchanged: {repair_summary['unchanged']}, Failed: {repair_summary['failed']}, "
+            f"Identity mismatch: {repair_summary['identity_mismatch']}, "
             f"Skipped: {repair_summary['skipped']}",
             flush=True,
         )
@@ -1991,6 +2094,7 @@ async def repair_dead_links(
         print(
             f"\nℹ️ Repair check complete with no catalogue rewrite. "
             f"Unchanged: {repair_summary['unchanged']}, Failed: {repair_summary['failed']}, "
+            f"Identity mismatch: {repair_summary['identity_mismatch']}, "
             f"Skipped: {repair_summary['skipped']}",
             flush=True,
         )

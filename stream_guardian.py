@@ -571,6 +571,16 @@ async def restore_quarantined(quarantine, category_names, report):
                 config = scraper.CATEGORIES_MAP[category_name]
                 movies = load_category_movies(config)
                 old_movie = entry.get("movie", {})
+                identity_matches, _ = scraper.repair_source_matches_movie(
+                    old_movie,
+                    title,
+                    live_items,
+                )
+                if not identity_matches:
+                    schedule_quarantine_retry(entry)
+                    report["identity_mismatches"] = report.get("identity_mismatches", 0) + 1
+                    changed = True
+                    continue
                 name, year = scraper.resolve_movie_identity(title or old_movie.get("name", ""), live_items)
                 restored_movie = {
                     "name": name,
@@ -687,6 +697,7 @@ async def run_guardian(category_names, apply_changes, report_path):
         "source_refresh_checked": 0,
         "source_refresh_no_change": 0,
         "catalogue_updates": 0,
+        "identity_mismatches": 0,
         "repair_queue_before": 0,
         "repair_queue_added": 0,
         "dead_links_queued": 0,
@@ -848,6 +859,9 @@ async def run_guardian(category_names, apply_changes, report_path):
             report["source_refresh_checked"] += len(refresh_source_urls)
             report["source_refresh_no_change"] += int(repair_summary.get("unchanged", 0))
             report["catalogue_updates"] += int(repair_summary.get("updated", 0))
+            report["identity_mismatches"] += int(
+                repair_summary.get("identity_mismatch", 0)
+            )
             category_changed = int(repair_summary.get("updated", 0)) > 0
             if dead_source_urls:
                 selected_dead_identities = {
