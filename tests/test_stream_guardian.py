@@ -46,6 +46,31 @@ class StreamProbeTests(unittest.TestCase):
         self.assertEqual(len(batch["test::one"]["dead_links"]), 10)
         self.assertEqual(len(batch["test::two"]["dead_links"]), 5)
 
+    def test_repair_batch_only_selects_requested_categories(self):
+        queue = {
+            "other::dead": {
+                "category": "Other",
+                "source_url": "https://example.com/other",
+                "kind": "dead",
+                "dead_links": ["https://cdn.example.com/dead.mkv"],
+                "discovered_at": "2026-08-30T00:00:00+00:00",
+                "attempt_count": 0,
+            },
+            "test::refresh": {
+                "category": "Test",
+                "source_url": "https://example.com/test",
+                "kind": "refresh",
+                "dead_links": [],
+                "discovered_at": "2026-08-31T00:00:00+00:00",
+                "attempt_count": 0,
+            },
+        }
+
+        batch = stream_guardian.select_repair_batch(queue, category_names=["Test"])
+
+        self.assertEqual(set(batch), {"test::refresh"})
+
+
     def test_unchanged_source_gap_backs_off_but_changed_counts_retry_immediately(self):
         now = datetime(2026, 8, 31, tzinfo=timezone.utc)
         entry = stream_guardian.schedule_source_gap(
@@ -145,6 +170,103 @@ class StreamProbeTests(unittest.TestCase):
 
 
 class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
+    async def test_selected_category_repairs_its_work_and_preserves_other_queue(self):
+        with tempfile.TemporaryDirectory() as root:
+            root = Path(root)
+            category_dir = root / "category"
+            category_dir.mkdir()
+            state_path = root / "state.json"
+            source_url = "https://example.com/test-movie"
+            stream_url = "https://cdn.example.com/alive.mkv"
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(category_dir / "movies.json"),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            movie = {
+                "name": "Test Movie",
+                "category": "Test",
+                "year": "2026",
+                "poster": "N/A",
+                "source_url": source_url,
+                "res_list": [{"resolution": "HD 1080P", "link": stream_url}],
+            }
+            main_scraper.save_category_outputs("Test", config, [movie])
+            other_queue = {
+                f"other::{index}": {
+                    "category": "Other",
+                    "source_url": f"https://example.com/other-{index}",
+                    "kind": "refresh",
+                    "expected_count": 2,
+                    "dead_links": [],
+                    "discovered_at": f"2026-08-30T00:0{index}:00+00:00",
+                    "last_seen": f"2026-08-30T00:0{index}:00+00:00",
+                    "attempt_count": 0,
+                    "last_attempt": "",
+                }
+                for index in range(3)
+            }
+            state_path.write_text(
+                json.dumps(
+                    {
+                        "version": 3,
+                        "suspects": {},
+                        "source_gaps": {},
+                        "repair_queue": other_queue,
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            def all_alive(urls, concurrency=stream_guardian.PROBE_CONCURRENCY):
+                return {
+                    url: stream_guardian.ProbeResult(url, "alive", "media_bytes_ok", 206)
+                    for url in urls
+                }
+
+            repair = AsyncMock(return_value={
+                "attempted": 1,
+                "updated": 0,
+                "unchanged": 1,
+                "failed": 0,
+                "skipped": 0,
+                "outcomes": {source_url: "unchanged"},
+            })
+            with (
+                patch.dict(main_scraper.CATEGORIES_MAP, {"Test": config}),
+                patch.object(stream_guardian, "ROOT", root),
+                patch.object(stream_guardian, "STATE_FILE", state_path),
+                patch.object(stream_guardian, "QUARANTINE_FILE", root / "quarantine.json"),
+                patch.object(stream_guardian, "probe_many", all_alive),
+                patch.object(
+                    stream_guardian,
+                    "audit_source_completeness",
+                    return_value=(
+                        {"Test": {source_url: 4}},
+                        {"Test": {source_url: 4}},
+                        {
+                            "source_pages_checked": 1,
+                            "source_pages_failed": 0,
+                            "source_incomplete_movies": 1,
+                        },
+                    ),
+                ),
+                patch.object(main_scraper, "repair_dead_links", repair),
+            ):
+                exit_code = await stream_guardian.run_guardian(
+                    ["Test"], True, root / "report.json"
+                )
+
+            report = json.loads((root / "report.json").read_text(encoding="utf-8"))
+            state = json.loads(state_path.read_text(encoding="utf-8"))
+            repair.assert_awaited_once()
+            self.assertEqual(exit_code, 0)
+            self.assertEqual(report["repair_batch_selected"], 1)
+            self.assertEqual(report["source_refresh_checked"], 1)
+            self.assertEqual(state["repair_queue"], other_queue)
+
     async def test_dry_run_audits_catalog_without_changing_state(self):
         with tempfile.TemporaryDirectory() as root:
             root = Path(root)

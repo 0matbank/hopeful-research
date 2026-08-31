@@ -376,7 +376,10 @@ def select_repair_batch(
     queue,
     dead_link_limit=DEAD_LINK_BATCH_SIZE,
     refresh_limit=REFRESH_SOURCE_BATCH_SIZE,
+    category_names=None,
 ):
+    selected_categories = set(category_names or [])
+
     def sort_key(item):
         key, entry = item
         attempted = int(entry.get("attempt_count", 0)) > 0
@@ -387,7 +390,14 @@ def select_repair_batch(
             key,
         )
 
-    ordered = sorted(queue.items(), key=sort_key)
+    ordered = sorted(
+        (
+            (key, entry)
+            for key, entry in queue.items()
+            if not selected_categories or entry.get("category") in selected_categories
+        ),
+        key=sort_key,
+    )
     selected = {}
     remaining_dead_budget = max(0, int(dead_link_limit))
     for key, entry in ordered:
@@ -761,7 +771,11 @@ async def run_guardian(category_names, apply_changes, report_path):
         incomplete_sources,
         due_incomplete_sources,
     )
-    repair_batch = select_repair_batch(repair_queue) if apply_changes else {}
+    repair_batch = (
+        select_repair_batch(repair_queue, category_names=category_names)
+        if apply_changes
+        else {}
+    )
     report["repair_queue_before"] = len(old_repair_queue)
     report["repair_queue_added"] = len(set(repair_queue) - set(old_repair_queue))
     report["dead_links_queued"] = sum(
