@@ -44,6 +44,38 @@
         "retry_after_epoch": 1788184828,
         "retry_after": "2026-08-31T14:00:28.391467+00:00"
       }
+    },
+    "Bangla Movies": {
+      "https://cinefreak.net/laboratory-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T06:50:43.175917+00:00",
+        "retry_after_epoch": 1788202243,
+        "retry_after": "2026-08-31T18:50:43.175917+00:00"
+      },
+      "https://cinefreak.net/spider-man-far-from-home-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T06:50:43.176119+00:00",
+        "retry_after_epoch": 1788202243,
+        "retry_after": "2026-08-31T18:50:43.176119+00:00"
+      },
+      "https://cinefreak.net/bhutopurbo-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T06:50:43.176136+00:00",
+        "retry_after_epoch": 1788202243,
+        "retry_after": "2026-08-31T18:50:43.176136+00:00"
+      },
+      "https://cinefreak.net/monpura-2009-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T06:50:43.176147+00:00",
+        "retry_after_epoch": 1788202243,
+        "retry_after": "2026-08-31T18:50:43.176147+00:00"
+      },
+      "https://cinefreak.net/tagar-2026-bengali-iscreen-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-08-31T06:50:43.176155+00:00",
+        "retry_after_epoch": 1788202243,
+        "retry_after": "2026-08-31T18:50:43.176155+00:00"
+      }
     }
   }
 }
