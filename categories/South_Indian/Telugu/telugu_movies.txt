@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
 TOTAL MOVIES: 49
-LAST UPDATED: 2026-08-30 | 20:00:25 (UTC)
+LAST UPDATED: 2026-08-31 | 21:38:24 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -423,6 +423,9 @@ STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Gaayapadda%20Simham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://n2j9y0x0.bxcdn.net/library/914186/3d62a33a6667375fb7a7db84f8683ebde829d840.mp4
 
 ================================================================================
 
