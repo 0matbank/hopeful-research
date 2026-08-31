@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "suspects": {},
+  "source_gaps": {
+    "disneyhotstar::https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download",
+      "advertised_count": 4,
+      "stored_count": 3,
+      "attempt_count": 1,
+      "last_attempt": "2026-08-31T07:12:52.179878+00:00",
+      "next_retry_at": "2026-08-31T13:12:52.179878+00:00",
+      "last_outcome": "no_additional_distinct_media"
+    },
+    "disneyhotstar::https://cinefreak.net/dutton-ranch-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/dutton-ranch-2026-full-series-download",
+      "advertised_count": 9,
+      "stored_count": 8,
+      "attempt_count": 1,
+      "last_attempt": "2026-08-31T07:12:52.179910+00:00",
+      "next_retry_at": "2026-08-31T13:12:52.179910+00:00",
+      "last_outcome": "no_additional_distinct_media"
+    },
+    "disneyhotstar::https://cinefreak.net/gold-land-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/gold-land-2026-full-series-download",
+      "advertised_count": 2,
+      "stored_count": 1,
+      "attempt_count": 1,
+      "last_attempt": "2026-08-31T07:12:52.179934+00:00",
+      "next_retry_at": "2026-08-31T13:12:52.179934+00:00",
+      "last_outcome": "no_additional_distinct_media"
+    }
+  },
+  "repair_queue": {
+    "disneyhotstar::https://cinefreak.net/star-trek-starfleet-academy-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/star-trek-starfleet-academy-2026-full-series-download",
+      "kind": "refresh",
+      "expected_count": 2,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
+      "last_seen": "2026-08-31T07:02:08.114328+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "disneyhotstar::https://cinefreak.net/one-two-cha-cha-chaa-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/one-two-cha-cha-chaa-2026-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
+      "last_seen": "2026-08-31T07:02:08.114328+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "disneyhotstar::https://cinefreak.net/mark-2025-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
+      "last_seen": "2026-08-31T07:02:08.114328+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "disneyhotstar::https://cinefreak.net/good-night-2023-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/good-night-2023-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
+      "last_seen": "2026-08-31T07:02:08.114328+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    }
+  },
+  "updated_at": "2026-08-31T07:12:52.180334+00:00"
+}
