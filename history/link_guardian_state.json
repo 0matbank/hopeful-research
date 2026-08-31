@@ -34,28 +34,6 @@
     }
   },
   "repair_queue": {
-    "disneyhotstar::https://cinefreak.net/star-trek-starfleet-academy-2026-full-series-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/star-trek-starfleet-academy-2026-full-series-download",
-      "kind": "refresh",
-      "expected_count": 2,
-      "dead_links": [],
-      "discovered_at": "2026-08-31T07:02:08.114328+00:00",
-      "last_seen": "2026-08-31T07:02:08.114328+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/batchmates-2026-full-series-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/batchmates-2026-full-series-download",
-      "kind": "refresh",
-      "expected_count": 18,
-      "dead_links": [],
-      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
-      "last_seen": "2026-08-31T07:21:04.884889+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
     "telugumovies::https://cinefreak.net/nawab-cafe-2026-full-movie-download": {
       "category": "Telugu Movies",
       "source_url": "https://cinefreak.net/nawab-cafe-2026-full-movie-download",
@@ -105,17 +83,6 @@
       "source_url": "https://cinefreak.net/biker-2026-full-movie-download",
       "kind": "refresh",
       "expected_count": 4,
-      "dead_links": [],
-      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
-      "last_seen": "2026-08-31T07:21:04.884889+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/anaganaga-2025-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/anaganaga-2025-full-movie-download",
-      "kind": "refresh",
-      "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T07:21:04.884889+00:00",
       "last_seen": "2026-08-31T07:21:04.884889+00:00",
@@ -176,7 +143,62 @@
       "last_seen": "2026-08-31T07:21:04.884889+00:00",
       "attempt_count": 0,
       "last_attempt": ""
+    },
+    "hindimovies::https://cinefreak.net/mukhbir-the-story-of-a-spy-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/mukhbir-the-story-of-a-spy-2026-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T14:48:17.747951+00:00",
+      "last_seen": "2026-08-31T14:48:17.747951+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "hindimovies::https://cinefreak.net/daadi-ki-shaadi-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/daadi-ki-shaadi-2026-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 4,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T14:48:17.747951+00:00",
+      "last_seen": "2026-08-31T14:48:17.747951+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "hindimovies::https://cinefreak.net/tavvai-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/tavvai-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T14:48:17.747951+00:00",
+      "last_seen": "2026-08-31T14:48:17.747951+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "hindimovies::https://cinefreak.net/fever-2016-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/fever-2016-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T14:48:17.747951+00:00",
+      "last_seen": "2026-08-31T14:48:17.747951+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "hindimovies::https://cinefreak.net/a-wednesday-2008-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/a-wednesday-2008-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 2,
+      "dead_links": [],
+      "discovered_at": "2026-08-31T14:48:17.747951+00:00",
+      "last_seen": "2026-08-31T14:48:17.747951+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
     }
   },
-  "updated_at": "2026-08-31T07:21:04.886341+00:00"
+  "updated_at": "2026-08-31T14:49:40.243732+00:00"
 }
