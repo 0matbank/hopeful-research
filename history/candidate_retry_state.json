@@ -89,6 +89,18 @@
         "last_failed_at": "2026-08-31T18:24:14.317385+00:00",
         "retry_after_epoch": 1788243854,
         "retry_after": "2026-09-01T06:24:14.317385+00:00"
+      },
+      "https://cinefreak.net/viduthalai-part-ii-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-01T02:25:14.895344+00:00",
+        "retry_after_epoch": 1788272714,
+        "retry_after": "2026-09-01T14:25:14.895344+00:00"
+      },
+      "https://cinefreak.net/7aum-arivu-2011-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-01T02:25:14.895825+00:00",
+        "retry_after_epoch": 1788272714,
+        "retry_after": "2026-09-01T14:25:14.895825+00:00"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Tamil Movies",
-    "total_movies": 39,
-    "last_updated": "2026-08-31 | 18:24:14 (UTC)",
+    "total_movies": 47,
+    "last_updated": "2026-09-01 | 02:25:14 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -615,7 +615,7 @@
       ]
     },
     {
-      "name": "TN 2026",
+      "name": "TN",
       "category": "Tamil Movies",
       "year": "2026",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
@@ -637,6 +637,94 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Karaa%20%282026%29%20HDTC%20%5BTamil%20LiNE%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "EXAM",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jt62J8sfq8pFFovZhEQmxjUqhb.jpg",
+      "source_url": "https://cinefreak.net/exam-2026-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-04",
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 05-07",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E05-07%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Kaalidas 2",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZR3euvzufCE6rgMIlxuM6IwE43.jpg",
+      "source_url": "https://cinefreak.net/kaalidas-2-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Happy Raj",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
+      "source_url": "https://cinefreak.net/happy-raj-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Happy%20Raj%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Happy%20Raj%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Happy%20Raj%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "LIK: Love Insurance Kompany",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+      "source_url": "https://cinefreak.net/love-insurance-kompany-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -693,6 +781,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Ten Hours",
+      "category": "Tamil Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpy3tsUxCo2nQ1g2iLKiOEmZZaW.jpg",
+      "source_url": "https://cinefreak.net/ten-hours-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ten%20Hours%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -801,6 +902,40 @@
       ]
     },
     {
+      "name": "Agilan",
+      "category": "Tamil Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jYssBJkPynlxoTV13BQTZlpfyD.jpg",
+      "source_url": "https://cinefreak.net/agilan-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Agilan%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Viduthalai: Part I",
+      "category": "Tamil Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTxPji8PY3PL0SK9e4mkt2laJKg.jpg",
+      "source_url": "https://cinefreak.net/viduthalai-part-i-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Yaanai",
       "category": "Tamil Movies",
       "year": "2022",
@@ -869,6 +1004,23 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Psycho",
+      "category": "Tamil Movies",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aImy0Hh9iBS3ROhV8vRvVd894uT.jpg",
+      "source_url": "https://cinefreak.net/psycho-2020-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Psycho%20%282020%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Psycho%20%282020%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
