@@ -125,7 +125,12 @@ jobs:
             echo "::warning::Remote main changed during this run; skipping stale Guardian push safely."
             exit 0
           fi
-          git commit -m "🛡️ Stream Guardian automatic repair"
+          if git diff --staged --quiet -- categories/; then
+            COMMIT_MESSAGE="🧹 Stream Guardian state maintenance"
+          else
+            COMMIT_MESSAGE="🛡️ Stream Guardian validated category repair"
+          fi
+          git commit -m "$COMMIT_MESSAGE"
           git push
 
       - name: Propagate Guardian Failure After Saving Repairs

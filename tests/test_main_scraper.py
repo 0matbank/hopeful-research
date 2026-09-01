@@ -365,8 +365,122 @@ class MovieScraperTests(unittest.TestCase):
         self.assertTrue(main_scraper.should_skip_repair("Hero", "Bangla Movies", failures))
         self.assertFalse(main_scraper.should_skip_repair("Hero", "Hindi Movies", failures))
 
+    def test_existing_source_owner_blocks_a_new_cross_category_copy(self):
+        source_url = "https://example.com/shared-movie"
+        owners = {source_url: {"Bangla Movies"}}
+        self.assertTrue(
+            main_scraper.source_can_publish_in_category(source_url, "Bangla Movies", owners)
+        )
+        self.assertFalse(
+            main_scraper.source_can_publish_in_category(source_url, "Hindi Movies", owners)
+        )
+        self.assertEqual(main_scraper.cross_category_source_conflicts(owners), {})
+
+        owners[source_url].add("Hindi Movies")
+        self.assertEqual(
+            main_scraper.cross_category_source_conflicts(owners),
+            {source_url: {"Bangla Movies", "Hindi Movies"}},
+        )
+
 
 class ScannerStateTests(unittest.IsolatedAsyncioTestCase):
+    async def test_stream_validation_keeps_only_unique_playable_media(self):
+        alive = "https://cdn.example.com/alive.mkv"
+        dead = "https://cdn.example.com/dead.mkv"
+
+        def probe(url, timeout=8):
+            if url == alive:
+                return {"status": "alive", "reason": "media_bytes_ok", "http_status": 206}
+            return {"status": "dead", "reason": "http_404", "http_status": 404}
+
+        with patch.object(main_scraper, "probe_stream_link_sync", side_effect=probe):
+            result = await main_scraper.validate_stream_items([
+                {"resolution": "HD 1080P", "link": alive},
+                {"resolution": "HD 1080P", "link": alive},
+                {"resolution": "HEVC 1080P", "link": dead},
+            ], "test")
+
+        self.assertEqual([item["link"] for item in result], [alive])
+
+    async def test_confirmed_dead_repair_publishes_only_same_source_alive_fresh_set(self):
+        with tempfile.TemporaryDirectory() as root:
+            category_dir = Path(root) / "category"
+            category_dir.mkdir()
+            config = {
+                "dir": str(category_dir),
+                "file": str(category_dir / "movies.txt"),
+                "json": str(category_dir / "movies.json"),
+                "m3u": str(category_dir / "movies.m3u"),
+                "slug": "test",
+            }
+            source_url = "https://example.com/example-movie"
+            old_alive = "https://cdn.example.com/old-alive.mkv"
+            old_dead = "https://cdn.example.com/old-dead.mkv"
+            fresh_alive = "https://cdn.example.com/Example%20Movie%20(2026)%201080p.mkv"
+            fresh_dead = "https://cdn.example.com/Example%20Movie%20(2026)%20dead.mkv"
+            movie = {
+                "name": "Example Movie",
+                "category": "Test",
+                "year": "2026",
+                "poster": "N/A",
+                "source_url": source_url,
+                "res_list": [
+                    {"resolution": "HD 1080P", "link": old_alive},
+                    {"resolution": "HEVC 1080P", "link": old_dead},
+                ],
+            }
+            main_scraper.save_category_outputs("Test", config, [movie])
+            pipeline = AsyncMock(return_value=(
+                source_url,
+                "Example Movie (2026)",
+                "Test",
+                [
+                    {"resolution": "HD 1080P", "link": fresh_alive},
+                    {"resolution": "HEVC 1080P", "link": fresh_dead},
+                ],
+                "N/A",
+            ))
+            browser = SimpleNamespace(close=AsyncMock())
+            playwright = SimpleNamespace(
+                chromium=SimpleNamespace(launch=AsyncMock(return_value=browser))
+            )
+            manager = AsyncMock()
+            manager.__aenter__.return_value = playwright
+            manager.__aexit__.return_value = False
+
+            def fresh_probe(url, timeout=8):
+                if url == fresh_alive:
+                    return {"status": "alive", "reason": "media_bytes_ok", "http_status": 206}
+                return {"status": "dead", "reason": "http_404", "http_status": 404}
+
+            with (
+                patch.object(main_scraper, "async_playwright", return_value=manager),
+                patch.object(main_scraper, "is_page_url_alive_sync", return_value=True),
+                patch.object(main_scraper, "is_stream_link_dead_sync", side_effect=lambda url: url == old_dead),
+                patch.object(main_scraper, "probe_stream_link_sync", side_effect=fresh_probe),
+                patch.object(main_scraper, "process_movie_parallel_pipeline", pipeline),
+                patch.object(main_scraper, "load_failed_repairs", return_value={}),
+                patch.object(main_scraper, "save_failed_repairs"),
+            ):
+                summary = await main_scraper.repair_dead_links(
+                    "Test",
+                    config,
+                    respect_cooldown=False,
+                    target_source_urls={source_url},
+                    target_stream_urls={source_url: {old_dead}},
+                )
+
+            payload = json.loads(Path(config["json"]).read_text(encoding="utf-8"))
+            links = [item["link"] for item in payload["movies"][0]["res_list"]]
+            self.assertEqual(summary["updated"], 1)
+            self.assertEqual(links, [fresh_alive])
+            self.assertNotIn(old_alive, Path(config["file"]).read_text(encoding="utf-8"))
+            self.assertNotIn(old_dead, Path(config["m3u"]).read_text(encoding="utf-8"))
+            self.assertEqual(
+                Path(config["dir"], "history.txt").read_text(encoding="utf-8").strip(),
+                source_url,
+            )
+
     async def test_wrong_movie_fresh_link_is_rejected_without_rewriting_outputs(self):
         with tempfile.TemporaryDirectory() as root:
             category_dir = Path(root) / "category"

@@ -1,5 +1,6 @@
 import asyncio
 import base64
+import hashlib
 import json
 import nest_asyncio
 import urllib.parse
@@ -195,6 +196,21 @@ def sanitize_stream_url(url):
     if not url:
         return url
     return urllib.parse.quote(url, safe=':/?&=#%')
+
+
+def diagnostic_url_label(url, *, stream=False):
+    """Return a stable diagnostic label without exposing query tokens or full URLs."""
+    clean_url = str(url or "").strip()
+    try:
+        parsed = urllib.parse.urlsplit(clean_url)
+        host = parsed.netloc.lower() or "unknown-host"
+        if stream:
+            digest = hashlib.sha256(clean_url.encode("utf-8", "replace")).hexdigest()[:10]
+            return f"{host}#{digest}"
+        slug = urllib.parse.unquote(parsed.path).strip("/").rsplit("/", 1)[-1]
+        return f"{host}/{slug[:72] or 'root'}"
+    except (TypeError, ValueError):
+        return "invalid-url"
 
 def parse_link_metadata(stream_url, default_res):
     unquoted = urllib.parse.unquote(stream_url)
@@ -536,6 +552,36 @@ def is_page_url_alive_sync(page_url):
         pass
     return False
 
+
+async def validate_stream_items(items, context_label="stream-set"):
+    """Keep only unique links that return recognizable media bytes."""
+    unique_items = []
+    seen_links = set()
+    for item in items or []:
+        link = str(item.get("link", "") or "").strip()
+        if not link or link in seen_links:
+            continue
+        seen_links.add(link)
+        unique_items.append(dict(item))
+
+    probes = await asyncio.gather(*[
+        asyncio.to_thread(probe_stream_link_sync, item["link"])
+        for item in unique_items
+    ])
+    live_items = []
+    for item, probe in zip(unique_items, probes):
+        label = diagnostic_url_label(item["link"], stream=True)
+        if probe.get("status") == "alive":
+            live_items.append(item)
+            print(f"   VALIDATED media [{context_label}]: {label}", flush=True)
+        else:
+            print(
+                f"   REJECTED media [{context_label}] "
+                f"reason={probe.get('reason', 'not_playable')}: {label}",
+                flush=True,
+            )
+    return live_items
+
 # ==============================================================================
 # 🛠️ Failed Repairs Tracker (একই dead link বারবার retry ঠেকানো)
 # ==============================================================================
@@ -875,6 +921,31 @@ def load_existing_movies(config):
         config["file"],
         load_history_urls(history_filename),
     )
+
+
+def load_published_source_owners(categories_map=None):
+    """Map canonical source URLs to every category that already publishes them."""
+    owners = {}
+    for category_name, config in (categories_map or CATEGORIES_MAP).items():
+        for movie in load_existing_movies(config):
+            source_url = normalize_source_url(movie.get("source_url", ""))
+            if source_url:
+                owners.setdefault(source_url, set()).add(category_name)
+    return owners
+
+
+def source_can_publish_in_category(source_url, category_name, owners):
+    """Prevent a newly discovered source page from creating another category copy."""
+    existing_owners = set(owners.get(normalize_source_url(source_url), set()))
+    return not existing_owners or category_name in existing_owners
+
+
+def cross_category_source_conflicts(owners):
+    return {
+        source_url: set(category_names)
+        for source_url, category_names in owners.items()
+        if len(set(category_names)) > 1
+    }
 
 
 def append_unique_url(filename, url):
@@ -1273,7 +1344,11 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
 
         await page.route("**/*", main_page_ad_blocker)
 
-        print(f"🎬 [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Opening Page: {movie_url}", flush=True)
+        print(
+            f"🎬 [MOVIE {movie_idx}/{TARGET_LIMIT_MOVIES}] Opening Page: "
+            f"{diagnostic_url_label(movie_url)}",
+            flush=True,
+        )
         await page.goto(movie_url, timeout=40000, wait_until="domcontentloaded")
 
         raw_title = await page.title()
@@ -1424,14 +1499,17 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
             current_stream_urls.clear()
 
             sub_page = await context.new_page()
+            option_stage = "open_gateway"
             try:
                 await sub_page.goto(target_gateway_url, timeout=20000, wait_until="domcontentloaded")
 
+                option_stage = "verify_button"
                 verify_btn = sub_page.locator("#btn-text")
                 await verify_btn.wait_for(state="visible", timeout=8000)
                 await verify_btn.click()
                 await sub_page.wait_for_timeout(600)
 
+                option_stage = "get_link_button"
                 get_link_btn = sub_page.locator("#btn-text")
                 await get_link_btn.wait_for(state="visible", timeout=8000)
 
@@ -1461,6 +1539,7 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                 if not player_page:
                     player_page = sub_page
 
+                option_stage = "activate_player"
                 await player_page.bring_to_front()
                 await player_page.wait_for_load_state("domcontentloaded")
                 await asyncio.sleep(0.8)
@@ -1494,10 +1573,23 @@ async def process_movie_parallel_pipeline(browser, movie_url, movie_idx, default
                                 "resolution": exact_res_label,
                                 "link": sanitized_url
                             })
-                            print(f"   ✅ Captured [{exact_res_label}]: {sanitized_url[:65]}...", flush=True)
+                            print(
+                                f"   ✅ Captured [{exact_res_label}]: "
+                                f"{diagnostic_url_label(sanitized_url, stream=True)}",
+                                flush=True,
+                            )
+                else:
+                    print(
+                        f"   ⚠️ Option {idx}/{len(target_buttons)} produced no direct media response.",
+                        flush=True,
+                    )
 
-            except Exception:
-                pass
+            except Exception as error:
+                print(
+                    f"   ⚠️ Option {idx}/{len(target_buttons)} failed at {option_stage}: "
+                    f"{type(error).__name__}",
+                    flush=True,
+                )
             finally:
                 await sub_page.close()
 
@@ -1540,7 +1632,10 @@ async def search_movie_on_site(browser, movie_name, cat_slug):
         # WordPress standard search (?s=query)
         clean_query = clean_title_for_tmdb(movie_name)
         search_url = f"{MAIN_SITE_URL}?s={urllib.parse.quote(clean_query)}"
-        print(f"   🔍 Searching on site: {search_url}", flush=True)
+        print(
+            f"   🔍 Searching on site: {diagnostic_url_label(search_url)}",
+            flush=True,
+        )
 
         try:
             await page.goto(search_url, timeout=25000, wait_until="domcontentloaded")
@@ -1559,7 +1654,11 @@ async def search_movie_on_site(browser, movie_name, cat_slug):
             )
             if ranked_results and ranked_results[0][0] >= 0.72:
                 score, found_url = ranked_results[0]
-                print(f"   ✅ Search match found ({score:.2f}): {found_url}", flush=True)
+                print(
+                    f"   ✅ Search match found ({score:.2f}): "
+                    f"{diagnostic_url_label(found_url)}",
+                    flush=True,
+                )
         except Exception as e:
             print(f"   ⚠️ Search failed: {e}", flush=True)
 
@@ -1567,7 +1666,11 @@ async def search_movie_on_site(browser, movie_name, cat_slug):
         if not found_url and cat_slug:
             try:
                 cat_url = f"{MAIN_SITE_URL}{cat_slug}/"
-                print(f"   🔍 Fallback: Scanning category page: {cat_url}", flush=True)
+                print(
+                    f"   🔍 Fallback: Scanning category page: "
+                    f"{diagnostic_url_label(cat_url)}",
+                    flush=True,
+                )
                 await page.goto(cat_url, timeout=25000, wait_until="domcontentloaded")
 
                 cat_links = await page.evaluate("""
@@ -1584,7 +1687,11 @@ async def search_movie_on_site(browser, movie_name, cat_slug):
                 )
                 if ranked_links and ranked_links[0][0] >= 0.72:
                     score, found_url = ranked_links[0]
-                    print(f"   ✅ Category page match ({score:.2f}): {found_url}", flush=True)
+                    print(
+                        f"   ✅ Category page match ({score:.2f}): "
+                        f"{diagnostic_url_label(found_url)}",
+                        flush=True,
+                    )
             except Exception as e:
                 print(f"   ⚠️ Category scan failed: {e}", flush=True)
 
@@ -1813,9 +1920,17 @@ async def repair_dead_links(
         async with sem:
             is_dead = await asyncio.to_thread(is_stream_link_dead_sync, link)
         if is_dead:
-            print(f"   💀 Dead link found in '{movie_name}': {link[:70]}...", flush=True)
+            print(
+                f"   💀 Dead link found in '{movie_name}': "
+                f"{diagnostic_url_label(link, stream=True)}",
+                flush=True,
+            )
         else:
-            print(f"   ✅ Link alive for '{movie_name}': {link[:70]}...", flush=True)
+            print(
+                f"   ✅ Link alive for '{movie_name}': "
+                f"{diagnostic_url_label(link, stream=True)}",
+                flush=True,
+            )
         return idx, is_dead, link
 
     async def check_movie_links(movie):
@@ -1852,7 +1967,7 @@ async def repair_dead_links(
         return repair_summary
 
     print(
-        f"\n🔧 Found {len(movies_with_dead_links)} movie(s) requiring repair/refresh. Starting...\n",
+        f"\n🔧 Found {len(movies_with_dead_links)} movie(s) requiring validated repair. Starting...\n",
         flush=True,
     )
 
@@ -1889,7 +2004,10 @@ async def repair_dead_links(
                     repair_page_url = None
 
                     if original_page_url:
-                        print(f"   📄 Found history URL: {original_page_url}", flush=True)
+                        print(
+                            f"   📄 Found history source: {diagnostic_url_label(original_page_url)}",
+                            flush=True,
+                        )
                         page_alive = await asyncio.to_thread(is_page_url_alive_sync, original_page_url)
                         if page_alive:
                             repair_page_url = original_page_url
@@ -1927,7 +2045,10 @@ async def repair_dead_links(
                                 f"for '{movie_name}'...",
                                 flush=True,
                             )
-                        print(f"   🎬 Re-scraping from: {repair_page_url}", flush=True)
+                        print(
+                            f"   🎬 Re-scraping from: {diagnostic_url_label(repair_page_url)}",
+                            flush=True,
+                        )
                         _, scraped_title, _, fresh_res_list, _ = await process_movie_parallel_pipeline(
                             browser,
                             repair_page_url,
@@ -1935,27 +2056,10 @@ async def repair_dead_links(
                             target_category_name,
                         )
                         if fresh_res_list:
-                            attempt_validated = []
-                            fresh_checks = await asyncio.gather(*[
-                                asyncio.to_thread(probe_stream_link_sync, item.get("link", ""))
-                                for item in fresh_res_list
-                            ])
-                            for fresh_item, fresh_probe in zip(fresh_res_list, fresh_checks):
-                                fresh_link = fresh_item.get("link", "")
-                                if fresh_probe.get("status") == "alive":
-                                    attempt_validated.append(fresh_item)
-                                    print(f"   ✅ Validated fresh link: {fresh_link[:70]}...", flush=True)
-                                elif fresh_probe.get("reason") == "non_movie_media_asset":
-                                    print(
-                                        f"   🚫 Rejected non-movie/ad media asset: {fresh_link[:70]}...",
-                                        flush=True,
-                                    )
-                                else:
-                                    print(
-                                        f"   ⚠️ Fresh link rejected "
-                                        f"({fresh_probe.get('reason', 'not_playable')}): {fresh_link[:70]}...",
-                                        flush=True,
-                                    )
+                            attempt_validated = await validate_stream_items(
+                                fresh_res_list,
+                                f"repair:{movie_name}",
+                            )
 
                             if attempt_validated:
                                 attempt_canonical = canonical_fresh_res_list(
@@ -1998,7 +2102,14 @@ async def repair_dead_links(
                         return queued_source_url, "failed"
 
                     canonical_fresh = canonical_fresh_res_list(validated_fresh)
-                    if expected_count and len(canonical_fresh) >= expected_count:
+                    if dead_indices:
+                        # Confirmed-dead repair contract: the same source page's
+                        # current, identity-checked, media-validated set becomes
+                        # authoritative for this movie in this category.
+                        new_res_list = canonical_fresh
+                        replaced_links = min(len(dead_indices), len(new_res_list))
+                        removed_dead_links = max(0, len(dead_indices) - replaced_links)
+                    elif expected_count and len(canonical_fresh) >= expected_count:
                         # All currently advertised target buttons were captured and
                         # validated, so the source page can safely be authoritative.
                         new_res_list = canonical_fresh
@@ -2163,6 +2274,15 @@ async def main():
     existing_identities = set(existing_by_identity)
     print(f"📂 Loaded {len(existing_movies)} existing movie(s) from previous scans.", flush=True)
 
+    published_source_owners = load_published_source_owners()
+    existing_source_conflicts = cross_category_source_conflicts(published_source_owners)
+    if existing_source_conflicts:
+        print(
+            f"⚠️ Existing cross-category source conflicts: {len(existing_source_conflicts)}. "
+            "They are preserved for review; this run will not create new copies.",
+            flush=True,
+        )
+
     scraped_history = set(load_history_urls(history_filename))
     scraped_history.update(load_history_urls(skipped_history_filename))
     candidate_retry_state = load_candidate_retry_state()
@@ -2204,6 +2324,7 @@ async def main():
             await page_main.goto(category_url, timeout=35000, wait_until="domcontentloaded")
 
             discovered_movie_urls = []
+            foreign_owned_urls = set()
             current_page_num = 1
             MAX_PAGE_SAFETY_LIMIT = 5
 
@@ -2227,6 +2348,13 @@ async def main():
                     if ("-download" in link_clean or "full-movie" in link_clean or "web-dl" in link_clean or "full-series" in link_clean):
                         if not any(junk in link_clean for junk in ["/category/", "/page/", "/tag/", "/genre/", "/author/", "/search/"]):
                             normalized_link = normalize_source_url(link_clean)
+                            if not source_can_publish_in_category(
+                                normalized_link,
+                                target_category_name,
+                                published_source_owners,
+                            ):
+                                foreign_owned_urls.add(normalized_link)
+                                continue
                             if normalized_link not in scraped_history and normalized_link not in discovered_movie_urls:
                                 discovered_movie_urls.append(normalized_link)
                                 if len(discovered_movie_urls) >= CANDIDATE_DISCOVERY_LIMIT:
@@ -2253,6 +2381,12 @@ async def main():
                     f"⏳ Deferred {cooling_candidate_count} failed candidate(s); scanning fresh/deeper posts instead.",
                     flush=True,
                 )
+            if foreign_owned_urls:
+                print(
+                    f"⏭️ Skipped {len(foreign_owned_urls)} source page(s) already owned by "
+                    "another category; no cross-category duplicate was published.",
+                    flush=True,
+                )
 
             await page_main.close()
 
@@ -2270,17 +2404,21 @@ async def main():
                     parallel_results = await asyncio.gather(*tasks)
 
                 for movie_url, title, categories, res_list, web_poster in parallel_results:
+                    validated_res_list = await validate_stream_items(
+                        res_list,
+                        f"new:{title}",
+                    ) if res_list else []
                     retry_state_changed = record_candidate_outcome(
                         target_category_name,
                         movie_url,
-                        bool(res_list),
+                        bool(validated_res_list),
                         candidate_retry_state,
                     ) or retry_state_changed
-                    if res_list:
-                        clean_name, year = resolve_movie_identity(title, res_list)
+                    if validated_res_list:
+                        clean_name, year = resolve_movie_identity(title, validated_res_list)
 
                         parsed_res_list = []
-                        for item in res_list:
+                        for item in validated_res_list:
                             meta = parse_link_metadata(item['link'], item['resolution'])
                             parsed_res_list.append(meta)
 
@@ -2296,7 +2434,7 @@ async def main():
 
                             new_movie = {
                                 "name": clean_name,
-                                "category": categories,
+                                "category": target_category_name,
                                 "year": year,
                                 "poster": poster_url,
                                 "source_url": normalize_source_url(movie_url),
@@ -2311,7 +2449,7 @@ async def main():
                             target_movie = existing_by_identity[identity]
                             new_movies_list.append({
                                 "name": clean_name,
-                                "category": categories,
+                                "category": target_category_name,
                                 "year": year,
                                 "poster": web_poster if web_poster != "N/A" else target_movie.get("poster", "N/A"),
                                 "source_url": normalize_source_url(movie_url),

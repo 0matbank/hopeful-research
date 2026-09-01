@@ -305,7 +305,7 @@ def merge_repair_queue(
     due_incomplete_sources,
     now=None,
 ):
-    """Merge newly discovered work with unfinished work without losing targets."""
+    """Merge confirmed-dead work only; retire legacy button-count refresh entries."""
     current_time = now or utc_now()
     selected_categories = set(category_names)
     current_sources = {
@@ -323,30 +323,26 @@ def merge_repair_queue(
         if not isinstance(entry, dict):
             continue
         category_name = entry.get("category", "")
+        if entry.get("kind") != "dead":
+            continue
         if category_name not in selected_categories:
             queue[key] = entry
             continue
         if key not in current_sources:
             continue
-        if entry.get("kind") == "dead":
-            pending_links = [
-                link
-                for link in entry.get("dead_links", [])
-                if link in source_links.get(key, set())
-                and probes.get(link, ProbeResult(link, "transient", "not_checked")).status != "alive"
-            ]
-            if pending_links:
-                queue[key] = {**entry, "dead_links": pending_links}
-        elif entry.get("kind") == "refresh":
-            source_url = scraper.normalize_source_url(entry.get("source_url", ""))
-            if source_url in incomplete_sources.get(category_name, {}):
-                queue[key] = entry
+        pending_links = [
+            link
+            for link in entry.get("dead_links", [])
+            if link in source_links.get(key, set())
+            and probes.get(link, ProbeResult(link, "transient", "not_checked")).status != "alive"
+        ]
+        if pending_links:
+            queue[key] = {**entry, "dead_links": pending_links}
 
-    def add_or_upgrade(category_name, source_url, kind, expected_count=0, dead_links=None):
+    def add_dead(category_name, source_url, dead_links=None):
         normalized_url = scraper.normalize_source_url(source_url)
         key = source_gap_key(category_name, normalized_url)
         old_entry = queue.get(key, {})
-        effective_kind = "dead" if kind == "dead" or old_entry.get("kind") == "dead" else "refresh"
         combined_dead_links = list(dict.fromkeys([
             *old_entry.get("dead_links", []),
             *(dead_links or []),
@@ -354,9 +350,9 @@ def merge_repair_queue(
         queue[key] = {
             "category": category_name,
             "source_url": normalized_url,
-            "kind": effective_kind,
-            "expected_count": int(expected_count or old_entry.get("expected_count", 0)),
-            "dead_links": combined_dead_links if effective_kind == "dead" else [],
+            "kind": "dead",
+            "expected_count": 0,
+            "dead_links": combined_dead_links,
             "discovered_at": old_entry.get("discovered_at", utc_iso(current_time)),
             "last_seen": utc_iso(current_time),
             "attempt_count": int(old_entry.get("attempt_count", 0)),
@@ -365,10 +361,7 @@ def merge_repair_queue(
 
     for category_name, source_links_by_url in affected_dead_links.items():
         for source_url, dead_links in source_links_by_url.items():
-            add_or_upgrade(category_name, source_url, "dead", dead_links=sorted(dead_links))
-    for category_name, source_counts in due_incomplete_sources.items():
-        for source_url, expected_count in source_counts.items():
-            add_or_upgrade(category_name, source_url, "refresh", expected_count)
+            add_dead(category_name, source_url, dead_links=sorted(dead_links))
     return queue
 
 
@@ -409,15 +402,6 @@ def select_repair_batch(
         selected[key] = {**entry, "dead_links": links[:remaining_dead_budget]}
         remaining_dead_budget -= len(selected[key]["dead_links"])
 
-    # Missing-button refreshes are lower priority and run only when no dead
-    # link is waiting, keeping the repair workload small and predictable.
-    if selected:
-        return selected
-    for key, entry in ordered:
-        if entry.get("kind") == "refresh":
-            selected[key] = entry
-            if len(selected) >= max(0, int(refresh_limit)):
-                break
     return selected
 
 
@@ -711,6 +695,7 @@ async def run_guardian(category_names, apply_changes, report_path):
         "restored_movies": 0,
         "quarantine_retry_failed": 0,
         "circuit_breaker": False,
+        "repair_contract": "confirmed_dead_only",
     }
     quarantine = load_json(QUARANTINE_FILE, {"version": 1, "entries": {}})
     quarantine_before = json.dumps(quarantine, sort_keys=True)
@@ -750,23 +735,18 @@ async def run_guardian(category_names, apply_changes, report_path):
             affected_movies.add((owner["category"], owner["source_url"]))
     report["affected_movies"] = len(affected_movies)
 
-    incomplete_sources, observed_source_counts, source_audit_stats = await asyncio.to_thread(
-        audit_source_completeness,
-        catalog,
-    )
-    report.update(source_audit_stats)
+    # Guardian repair is intentionally confirmed-dead-only. A source page's
+    # button count is not a reliable count of distinct playable media, so alive
+    # catalogue entries are never queued merely because more buttons exist.
+    incomplete_sources = {}
     old_source_gaps = (
         previous_state.get("source_gaps", {}) if isinstance(previous_state, dict) else {}
     )
     if not isinstance(old_source_gaps, dict):
         old_source_gaps = {}
-    due_incomplete_sources, deferred_source_gaps = due_source_gaps(
-        incomplete_sources,
-        catalog,
-        old_source_gaps,
-    )
-    report["source_refresh_due"] = sum(len(values) for values in due_incomplete_sources.values())
-    report["source_refresh_deferred"] = deferred_source_gaps
+    due_incomplete_sources = {}
+    report["source_refresh_due"] = 0
+    report["source_refresh_deferred"] = 0
     old_repair_queue = (
         previous_state.get("repair_queue", {}) if isinstance(previous_state, dict) else {}
     )
@@ -800,7 +780,6 @@ async def run_guardian(category_names, apply_changes, report_path):
         for entry in repair_batch.values()
         if entry.get("kind") == "dead"
     )
-    attempted_source_gaps = set()
     batch_outcomes = {}
 
     # Widespread timeout/5xx সাধারণত runner/CDN outage; confirmed 404 repair আটকাবে না।
@@ -827,22 +806,9 @@ async def run_guardian(category_names, apply_changes, report_path):
                 if entry.get("kind") == "dead"
             }
             dead_source_urls = set(target_dead_links)
-            refresh_source_counts = {
-                entry["source_url"]: int(entry.get("expected_count", 0))
-                for entry in category_batch.values()
-                if entry.get("kind") == "refresh"
-            }
-            refresh_source_urls = set(refresh_source_counts)
-            attempted_source_gaps.update(
-                source_gap_key(category_name, source_url)
-                for source_url in refresh_source_urls
-            )
-            source_urls = dead_source_urls | refresh_source_urls
-            expected_source_counts = {
-                source_url: count
-                for source_url, count in observed_source_counts.get(category_name, {}).items()
-                if source_url in refresh_source_urls
-            }
+            refresh_source_urls = set()
+            source_urls = dead_source_urls
+            expected_source_counts = {}
             repair_summary = await scraper.repair_dead_links(
                 category_name,
                 scraper.CATEGORIES_MAP[category_name],
@@ -856,8 +822,6 @@ async def run_guardian(category_names, apply_changes, report_path):
             repair_summary = repair_summary if isinstance(repair_summary, dict) else {}
             for source_url, outcome in repair_summary.get("outcomes", {}).items():
                 batch_outcomes[source_gap_key(category_name, source_url)] = outcome
-            report["source_refresh_checked"] += len(refresh_source_urls)
-            report["source_refresh_no_change"] += int(repair_summary.get("unchanged", 0))
             report["catalogue_updates"] += int(repair_summary.get("updated", 0))
             report["identity_mismatches"] += int(
                 repair_summary.get("identity_mismatch", 0)
@@ -907,36 +871,9 @@ async def run_guardian(category_names, apply_changes, report_path):
         **preserved_other_suspects,
         **{url: value for url, value in suspects.items() if url in selected_urls},
     }
-    preserved_other_gaps = {}
-    if not all_categories_selected:
-        preserved_other_gaps = {
-            key: value
-            for key, value in old_source_gaps.items()
-            if isinstance(value, dict) and value.get("category") not in category_names
-        }
-
-    if report["circuit_breaker"]:
-        final_source_gaps = dict(old_source_gaps)
-    else:
-        current_source_counts = catalog_source_counts(current_catalog)
-        selected_source_gaps = {}
-        for category_name, source_counts in incomplete_sources.items():
-            for source_url, advertised_count in source_counts.items():
-                key = source_gap_key(category_name, source_url)
-                stored_count = current_source_counts.get((category_name, source_url))
-                if stored_count is None or stored_count >= advertised_count:
-                    continue
-                if key in attempted_source_gaps:
-                    selected_source_gaps[key] = schedule_source_gap(
-                        category_name,
-                        source_url,
-                        advertised_count,
-                        stored_count,
-                        old_source_gaps.get(key),
-                    )
-                elif key in old_source_gaps:
-                    selected_source_gaps[key] = old_source_gaps[key]
-        final_source_gaps = {**preserved_other_gaps, **selected_source_gaps}
+    # Retire all legacy button-count gaps. They never represent confirmed-dead
+    # media and must not trigger category mutation or future repair commits.
+    final_source_gaps = {}
 
     current_source_keys = {
         source_gap_key(category_name, source_url)
@@ -957,28 +894,18 @@ async def run_guardian(category_names, apply_changes, report_path):
             repair_queue.pop(key, None)
             continue
         queued_entry = dict(repair_queue.get(key, entry))
-        if entry.get("kind") == "dead":
-            remaining_dead_links = [
-                link
-                for link in queued_entry.get("dead_links", [])
-                if link in current_links_by_source.get(key, set())
-            ]
-            if not remaining_dead_links:
-                repair_queue.pop(key, None)
-                continue
-            queued_entry["dead_links"] = remaining_dead_links
-            queued_entry["attempt_count"] = int(queued_entry.get("attempt_count", 0)) + 1
-            queued_entry["last_attempt"] = utc_iso(queue_now)
-            queued_entry["last_outcome"] = batch_outcomes.get(key) or "still_published"
-            repair_queue[key] = queued_entry
-            continue
-        outcome = batch_outcomes.get(key)
-        if outcome in {"updated", "unchanged"}:
+        remaining_dead_links = [
+            link
+            for link in queued_entry.get("dead_links", [])
+            if link in current_links_by_source.get(key, set())
+        ]
+        if not remaining_dead_links:
             repair_queue.pop(key, None)
             continue
+        queued_entry["dead_links"] = remaining_dead_links
         queued_entry["attempt_count"] = int(queued_entry.get("attempt_count", 0)) + 1
         queued_entry["last_attempt"] = utc_iso(queue_now)
-        queued_entry["last_outcome"] = outcome or "not_attempted"
+        queued_entry["last_outcome"] = batch_outcomes.get(key) or "still_published"
         repair_queue[key] = queued_entry
     report["repair_queue_remaining"] = len(repair_queue)
     report["dead_links_queue_remaining"] = sum(

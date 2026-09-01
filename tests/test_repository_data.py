@@ -65,6 +65,9 @@ class RepositoryDataTests(unittest.TestCase):
             guardian_workflow,
         )
         self.assertIn("steps.guardian_repair.outcome == 'failure'", guardian_workflow)
+        self.assertIn("git diff --staged --quiet -- categories/", guardian_workflow)
+        self.assertIn("Stream Guardian state maintenance", guardian_workflow)
+        self.assertIn("Stream Guardian validated category repair", guardian_workflow)
         self.assertNotIn("Auto Repair Dead Links", scanner_workflow)
         self.assertNotIn("REPAIR_AUTO", scanner_workflow)
         self.assertNotIn("REPAIR_SPECIFIC", scanner_workflow)

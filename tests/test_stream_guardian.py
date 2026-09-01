@@ -56,11 +56,11 @@ class StreamProbeTests(unittest.TestCase):
                 "discovered_at": "2026-08-30T00:00:00+00:00",
                 "attempt_count": 0,
             },
-            "test::refresh": {
+            "test::dead": {
                 "category": "Test",
                 "source_url": "https://example.com/test",
-                "kind": "refresh",
-                "dead_links": [],
+                "kind": "dead",
+                "dead_links": ["https://cdn.example.com/test-dead.mkv"],
                 "discovered_at": "2026-08-31T00:00:00+00:00",
                 "attempt_count": 0,
             },
@@ -68,7 +68,7 @@ class StreamProbeTests(unittest.TestCase):
 
         batch = stream_guardian.select_repair_batch(queue, category_names=["Test"])
 
-        self.assertEqual(set(batch), {"test::refresh"})
+        self.assertEqual(set(batch), {"test::dead"})
 
 
     def test_unchanged_source_gap_backs_off_but_changed_counts_retry_immediately(self):
@@ -177,7 +177,7 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
             category_dir.mkdir()
             state_path = root / "state.json"
             source_url = "https://example.com/test-movie"
-            stream_url = "https://cdn.example.com/alive.mkv"
+            stream_url = "https://cdn.example.com/dead.mkv"
             config = {
                 "dir": str(category_dir),
                 "file": str(category_dir / "movies.txt"),
@@ -198,9 +198,9 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 f"other::{index}": {
                     "category": "Other",
                     "source_url": f"https://example.com/other-{index}",
-                    "kind": "refresh",
-                    "expected_count": 2,
-                    "dead_links": [],
+                    "kind": "dead",
+                    "expected_count": 0,
+                    "dead_links": [f"https://cdn.example.com/other-{index}.mkv"],
                     "discovered_at": f"2026-08-30T00:0{index}:00+00:00",
                     "last_seen": f"2026-08-30T00:0{index}:00+00:00",
                     "attempt_count": 0,
@@ -220,9 +220,9 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 encoding="utf-8",
             )
 
-            def all_alive(urls, concurrency=stream_guardian.PROBE_CONCURRENCY):
+            def all_dead(urls, concurrency=stream_guardian.PROBE_CONCURRENCY):
                 return {
-                    url: stream_guardian.ProbeResult(url, "alive", "media_bytes_ok", 206)
+                    url: stream_guardian.ProbeResult(url, "dead", "http_404", 404)
                     for url in urls
                 }
 
@@ -239,7 +239,7 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 patch.object(stream_guardian, "ROOT", root),
                 patch.object(stream_guardian, "STATE_FILE", state_path),
                 patch.object(stream_guardian, "QUARANTINE_FILE", root / "quarantine.json"),
-                patch.object(stream_guardian, "probe_many", all_alive),
+                patch.object(stream_guardian, "probe_many", all_dead),
                 patch.object(
                     stream_guardian,
                     "audit_source_completeness",
@@ -264,7 +264,8 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
             repair.assert_awaited_once()
             self.assertEqual(exit_code, 0)
             self.assertEqual(report["repair_batch_selected"], 1)
-            self.assertEqual(report["source_refresh_checked"], 1)
+            self.assertEqual(report["dead_links_batch_selected"], 1)
+            self.assertEqual(report["source_refresh_checked"], 0)
             self.assertEqual(state["repair_queue"], other_queue)
 
     async def test_dry_run_audits_catalog_without_changing_state(self):
@@ -505,7 +506,7 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 [],
             )
 
-    async def test_apply_force_refreshes_alive_movie_with_missing_source_buttons(self):
+    async def test_alive_movie_button_gap_does_not_queue_or_repair(self):
         with tempfile.TemporaryDirectory() as root:
             root = Path(root)
             category_dir = root / "category"
@@ -535,14 +536,7 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                     for url in urls
                 }
 
-            repair = AsyncMock(return_value={
-                "attempted": 1,
-                "updated": 0,
-                "unchanged": 1,
-                "failed": 0,
-                "skipped": 0,
-                "outcomes": {source_url: "unchanged"},
-            })
+            repair = AsyncMock()
             with (
                 patch.dict(main_scraper.CATEGORIES_MAP, {"Test": config}),
                 patch.object(stream_guardian, "ROOT", root),
@@ -552,57 +546,20 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
                 patch.object(
                     stream_guardian,
                     "audit_source_completeness",
-                    return_value=(
-                        {"Test": {source_url: 4}},
-                        {"Test": {source_url: 4}},
-                        {"source_pages_checked": 1, "source_pages_failed": 0, "source_incomplete_movies": 1},
-                    ),
+                    side_effect=AssertionError("dead-only Guardian must not audit button counts"),
                 ),
                 patch.object(main_scraper, "repair_dead_links", repair),
             ):
                 exit_code = await stream_guardian.run_guardian(["Test"], True, root / "report.json")
 
             self.assertEqual(exit_code, 0)
-            repair.assert_awaited_once()
-            self.assertEqual(repair.await_args.kwargs["target_source_urls"], {source_url})
-            self.assertEqual(repair.await_args.kwargs["force_refresh_source_urls"], {source_url})
-            self.assertEqual(repair.await_args.kwargs["expected_source_counts"], {source_url: 4})
-            first_report = json.loads((root / "report.json").read_text(encoding="utf-8"))
-            first_state = json.loads((root / "state.json").read_text(encoding="utf-8"))
-            self.assertEqual(first_report["repair_queue_remaining"], 0)
-            self.assertEqual(len(first_state["source_gaps"]), 1)
-
-            repair.reset_mock()
-            with (
-                patch.dict(main_scraper.CATEGORIES_MAP, {"Test": config}),
-                patch.object(stream_guardian, "ROOT", root),
-                patch.object(stream_guardian, "STATE_FILE", root / "state.json"),
-                patch.object(stream_guardian, "QUARANTINE_FILE", root / "quarantine.json"),
-                patch.object(stream_guardian, "probe_many", all_alive),
-                patch.object(
-                    stream_guardian,
-                    "audit_source_completeness",
-                    return_value=(
-                        {"Test": {source_url: 4}},
-                        {"Test": {source_url: 4}},
-                        {
-                            "source_pages_checked": 1,
-                            "source_pages_failed": 0,
-                            "source_incomplete_movies": 1,
-                        },
-                    ),
-                ),
-                patch.object(main_scraper, "repair_dead_links", repair),
-            ):
-                second_exit = await stream_guardian.run_guardian(
-                    ["Test"], True, root / "second-report.json"
-                )
-
-            second_report = json.loads((root / "second-report.json").read_text(encoding="utf-8"))
-            self.assertEqual(second_exit, 0)
             repair.assert_not_awaited()
-            self.assertEqual(second_report["source_refresh_due"], 0)
-            self.assertEqual(second_report["source_refresh_deferred"], 1)
+            report = json.loads((root / "report.json").read_text(encoding="utf-8"))
+            self.assertEqual(report["repair_contract"], "confirmed_dead_only")
+            self.assertEqual(report["repair_batch_selected"], 0)
+            self.assertEqual(report["source_refresh_due"], 0)
+            self.assertEqual(report["source_refresh_checked"], 0)
+            self.assertFalse((root / "state.json").exists())
 
     async def test_mass_failure_circuit_breaker_blocks_repairs(self):
         with tempfile.TemporaryDirectory() as root:
