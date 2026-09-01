@@ -101,6 +101,36 @@
         "last_failed_at": "2026-09-01T02:25:14.895825+00:00",
         "retry_after_epoch": 1788272714,
         "retry_after": "2026-09-01T14:25:14.895825+00:00"
+      },
+      "https://cinefreak.net/alex-pandian-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-01T15:56:44.589910+00:00",
+        "retry_after_epoch": 1788321404,
+        "retry_after": "2026-09-02T03:56:44.589910+00:00"
+      },
+      "https://cinefreak.net/madhuram-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-01T15:56:45.314913+00:00",
+        "retry_after_epoch": 1788321405,
+        "retry_after": "2026-09-02T03:56:45.314913+00:00"
+      },
+      "https://cinefreak.net/parris-jayaraj-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-01T15:56:45.491730+00:00",
+        "retry_after_epoch": 1788321405,
+        "retry_after": "2026-09-02T03:56:45.491730+00:00"
+      },
+      "https://cinefreak.net/nee-forever-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-01T15:56:45.491754+00:00",
+        "retry_after_epoch": 1788321405,
+        "retry_after": "2026-09-02T03:56:45.491754+00:00"
+      },
+      "https://cinefreak.net/avan-ivan-2011-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-01T15:56:45.801214+00:00",
+        "retry_after_epoch": 1788321405,
+        "retry_after": "2026-09-02T03:56:45.801214+00:00"
       }
     }
   }
