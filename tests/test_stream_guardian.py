@@ -11,6 +11,37 @@ import stream_guardian
 
 
 class StreamProbeTests(unittest.TestCase):
+    def test_final_verdict_separates_dead_repairs_from_quarantine_restores(self):
+        report = {
+            "mode": "apply",
+            "confirmed_dead": 0,
+            "catalogue_updates": 0,
+            "dead_links_removed": 0,
+            "repair_batch_selected": 0,
+            "restored_movies": 1,
+            "restored_movie_details": [{
+                "category": "Hindi Movies",
+                "movie": "Dug Dug",
+                "year": 2026,
+                "source": "cinefreak.net/dug-dug-2026-full-movie-download",
+                "validated_streams": 1,
+            }],
+            "changed_files": [
+                "categories/Hindi_Movies/hindi_movies.json",
+                "history/link_guardian_state.json",
+            ],
+        }
+
+        verdict = stream_guardian.build_final_verdict(report)
+
+        self.assertEqual(verdict["dead_links_found"], 0)
+        self.assertEqual(verdict["dead_link_repair"], "not_needed")
+        self.assertEqual(verdict["quarantine_restores"], 1)
+        self.assertEqual(verdict["restored_movies"][0]["movie"], "Dug Dug")
+        self.assertEqual(verdict["category_files_changed"], 1)
+        self.assertEqual(verdict["state_files_changed"], 1)
+        self.assertEqual(verdict["publish_handoff"], "pending_workflow_publish_step")
+
     def test_category_scan_results_include_files_and_per_category_health(self):
         alive_url = "https://cdn.example.com/alive.mkv"
         dead_url = "https://cdn.example.com/dead.mkv"
@@ -364,6 +395,8 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
             self.assertTrue(all(path.endswith(".json") for path in report["scanned_files"]))
             self.assertEqual(report["changed_files"], [])
             self.assertFalse(report["state_saved"])
+            self.assertEqual(report["final_verdict"]["dead_link_repair"], "not_needed")
+            self.assertEqual(report["final_verdict"]["publish_handoff"], "not_requested_dry_run")
             self.assertFalse(state_path.exists())
             self.assertFalse(quarantine_path.exists())
 
@@ -849,6 +882,9 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
             self.assertEqual(restored["res_list"][0]["link"], fresh_link)
             self.assertEqual(quarantine["entries"], {})
             self.assertEqual(report["restored_movies"], 1)
+            self.assertEqual(report["restored_movie_details"][0]["movie"], "Example Movie")
+            self.assertEqual(report["restored_movie_details"][0]["category"], "Test")
+            self.assertEqual(report["restored_movie_details"][0]["validated_streams"], 1)
             self.assertIn(old_source, (category_dir / "history_skipped.txt").read_text(encoding="utf-8"))
 
 

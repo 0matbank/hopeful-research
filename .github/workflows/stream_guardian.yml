@@ -180,6 +180,17 @@ jobs:
           else:
               publish_text = f"Not executed ({publish_step_outcome or 'unknown'})"
 
+          verdict = report.get("final_verdict", {})
+          dead_count = int(verdict.get("dead_links_found", report.get("confirmed_dead", 0)))
+          repair_text = {
+              "not_needed": "NOT NEEDED - no confirmed-dead links were found",
+              "not_attempted_dry_run": "NOT ATTEMPTED - this was a dry-run",
+              "completed": "COMPLETED",
+              "attempted_no_catalogue_change": "ATTEMPTED - no validated catalogue change was produced",
+              "queued_for_later_run": "QUEUED - not selected in this run",
+          }.get(verdict.get("dead_link_repair"), verdict.get("dead_link_repair", "unknown"))
+          restore_count = int(verdict.get("quarantine_restores", report.get("restored_movies", 0)))
+
           lines = [
               "# Stream Guardian detailed result",
               "",
@@ -197,11 +208,29 @@ jobs:
               f"- Files changed by Guardian: **{len(report.get('changed_files', []))}**",
               f"- Publish result: **{publish_text}**",
               "",
+              "## Plain-language final verdict",
+              "",
+              f"- **Dead links found:** {'YES' if dead_count else 'NO'} ({dead_count})",
+              f"- **Dead-link repair:** {repair_text}",
+              f"- **Quarantine restore:** {'YES' if restore_count else 'NO'} ({restore_count})",
+              f"- **Category files changed:** {verdict.get('category_files_changed', 0)}",
+              f"- **State files changed:** {verdict.get('state_files_changed', 0)}",
+              f"- **GitHub push:** {publish_text}",
+          ]
+          for item in verdict.get("restored_movies", []):
+              lines.append(
+                  f"  - Restored `{item.get('movie', 'Unknown')}` to **{item.get('category', 'Unknown')}** "
+                  f"with {item.get('validated_streams', 0)} validated stream(s); "
+                  f"source `{item.get('source', '')}`"
+              )
+
+          lines.extend([
+              "",
               "## Category scan results",
               "",
               "| Category | Input JSON | Movies | Entries | Unique | Alive | Transient | Dead | Affected movies |",
               "|---|---|---:|---:|---:|---:|---:|---:|---:|",
-          ]
+          ])
           for item in report.get("category_results", []):
               scan_input = item.get("files", {}).get("scan_input", "unknown")
               lines.append(

@@ -584,6 +584,90 @@ def print_scan_results(category_results, dead_link_details):
         print("\nConfirmed-dead targets: none", flush=True)
 
 
+def build_final_verdict(report):
+    dead_count = int(report.get("confirmed_dead", 0))
+    if dead_count == 0:
+        dead_repair = "not_needed"
+    elif report.get("mode") == "dry_run":
+        dead_repair = "not_attempted_dry_run"
+    elif int(report.get("catalogue_updates", 0)) or int(report.get("dead_links_removed", 0)):
+        dead_repair = "completed"
+    elif int(report.get("repair_batch_selected", 0)):
+        dead_repair = "attempted_no_catalogue_change"
+    else:
+        dead_repair = "queued_for_later_run"
+
+    changed_files = report.get("changed_files", [])
+    category_files = [path for path in changed_files if path.startswith("categories/")]
+    state_files = [path for path in changed_files if path.startswith("history/")]
+    if report.get("mode") == "dry_run":
+        publish_handoff = "not_requested_dry_run"
+    elif changed_files:
+        publish_handoff = "pending_workflow_publish_step"
+    else:
+        publish_handoff = "not_needed_no_changes"
+
+    return {
+        "dead_links_found": dead_count,
+        "dead_link_repair": dead_repair,
+        "dead_repair_updates": int(report.get("catalogue_updates", 0)),
+        "dead_links_removed": int(report.get("dead_links_removed", 0)),
+        "quarantine_restores": int(report.get("restored_movies", 0)),
+        "restored_movies": list(report.get("restored_movie_details", [])),
+        "category_files_changed": len(category_files),
+        "state_files_changed": len(state_files),
+        "publish_handoff": publish_handoff,
+    }
+
+
+def print_final_verdict(report):
+    verdict = report["final_verdict"]
+    dead_count = verdict["dead_links_found"]
+    repair_labels = {
+        "not_needed": "NOT NEEDED - no confirmed-dead links were found",
+        "not_attempted_dry_run": "NOT ATTEMPTED - this was a dry-run",
+        "completed": "COMPLETED",
+        "attempted_no_catalogue_change": "ATTEMPTED - no validated catalogue change was produced",
+        "queued_for_later_run": "QUEUED - not selected in this run",
+    }
+    publish_labels = {
+        "not_requested_dry_run": "NOT REQUESTED - dry-run",
+        "pending_workflow_publish_step": "PENDING - see the Push Guardian Repairs step",
+        "not_needed_no_changes": "NOT NEEDED - no repository files changed",
+    }
+
+    print("\n" + "=" * 72, flush=True)
+    print("STREAM GUARDIAN - FINAL VERDICT", flush=True)
+    print("=" * 72, flush=True)
+    print(f"DEAD LINKS FOUND: {'YES' if dead_count else 'NO'} ({dead_count})", flush=True)
+    print(
+        f"DEAD-LINK REPAIR: {repair_labels.get(verdict['dead_link_repair'], verdict['dead_link_repair'])}",
+        flush=True,
+    )
+    restore_count = verdict["quarantine_restores"]
+    print(f"QUARANTINE RESTORE: {'YES' if restore_count else 'NO'} ({restore_count})", flush=True)
+    for item in verdict["restored_movies"]:
+        print(
+            f"  RESTORED [{item['category']}] '{item['movie']}' "
+            f"validated_streams={item['validated_streams']} source={item['source']}",
+            flush=True,
+        )
+    print(
+        f"CATEGORY FILES CHANGED: {'YES' if verdict['category_files_changed'] else 'NO'} "
+        f"({verdict['category_files_changed']})",
+        flush=True,
+    )
+    print(
+        f"STATE FILES CHANGED: {'YES' if verdict['state_files_changed'] else 'NO'} "
+        f"({verdict['state_files_changed']})",
+        flush=True,
+    )
+    print(
+        f"GITHUB PUSH: {publish_labels.get(verdict['publish_handoff'], verdict['publish_handoff'])}",
+        flush=True,
+    )
+
+
 def classify_probes(probes, previous_state, threshold=TRANSIENT_FAILURE_THRESHOLD):
     old_suspects = previous_state.get("suspects", {}) if isinstance(previous_state, dict) else {}
     suspects = dict(old_suspects)
@@ -734,6 +818,13 @@ async def restore_quarantined(quarantine, category_names, report):
                     remove_history_url(Path(config["dir"]) / "history_skipped.txt", repair_url)
                 quarantine["entries"].pop(key, None)
                 report["restored_movies"] += 1
+                report.setdefault("restored_movie_details", []).append({
+                    "category": category_name,
+                    "movie": restored_movie["name"],
+                    "year": restored_movie["year"],
+                    "source": scraper.diagnostic_url_label(restored_movie["source_url"]),
+                    "validated_streams": len(live_items),
+                })
                 changed = True
         finally:
             await browser.close()
@@ -843,6 +934,7 @@ async def run_guardian(category_names, apply_changes, report_path):
         "dead_links_removed": 0,
         "quarantined_movies": 0,
         "restored_movies": 0,
+        "restored_movie_details": [],
         "quarantine_retry_failed": 0,
         "circuit_breaker": False,
         "repair_contract": "confirmed_dead_only",
@@ -1113,22 +1205,12 @@ async def run_guardian(category_names, apply_changes, report_path):
         for path in set(tracked_before) | set(tracked_after)
         if tracked_before.get(path) != tracked_after.get(path)
     )
-    print("\n" + "=" * 72, flush=True)
-    print("STREAM GUARDIAN - MUTATION HANDOFF", flush=True)
-    print(f"Mode: {report['mode']}", flush=True)
-    print(f"State change required: {report['state_change_required']}", flush=True)
-    print(f"State saved: {report['state_saved']}", flush=True)
+    report["final_verdict"] = build_final_verdict(report)
+    print_final_verdict(report)
     if report["changed_files"]:
         print("Files changed by Guardian:", flush=True)
         for path in report["changed_files"]:
             print(f"  CHANGED: {path}", flush=True)
-        print("Publish result: pending workflow publish step", flush=True)
-    elif apply_changes:
-        print("Files changed by Guardian: none", flush=True)
-        print("Publish result: no repository changes to push", flush=True)
-    else:
-        print("Files changed by Guardian: none (dry-run never writes catalogue/state)", flush=True)
-        print("Publish result: not requested for dry-run", flush=True)
 
     report["completed_at"] = utc_iso()
     atomic_write_json(report_path, report)
