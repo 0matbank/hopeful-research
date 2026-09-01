@@ -32,6 +32,26 @@
       "next_retry_at": "2026-08-31T13:12:52.179934+00:00",
       "last_outcome": "no_additional_distinct_media"
     },
+    "telugumovies::https://cinefreak.net/oh-baby-2019-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/oh-baby-2019-full-movie-download",
+      "advertised_count": 3,
+      "stored_count": 1,
+      "attempt_count": 1,
+      "last_attempt": "2026-09-01T01:26:22.145803+00:00",
+      "next_retry_at": "2026-09-01T07:26:22.145803+00:00",
+      "last_outcome": "no_additional_distinct_media"
+    },
+    "telugumovies::https://cinefreak.net/nawab-cafe-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/nawab-cafe-2026-full-movie-download",
+      "advertised_count": 2,
+      "stored_count": 1,
+      "attempt_count": 1,
+      "last_attempt": "2026-09-01T01:26:22.145836+00:00",
+      "next_retry_at": "2026-09-01T07:26:22.145836+00:00",
+      "last_outcome": "no_additional_distinct_media"
+    },
     "telugumovies::https://cinefreak.net/gaayapadda-simham-2026-full-movie-download": {
       "category": "Telugu Movies",
       "source_url": "https://cinefreak.net/gaayapadda-simham-2026-full-movie-download",
@@ -94,28 +114,6 @@
     }
   },
   "repair_queue": {
-    "telugumovies::https://cinefreak.net/nawab-cafe-2026-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/nawab-cafe-2026-full-movie-download",
-      "kind": "refresh",
-      "expected_count": 2,
-      "dead_links": [],
-      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/m4m-motive-for-murder-2026-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/m4m-motive-for-murder-2026-full-movie-download",
-      "kind": "refresh",
-      "expected_count": 3,
-      "dead_links": [],
-      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
     "telugumovies::https://cinefreak.net/tuck-jagadish-2021-full-movie-download": {
       "category": "Telugu Movies",
       "source_url": "https://cinefreak.net/tuck-jagadish-2021-full-movie-download",
@@ -123,18 +121,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T07:21:04.884889+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/oh-baby-2019-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/oh-baby-2019-full-movie-download",
-      "kind": "refresh",
-      "expected_count": 3,
-      "dead_links": [],
-      "discovered_at": "2026-08-31T07:21:04.884889+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -145,7 +132,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T14:48:17.747951+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -156,7 +143,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T14:48:17.747951+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -167,7 +154,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T14:48:17.747951+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -178,7 +165,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T14:48:17.747951+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -189,7 +176,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T14:48:17.747951+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -200,7 +187,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -211,7 +198,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -222,7 +209,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -233,7 +220,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -244,7 +231,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -255,7 +242,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -266,7 +253,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -277,7 +264,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -288,7 +275,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -299,7 +286,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -310,7 +297,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -321,7 +308,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -332,7 +319,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -343,7 +330,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -354,7 +341,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -365,7 +352,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -376,7 +363,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -387,7 +374,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -398,7 +385,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -409,7 +396,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -420,7 +407,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -431,7 +418,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -442,7 +429,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -453,7 +440,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -464,7 +451,7 @@
       "expected_count": 14,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -475,7 +462,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -486,7 +473,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -497,7 +484,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -508,7 +495,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -519,7 +506,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -530,7 +517,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -541,7 +528,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -552,7 +539,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -563,7 +550,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -574,7 +561,7 @@
       "expected_count": 9,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -585,7 +572,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -596,7 +583,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -607,7 +594,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -618,7 +605,7 @@
       "expected_count": 10,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -629,7 +616,7 @@
       "expected_count": 6,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -640,7 +627,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -651,7 +638,7 @@
       "expected_count": 18,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -662,7 +649,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -673,7 +660,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -684,7 +671,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -695,7 +682,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -706,7 +693,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -717,7 +704,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -728,7 +715,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -739,7 +726,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -750,7 +737,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -761,7 +748,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -772,7 +759,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -783,7 +770,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -794,7 +781,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -805,7 +792,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -816,7 +803,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -827,7 +814,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -838,7 +825,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -849,7 +836,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -860,7 +847,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -871,7 +858,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -882,7 +869,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -893,7 +880,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -904,7 +891,7 @@
       "expected_count": 11,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -915,7 +902,7 @@
       "expected_count": 22,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -926,7 +913,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -937,7 +924,7 @@
       "expected_count": 2,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -948,7 +935,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -959,7 +946,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T16:13:17.973319+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -970,7 +957,7 @@
       "expected_count": 3,
       "dead_links": [],
       "discovered_at": "2026-08-31T21:30:46.618623+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -981,7 +968,7 @@
       "expected_count": 4,
       "dead_links": [],
       "discovered_at": "2026-08-31T21:30:46.618623+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -992,10 +979,43 @@
       "expected_count": 22,
       "dead_links": [],
       "discovered_at": "2026-08-31T21:30:46.618623+00:00",
-      "last_seen": "2026-08-31T21:30:46.618623+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/biker-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/biker-2026-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 4,
+      "dead_links": [],
+      "discovered_at": "2026-09-01T01:20:21.804386+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/bluff-master-2018-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/bluff-master-2018-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 2,
+      "dead_links": [],
+      "discovered_at": "2026-09-01T01:20:21.804386+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/brindavanam-2010-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/brindavanam-2010-full-movie-download",
+      "kind": "refresh",
+      "expected_count": 3,
+      "dead_links": [],
+      "discovered_at": "2026-09-01T01:20:21.804386+00:00",
+      "last_seen": "2026-09-01T01:20:21.804386+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     }
   },
-  "updated_at": "2026-08-31T21:38:24.604283+00:00"
+  "updated_at": "2026-09-01T01:26:22.150348+00:00"
 }

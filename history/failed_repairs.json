@@ -118,13 +118,6 @@
     "last_attempt": "2026-08-30T14:36:25.035357+00:00",
     "attempt_count": 1
   },
-  "telugumovies::nawabcafe": {
-    "name": "Nawab Cafe",
-    "category": "Telugu Movies",
-    "dead_links": [],
-    "last_attempt": "2026-08-30T19:48:42.689236+00:00",
-    "attempt_count": 3
-  },
   "banglamovies::bhaggyolokkhi": {
     "name": "Bhaggyo Lokkhi",
     "category": "Bangla Movies",
