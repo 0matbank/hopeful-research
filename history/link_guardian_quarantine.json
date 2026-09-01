@@ -1,40 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "hindimovies::https://cinefreak.net/dug-dug-2026-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/dug-dug-2026-full-movie-download",
-      "movie": {
-        "name": "Dug Dug",
-        "category": "Hindi Movies",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoSI35FT7LcyKENDHYR5OB2iqUD.jpg",
-        "source_url": "https://cinefreak.net/dug-dug-2026-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-          },
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-          },
-          {
-            "resolution": "4K 2160P HEVC",
-            "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
-        "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
-        "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Dug%20Dug%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-      ],
-      "quarantined_at": "2026-08-30T13:39:41.837699+00:00",
-      "last_attempt": "2026-08-31T14:49:40.209227+00:00",
-      "next_retry_at": "2026-09-01T02:49:40.209243+00:00",
-      "attempt_count": 2
-    },
     "hindimovies::https://cinefreak.net/jogi-2022-full-movie-download": {
       "category": "Hindi Movies",
       "source_url": "https://cinefreak.net/jogi-2022-full-movie-download",
@@ -171,5 +137,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-01T01:26:22.151553+00:00"
+  "updated_at": "2026-09-01T05:47:23.580739+00:00"
 }

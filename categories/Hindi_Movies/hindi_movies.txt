@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Movies
-TOTAL MOVIES: 66
-LAST UPDATED: 2026-08-30 | 18:57:18 (UTC)
+TOTAL MOVIES: 67
+LAST UPDATED: 2026-09-01 | 05:47:23 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -629,6 +629,17 @@ Episode: Episode 05-08
 ================================================================================
 
 Movie-42
+Movie name: Dug Dug
+Category: Hindi Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoSI35FT7LcyKENDHYR5OB2iqUD.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4
+
+================================================================================
+
+Movie-43
 Movie name: The Murder Files
 Category: Hindi Movies
 Year: 2025
@@ -639,7 +650,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-44
 Movie name: Navras Katha Collage
 Category: Hindi Movies
 Year: 2024
@@ -650,7 +661,7 @@ STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-45
 Movie name: The Birthday Boy
 Category: Hindi Movies
 Year: 2024
@@ -661,7 +672,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-46
 Movie name: Aliya Basu Gayab Hai
 Category: Hindi Movies
 Year: 2024
@@ -672,7 +683,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
+Movie-47
 Movie name: Khufiya
 Category: Hindi Movies
 Year: 2023
@@ -692,7 +703,7 @@ STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-48
 Movie name: Jaane Jaan
 Category: Hindi Movies
 Year: 2023
@@ -709,7 +720,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-49
 Movie name: Ishq-e-Nadaan
 Category: Hindi Movies
 Year: 2023
@@ -720,7 +731,7 @@ STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-50
 Movie name: Tiku Weds Sheru
 Category: Hindi Movies
 Year: 2023
@@ -734,7 +745,7 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
+Movie-51
 Movie name: Satyaprem Ki Katha
 Category: Hindi Movies
 Year: 2023
@@ -748,7 +759,7 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-52
 Movie name: Sirf Ek Bandaa Kaafi Hai
 Category: Hindi Movies
 Year: 2023
@@ -759,7 +770,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-52
+Movie-53
 Movie name: Mujib: The Making Of A Nation
 Category: Hindi Movies
 Year: 2023
@@ -770,7 +781,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-54
 Movie name: 1920 Horrors of the Heart
 Category: Hindi Movies
 Year: 2023
@@ -781,7 +792,7 @@ STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-54
+Movie-55
 Movie name: 420 IPC
 Category: Hindi Movies
 Year: 2021
@@ -792,7 +803,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
+Movie-56
 Movie name: Kadakh
 Category: Hindi Movies
 Year: 2019
@@ -803,7 +814,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-56
+Movie-57
 Movie name: 1921
 Category: Hindi Movies
 Year: 2018
@@ -814,7 +825,7 @@ STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-57
+Movie-58
 Movie name: Fever
 Category: Hindi Movies
 Year: 2016
@@ -828,7 +839,7 @@ STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-58
+Movie-59
 Movie name: 1920 London
 Category: Hindi Movies
 Year: 2016
@@ -839,7 +850,7 @@ STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-59
+Movie-60
 Movie name: Badlapur
 Category: Hindi Movies
 Year: 2015
@@ -850,7 +861,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-60
+Movie-61
 Movie name: Arjun: The Warrior Prince
 Category: Hindi Movies
 Year: 2012
@@ -861,7 +872,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-61
+Movie-62
 Movie name: Cocktail
 Category: Hindi Movies
 Year: 2012
@@ -878,7 +889,7 @@ STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-62
+Movie-63
 Movie name: 1920 Evil Returns
 Category: Hindi Movies
 Year: 2012
@@ -889,7 +900,7 @@ STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-64
 Movie name: Saheb Biwi Aur Gangster
 Category: Hindi Movies
 Year: 2011
@@ -900,7 +911,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
+Movie-65
 Movie name: Udaan
 Category: Hindi Movies
 Year: 2010
@@ -911,7 +922,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-65
+Movie-66
 Movie name: A Wednesday!
 Category: Hindi Movies
 Year: 2008
@@ -922,7 +933,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-67
 Movie name: 1920
 Category: Hindi Movies
 Year: 2008
