@@ -11,6 +11,59 @@ import stream_guardian
 
 
 class StreamProbeTests(unittest.TestCase):
+    def test_category_scan_results_include_files_and_per_category_health(self):
+        alive_url = "https://cdn.example.com/alive.mkv"
+        dead_url = "https://cdn.example.com/dead.mkv"
+        config = {
+            "dir": "categories/Test",
+            "file": "categories/Test/movies.txt",
+            "json": "categories/Test/movies.json",
+            "m3u": "categories/Test/movies.m3u",
+            "slug": "test",
+        }
+        catalog = {
+            "Test": {
+                "config": config,
+                "movies": [{
+                    "name": "Example Movie",
+                    "source_url": "https://example.com/movie",
+                    "res_list": [
+                        {"link": alive_url},
+                        {"link": dead_url},
+                    ],
+                }],
+            }
+        }
+        probes = {
+            alive_url: stream_guardian.ProbeResult(alive_url, "alive", "media_bytes_ok", 206),
+            dead_url: stream_guardian.ProbeResult(dead_url, "dead", "http_404", 404),
+        }
+
+        results = stream_guardian.build_category_scan_results(
+            catalog,
+            probes,
+            {dead_url: "http_404"},
+        )
+        details = stream_guardian.build_dead_link_details(
+            {dead_url: "http_404"},
+            probes,
+            {
+                dead_url: [{
+                    "category": "Test",
+                    "movie_name": "Example Movie",
+                    "source_url": "https://example.com/movie",
+                }]
+            },
+        )
+
+        self.assertEqual(results[0]["files"]["scan_input"], "categories/Test/movies.json")
+        self.assertEqual(results[0]["alive"], 1)
+        self.assertEqual(results[0]["confirmed_dead"], 1)
+        self.assertEqual(results[0]["affected_movies"], 1)
+        self.assertEqual(details[0]["category"], "Test")
+        self.assertEqual(details[0]["reason"], "http_404")
+        self.assertNotIn(dead_url, json.dumps(details))
+
     def test_dead_link_batch_is_capped_at_fifteen_and_excludes_refresh_work(self):
         queue = {
             "test::one": {
@@ -306,6 +359,11 @@ class GuardianIntegrationTests(unittest.IsolatedAsyncioTestCase):
             self.assertEqual(report["movies"], expected_movies)
             self.assertEqual(report["stream_entries"], expected_stream_entries)
             self.assertEqual(report["alive"], report["unique_streams"])
+            self.assertEqual(len(report["category_results"]), len(main_scraper.CATEGORIES_LIST))
+            self.assertEqual(len(report["scanned_files"]), len(main_scraper.CATEGORIES_LIST))
+            self.assertTrue(all(path.endswith(".json") for path in report["scanned_files"]))
+            self.assertEqual(report["changed_files"], [])
+            self.assertFalse(report["state_saved"])
             self.assertFalse(state_path.exists())
             self.assertFalse(quarantine_path.exists())
 

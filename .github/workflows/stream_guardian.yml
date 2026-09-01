@@ -110,19 +110,28 @@ jobs:
           retention-days: 14
 
       - name: 📤 Push Guardian Repairs
+        id: guardian_publish
         if: always() && (github.event_name == 'schedule' || github.event.inputs.guardian_mode == 'APPLY')
         run: |
+          echo "status=started" >> "$GITHUB_OUTPUT"
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add categories/ history/
+          echo "::group::Guardian files prepared for publication"
+          git diff --staged --name-status
+          echo "::endgroup::"
           if git diff --staged --quiet; then
             echo "No catalogue/state change; nothing to commit or push."
+            echo "status=no_changes" >> "$GITHUB_OUTPUT"
+            echo "commit_sha=" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           REMOTE_HEAD="$(git ls-remote origin refs/heads/main | cut -f1)"
           CHECKED_OUT_HEAD="$(git rev-parse HEAD)"
           if [ "$REMOTE_HEAD" != "$CHECKED_OUT_HEAD" ]; then
             echo "::warning::Remote main changed during this run; skipping stale Guardian push safely."
+            echo "status=skipped_remote_changed" >> "$GITHUB_OUTPUT"
+            echo "commit_sha=" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           if git diff --staged --quiet -- categories/; then
@@ -132,6 +141,113 @@ jobs:
           fi
           git commit -m "$COMMIT_MESSAGE"
           git push
+          PUSHED_SHA="$(git rev-parse HEAD)"
+          echo "Guardian publication pushed successfully: $PUSHED_SHA"
+          echo "status=pushed" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=$PUSHED_SHA" >> "$GITHUB_OUTPUT"
+          echo "commit_message=$COMMIT_MESSAGE" >> "$GITHUB_OUTPUT"
+
+      - name: 🧾 Guardian Detailed Run Summary
+        if: always()
+        env:
+          RUN_EVENT: ${{ github.event_name }}
+          AUDIT_OUTCOME: ${{ steps.guardian_repair.outcome }}
+          PUBLISH_STEP_OUTCOME: ${{ steps.guardian_publish.outcome }}
+          PUBLISH_STATUS: ${{ steps.guardian_publish.outputs.status }}
+          PUBLISH_COMMIT: ${{ steps.guardian_publish.outputs.commit_sha }}
+          PUBLISH_MESSAGE: ${{ steps.guardian_publish.outputs.commit_message }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          report_path = Path("guardian-report.json")
+          report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.exists() else {}
+          mode = report.get("mode", "unknown")
+          publish_status = os.environ.get("PUBLISH_STATUS", "")
+          publish_step_outcome = os.environ.get("PUBLISH_STEP_OUTCOME", "")
+          if mode == "dry_run":
+              publish_text = "Not requested: push-triggered/manual dry-run"
+          elif publish_status == "pushed":
+              publish_text = f"Pushed successfully: {os.environ.get('PUBLISH_COMMIT', '')}"
+          elif publish_status == "no_changes":
+              publish_text = "No catalogue/state changes; nothing to push"
+          elif publish_status == "skipped_remote_changed":
+              publish_text = "Skipped safely because remote main changed during the run"
+          elif publish_step_outcome == "failure":
+              publish_text = "Push step failed; inspect the publish step logs"
+          else:
+              publish_text = f"Not executed ({publish_step_outcome or 'unknown'})"
+
+          lines = [
+              "# Stream Guardian detailed result",
+              "",
+              f"- Mode: `{mode}`",
+              f"- Audit outcome: `{os.environ.get('AUDIT_OUTCOME', 'unknown')}`",
+              f"- Repair contract: `{report.get('repair_contract', 'unknown')}`",
+              f"- Movies: **{report.get('movies', 0)}**",
+              f"- Stream entries: **{report.get('stream_entries', 0)}**",
+              f"- Unique streams: **{report.get('unique_streams', 0)}**",
+              f"- Alive: **{report.get('alive', 0)}**",
+              f"- Transient: **{report.get('transient', 0)}**",
+              f"- Confirmed dead: **{report.get('confirmed_dead', 0)}**",
+              f"- Affected movies: **{report.get('affected_movies', 0)}**",
+              f"- Catalogue updates: **{report.get('catalogue_updates', 0)}**",
+              f"- Files changed by Guardian: **{len(report.get('changed_files', []))}**",
+              f"- Publish result: **{publish_text}**",
+              "",
+              "## Category scan results",
+              "",
+              "| Category | Input JSON | Movies | Entries | Unique | Alive | Transient | Dead | Affected movies |",
+              "|---|---|---:|---:|---:|---:|---:|---:|---:|",
+          ]
+          for item in report.get("category_results", []):
+              scan_input = item.get("files", {}).get("scan_input", "unknown")
+              lines.append(
+                  f"| {item.get('category', 'Unknown')} | `{scan_input}` | "
+                  f"{item.get('movies', 0)} | {item.get('stream_entries', 0)} | "
+                  f"{item.get('unique_streams', 0)} | {item.get('alive', 0)} | "
+                  f"{item.get('transient', 0)} | {item.get('confirmed_dead', 0)} | "
+                  f"{item.get('affected_movies', 0)} |"
+              )
+
+          lines.extend(["", "## Files", "", "### Network-probed catalogue inputs", ""])
+          lines.extend(f"- `{path}`" for path in report.get("scanned_files", []))
+          lines.extend(["", "### Synchronized publication outputs", ""])
+          lines.extend(f"- `{path}`" for path in report.get("publication_files", []))
+
+          dead_details = report.get("dead_link_details", [])
+          lines.extend(["", "## Confirmed-dead details", ""])
+          if dead_details:
+              lines.extend([
+                  "| Category | Movie | Source | Stream | Reason | HTTP |",
+                  "|---|---|---|---|---|---:|",
+              ])
+              for item in dead_details[:50]:
+                  lines.append(
+                      f"| {item.get('category', 'Unknown')} | {item.get('movie', 'Unknown')} | "
+                      f"`{item.get('source', '')}` | `{item.get('stream', '')}` | "
+                      f"{item.get('reason', '')} | {item.get('http_status', 0)} |"
+                  )
+              if len(dead_details) > 50:
+                  lines.append(f"\n{len(dead_details) - 50} more dead-link owner rows are in the report artifact.")
+          else:
+              lines.append("None.")
+
+          lines.extend(["", "## Changed files and publication", ""])
+          changed_files = report.get("changed_files", [])
+          if changed_files:
+              lines.extend(f"- `{path}`" for path in changed_files)
+          else:
+              lines.append("- No category/state files changed by Guardian.")
+          lines.append(f"- **Publish result:** {publish_text}")
+
+          summary = "\n".join(lines) + "\n"
+          print(summary)
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as output:
+              output.write(summary)
+          PY
 
       - name: Propagate Guardian Failure After Saving Repairs
         if: always() && steps.guardian_repair.outcome == 'failure'

@@ -2,6 +2,7 @@
 
 import argparse
 import asyncio
+import hashlib
 import html
 import json
 import os
@@ -69,6 +70,61 @@ def atomic_write_json(path, payload):
 def load_category_movies(config):
     payload = load_json(ROOT / config["json"], {})
     return payload.get("movies", []) if isinstance(payload, dict) else []
+
+
+def display_path(path):
+    """Use repository-relative POSIX paths in reports when possible."""
+    resolved = Path(path)
+    if not resolved.is_absolute():
+        resolved = ROOT / resolved
+    try:
+        return resolved.resolve().relative_to(ROOT.resolve()).as_posix()
+    except ValueError:
+        return resolved.as_posix()
+
+
+def category_file_inventory(config):
+    category_dir = Path(config["dir"])
+    return {
+        "scan_input": display_path(config["json"]),
+        "publication_outputs": [
+            display_path(config["file"]),
+            display_path(config["m3u"]),
+            display_path(category_dir / "history.txt"),
+        ],
+    }
+
+
+def tracked_repository_files(category_names):
+    paths = {STATE_FILE, QUARANTINE_FILE}
+    for category_name in category_names:
+        config = scraper.CATEGORIES_MAP[category_name]
+        category_dir = Path(config["dir"])
+        paths.update({
+            Path(config["json"]),
+            Path(config["file"]),
+            Path(config["m3u"]),
+            category_dir / "history.txt",
+            category_dir / "history_skipped.txt",
+        })
+    return {
+        display_path(path): path if path.is_absolute() else ROOT / path
+        for path in paths
+    }
+
+
+def file_fingerprint(path):
+    try:
+        return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+    except OSError:
+        return None
+
+
+def snapshot_tracked_files(category_names):
+    return {
+        label: file_fingerprint(path)
+        for label, path in tracked_repository_files(category_names).items()
+    }
 
 
 def probe_stream_once(url):
@@ -434,6 +490,100 @@ def build_catalog(category_names):
     return catalog, owners
 
 
+def build_category_scan_results(catalog, probes, confirmed):
+    results = []
+    for category_name, data in catalog.items():
+        links = list(dict.fromkeys(
+            item.get("link", "")
+            for movie in data["movies"]
+            for item in movie.get("res_list", [])
+            if item.get("link")
+        ))
+        affected_movies = sum(
+            any(item.get("link", "") in confirmed for item in movie.get("res_list", []))
+            for movie in data["movies"]
+        )
+        results.append({
+            "category": category_name,
+            "files": category_file_inventory(data["config"]),
+            "movies": len(data["movies"]),
+            "stream_entries": sum(len(movie.get("res_list", [])) for movie in data["movies"]),
+            "unique_streams": len(links),
+            "alive": sum(probes.get(link, ProbeResult(link, "transient", "missing")).status == "alive" for link in links),
+            "transient": sum(probes.get(link, ProbeResult(link, "transient", "missing")).status == "transient" for link in links),
+            "confirmed_dead": sum(link in confirmed for link in links),
+            "affected_movies": affected_movies,
+        })
+    return results
+
+
+def build_dead_link_details(confirmed, probes, owners):
+    details = []
+    for link, confirmed_reason in confirmed.items():
+        probe = probes.get(link, ProbeResult(link, "dead", confirmed_reason))
+        link_owners = owners.get(link, []) or [{}]
+        for owner in link_owners:
+            details.append({
+                "category": owner.get("category", "Unknown"),
+                "movie": owner.get("movie_name", "Unknown"),
+                "source": scraper.diagnostic_url_label(owner.get("source_url", "")),
+                "stream": scraper.diagnostic_url_label(link, stream=True),
+                "probe_status": probe.status,
+                "reason": confirmed_reason,
+                "http_status": probe.http_status,
+            })
+    return details
+
+
+def print_scan_plan(category_results, mode):
+    print("\n" + "=" * 72, flush=True)
+    print("STREAM GUARDIAN - DETAILED SCAN PLAN", flush=True)
+    print(f"Mode: {mode} | Contract: confirmed_dead_only", flush=True)
+    print(
+        "Scope: JSON-published stream links are network-probed; TXT/M3U/history "
+        "are synchronized publication outputs.",
+        flush=True,
+    )
+    print("=" * 72, flush=True)
+    for index, result in enumerate(category_results, 1):
+        files = result["files"]
+        print(
+            f"[{index}/{len(category_results)}] {result['category']} | "
+            f"movies={result['movies']} stream_entries={result['stream_entries']} "
+            f"unique_streams={result['unique_streams']}",
+            flush=True,
+        )
+        print(f"    SCAN INPUT: {files['scan_input']}", flush=True)
+        print(f"    PUBLICATION OUTPUTS: {', '.join(files['publication_outputs'])}", flush=True)
+    print("\nStarting playable-media network probes...", flush=True)
+
+
+def print_scan_results(category_results, dead_link_details):
+    print("\n" + "=" * 72, flush=True)
+    print("STREAM GUARDIAN - CATEGORY RESULTS", flush=True)
+    print("=" * 72, flush=True)
+    for result in category_results:
+        print(
+            f"[{result['category']}] movies={result['movies']} "
+            f"entries={result['stream_entries']} unique={result['unique_streams']} "
+            f"alive={result['alive']} transient={result['transient']} "
+            f"confirmed_dead={result['confirmed_dead']} "
+            f"affected_movies={result['affected_movies']}",
+            flush=True,
+        )
+    if dead_link_details:
+        print("\nConfirmed-dead targets:", flush=True)
+        for detail in dead_link_details:
+            print(
+                f"  DEAD [{detail['category']}] movie='{detail['movie']}' "
+                f"source={detail['source']} stream={detail['stream']} "
+                f"reason={detail['reason']} http={detail['http_status']}",
+                flush=True,
+            )
+    else:
+        print("\nConfirmed-dead targets: none", flush=True)
+
+
 def classify_probes(probes, previous_state, threshold=TRANSIENT_FAILURE_THRESHOLD):
     old_suspects = previous_state.get("suspects", {}) if isinstance(previous_state, dict) else {}
     suspects = dict(old_suspects)
@@ -696,7 +846,15 @@ async def run_guardian(category_names, apply_changes, report_path):
         "quarantine_retry_failed": 0,
         "circuit_breaker": False,
         "repair_contract": "confirmed_dead_only",
+        "scanned_files": [],
+        "publication_files": [],
+        "category_results": [],
+        "dead_link_details": [],
+        "changed_files": [],
+        "state_change_required": False,
+        "state_saved": False,
     }
+    tracked_before = snapshot_tracked_files(category_names)
     quarantine = load_json(QUARANTINE_FILE, {"version": 1, "entries": {}})
     quarantine_before = json.dumps(quarantine, sort_keys=True)
 
@@ -708,6 +866,16 @@ async def run_guardian(category_names, apply_changes, report_path):
         for movie in data["movies"]
     )
     report["unique_streams"] = len(owners)
+    scan_plan = build_category_scan_results(catalog, {}, {})
+    report["scanned_files"] = [
+        result["files"]["scan_input"] for result in scan_plan
+    ]
+    report["publication_files"] = [
+        path
+        for result in scan_plan
+        for path in result["files"]["publication_outputs"]
+    ]
+    print_scan_plan(scan_plan, report["mode"])
     probes = await asyncio.to_thread(probe_many, owners)
     report["alive"] = sum(result.status == "alive" for result in probes.values())
     report["transient"] = sum(result.status == "transient" for result in probes.values())
@@ -722,6 +890,9 @@ async def run_guardian(category_names, apply_changes, report_path):
         if url in owners:
             value["categories"] = sorted({owner["category"] for owner in owners[url]})
     report["confirmed_dead"] = len(confirmed)
+    report["category_results"] = build_category_scan_results(catalog, probes, confirmed)
+    report["dead_link_details"] = build_dead_link_details(confirmed, probes, owners)
+    print_scan_results(report["category_results"], report["dead_link_details"])
 
     affected_sources = {}
     affected_dead_links = {}
@@ -926,13 +1097,38 @@ async def run_guardian(category_names, apply_changes, report_path):
         or repair_queue != old_repair_queue
         or int(previous_state.get("version", 1)) != 3
     )
+    report["state_change_required"] = state_changed
     if apply_changes and state_changed:
         state_payload["updated_at"] = utc_iso()
         atomic_write_json(STATE_FILE, state_payload)
+        report["state_saved"] = True
 
     if apply_changes and json.dumps(quarantine, sort_keys=True) != quarantine_before:
         quarantine["updated_at"] = utc_iso()
         atomic_write_json(QUARANTINE_FILE, quarantine)
+
+    tracked_after = snapshot_tracked_files(category_names)
+    report["changed_files"] = sorted(
+        path
+        for path in set(tracked_before) | set(tracked_after)
+        if tracked_before.get(path) != tracked_after.get(path)
+    )
+    print("\n" + "=" * 72, flush=True)
+    print("STREAM GUARDIAN - MUTATION HANDOFF", flush=True)
+    print(f"Mode: {report['mode']}", flush=True)
+    print(f"State change required: {report['state_change_required']}", flush=True)
+    print(f"State saved: {report['state_saved']}", flush=True)
+    if report["changed_files"]:
+        print("Files changed by Guardian:", flush=True)
+        for path in report["changed_files"]:
+            print(f"  CHANGED: {path}", flush=True)
+        print("Publish result: pending workflow publish step", flush=True)
+    elif apply_changes:
+        print("Files changed by Guardian: none", flush=True)
+        print("Publish result: no repository changes to push", flush=True)
+    else:
+        print("Files changed by Guardian: none (dry-run never writes catalogue/state)", flush=True)
+        print("Publish result: not requested for dry-run", flush=True)
 
     report["completed_at"] = utc_iso()
     atomic_write_json(report_path, report)
