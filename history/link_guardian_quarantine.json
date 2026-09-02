@@ -132,10 +132,10 @@
         "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
       ],
       "quarantined_at": "2026-08-30T18:21:48.581826+00:00",
-      "last_attempt": "2026-08-30T18:21:48.581826+00:00",
-      "next_retry_at": "2026-08-31T00:21:48.581826+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-02T00:19:44.607478+00:00",
+      "next_retry_at": "2026-09-02T12:19:44.607500+00:00",
+      "attempt_count": 2
     }
   },
-  "updated_at": "2026-09-01T21:05:55.750615+00:00"
+  "updated_at": "2026-09-02T00:19:44.649424+00:00"
 }
