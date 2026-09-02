@@ -50,9 +50,9 @@
         "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.756402+00:00",
-      "last_attempt": "2026-09-01T13:33:31.824935+00:00",
-      "next_retry_at": "2026-09-02T13:33:31.824958+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-09-02T16:39:19.411306+00:00",
+      "next_retry_at": "2026-09-04T16:39:19.411321+00:00",
+      "attempt_count": 4
     },
     "kannadamovies::https://cinefreak.net/hero-2021-full-movie-download": {
       "category": "Kannada Movies",
@@ -137,5 +137,5 @@
       "attempt_count": 2
     }
   },
-  "updated_at": "2026-09-02T11:24:49.892315+00:00"
+  "updated_at": "2026-09-02T16:39:19.460093+00:00"
 }
