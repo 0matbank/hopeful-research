@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 47,
-    "last_updated": "2026-09-02 | 01:46:19 (UTC)",
+    "total_movies": 52,
+    "last_updated": "2026-09-02 | 15:35:15 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -585,6 +585,36 @@
       ]
     },
     {
+      "name": "Vishnu Vinyasam",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKYnjoPahCSo9KJV1c5yORbthCF.jpg",
+      "source_url": "https://cinefreak.net/vishnu-vinyasam-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Vishnu%20Vinyasam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Vishnu%20Vinyasam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chatha Pacha: The Ring Of Rowdies",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a41fqMDWRcZcDqidGcq10xmRoh.jpg",
+      "source_url": "https://cinefreak.net/chatha-pacha-the-ring-of-rowdies-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chatha%20Pacha%20The%20Ring%20of%20Rowdies%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -725,6 +755,19 @@
       ]
     },
     {
+      "name": "Secret",
+      "category": "Malayalam Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDv1DD8Ux8eO8rhdTXVOciC6QwK.jpg",
+      "source_url": "https://cinefreak.net/secret-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Secret%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Christy",
       "category": "Malayalam Movies",
       "year": "2023",
@@ -856,6 +899,44 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Journey%20Of%20Love%2018%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SonyLiv%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "RDX: Robert Dony Xavier",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvPPKLTo8H1iA3mB7sgGYcvGiQq.jpg",
+      "source_url": "https://cinefreak.net/rdx-robert-dony-xavier-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Christopher",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhVDopMAb2vA0L93zDZlDWg4FgX.jpg",
+      "source_url": "https://cinefreak.net/christopher-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Christopher%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
         }
       ]
     },
