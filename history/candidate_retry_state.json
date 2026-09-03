@@ -175,6 +175,12 @@
         "last_failed_at": "2026-09-02T15:35:15.171437+00:00",
         "retry_after_epoch": 1788406515,
         "retry_after": "2026-09-03T03:35:15.171437+00:00"
+      },
+      "https://cinefreak.net/muddy-2021-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-03T01:52:34.674751+00:00",
+        "retry_after_epoch": 1788443554,
+        "retry_after": "2026-09-03T13:52:34.674751+00:00"
       }
     }
   }
