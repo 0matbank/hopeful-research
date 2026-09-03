@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 81,
-    "last_updated": "2026-08-31 | 06:50:43 (UTC)",
+    "total_movies": 90,
+    "last_updated": "2026-09-03 | 15:59:53 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -791,6 +791,58 @@
       ]
     },
     {
+      "name": "Sada Golap",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/12/Sada-Golap-2025.webp",
+      "source_url": "https://cinefreak.net/sada-golap-2025-bengali-web-dl-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sada%20Golap%20%282025%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Omimangshito",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8DsTUtmn7fVmx5tZihoOacZGMv.jpg",
+      "source_url": "https://cinefreak.net/omimangshito-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Omimangshito%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Noor",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7gFPM1MYocN4NZ6fmGS1MP9v6j.jpg",
+      "source_url": "https://cinefreak.net/noor-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-bioscopeplus-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Noor%20%282025%29%20WEB-DL%20%5BBengali%5D%20BioscopePlus%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dimlight",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sQiIcEgT0Ey4wg6PO0Wc5duZ0E.jpg",
+      "source_url": "https://cinefreak.net/dimlight-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Dimlight%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Abigail",
       "category": "Bangla Movies",
       "year": "2024",
@@ -856,6 +908,32 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Saba",
+      "category": "Bangla Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipsGdGphf6SPp3dRcsCnspQRbqU.jpg",
+      "source_url": "https://cinefreak.net/saba-2024-bengali-web-dl-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Saba%20%282024%29%20WEB-DL%20%5BBengali%5D%20HC%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aranyar Prachin Probad",
+      "category": "Bangla Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pusGs1xtqN6du26hC0fFavF22Qy.jpg",
+      "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
         }
       ]
     },
@@ -977,6 +1055,19 @@
       ]
     },
     {
+      "name": "Kakababur Protyaborton",
+      "category": "Bangla Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4UL1SqkFUMK3Kgx0cCNHUrswqb.jpg",
+      "source_url": "https://cinefreak.net/kakababur-protyaborton-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Brombhodoityo",
       "category": "Bangla Movies",
       "year": "2020",
@@ -999,6 +1090,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Cat%20Sticks%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Shudhu Tomakaye Chai",
+      "category": "Bangla Movies",
+      "year": "2019",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/12/Shudhu-Tomakaye-Chai-2019.jpg",
+      "source_url": "https://cinefreak.net/shudhu-tomakaye-chai-2019-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Shudhu%20Tomakaye%20Chai%20%282019%29%20WEB-DL%20%5BBengali%5D%20KLIKK%201080p.mkv"
         }
       ]
     },
@@ -1146,6 +1250,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Ley Chakka",
+      "category": "Bangla Movies",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/18x58WzI2b48HKtpZ9ysyXdam9b.jpg",
+      "source_url": "https://cinefreak.net/ley-chakka-2010-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p.mkv"
         }
       ]
     },
