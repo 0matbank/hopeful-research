@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 35,
-    "last_updated": "2026-08-30 | 19:46:45 (UTC)",
+    "total_movies": 40,
+    "last_updated": "2026-09-03 | 15:26:37 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -147,6 +147,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Karavali",
+      "category": "Kannada Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/buxVz5LZQY1QLfFIIZnfe6t2F4I.jpg",
+      "source_url": "https://cinefreak.net/karavali-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karavali%20%282026%29%20WEB-DL%20%5BKannada%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -509,6 +522,27 @@
       ]
     },
     {
+      "name": "Kantara",
+      "category": "Kannada Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
+      "source_url": "https://cinefreak.net/kantara-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kantara%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Inspector Vikram",
       "category": "Kannada Movies",
       "year": "2021",
@@ -522,6 +556,19 @@
       ]
     },
     {
+      "name": "Hero",
+      "category": "Kannada Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZAxSiL5csPIe6Q1V8pbwz69U5m.jpg",
+      "source_url": "https://cinefreak.net/hero-2021-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Terrorist",
       "category": "Kannada Movies",
       "year": "2020",
@@ -531,6 +578,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Terrorist%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Pailwaan",
+      "category": "Kannada Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umWoSbujUE3iyrBjDxstuNapu0m.jpg",
+      "source_url": "https://cinefreak.net/pailwaan-2019-hindi-dubbed-uncut-hdrip-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pailwaan%20%282019%29%20UNCUT%20HDRip%20%5BHindi%20ORG%5D%201080p.mkv"
         }
       ]
     },
@@ -574,6 +634,33 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ugramm%20%282014%29%20HDRip%20%5BHind-Kannada%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Healer",
+      "category": "Kannada Movies",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/too4Zig9bDJOfvnFfU1SaxKmGlR.jpg",
+      "source_url": "https://cinefreak.net/healer-2014-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-05",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 11-15",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E11-15%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 16-20",
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E16-20%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
         }
       ]
     }
