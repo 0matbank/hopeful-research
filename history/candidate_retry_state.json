@@ -261,6 +261,54 @@
         "last_failed_at": "2026-09-04T01:45:00.651836+00:00",
         "retry_after_epoch": 1788529500,
         "retry_after": "2026-09-04T13:45:00.651836+00:00"
+      },
+      "https://cinefreak.net/yadha-yadha-hi-2023-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:20:59.839396+00:00",
+        "retry_after_epoch": 1788578459,
+        "retry_after": "2026-09-05T03:20:59.839396+00:00"
+      },
+      "https://cinefreak.net/firefly-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:20:59.839438+00:00",
+        "retry_after_epoch": 1788578459,
+        "retry_after": "2026-09-05T03:20:59.839438+00:00"
+      },
+      "https://cinefreak.net/manada-kadalu-2025-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:20:59.839455+00:00",
+        "retry_after_epoch": 1788578459,
+        "retry_after": "2026-09-05T03:20:59.839455+00:00"
+      },
+      "https://cinefreak.net/yuddhakaanda-chapter-2-2025-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:20:59.839465+00:00",
+        "retry_after_epoch": 1788578459,
+        "retry_after": "2026-09-05T03:20:59.839465+00:00"
+      },
+      "https://cinefreak.net/paru-parvathy-2025-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:21:00.193286+00:00",
+        "retry_after_epoch": 1788578460,
+        "retry_after": "2026-09-05T03:21:00.193286+00:00"
+      },
+      "https://cinefreak.net/vaamana-2025-web-dl-hindi-org-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:21:00.193314+00:00",
+        "retry_after_epoch": 1788578460,
+        "retry_after": "2026-09-05T03:21:00.193314+00:00"
+      },
+      "https://cinefreak.net/ayyana-mane-2025-season-1-web-dl-hindi-dubbed-zee5-web-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:21:00.377262+00:00",
+        "retry_after_epoch": 1788578460,
+        "retry_after": "2026-09-05T03:21:00.377262+00:00"
+      },
+      "https://cinefreak.net/mithya-2024-web-dl-kannada-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T15:21:00.377536+00:00",
+        "retry_after_epoch": 1788578460,
+        "retry_after": "2026-09-05T03:21:00.377536+00:00"
       }
     }
   }

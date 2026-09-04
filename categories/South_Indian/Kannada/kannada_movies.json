@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 42,
-    "last_updated": "2026-09-04 | 01:45:00 (UTC)",
+    "total_movies": 44,
+    "last_updated": "2026-09-04 | 15:21:00 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -402,6 +402,19 @@
       ]
     },
     {
+      "name": "Vidyapati",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/smLWo00U0AUU7vA9DVo5Aj5CTkd.jpg",
+      "source_url": "https://cinefreak.net/vidyapati-2025-web-dl-kannada-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4"
+        }
+      ]
+    },
+    {
       "name": "Chef Chidambara",
       "category": "Kannada Movies",
       "year": "2024",
@@ -619,6 +632,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Terrorist%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dia",
+      "category": "Kannada Movies",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n038AswpNaZgIWfMEr5cxVAqcsB.jpg",
+      "source_url": "https://cinefreak.net/dia-2020-uncut-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESubs.mkv"
         }
       ]
     },
