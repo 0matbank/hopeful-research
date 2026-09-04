@@ -219,6 +219,48 @@
         "last_failed_at": "2026-09-03T15:26:37.256317+00:00",
         "retry_after_epoch": 1788492397,
         "retry_after": "2026-09-04T03:26:37.256317+00:00"
+      },
+      "https://cinefreak.net/su-from-so-2025-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T01:44:59.088518+00:00",
+        "retry_after_epoch": 1788529499,
+        "retry_after": "2026-09-04T13:44:59.088518+00:00"
+      },
+      "https://cinefreak.net/nimitta-matra-2025-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T01:44:59.977218+00:00",
+        "retry_after_epoch": 1788529499,
+        "retry_after": "2026-09-04T13:44:59.977218+00:00"
+      },
+      "https://cinefreak.net/bheema-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T01:44:59.977249+00:00",
+        "retry_after_epoch": 1788529499,
+        "retry_after": "2026-09-04T13:44:59.977249+00:00"
+      },
+      "https://cinefreak.net/rudra-garuda-purana-2025-hindi-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T01:45:00.651783+00:00",
+        "retry_after_epoch": 1788529500,
+        "retry_after": "2026-09-04T13:45:00.651783+00:00"
+      },
+      "https://cinefreak.net/edagaiye-apaghatakke-karana-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T01:45:00.651816+00:00",
+        "retry_after_epoch": 1788529500,
+        "retry_after": "2026-09-04T13:45:00.651816+00:00"
+      },
+      "https://cinefreak.net/gaalipata-2-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T01:45:00.651827+00:00",
+        "retry_after_epoch": 1788529500,
+        "retry_after": "2026-09-04T13:45:00.651827+00:00"
+      },
+      "https://cinefreak.net/kuladalli-keelyavudo-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-04T01:45:00.651836+00:00",
+        "retry_after_epoch": 1788529500,
+        "retry_after": "2026-09-04T13:45:00.651836+00:00"
       }
     }
   }
