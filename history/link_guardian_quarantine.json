@@ -26,9 +26,9 @@
         "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T13:39:41.838971+00:00",
-      "last_attempt": "2026-09-02T11:24:49.841661+00:00",
-      "next_retry_at": "2026-09-04T11:24:49.841682+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-09-04T16:26:21.925076+00:00",
+      "next_retry_at": "2026-09-07T16:26:21.925100+00:00",
+      "attempt_count": 5
     },
     "kannadamovies::https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -137,5 +137,5 @@
       "attempt_count": 4
     }
   },
-  "updated_at": "2026-09-04T11:24:32.802044+00:00"
+  "updated_at": "2026-09-04T16:26:21.992398+00:00"
 }
