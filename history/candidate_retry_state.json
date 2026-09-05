@@ -310,6 +310,32 @@
         "retry_after_epoch": 1788578460,
         "retry_after": "2026-09-05T03:21:00.377536+00:00"
       }
+    },
+    "Telugu Movies": {
+      "https://cinefreak.net/daruvu-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T01:45:04.656240+00:00",
+        "retry_after_epoch": 1788615904,
+        "retry_after": "2026-09-05T13:45:04.656240+00:00"
+      },
+      "https://cinefreak.net/entha-manchivaadavuraa-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T01:45:04.837731+00:00",
+        "retry_after_epoch": 1788615904,
+        "retry_after": "2026-09-05T13:45:04.837731+00:00"
+      },
+      "https://cinefreak.net/george-reddy-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T01:45:04.837764+00:00",
+        "retry_after_epoch": 1788615904,
+        "retry_after": "2026-09-05T13:45:04.837764+00:00"
+      },
+      "https://cinefreak.net/kaalidas-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T01:45:04.837794+00:00",
+        "retry_after_epoch": 1788615904,
+        "retry_after": "2026-09-05T13:45:04.837794+00:00"
+      }
     }
   }
 }
