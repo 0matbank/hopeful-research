@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
-TOTAL MOVIES: 76
-LAST UPDATED: 2026-08-30 | 19:06:35 (UTC)
+TOTAL MOVIES: 84
+LAST UPDATED: 2026-09-05 | 09:20:42 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -89,7 +89,7 @@ Movie-5
 Movie name: Maa Inti Bangaram
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/9d2c4b3d3d4f60365a05da25b7cb3a10.jpg
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg
 
 RESOLUTION 1: HQ 1080P HEVC
 STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p%20HEVC.mkv
@@ -259,7 +259,7 @@ Movie-15
 Movie name: Drishyam 3
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/5326e8d76fb25e77e621a36eca14391e.jpg
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p%20HEVC.mkv
@@ -438,7 +438,7 @@ Movie-27
 Movie name: Oru Durooha Saahacharyathil
 Category: Hindi Dubbed Movies
 Year: 2026
-Poster: https://cineimg.xyz/images/05830b046cc7e1a4c40d6a5dc718e7d9.jpg
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsMHfc75OJmdRYKsgJlALDVyMGz.jpg
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv
@@ -727,6 +727,68 @@ STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-44
+Movie name: I'm Game
+Category: Hindi Dubbed Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%E2%80%99m%20Game%20%282026%29%20HDTC%20%5BHindi%20LiNE-Malayalam%5D%201080p%20HEVC.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20I%E2%80%99m%20Game%20%282026%29%20HDTC%20%5BHindi%20LiNE-Malayalam%5D%201080p.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%E2%80%99m%20Game%20%282026%29%20HDTC%20%5BHindi%20LiNE-Malayalam%5D%20HQ%201080p.mkv
+
+================================================================================
+
+Movie-45
+Movie name: Unmadham
+Category: Hindi Dubbed Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-46
+Movie name: Raakaasa
+Category: Hindi Dubbed Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg
+
+RESOLUTION 1: HQ 1080P HEVC
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv
+
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv
+
+================================================================================
+
+Movie-47
+Movie name: 7 Dogs
+Category: Hindi Dubbed Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv
+
+================================================================================
+
+Movie-48
 Movie name: The Malabar Tales
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -737,7 +799,7 @@ STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-49
 Movie name: Shanmukha
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -751,7 +813,7 @@ STREAM Link 2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
+Movie-50
 Movie name: Royal
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -765,7 +827,7 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-51
 Movie name: Balti
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -782,7 +844,7 @@ STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-52
 Movie name: Mario
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -793,7 +855,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-53
 Movie name: Sahasam
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -810,7 +872,7 @@ STREAM Link 3: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
+Movie-54
 Movie name: Pongala
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -821,7 +883,7 @@ STREAM Link 1: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-55
 Movie name: 45
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -835,7 +897,7 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-52
+Movie-56
 Movie name: The Devil
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -849,7 +911,7 @@ STREAM Link 2: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-57
 Movie name: Dheeram
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -860,7 +922,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-54
+Movie-58
 Movie name: College Kalavida
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -871,7 +933,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
+Movie-59
 Movie name: Surrender
 Category: Hindi Dubbed Movies
 Year: 2025
@@ -882,7 +944,18 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-56
+Movie-60
+Movie name: IPL
+Category: Hindi Dubbed Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXNuxvpzCkw22wnO9Uvjn7KmV1I.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20IPL%20Indian%20Penal%20Law%20%282025%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv
+
+================================================================================
+
+Movie-61
 Movie name: Honeymoon Express
 Category: Hindi Dubbed Movies
 Year: 2024
@@ -899,7 +972,7 @@ STREAM Link 3: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-57
+Movie-62
 Movie name: Ramana Avatara
 Category: Hindi Dubbed Movies
 Year: 2024
@@ -910,7 +983,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-58
+Movie-63
 Movie name: Christy
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -927,7 +1000,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-59
+Movie-64
 Show name: Thank You Teacher
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -945,7 +1018,7 @@ Episode: Episode 13-16
 
 ================================================================================
 
-Movie-60
+Movie-65
 Movie name: Maruthi Nagar Police Station
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -956,7 +1029,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-61
+Movie-66
 Movie name: Kadina Kadoramee Andakadaham
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -967,7 +1040,7 @@ STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-62
+Movie-67
 Movie name: CSI Sanatan
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -978,7 +1051,18 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-68
+Movie name: Thugs
+Category: Hindi Dubbed Movies
+Year: 2023
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZK0AkM2YT9dNjZfRaNWDu1kkuJ.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thugs%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-69
 Movie name: Love Mocktail 2
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -992,7 +1076,7 @@ STREAM Link 2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
+Movie-70
 Movie name: The Ghost
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1012,7 +1096,7 @@ STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-65
+Movie-71
 Movie name: Heaven
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1026,7 +1110,7 @@ STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-72
 Movie name: Ini Utharam
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1037,7 +1121,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-67
+Movie-73
 Movie name: Sita Ramam
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1057,7 +1141,21 @@ STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-68
+Movie-74
+Movie name: Har Har Mahadev
+Category: Hindi Dubbed Movies
+Year: 2022
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnSPawPoBmtcd6vCTIncY3QAesD.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Har%20Har%20Mahadev%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Har%20Har%20Mahadev%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-75
 Movie name: Garuda Gamana Vrishabha Vahana
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1071,7 +1169,7 @@ STREAM Link 2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-69
+Movie-76
 Movie name: Tuck Jagadish
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1082,7 +1180,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-70
+Movie-77
 Movie name: Naan Sirithal
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1096,7 +1194,7 @@ STREAM Link 2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-71
+Movie-78
 Movie name: Big Brother
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1113,7 +1211,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-72
+Movie-79
 Movie name: Mafia
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1130,7 +1228,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-73
+Movie-80
 Movie name: Oh! Baby
 Category: Hindi Dubbed Movies
 Year: 2019
@@ -1141,7 +1239,30 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-74
+Movie-81
+Show name: My Mowgli Boy
+Category: Hindi Dubbed Movies
+Year: 2019
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNeZ2WdCrMBLf9Ghh6fbFwWhfeA.jpg
+
+Season: S01
+Episode: Episode 01-05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 06-10
+  Resolution-2: HD 1080P
+  Link-2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 21-25
+  Resolution-3: HD 1080P
+  Link-3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E21-25%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-82
 Movie name: Srirastu Subhamastu
 Category: Hindi Dubbed Movies
 Year: 2016
@@ -1152,7 +1273,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-75
+Movie-83
 Movie name: Kaashmora
 Category: Hindi Dubbed Movies
 Year: 2016
@@ -1163,7 +1284,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-76
+Movie-84
 Movie name: Prince No 1
 Category: Hindi Dubbed Movies
 Year: 2000
