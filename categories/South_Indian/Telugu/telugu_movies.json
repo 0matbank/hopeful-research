@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 55,
-    "last_updated": "2026-09-05 | 01:45:04 (UTC)",
+    "total_movies": 61,
+    "last_updated": "2026-09-05 | 14:09:01 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -975,6 +975,45 @@
       ]
     },
     {
+      "name": "Sashi",
+      "category": "Telugu Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DFncGzLy7pJ8jLqRXseYCho0iQ.jpg",
+      "source_url": "https://cinefreak.net/sashi-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sashi%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aaradugula Bullet",
+      "category": "Telugu Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3wJy9jGcEyRGDfXTBvrXL1U3uI.jpg",
+      "source_url": "https://cinefreak.net/aaradugula-bullet-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Aaradugula%20Bullet%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "A1 Express",
+      "category": "Telugu Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WHx9ryr1XigcqCudVJfA4IK0jC.jpg",
+      "source_url": "https://cinefreak.net/a1-express-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20A1%20Express%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Colour Photo",
       "category": "Telugu Movies",
       "year": "2020",
@@ -984,6 +1023,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Colour%20Photo%20%282020%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bheeshma",
+      "category": "Telugu Movies",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE0ECn6buZNigSDFlpoIngDNAuD.jpg",
+      "source_url": "https://cinefreak.net/bheeshma-2020-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bheeshma%20%282020%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1040,6 +1092,36 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gaddalakonda%20Ganesh%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Brochevarevarura",
+      "category": "Telugu Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DecGcOCBoFQ8dPyGbYOPoS4I4r.jpg",
+      "source_url": "https://cinefreak.net/brochevarevarura-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20BrocheVarueVarura%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "RDX Love",
+      "category": "Telugu Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMUWOdjWYWCH4BzXQq1SH058jBq.jpg",
+      "source_url": "https://cinefreak.net/rdx-love-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20RDX%20Love%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20RDX%20Love%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },

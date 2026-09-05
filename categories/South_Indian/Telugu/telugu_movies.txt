@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
-TOTAL MOVIES: 55
-LAST UPDATED: 2026-09-05 | 01:45:04 (UTC)
+TOTAL MOVIES: 61
+LAST UPDATED: 2026-09-05 | 14:09:01 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -801,6 +801,39 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-46
+Movie name: Sashi
+Category: Telugu Movies
+Year: 2021
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DFncGzLy7pJ8jLqRXseYCho0iQ.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sashi%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-47
+Movie name: Aaradugula Bullet
+Category: Telugu Movies
+Year: 2021
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3wJy9jGcEyRGDfXTBvrXL1U3uI.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Aaradugula%20Bullet%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-48
+Movie name: A1 Express
+Category: Telugu Movies
+Year: 2021
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WHx9ryr1XigcqCudVJfA4IK0jC.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20A1%20Express%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-49
 Movie name: Colour Photo
 Category: Telugu Movies
 Year: 2020
@@ -811,7 +844,18 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-50
+Movie name: Bheeshma
+Category: Telugu Movies
+Year: 2020
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE0ECn6buZNigSDFlpoIngDNAuD.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bheeshma%20%282020%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-51
 Movie name: Oh! Baby
 Category: Telugu Movies
 Year: 2019
@@ -822,7 +866,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-52
 Movie name: Ninu Veedani Needanu Nene
 Category: Telugu Movies
 Year: 2019
@@ -836,7 +880,7 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-53
 Movie name: Prati Roju Pandaage
 Category: Telugu Movies
 Year: 2019
@@ -847,7 +891,7 @@ STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
+Movie-54
 Movie name: Gaddalakonda Ganesh
 Category: Telugu Movies
 Year: 2019
@@ -858,7 +902,32 @@ STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-55
+Movie name: Brochevarevarura
+Category: Telugu Movies
+Year: 2019
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DecGcOCBoFQ8dPyGbYOPoS4I4r.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20BrocheVarueVarura%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-56
+Movie name: RDX Love
+Category: Telugu Movies
+Year: 2019
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMUWOdjWYWCH4BzXQq1SH058jBq.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20RDX%20Love%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+RESOLUTION 2: 4K 2160P HEVC
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20RDX%20Love%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-57
 Movie name: Bluff Master
 Category: Telugu Movies
 Year: 2018
@@ -869,7 +938,7 @@ STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-52
+Movie-58
 Movie name: Chal Mohan Ranga
 Category: Telugu Movies
 Year: 2018
@@ -880,7 +949,7 @@ STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-59
 Movie name: Spyder
 Category: Telugu Movies
 Year: 2017
@@ -897,7 +966,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-54
+Movie-60
 Movie name: A Aa
 Category: Telugu Movies
 Year: 2016
@@ -908,7 +977,7 @@ STREAM Link 1: https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
+Movie-61
 Movie name: Brindavanam
 Category: Telugu Movies
 Year: 2010

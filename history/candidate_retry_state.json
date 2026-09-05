@@ -335,6 +335,30 @@
         "last_failed_at": "2026-09-05T01:45:04.837794+00:00",
         "retry_after_epoch": 1788615904,
         "retry_after": "2026-09-05T13:45:04.837794+00:00"
+      },
+      "https://cinefreak.net/mugguru-monagallu-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T14:09:00.115089+00:00",
+        "retry_after_epoch": 1788660540,
+        "retry_after": "2026-09-06T02:09:00.115089+00:00"
+      },
+      "https://cinefreak.net/seetimaarr-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T14:09:00.328004+00:00",
+        "retry_after_epoch": 1788660540,
+        "retry_after": "2026-09-06T02:09:00.328004+00:00"
+      },
+      "https://cinefreak.net/venkatadri-express-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T14:09:00.328028+00:00",
+        "retry_after_epoch": 1788660540,
+        "retry_after": "2026-09-06T02:09:00.328028+00:00"
+      },
+      "https://cinefreak.net/30-rojullo-preminchadam-ela-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-05T14:09:01.118610+00:00",
+        "retry_after_epoch": 1788660541,
+        "retry_after": "2026-09-06T02:09:01.118610+00:00"
       }
     },
     "Hindi Dubbed Movies": {
