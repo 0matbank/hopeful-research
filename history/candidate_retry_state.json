@@ -398,6 +398,14 @@
         "retry_after_epoch": 1788643242,
         "retry_after": "2026-09-05T21:20:42.002326+00:00"
       }
+    },
+    "Disney Hotstar": {
+      "https://cinefreak.net/lawmen-bass-reeves-2023-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-06T14:37:04.029316+00:00",
+        "retry_after_epoch": 1788748624,
+        "retry_after": "2026-09-07T02:37:04.029316+00:00"
+      }
     }
   }
 }
