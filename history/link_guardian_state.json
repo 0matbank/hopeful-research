@@ -2,6 +2,124 @@
   "version": 3,
   "suspects": {},
   "source_gaps": {},
-  "repair_queue": {},
-  "updated_at": "2026-09-01T05:47:23.580353+00:00"
+  "repair_queue": {
+    "tamilmovies::https://cinefreak.net/yaanai-2022-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/yaanai-2022-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "malayalammovies::https://cinefreak.net/karakkam-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/karakkam-2026-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "malayalammovies::https://cinefreak.net/neelavelicham-2023-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/neelavelicham-2023-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "kannadamovies::https://cinefreak.net/valavaara-2026-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/valavaara-2026-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "kannadamovies::https://cinefreak.net/gurudev-hoysala-2023-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/gurudev-hoysala-2023-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Gurudev%20Hoysala%20%282023%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/nawab-cafe-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/nawab-cafe-2026-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Nawab%20Cafe%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/biker-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/biker-2026-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Biker%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/mario-2025-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/mario-2025-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    },
+    "telugumovies::https://cinefreak.net/tuck-jagadish-2021-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/tuck-jagadish-2021-full-movie-download",
+      "kind": "dead",
+      "expected_count": 0,
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "discovered_at": "2026-09-06T11:02:26.562060+00:00",
+      "last_seen": "2026-09-06T11:02:26.562060+00:00",
+      "attempt_count": 0,
+      "last_attempt": ""
+    }
+  },
+  "updated_at": "2026-09-06T11:23:38.147071+00:00"
 }

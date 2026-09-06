@@ -135,7 +135,31 @@
       "last_attempt": "2026-09-04T11:24:32.742735+00:00",
       "next_retry_at": "2026-09-06T11:24:32.742754+00:00",
       "attempt_count": 4
+    },
+    "banglamovies::https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Utsaber Ratri",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Utsaber-Ratri-2026.webp",
+        "source_url": "https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-06T11:05:44.368789+00:00",
+      "last_attempt": "2026-09-06T11:05:44.368807+00:00",
+      "next_retry_at": "2026-09-06T17:05:44.368811+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-05T04:36:11.008538+00:00"
+  "updated_at": "2026-09-06T11:23:38.147568+00:00"
 }

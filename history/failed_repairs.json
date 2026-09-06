@@ -135,5 +135,14 @@
     ],
     "last_attempt": "2026-08-30T18:20:35.795793+00:00",
     "attempt_count": 1
+  },
+  "banglamovies::utsaberratri": {
+    "name": "Utsaber Ratri",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-06T11:02:59.538055+00:00",
+    "attempt_count": 1
   }
 }
