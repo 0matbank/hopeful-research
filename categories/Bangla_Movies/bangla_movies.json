@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 88,
-    "last_updated": "2026-09-06 | 18:24:28 (UTC)",
+    "total_movies": 85,
+    "last_updated": "2026-09-06 | 22:16:33 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -45,7 +45,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
         }
       ]
     },
@@ -115,7 +115,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Jackpot%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Jackpot%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Djinner%20Bachcha%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Djinner%20Bachcha%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
         }
       ]
     },
@@ -334,7 +334,7 @@
         },
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
@@ -576,10 +576,6 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         },
         {
@@ -598,23 +594,6 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tobuo%20Bhalobashi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bhuto Purbo",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rSvfGN1mM6xbXjlz1wJojMq1M9.jpg",
-      "source_url": "https://cinefreak.net/bhuto-purbo-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Bhuto%20Purbo%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bhuto%20Purbo%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
         }
       ]
     },
@@ -645,19 +624,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Ali%20%282025%29%20WEB-DL%20%5BBengali%5D%20Bongo%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Lawho Gouranger Naam Re",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8CHcwfl1ZjPdujGX5n9ALpQ0cm.jpg",
-      "source_url": "https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "4K 2160P",
-          "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
         }
       ]
     },
@@ -912,7 +878,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -925,7 +891,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
@@ -977,7 +943,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Karnasubarner%20Guptodhon%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karnasubarner%20Guptodhon%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
     },
@@ -990,7 +956,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Hridita%20%282022%29%20WEB-DL%20%5BBengali%5D%20EW%201080p.mkv"
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Hridita%20%282022%29%20WEB-DL%20%5BBengali%5D%20EW%201080p.mkv"
         }
       ]
     },
@@ -1034,19 +1000,6 @@
       ]
     },
     {
-      "name": "Brombhodoityo",
-      "category": "Bangla Movies",
-      "year": "2020",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Brombhodoityo-2020.webp",
-      "source_url": "https://cinefreak.net/brombhodoityo-2020-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bromhodoityo%20%282020%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Cat Sticks",
       "category": "Bangla Movies",
       "year": "2019",
@@ -1081,7 +1034,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Fidaa%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Fidaa%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1107,7 +1060,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
         }
       ]
     },
