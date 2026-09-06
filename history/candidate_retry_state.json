@@ -359,6 +359,30 @@
         "last_failed_at": "2026-09-05T14:09:01.118610+00:00",
         "retry_after_epoch": 1788660541,
         "retry_after": "2026-09-06T02:09:01.118610+00:00"
+      },
+      "https://cinefreak.net/suyodhana-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-06T01:41:00.372505+00:00",
+        "retry_after_epoch": 1788702060,
+        "retry_after": "2026-09-06T13:41:00.372505+00:00"
+      },
+      "https://cinefreak.net/gangster-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-06T01:41:01.730414+00:00",
+        "retry_after_epoch": 1788702061,
+        "retry_after": "2026-09-06T13:41:01.730414+00:00"
+      },
+      "https://cinefreak.net/suryapet-junction-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-06T01:41:01.730440+00:00",
+        "retry_after_epoch": 1788702061,
+        "retry_after": "2026-09-06T13:41:01.730440+00:00"
+      },
+      "https://cinefreak.net/one-not-five-minuttess-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-06T01:41:02.920386+00:00",
+        "retry_after_epoch": 1788702062,
+        "retry_after": "2026-09-06T13:41:02.920386+00:00"
       }
     },
     "Hindi Dubbed Movies": {

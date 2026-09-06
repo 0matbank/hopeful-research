@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 61,
-    "last_updated": "2026-09-05 | 14:09:01 (UTC)",
+    "total_movies": 67,
+    "last_updated": "2026-09-06 | 01:41:03 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -738,6 +738,69 @@
       ]
     },
     {
+      "name": "Ustaad Bhagat Singh",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "source_url": "https://cinefreak.net/ustaad-bhagat-singh-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Repu Udayam 10 Gantalaku",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbHIXfj0naOErY22dhMc4RiSAK1.jpg",
+      "source_url": "https://cinefreak.net/repu-udayam-10-gantalaku-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Repu%20Udayam%2010%20Gantalaku%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Repu%20Udayam%2010%20Gantalaku%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mrithyunjay",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "source_url": "https://cinefreak.net/mrithyunjay-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shanmukha",
       "category": "Telugu Movies",
       "year": "2025",
@@ -924,6 +987,32 @@
       ]
     },
     {
+      "name": "Kotha Kothaga",
+      "category": "Telugu Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nw7eV7hsqCA2DsBD6XidPmDHNgw.jpg",
+      "source_url": "https://cinefreak.net/kotha-kothaga-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Viraata Parvam",
+      "category": "Telugu Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pebVSzYPI9qR4xlmDt5dQXoVxP3.jpg",
+      "source_url": "https://cinefreak.net/viraata-parvam-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Virata%20Parvam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Tuck Jagadish",
       "category": "Telugu Movies",
       "year": "2021",
@@ -1014,6 +1103,36 @@
       ]
     },
     {
+      "name": "Brochevarevarura",
+      "category": "Telugu Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DecGcOCBoFQ8dPyGbYOPoS4I4r.jpg",
+      "source_url": "https://cinefreak.net/brochevarevarura-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20BrocheVarueVarura%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Red",
+      "category": "Telugu Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cEEDAHhMGtoWfYXJxelVMRwLu0.jpg",
+      "source_url": "https://cinefreak.net/red-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Red%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Red%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Colour Photo",
       "category": "Telugu Movies",
       "year": "2020",
@@ -1092,19 +1211,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gaddalakonda%20Ganesh%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Brochevarevarura",
-      "category": "Telugu Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DecGcOCBoFQ8dPyGbYOPoS4I4r.jpg",
-      "source_url": "https://cinefreak.net/brochevarevarura-2019-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20BrocheVarueVarura%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
