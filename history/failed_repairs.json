@@ -121,9 +121,11 @@
   "banglamovies::bhaggyolokkhi": {
     "name": "Bhaggyo Lokkhi",
     "category": "Bangla Movies",
-    "dead_links": [],
-    "last_attempt": "2026-08-30T18:41:27.053704+00:00",
-    "attempt_count": 2
+    "dead_links": [
+      "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-06T18:22:31.811832+00:00",
+    "attempt_count": 3
   },
   "kannadamovies::kaalapatthar": {
     "name": "Kaalapatthar",

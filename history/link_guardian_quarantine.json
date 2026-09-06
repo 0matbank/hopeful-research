@@ -156,9 +156,9 @@
         "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-06T11:05:44.368789+00:00",
-      "last_attempt": "2026-09-06T11:05:44.368807+00:00",
-      "next_retry_at": "2026-09-06T17:05:44.368811+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-06T18:21:34.586189+00:00",
+      "next_retry_at": "2026-09-07T06:21:34.586211+00:00",
+      "attempt_count": 2
     },
     "tamilmovies::https://cinefreak.net/yaanai-2022-full-movie-download": {
       "category": "Tamil Movies",
@@ -188,7 +188,31 @@
       "last_attempt": "2026-09-06T15:33:36.616148+00:00",
       "next_retry_at": "2026-09-06T21:33:36.616150+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download",
+      "movie": {
+        "name": "Bhaggyo Lokkhi",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEPUuaJAeT3hua4eF9h5RvCMu9y.jpg",
+        "source_url": "https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "4K 2160P",
+            "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-06T18:24:28.205157+00:00",
+      "last_attempt": "2026-09-06T18:24:28.205169+00:00",
+      "next_retry_at": "2026-09-07T00:24:28.205172+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-06T15:42:39.511364+00:00"
+  "updated_at": "2026-09-06T18:31:29.191807+00:00"
 }

@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 89,
-    "last_updated": "2026-09-06 | 11:05:44 (UTC)",
+    "total_movies": 88,
+    "last_updated": "2026-09-06 | 18:24:28 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -602,19 +602,6 @@
       ]
     },
     {
-      "name": "Bhaggyo Lokkhi",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEPUuaJAeT3hua4eF9h5RvCMu9y.jpg",
-      "source_url": "https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "4K 2160P",
-          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Bhuto Purbo",
       "category": "Bangla Movies",
       "year": "2025",
@@ -834,10 +821,6 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
@@ -981,7 +964,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
