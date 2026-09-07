@@ -27,9 +27,11 @@
   "banglamovies::swastiksanket": {
     "name": "Swastik Sanket",
     "category": "Bangla Movies",
-    "dead_links": [],
-    "last_attempt": "2026-08-30T18:43:21.712889+00:00",
-    "attempt_count": 4
+    "dead_links": [
+      "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-07T00:03:01.699089+00:00",
+    "attempt_count": 5
   },
   "hindimovies::dugdug": {
     "name": "Dug Dug",
@@ -176,6 +178,25 @@
       "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bromhodoityo%20%282020%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-09-06T22:15:58.323091+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::nanahee": {
+    "name": "Nana Hee",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-07T00:01:54.198712+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::awomancalledmother": {
+    "name": "A Woman Called Mother",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%201080p%20ESub.mkv",
+      "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-07T00:09:17.336625+00:00",
     "attempt_count": 1
   }
 }
