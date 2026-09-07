@@ -84,9 +84,11 @@
   "kannadamovies::usiru": {
     "name": "Usiru",
     "category": "Kannada Movies",
-    "dead_links": [],
-    "last_attempt": "2026-08-30T19:41:05.075089+00:00",
-    "attempt_count": 3
+    "dead_links": [
+      "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-07T12:50:28.353396+00:00",
+    "attempt_count": 4
   },
   "kannadamovies::gst": {
     "name": "GST",
@@ -100,9 +102,11 @@
   "kannadamovies::chefchidambara": {
     "name": "Chef Chidambara",
     "category": "Kannada Movies",
-    "dead_links": [],
-    "last_attempt": "2026-08-30T19:44:41.412231+00:00",
-    "attempt_count": 3
+    "dead_links": [
+      "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-07T12:51:24.266644+00:00",
+    "attempt_count": 4
   },
   "kannadamovies::hero": {
     "name": "Hero",
