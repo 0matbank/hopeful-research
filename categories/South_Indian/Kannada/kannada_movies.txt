@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
 TOTAL MOVIES: 44
-LAST UPDATED: 2026-09-06 | 15:38:01 (UTC)
+LAST UPDATED: 2026-09-07 | 04:50:23 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -549,7 +549,7 @@ Year: 2018
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/eebyDiBgu2dCFwBtWzVZgtrxn5u.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
 ================================================================================
 
