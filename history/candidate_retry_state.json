@@ -405,6 +405,18 @@
         "last_failed_at": "2026-09-06T14:37:04.029316+00:00",
         "retry_after_epoch": 1788748624,
         "retry_after": "2026-09-07T02:37:04.029316+00:00"
+      },
+      "https://cinefreak.net/demon-hunters-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T01:36:48.689690+00:00",
+        "retry_after_epoch": 1788788208,
+        "retry_after": "2026-09-07T13:36:48.689690+00:00"
+      },
+      "https://cinefreak.net/super-reefs-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T01:36:49.207285+00:00",
+        "retry_after_epoch": 1788788209,
+        "retry_after": "2026-09-07T13:36:49.207285+00:00"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 48,
-    "last_updated": "2026-09-07 | 00:09:17 (UTC)",
+    "total_movies": 55,
+    "last_updated": "2026-09-07 | 01:36:50 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -1265,6 +1265,12 @@
           "episode": "Episode 07",
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E07%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        },
+        {
+          "season": "S20",
+          "episode": "Episode 01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS20E01%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         }
       ]
     },
@@ -1393,6 +1399,23 @@
       ]
     },
     {
+      "name": "The Punisher One Last Kill",
+      "category": "Disney Hotstar",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjcPbV53ovhlogVFYdmkTDBooqg.jpg",
+      "source_url": "https://cinefreak.net/a-marvel-television-special-presentation-the-punisher-one-last-kill-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Punisher%20One%20Last%20Kill%20%282026%29%20WEB-DL%20%5BEnglish%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Punisher%20One%20Last%20Kill%20%282026%29%20WEB-DL%20%5BEnglish%5D%20JHS%204K-2160p%20HEVC%20HDR%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Dear X",
       "category": "Disney Hotstar",
       "year": "2025",
@@ -1462,6 +1485,32 @@
       ]
     },
     {
+      "name": "Agent Zero",
+      "category": "Disney Hotstar",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/diDNHFfccBZxw0CmQoVQkSuJIri.jpg",
+      "source_url": "https://cinefreak.net/agent-zero-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chris Hemsworth: A Road Trip To Remember",
+      "category": "Disney Hotstar",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRvBvxOmqaCMeZNJGducuh2WsgE.jpg",
+      "source_url": "https://cinefreak.net/chris-hemsworth-a-road-trip-to-remember-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chris%20Hemsworth%20A%20Road%20Trip%20to%20Remember%20%282025%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "A Shop For Killers",
       "category": "Disney Hotstar",
       "year": "2024",
@@ -1479,6 +1528,19 @@
           "episode": "Episode 05-08",
           "resolution": "HD 1080P",
           "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Expedition Amazon",
+      "category": "Disney Hotstar",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9ZYd6RGlAsAiHVI5J7ukB4D5G2.jpg",
+      "source_url": "https://cinefreak.net/expedition-amazon-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Expedition%20Amazon%20%282024%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
         }
       ]
     },
@@ -1579,6 +1641,32 @@
       ]
     },
     {
+      "name": "Wild Life",
+      "category": "Disney Hotstar",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gptHW5vSYZtRt13GmjT3fuRY9rY.jpg",
+      "source_url": "https://cinefreak.net/wild-life-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Wild%20Life%20%282023%29%20WEB-DL%20%5BEnglish%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Explorer: Lake Of Fire",
+      "category": "Disney Hotstar",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5uUFjhk1G5xoRRB2OMiJMlxoIo.jpg",
+      "source_url": "https://cinefreak.net/explorer-lake-of-fire-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Explorer%20Lake%20of%20Fire%20%282022%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
+        }
+      ]
+    },
+    {
       "name": "Star Trek: Strange New Worlds",
       "category": "Disney Hotstar",
       "year": "2022",
@@ -1621,6 +1709,19 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Shiddat%20%282021%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Medium",
+      "category": "Disney Hotstar",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWoSE8SH6XhgWKHIL3p0sj7lA3V.jpg",
+      "source_url": "https://cinefreak.net/the-medium-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20Medium%20%282021%29%20BluRay%20%5BHindi-Thai%5D%201080p%20ESub.mkv"
         }
       ]
     },
