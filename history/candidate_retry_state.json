@@ -417,6 +417,42 @@
         "last_failed_at": "2026-09-07T01:36:49.207285+00:00",
         "retry_after_epoch": 1788788209,
         "retry_after": "2026-09-07T13:36:49.207285+00:00"
+      },
+      "https://cinefreak.net/star-wars-maul-shadow-lord-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T16:55:32.610693+00:00",
+        "retry_after_epoch": 1788843332,
+        "retry_after": "2026-09-08T04:55:32.610693+00:00"
+      },
+      "https://cinefreak.net/eye-for-an-eye-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T16:55:32.610736+00:00",
+        "retry_after_epoch": 1788843332,
+        "retry_after": "2026-09-08T04:55:32.610736+00:00"
+      },
+      "https://cinefreak.net/oops-ab-kya-2025-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T16:55:32.610752+00:00",
+        "retry_after_epoch": 1788843332,
+        "retry_after": "2026-09-08T04:55:32.610752+00:00"
+      },
+      "https://cinefreak.net/brombhodoityo-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T16:55:32.610764+00:00",
+        "retry_after_epoch": 1788843332,
+        "retry_after": "2026-09-08T04:55:32.610764+00:00"
+      },
+      "https://cinefreak.net/badass-ravi-kumar-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T16:55:32.610774+00:00",
+        "retry_after_epoch": 1788843332,
+        "retry_after": "2026-09-08T04:55:32.610774+00:00"
+      },
+      "https://cinefreak.net/suyodhana-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-07T16:55:32.610785+00:00",
+        "retry_after_epoch": 1788843332,
+        "retry_after": "2026-09-08T04:55:32.610785+00:00"
       }
     }
   }
