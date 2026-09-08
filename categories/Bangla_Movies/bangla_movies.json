@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 86,
-    "last_updated": "2026-09-08 | 04:44:36 (UTC)",
+    "total_movies": 94,
+    "last_updated": "2026-09-08 | 15:33:27 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -792,6 +792,32 @@
       ]
     },
     {
+      "name": "Putulnacher Itikatha",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ4OfLg7hWiQsRc0VFIX7JPh16B.jpg",
+      "source_url": "https://cinefreak.net/putulnacher-itikatha-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Putulnacher%20Itikatha%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Neel Chokro",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQFePrp579Y9npVe91Elw3nyCum.jpg",
+      "source_url": "https://cinefreak.net/neel-chokro-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Neel%20Chokro%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Abigail",
       "category": "Bangla Movies",
       "year": "2024",
@@ -909,6 +935,19 @@
       ]
     },
     {
+      "name": "Manobjomin",
+      "category": "Bangla Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSQGCv7TYkvHG7IDTXyt9yCTIYR.jpg",
+      "source_url": "https://cinefreak.net/manobjomin-2023-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Manobjomin%20%282023%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Bhediya",
       "category": "Bangla Movies",
       "year": "2022",
@@ -983,6 +1022,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Haami 2",
+      "category": "Bangla Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/79dpwcK1KysbRq8zsZyqvqhNTAO.jpg",
+      "source_url": "https://cinefreak.net/haami-2-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Haami%202%20%282022%29%20WEB-DL%20%5BBengali%5D%20SLIV%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1065,6 +1117,19 @@
       ]
     },
     {
+      "name": "Haami",
+      "category": "Bangla Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyZ6SSV8F7yQxEiYCk2QSgzLIXI.jpg",
+      "source_url": "https://cinefreak.net/haami-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Haami%20%282022%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Golmaal",
       "category": "Bangla Movies",
       "year": "2017",
@@ -1074,6 +1139,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Golmaal%20%282017%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Posto",
+      "category": "Bangla Movies",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n04F4JgdBBD6DMXj1gryKKMTphD.jpg",
+      "source_url": "https://cinefreak.net/posto-2017-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Posto%20%282017%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Posto%20%282017%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p.mkv"
         }
       ]
     },
@@ -1091,6 +1173,32 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Abhimaan",
+      "category": "Bangla Movies",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8N7txQi6iehHwieCcLYpK4x48.jpg",
+      "source_url": "https://cinefreak.net/abhimaan-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Abhimaan%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Oggatonama",
+      "category": "Bangla Movies",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DFim5QJrz5w87saNckRLJea7Fg.jpg",
+      "source_url": "https://cinefreak.net/oggatonama-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Oggatonama%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },

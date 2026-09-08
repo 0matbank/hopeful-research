@@ -111,6 +111,18 @@
         "last_failed_at": "2026-09-08T01:46:58.554271+00:00",
         "retry_after_epoch": 1788875218,
         "retry_after": "2026-09-08T13:46:58.554271+00:00"
+      },
+      "https://cinefreak.net/abby-sen-2015-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-08T15:33:27.761630+00:00",
+        "retry_after_epoch": 1788924807,
+        "retry_after": "2026-09-09T03:33:27.761630+00:00"
+      },
+      "https://cinefreak.net/ahare-mon-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-08T15:33:27.761678+00:00",
+        "retry_after_epoch": 1788924807,
+        "retry_after": "2026-09-09T03:33:27.761678+00:00"
       }
     },
     "Tamil Movies": {
