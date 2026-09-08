@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
 TOTAL MOVIES: 59
-LAST UPDATED: 2026-09-08 | 11:35:22 (UTC)
+LAST UPDATED: 2026-09-08 | 16:44:13 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -850,7 +850,7 @@ Episode: Episode 01-05
 Season: S02
 Episode: Episode 06-10
   Resolution-2: HD 1080P
-  Link-2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 

@@ -156,9 +156,9 @@
         "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-06T11:05:44.368789+00:00",
-      "last_attempt": "2026-09-07T12:40:35.427114+00:00",
-      "next_retry_at": "2026-09-08T12:40:35.427139+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-09-08T16:42:31.495087+00:00",
+      "next_retry_at": "2026-09-10T16:42:31.495103+00:00",
+      "attempt_count": 4
     },
     "tamilmovies::https://cinefreak.net/yaanai-2022-full-movie-download": {
       "category": "Tamil Movies",
@@ -464,5 +464,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-08T11:35:22.572662+00:00"
+  "updated_at": "2026-09-08T16:53:33.019697+00:00"
 }
