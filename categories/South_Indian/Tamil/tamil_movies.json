@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Tamil Movies",
-    "total_movies": 51,
-    "last_updated": "2026-09-08 | 04:52:12 (UTC)",
+    "total_movies": 52,
+    "last_updated": "2026-09-08 | 21:13:47 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -959,6 +959,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20FIR%20%282022%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Yaanai",
+      "category": "Tamil Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfK7CTnhoFcxRVNk04bUHQjq3AJ.jpg",
+      "source_url": "https://cinefreak.net/yaanai-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
         }
       ]
     },
