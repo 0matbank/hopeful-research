@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
 TOTAL MOVIES: 59
-LAST UPDATED: 2026-09-06 | 18:31:29 (UTC)
+LAST UPDATED: 2026-09-08 | 04:51:54 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -475,67 +475,47 @@ Episode: Episode 06-10
 Season: S01
 Episode: Episode 01
   Resolution-3: HD 1080P
-  Link-3: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-3: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 02
   Resolution-4: 4K 2160P HEVC
-  Link-4: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
+  Link-4: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+Season: N/A
+Episode: N/A
+  Resolution-5: HD 1080P
+  Link-5: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4
 
 Season: S01
 Episode: Episode 03
-  Resolution-5: 4K 2160P HEVC
-  Link-5: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E03%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-Season: S01
-Episode: Episode 04
-  Resolution-6: HD 1080P
-  Link-6: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E04%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 04
-  Resolution-7: 4K 2160P HEVC
-  Link-7: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E04%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
+  Resolution-6: 4K 2160P HEVC
+  Link-6: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E03%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 Season: S01
 Episode: Episode 05
-  Resolution-8: HD 1080P
-  Link-8: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-7: HD 1080P
+  Link-7: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 05
-  Resolution-9: 4K 2160P HEVC
-  Link-9: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
+  Resolution-8: 4K 2160P HEVC
+  Link-8: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 Season: S01
-Episode: Episode 07
+Episode: Episode 06
+  Resolution-9: HD 1080P
+  Link-9: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E06%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 08
   Resolution-10: HD 1080P
-  Link-10: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E07%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-10: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E08%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
-Episode: Episode 07
+Episode: Episode 08
   Resolution-11: 4K 2160P HEVC
-  Link-11: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E07%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-Season: S01
-Episode: Episode 08
-  Resolution-12: HD 1080P
-  Link-12: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E08%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 08
-  Resolution-13: 4K 2160P HEVC
-  Link-13: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E08%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-Season: S01
-Episode: Episode 09
-  Resolution-14: 4K 2160P HEVC
-  Link-14: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E09%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-Season: S01
-Episode: Episode 10
-  Resolution-15: 4K 2160P HEVC
-  Link-15: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E10%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
+  Link-11: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E08%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -705,11 +685,8 @@ Category: Bangla Dubbed
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HQ 1080P
+STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 

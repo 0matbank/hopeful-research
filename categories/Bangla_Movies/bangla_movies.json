@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 88,
-    "last_updated": "2026-09-08 | 01:46:58 (UTC)",
+    "total_movies": 86,
+    "last_updated": "2026-09-08 | 04:44:36 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -623,7 +623,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Ali%20%282025%29%20WEB-DL%20%5BBengali%5D%20Bongo%201080p.mkv"
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ali%20%282025%29%20WEB-DL%20%5BBengali%5D%20Bongo%201080p.mkv"
         }
       ]
     },
@@ -805,19 +805,6 @@
       ]
     },
     {
-      "name": "Tilottoma",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBwYUoeTEKWQnsslmbGlKUxd2rI.jpg",
-      "source_url": "https://cinefreak.net/tilottoma-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Tilottoma%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Moyurakkhi",
       "category": "Bangla Movies",
       "year": "2024",
@@ -917,7 +904,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Unish20%20%282023%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Unish20%20%282023%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1104,19 +1091,6 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Khawto",
-      "category": "Bangla Movies",
-      "year": "2016",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxZRXp6N43j3y0bQbSLGy4Pax3R.jpg",
-      "source_url": "https://cinefreak.net/khawto-2016-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
     },

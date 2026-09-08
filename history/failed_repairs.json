@@ -242,5 +242,23 @@
     ],
     "last_attempt": "2026-09-07T23:08:46.842119+00:00",
     "attempt_count": 1
+  },
+  "banglamovies::tilottoma": {
+    "name": "Tilottoma",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Tilottoma%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-08T04:43:48.329996+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::khawto": {
+    "name": "Khawto",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-08T04:44:36.200927+00:00",
+    "attempt_count": 1
   }
 }
