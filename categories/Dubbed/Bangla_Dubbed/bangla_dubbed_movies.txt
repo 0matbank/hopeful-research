@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
 TOTAL MOVIES: 59
-LAST UPDATED: 2026-09-08 | 04:51:54 (UTC)
+LAST UPDATED: 2026-09-08 | 11:35:22 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -12,109 +12,109 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg
 
 Season: S01
-Episode: Episode 01
-  Resolution-1: HD 1080P
-  Link-1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E01%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 02
-  Resolution-2: HD 1080P
-  Link-2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E02%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 04
-  Resolution-3: HD 1080P
-  Link-3: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E04%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 05
-  Resolution-4: HD 1080P
-  Link-4: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E05%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
 Episode: Episode 06
-  Resolution-5: HD 1080P
-  Link-5: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E06%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-1: HD 1080P
+  Link-1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E06%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 07
-  Resolution-6: HD 1080P
-  Link-6: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E07%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E07%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 08
-  Resolution-7: HD 1080P
-  Link-7: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E08%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E08%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 09
-  Resolution-8: HD 1080P
-  Link-8: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E09%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-4: HD 1080P
+  Link-4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E09%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 10
-  Resolution-9: HD 1080P
-  Link-9: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E10%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 11
-  Resolution-10: HD 1080P
-  Link-10: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E11%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-5: HD 1080P
+  Link-5: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E10%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 12
-  Resolution-11: HD 1080P
-  Link-11: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E12%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-6: HD 1080P
+  Link-6: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E12%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 13
-  Resolution-12: HD 1080P
-  Link-12: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E13%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-7: HD 1080P
+  Link-7: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E13%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 14
-  Resolution-13: HD 1080P
-  Link-13: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E14%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-8: HD 1080P
+  Link-8: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E14%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 15
-  Resolution-14: HD 1080P
-  Link-14: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E15%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-9: HD 1080P
+  Link-9: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E15%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 16
-  Resolution-15: HD 1080P
-  Link-15: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E16%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-10: HD 1080P
+  Link-10: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E16%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 17
-  Resolution-16: HD 1080P
-  Link-16: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E17%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-11: HD 1080P
+  Link-11: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E17%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 18
-  Resolution-17: HD 1080P
-  Link-17: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E18%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-12: HD 1080P
+  Link-12: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E18%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 19
-  Resolution-18: HD 1080P
-  Link-18: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E19%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-13: HD 1080P
+  Link-13: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E19%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 20
-  Resolution-19: HD 1080P
-  Link-19: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E20%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-14: HD 1080P
+  Link-14: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E20%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 21
-  Resolution-20: HD 1080P
-  Link-20: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E21%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-15: HD 1080P
+  Link-15: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E21%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
-Episode: Episode 03
+Episode: Episode 22
+  Resolution-16: HD 1080P
+  Link-16: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E22%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+
+Season: S01
+Episode: Episode 23
+  Resolution-17: HD 1080P
+  Link-17: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E23%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+
+Season: S01
+Episode: Episode 24
+  Resolution-18: HD 1080P
+  Link-18: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E24%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+
+Season: S01
+Episode: Episode 25
+  Resolution-19: HD 1080P
+  Link-19: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E25%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+
+Season: S01
+Episode: Episode 26
+  Resolution-20: HD 1080P
+  Link-20: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E26%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+
+Season: S01
+Episode: Episode 27
   Resolution-21: HD 1080P
-  Link-21: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E03%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Link-21: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E27%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 ================================================================================
 
@@ -145,39 +145,29 @@ Episode: Episode 13-16
   Link-4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E13-16%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
-Episode: Episode 17-20
-  Resolution-5: HD 1080P
-  Link-5: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E17-20%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-Season: S02
-Episode: Episode 21-25
-  Resolution-6: HD 1080P
-  Link-6: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E21-25%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-Season: S02
 Episode: Episode 26-29
-  Resolution-7: HD 1080P
-  Link-7: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-Season: S02
-Episode: Episode 30-33
-  Resolution-8: HD 1080P
-  Link-8: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E30-33%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-5: HD 1080P
+  Link-5: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 34-37
-  Resolution-9: HD 1080P
-  Link-9: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E34-37%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-6: HD 1080P
+  Link-6: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E34-37%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 38-41
-  Resolution-10: HD 1080P
-  Link-10: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-7: HD 1080P
+  Link-7: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 42-45
-  Resolution-11: HD 1080P
-  Link-11: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-8: HD 1080P
+  Link-8: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Season: S02
+Episode: Episode 46-50
+  Resolution-9: HD 1080P
+  Link-9: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E46-50%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -795,15 +785,10 @@ Category: Bangla Dubbed
 Year: 2023
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uyNd8UjItEU2M5W0YKULaxzWFm.jpg
 
-Season: S01
-Episode: N/A
-  Resolution-1: HD 1080P
-  Link-1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
-
 Season: S02
 Episode: N/A
-  Resolution-2: HD 1080P
-  Link-2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282024%29%20S02%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Resolution-1: HD 1080P
+  Link-1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282024%29%20S02%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -993,7 +978,7 @@ Year: 2002
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Spider-Man-2002-.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
