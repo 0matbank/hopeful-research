@@ -81,6 +81,36 @@
         "last_failed_at": "2026-09-03T15:59:51.552418+00:00",
         "retry_after_epoch": 1788494391,
         "retry_after": "2026-09-04T03:59:51.552418+00:00"
+      },
+      "https://cinefreak.net/haldaa-2017-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-bioscope-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-08T01:46:57.748055+00:00",
+        "retry_after_epoch": 1788875217,
+        "retry_after": "2026-09-08T13:46:57.748055+00:00"
+      },
+      "https://cinefreak.net/saat-bhai-champa-adi-part-2-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-08T01:46:58.554197+00:00",
+        "retry_after_epoch": 1788875218,
+        "retry_after": "2026-09-08T13:46:58.554197+00:00"
+      },
+      "https://cinefreak.net/saat-bhai-champa-adi-part-1-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-08T01:46:58.554241+00:00",
+        "retry_after_epoch": 1788875218,
+        "retry_after": "2026-09-08T13:46:58.554241+00:00"
+      },
+      "https://cinefreak.net/raktabeej-2-2025-bengali-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-08T01:46:58.554257+00:00",
+        "retry_after_epoch": 1788875218,
+        "retry_after": "2026-09-08T13:46:58.554257+00:00"
+      },
+      "https://cinefreak.net/bismillah-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-08T01:46:58.554271+00:00",
+        "retry_after_epoch": 1788875218,
+        "retry_after": "2026-09-08T13:46:58.554271+00:00"
       }
     },
     "Tamil Movies": {

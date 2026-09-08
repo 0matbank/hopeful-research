@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 83,
-    "last_updated": "2026-09-07 | 00:03:01 (UTC)",
+    "total_movies": 88,
+    "last_updated": "2026-09-08 | 01:46:58 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -766,6 +766,32 @@
       ]
     },
     {
+      "name": "Puratawn",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGV1JYHGhHwlYNUrtlA3nPiFSb7.jpg",
+      "source_url": "https://cinefreak.net/puratawn-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Puratawn%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Antoratma",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq5FiswTgmWVPpmGGqbSHMbRR3O.jpg",
+      "source_url": "https://cinefreak.net/antoratma-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Antoratma%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Abigail",
       "category": "Bangla Movies",
       "year": "2024",
@@ -1108,6 +1134,19 @@
       ]
     },
     {
+      "name": "Chirodini Tumi Je Amar 2",
+      "category": "Bangla Movies",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KOSq3gTVIBgNEq7J5nRaeQJdWg.jpg",
+      "source_url": "https://cinefreak.net/chirodini-tumi-je-amar-2-2014-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Chirodini%20Tumi%20Je%20Amar%202%20%282014%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Mrs Sen",
       "category": "Bangla Movies",
       "year": "2013",
@@ -1147,6 +1186,19 @@
       ]
     },
     {
+      "name": "Sanskar",
+      "category": "Bangla Movies",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGV1JYHGhHwlYNUrtlA3nPiFSb7.jpg",
+      "source_url": "https://cinefreak.net/sanskar-2011-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sanskar%20%282011%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Ley Chakka",
       "category": "Bangla Movies",
       "year": "2010",
@@ -1156,6 +1208,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Prem Amar",
+      "category": "Bangla Movies",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nr4Q7F1De7KczKUKKdeQXiYoow.jpg",
+      "source_url": "https://cinefreak.net/prem-amar-2009-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Prem%20Amaar%20%282009%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
     },
