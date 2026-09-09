@@ -160,30 +160,6 @@
       "next_retry_at": "2026-09-10T16:42:31.495103+00:00",
       "attempt_count": 4
     },
-    "banglamovies::https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download": {
-      "category": "Bangla Movies",
-      "source_url": "https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download",
-      "movie": {
-        "name": "Bhaggyo Lokkhi",
-        "category": "Bangla Movies",
-        "year": "2025",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEPUuaJAeT3hua4eF9h5RvCMu9y.jpg",
-        "source_url": "https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "4K 2160P",
-            "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
-      ],
-      "quarantined_at": "2026-09-06T18:24:28.205157+00:00",
-      "last_attempt": "2026-09-07T04:48:50.256373+00:00",
-      "next_retry_at": "2026-09-07T16:48:50.256405+00:00",
-      "attempt_count": 2
-    },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/bhuto-purbo-2025-full-movie-download",
@@ -433,7 +409,32 @@
       "last_attempt": "2026-09-08T04:44:36.326233+00:00",
       "next_retry_at": "2026-09-08T10:44:36.326235+00:00",
       "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/save-the-tigers-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/save-the-tigers-2026-full-series-download",
+      "movie": {
+        "name": "Save The Tigers",
+        "category": "Disney Hotstar",
+        "year": "2023",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-1.38.46-AM.webp",
+        "source_url": "https://cinefreak.net/save-the-tigers-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
+      "last_attempt": "2026-09-09T00:29:27.033060+00:00",
+      "next_retry_at": "2026-09-09T06:29:27.033063+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-08T21:24:06.208685+00:00"
+  "updated_at": "2026-09-09T00:29:27.076298+00:00"
 }

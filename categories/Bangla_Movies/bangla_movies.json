@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 94,
-    "last_updated": "2026-09-08 | 16:43:39 (UTC)",
+    "total_movies": 95,
+    "last_updated": "2026-09-09 | 00:19:35 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -810,6 +810,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Neel%20Chokro%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bhaggyo Lokkhi",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEPUuaJAeT3hua4eF9h5RvCMu9y.jpg",
+      "source_url": "https://cinefreak.net/bhaggyo-lokkhi-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bhaggyolokkhi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
     },
