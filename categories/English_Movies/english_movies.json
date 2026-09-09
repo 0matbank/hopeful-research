@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 40,
-    "last_updated": "2026-09-09 | 07:28:07 (UTC)",
+    "total_movies": 50,
+    "last_updated": "2026-09-09 | 15:30:14 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -162,6 +162,74 @@
       ]
     },
     {
+      "name": "PAW Patrol: The Dino Movie",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+      "source_url": "https://cinefreak.net/paw-patrol-the-dino-movie-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Drawn Together",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+      "source_url": "https://cinefreak.net/drawn-together-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "One Night Only",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkrK2U1n1cQMymG7sIJ2XbEZPi.jpg",
+      "source_url": "https://cinefreak.net/one-night-only-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Moana",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "source_url": "https://cinefreak.net/moana-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Moana%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Our Hero, Balthazar",
       "category": "English Movies",
       "year": "2025",
@@ -227,6 +295,49 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Wind%20Walkers%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Last Days",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kg0FHevBu2SiSa3i9DtOxSa1vNr.jpg",
+      "source_url": "https://cinefreak.net/last-days-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Last%20Days%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Last%20Days%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "How To Make A Killing",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oovadj4TsgCuAGfd5LhDP19ZCYD.jpg",
+      "source_url": "https://cinefreak.net/how-to-make-a-killing-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20How%20to%20Make%20a%20Killing%20%282024%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "President Down",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGhd4DurS1rhmNOb7b9EeobQTPe.jpg",
+      "source_url": "https://cinefreak.net/president-down-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20President%20Down%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p.mkv"
         }
       ]
     },
@@ -382,6 +493,19 @@
       ]
     },
     {
+      "name": "Lady Bloodfight",
+      "category": "English Movies",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZzETrYegrB6pYpHKKzdwux6Km.jpg",
+      "source_url": "https://cinefreak.net/lady-bloodfight-2016-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lady%20Bloodfight%20%282016%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Need For Speed",
       "category": "English Movies",
       "year": "2014",
@@ -408,6 +532,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Monster%20Beach%20%282014%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Deadly Virtues: Love. Honour. Obey.",
+      "category": "English Movies",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uCkeMxYv7WNqko2oMWt7IuvV5G.jpg",
+      "source_url": "https://cinefreak.net/deadly-virtues-love-honour-obey-2014-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Deadly%20Virtues%20Love%20Honour%20Obey%20%282014%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -498,6 +635,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Hitch",
+      "category": "English Movies",
+      "year": "2005",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+      "source_url": "https://cinefreak.net/hitch-2005-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
