@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
 TOTAL MOVIES: 84
-LAST UPDATED: 2026-09-05 | 09:20:42 (UTC)
+LAST UPDATED: 2026-09-09 | 07:29:39 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -370,14 +370,8 @@ Category: Hindi Dubbed Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -491,11 +485,11 @@ Category: Hindi Dubbed Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FdB3kXZbQnZVLoOv37by69VS1K.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Line-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20HQ%201080p.mkv
+STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Line-Tamil%5D%201080p%20ESub.mkv
 
 ================================================================================
 

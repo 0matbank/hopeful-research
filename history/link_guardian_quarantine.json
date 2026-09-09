@@ -185,9 +185,9 @@
         "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bhuto%20Purbo%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-06T22:16:33.551224+00:00",
-      "last_attempt": "2026-09-06T22:16:33.551235+00:00",
-      "next_retry_at": "2026-09-07T04:16:33.551237+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-09T07:25:50.127702+00:00",
+      "next_retry_at": "2026-09-09T19:25:50.127718+00:00",
+      "attempt_count": 2
     },
     "banglamovies::https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -434,7 +434,41 @@
       "last_attempt": "2026-09-09T00:29:27.033060+00:00",
       "next_retry_at": "2026-09-09T06:29:27.033063+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/in-the-grey-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/in-the-grey-2026-full-movie-download",
+      "movie": {
+        "name": "In The Grey",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "source_url": "https://cinefreak.net/in-the-grey-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-09T07:28:07.661083+00:00",
+      "last_attempt": "2026-09-09T07:28:07.661094+00:00",
+      "next_retry_at": "2026-09-09T13:28:07.661097+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-09T00:29:27.076298+00:00"
+  "updated_at": "2026-09-09T07:30:42.735967+00:00"
 }

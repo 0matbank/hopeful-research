@@ -260,5 +260,16 @@
     ],
     "last_attempt": "2026-09-08T04:44:36.200927+00:00",
     "attempt_count": 1
+  },
+  "englishmovies::inthegrey": {
+    "name": "In The Grey",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-09T07:26:48.139885+00:00",
+    "attempt_count": 1
   }
 }
