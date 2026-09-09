@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 95,
-    "last_updated": "2026-09-09 | 00:19:35 (UTC)",
+    "total_movies": 101,
+    "last_updated": "2026-09-09 | 01:54:27 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -827,6 +827,75 @@
       ]
     },
     {
+      "name": "Tomar Jonno Mon",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/89FhSJlxR1RnCRjGRO6CZCiqlQY.jpg",
+      "source_url": "https://cinefreak.net/tomar-jonno-mon-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tomar%20Jonno%20Mon%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lokah Chapter 1: Chandra",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/10/LOKA-BENGLAI.webp",
+      "source_url": "https://cinefreak.net/lokah-chapter-1-chandra-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Grihapravesh",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRBuaEPaix3AAtPZdsH7IszYHP.jpg",
+      "source_url": "https://cinefreak.net/grihapravesh-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Grihapravesh%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Wife",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6kAtV2vg9KRk3zaBf2tMNEMZo3.jpg",
+      "source_url": "https://cinefreak.net/perfect-wife-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Wife%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Nokshi Kathar Jomin",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/10/Nokshi-Kathar-Jomin.jpg",
+      "source_url": "https://cinefreak.net/nokshi-kathar-jomin-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Nokshi%20Kathar%20Jomin%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Abigail",
       "category": "Bangla Movies",
       "year": "2024",
@@ -1048,6 +1117,32 @@
       ]
     },
     {
+      "name": "Haami",
+      "category": "Bangla Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyZ6SSV8F7yQxEiYCk2QSgzLIXI.jpg",
+      "source_url": "https://cinefreak.net/haami-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Haami%20%282022%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Jodi Kintu Tobuo",
+      "category": "Bangla Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAuP8yq4rAPAQjHFa8AqpVSB5pQ.jpg",
+      "source_url": "https://cinefreak.net/jodi-kintu-tobuo-2021-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Jodi%20Kintu%20Tobuo%20%282021%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Cat Sticks",
       "category": "Bangla Movies",
       "year": "2019",
@@ -1122,19 +1217,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Aami%20Ashbo%20Phirey%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Haami",
-      "category": "Bangla Movies",
-      "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyZ6SSV8F7yQxEiYCk2QSgzLIXI.jpg",
-      "source_url": "https://cinefreak.net/haami-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Haami%20%282022%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },

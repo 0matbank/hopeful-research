@@ -123,6 +123,30 @@
         "last_failed_at": "2026-09-08T15:33:27.761678+00:00",
         "retry_after_epoch": 1788924807,
         "retry_after": "2026-09-09T03:33:27.761678+00:00"
+      },
+      "https://cinefreak.net/srabon-josnay-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-toffee-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-09T01:54:26.570527+00:00",
+        "retry_after_epoch": 1788962066,
+        "retry_after": "2026-09-09T13:54:26.570527+00:00"
+      },
+      "https://cinefreak.net/fereshteh-2025-bengali-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-09T01:54:26.616321+00:00",
+        "retry_after_epoch": 1788962066,
+        "retry_after": "2026-09-09T13:54:26.616321+00:00"
+      },
+      "https://cinefreak.net/tento-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-09T01:54:26.616354+00:00",
+        "retry_after_epoch": 1788962066,
+        "retry_after": "2026-09-09T13:54:26.616354+00:00"
+      },
+      "https://cinefreak.net/plan-b-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-09T01:54:27.123407+00:00",
+        "retry_after_epoch": 1788962067,
+        "retry_after": "2026-09-09T13:54:27.123407+00:00"
       }
     },
     "Tamil Movies": {
