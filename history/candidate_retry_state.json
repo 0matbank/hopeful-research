@@ -527,6 +527,24 @@
         "last_failed_at": "2026-09-10T01:49:43.673676+00:00",
         "retry_after_epoch": 1789048183,
         "retry_after": "2026-09-10T13:49:43.673676+00:00"
+      },
+      "https://cinefreak.net/why-did-i-get-married-again-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-10T15:26:22.949162+00:00",
+        "retry_after_epoch": 1789097182,
+        "retry_after": "2026-09-11T03:26:22.949162+00:00"
+      },
+      "https://cinefreak.net/where-hope-grows-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-10T15:26:23.499659+00:00",
+        "retry_after_epoch": 1789097183,
+        "retry_after": "2026-09-11T03:26:23.499659+00:00"
+      },
+      "https://cinefreak.net/alexander-2004-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-10T15:26:23.499694+00:00",
+        "retry_after_epoch": 1789097183,
+        "retry_after": "2026-09-11T03:26:23.499694+00:00"
       }
     }
   }
