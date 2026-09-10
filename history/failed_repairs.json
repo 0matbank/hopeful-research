@@ -316,5 +316,69 @@
     ],
     "last_attempt": "2026-09-10T16:38:14.674527+00:00",
     "attempt_count": 1
+  },
+  "banglamovies::bibipayra": {
+    "name": "Bibi Payra",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv",
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-10T20:59:18.245360+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::danterlorai": {
+    "name": "Danter Lorai",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Danter%20Lorai%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-10T20:59:35.627665+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::dimlight": {
+    "name": "Dimlight",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Dimlight%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-10T20:59:53.236219+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::aranyarprachinprobad": {
+    "name": "Aranyar Prachin Probad",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-10T21:00:11.306406+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::abarbochhorkooripore": {
+    "name": "Abar Bochhor Koori Pore",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Abar%20Bochhor%20Koori%20Pore%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-10T21:00:30.402917+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::amisubhashbolchi": {
+    "name": "Ami Subhash Bolchi",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-10T21:01:05.343649+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::shivathetinymenfrommountain": {
+    "name": "Shiva The Tiny Men From Mountain",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-10T21:04:00.924429+00:00",
+    "attempt_count": 1
   }
 }

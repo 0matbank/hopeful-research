@@ -26,9 +26,9 @@
         "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T13:39:41.838971+00:00",
-      "last_attempt": "2026-09-07T18:46:48.735790+00:00",
-      "next_retry_at": "2026-09-10T18:46:48.735804+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-09-10T20:56:04.627144+00:00",
+      "next_retry_at": "2026-09-13T20:56:04.627160+00:00",
+      "attempt_count": 7
     },
     "kannadamovies::https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -612,7 +612,180 @@
       "last_attempt": "2026-09-10T16:38:14.751830+00:00",
       "next_retry_at": "2026-09-10T22:38:14.751831+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bibi-payra-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bibi-payra-2026-full-movie-download",
+      "movie": {
+        "name": "Bibi Payra",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1HafVAujBlpahAILY96SbhbsVq.jpg",
+        "source_url": "https://cinefreak.net/bibi-payra-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv",
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-10T21:01:05.462330+00:00",
+      "last_attempt": "2026-09-10T21:01:05.462346+00:00",
+      "next_retry_at": "2026-09-11T03:01:05.462351+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/danter-lorai-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/danter-lorai-2025-full-movie-download",
+      "movie": {
+        "name": "Danter Lorai",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNDBhNWItZTQ4ZC00MWM5LTlmYmYtNzk1YzU1NGFlMzBiXkEyXkFqcGc@._V1_.jpg",
+        "source_url": "https://cinefreak.net/danter-lorai-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Danter%20Lorai%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Danter%20Lorai%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T21:01:05.462755+00:00",
+      "last_attempt": "2026-09-10T21:01:05.462762+00:00",
+      "next_retry_at": "2026-09-11T03:01:05.462764+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/dimlight-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/dimlight-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Dimlight",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sQiIcEgT0Ey4wg6PO0Wc5duZ0E.jpg",
+        "source_url": "https://cinefreak.net/dimlight-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Dimlight%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Dimlight%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-10T21:01:05.463052+00:00",
+      "last_attempt": "2026-09-10T21:01:05.463060+00:00",
+      "next_retry_at": "2026-09-11T03:01:05.463064+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Aranyar Prachin Probad",
+        "category": "Bangla Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pusGs1xtqN6du26hC0fFavF22Qy.jpg",
+        "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T21:01:05.463307+00:00",
+      "last_attempt": "2026-09-10T21:01:05.463313+00:00",
+      "next_retry_at": "2026-09-11T03:01:05.463315+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download",
+      "movie": {
+        "name": "Abar Bochhor Koori Pore",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ye2UHIBz3CTA9a0PnSpipatd4n8.jpg",
+        "source_url": "https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Abar%20Bochhor%20Koori%20Pore%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Abar%20Bochhor%20Koori%20Pore%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T21:01:05.463481+00:00",
+      "last_attempt": "2026-09-10T21:01:05.463486+00:00",
+      "next_retry_at": "2026-09-11T03:01:05.463488+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download",
+      "movie": {
+        "name": "Ami Subhash Bolchi",
+        "category": "Bangla Movies",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rajm22lB3daWdqrAQSpz8vZXRq3.jpg",
+        "source_url": "https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
+      "last_attempt": "2026-09-10T21:01:05.463730+00:00",
+      "next_retry_at": "2026-09-11T03:01:05.463732+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Shiva The Tiny Men From Mountain",
+        "category": "Bangla Dubbed",
+        "year": "2019",
+        "poster": "https://i.postimg.cc/FsSNXsn1/Screenshot-2.jpg",
+        "source_url": "https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
+      "last_attempt": "2026-09-10T21:04:01.023742+00:00",
+      "next_retry_at": "2026-09-11T03:04:01.023745+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-10T16:38:14.765370+00:00"
+  "updated_at": "2026-09-10T21:04:01.040627+00:00"
 }
