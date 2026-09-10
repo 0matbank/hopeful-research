@@ -257,9 +257,9 @@
         "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809094+00:00",
-      "last_attempt": "2026-09-07T00:03:01.809106+00:00",
-      "next_retry_at": "2026-09-07T06:03:01.809109+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-10T16:29:00.193194+00:00",
+      "next_retry_at": "2026-09-11T04:29:00.193213+00:00",
+      "attempt_count": 2
     },
     "banglamovies::https://cinefreak.net/swastik-sanket-2022-full-movie-download": {
       "category": "Bangla Movies",
@@ -492,7 +492,127 @@
       "last_attempt": "2026-09-10T11:27:38.343867+00:00",
       "next_retry_at": "2026-09-10T17:27:38.343870+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/lockdown-2026-bengali-hq-studio-dubbedfull-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/lockdown-2026-bengali-hq-studio-dubbedfull-movie-download",
+      "movie": {
+        "name": "Lockdown",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Lockdown-bangla.webp",
+        "source_url": "https://cinefreak.net/lockdown-2026-bengali-hq-studio-dubbedfull-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Lockdown%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Lockdown%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T16:38:14.751110+00:00",
+      "last_attempt": "2026-09-10T16:38:14.751120+00:00",
+      "next_retry_at": "2026-09-10T22:38:14.751122+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Motu Patlu & The Madness Of Multiverse",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Madness-Of-Multiverse-2025.jpg",
+        "source_url": "https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T16:38:14.751343+00:00",
+      "last_attempt": "2026-09-10T16:38:14.751347+00:00",
+      "next_retry_at": "2026-09-10T22:38:14.751348+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/maadeva-2025-full-movie-download-2": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
+      "movie": {
+        "name": "Maadeva",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Maadeva-2025.webp",
+        "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T16:38:14.751472+00:00",
+      "last_attempt": "2026-09-10T16:38:14.751477+00:00",
+      "next_retry_at": "2026-09-10T22:38:14.751482+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Motu Patlu & The Mighty Magnathor",
+        "category": "Bangla Dubbed",
+        "year": "2024",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmVkMTMxYWUtNDZiYy00N2RhLTk1YzEtMWJmZDRmODQ2YWE4XkEyXkFqcGc@._V1_SX600.jpg",
+        "source_url": "https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
+      "last_attempt": "2026-09-10T16:38:14.751641+00:00",
+      "next_retry_at": "2026-09-10T22:38:14.751643+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Kandahar",
+        "category": "Bangla Dubbed",
+        "year": "2010",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/12/Kandahar-2010.jpg",
+        "source_url": "https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
+      "last_attempt": "2026-09-10T16:38:14.751830+00:00",
+      "next_retry_at": "2026-09-10T22:38:14.751831+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-10T11:33:11.226873+00:00"
+  "updated_at": "2026-09-10T16:38:14.765370+00:00"
 }

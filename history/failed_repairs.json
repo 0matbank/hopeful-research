@@ -280,5 +280,41 @@
     ],
     "last_attempt": "2026-09-10T11:27:21.130170+00:00",
     "attempt_count": 1
+  },
+  "bangladubbed::lockdown": {
+    "name": "Lockdown",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Lockdown%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-10T16:29:35.577894+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::motupatluandthemadnessofmultiverse": {
+    "name": "Motu Patlu & The Madness Of Multiverse",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-10T16:35:41.199354+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::maadeva": {
+    "name": "Maadeva",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-10T16:36:33.663777+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::kandahar": {
+    "name": "Kandahar",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-10T16:38:14.674527+00:00",
+    "attempt_count": 1
   }
 }
