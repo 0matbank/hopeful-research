@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 50,
-    "last_updated": "2026-09-09 | 15:30:14 (UTC)",
+    "total_movies": 59,
+    "last_updated": "2026-09-10 | 01:49:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -230,6 +230,73 @@
       ]
     },
     {
+      "name": "The Girl In The River",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjTMUmxP3Wu1RRUqvBLGSLcYaee.jpg",
+      "source_url": "https://cinefreak.net/the-girl-in-the-river-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Girl%20In%20The%20River%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Splash City",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg",
+      "source_url": "https://cinefreak.net/splash-city-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Splash%20City%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dark Hollow",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s9IVDZetaGc8isbjslCZggsNSX.jpg",
+      "source_url": "https://cinefreak.net/dark-hollow-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dark%20Hollow%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Come With Me",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg",
+      "source_url": "https://cinefreak.net/come-with-me-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Come%20With%20Me%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "A Tale Of Two Cities",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+      "source_url": "https://cinefreak.net/a-tale-of-two-cities-2026-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20A%20Tale%20of%20Two%20Cities%20%5BS01E01%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Our Hero, Balthazar",
       "category": "English Movies",
       "year": "2025",
@@ -316,19 +383,6 @@
       ]
     },
     {
-      "name": "How To Make A Killing",
-      "category": "English Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oovadj4TsgCuAGfd5LhDP19ZCYD.jpg",
-      "source_url": "https://cinefreak.net/how-to-make-a-killing-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20How%20to%20Make%20a%20Killing%20%282024%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "President Down",
       "category": "English Movies",
       "year": "2025",
@@ -338,6 +392,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20President%20Down%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "How To Make A Killing",
+      "category": "English Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oovadj4TsgCuAGfd5LhDP19ZCYD.jpg",
+      "source_url": "https://cinefreak.net/how-to-make-a-killing-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20How%20to%20Make%20a%20Killing%20%282024%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -441,6 +508,19 @@
       ]
     },
     {
+      "name": "Sputnik",
+      "category": "English Movies",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg",
+      "source_url": "https://cinefreak.net/sputnik-2020-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sputnik%20%282020%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Coma",
       "category": "English Movies",
       "year": "2019",
@@ -489,6 +569,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Pokemon%20Detective%20Pikachu%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Stronger",
+      "category": "English Movies",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg",
+      "source_url": "https://cinefreak.net/stronger-2017-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Stronger%20%282017%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -652,6 +745,23 @@
       ]
     },
     {
+      "name": "Reindeer Games",
+      "category": "English Movies",
+      "year": "2000",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y1PedfYWllJVoBbkt9KWLY155v.jpg",
+      "source_url": "https://cinefreak.net/reindeer-games-2000-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Higher Learning",
       "category": "English Movies",
       "year": "1995",
@@ -674,6 +784,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Clueless",
+      "category": "English Movies",
+      "year": "1995",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "source_url": "https://cinefreak.net/clueless-1995-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Clueless%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },

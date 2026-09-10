@@ -520,6 +520,14 @@
         "retry_after_epoch": 1788843332,
         "retry_after": "2026-09-08T04:55:32.610785+00:00"
       }
+    },
+    "English Movies": {
+      "https://cinefreak.net/man-of-the-year-2006-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-10T01:49:43.673676+00:00",
+        "retry_after_epoch": 1789048183,
+        "retry_after": "2026-09-10T13:49:43.673676+00:00"
+      }
     }
   }
 }
