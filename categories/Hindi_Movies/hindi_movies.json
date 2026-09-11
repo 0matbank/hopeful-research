@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Hindi Movies",
     "total_movies": 77,
-    "last_updated": "2026-09-11 | 01:50:11 (UTC)",
+    "last_updated": "2026-09-11 | 15:27:42 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -800,6 +800,23 @@
       ]
     },
     {
+      "name": "Ghamasaan",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiiCF0MkRRNooqO53Esu0jtTYMJ.jpg",
+      "source_url": "https://cinefreak.net/ghamasaan-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Murder Files",
       "category": "Hindi Movies",
       "year": "2025",
@@ -865,23 +882,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Ghamasaan",
-      "category": "Hindi Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiiCF0MkRRNooqO53Esu0jtTYMJ.jpg",
-      "source_url": "https://cinefreak.net/ghamasaan-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },

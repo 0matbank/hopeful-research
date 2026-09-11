@@ -546,6 +546,68 @@
         "retry_after_epoch": 1789097183,
         "retry_after": "2026-09-11T03:26:23.499694+00:00"
       }
+    },
+    "Hindi Movies": {
+      "https://cinefreak.net/haiwaan-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:41.805416+00:00",
+        "retry_after_epoch": 1789183661,
+        "retry_after": "2026-09-12T03:27:41.805416+00:00"
+      },
+      "https://cinefreak.net/ateet-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:41.848194+00:00",
+        "retry_after_epoch": 1789183661,
+        "retry_after": "2026-09-12T03:27:41.848194+00:00"
+      },
+      "https://cinefreak.net/mirzapur-the-movie-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:41.907969+00:00",
+        "retry_after_epoch": 1789183661,
+        "retry_after": "2026-09-12T03:27:41.907969+00:00"
+      },
+      "https://cinefreak.net/gandhari-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:41.945742+00:00",
+        "retry_after_epoch": 1789183661,
+        "retry_after": "2026-09-12T03:27:41.945742+00:00"
+      },
+      "https://cinefreak.net/kushi-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:41.984885+00:00",
+        "retry_after_epoch": 1789183661,
+        "retry_after": "2026-09-12T03:27:41.984885+00:00"
+      },
+      "https://cinefreak.net/cirkus-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:42.052519+00:00",
+        "retry_after_epoch": 1789183662,
+        "retry_after": "2026-09-12T03:27:42.052519+00:00"
+      },
+      "https://cinefreak.net/loc-kargil-2003-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:42.077031+00:00",
+        "retry_after_epoch": 1789183662,
+        "retry_after": "2026-09-12T03:27:42.077031+00:00"
+      },
+      "https://cinefreak.net/maiin-haan-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:42.077061+00:00",
+        "retry_after_epoch": 1789183662,
+        "retry_after": "2026-09-12T03:27:42.077061+00:00"
+      },
+      "https://cinefreak.net/khoobsurat-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:42.077070+00:00",
+        "retry_after_epoch": 1789183662,
+        "retry_after": "2026-09-12T03:27:42.077070+00:00"
+      },
+      "https://cinefreak.net/well-done-c-a-sahab-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-11T15:27:42.119492+00:00",
+        "retry_after_epoch": 1789183662,
+        "retry_after": "2026-09-12T03:27:42.119492+00:00"
+      }
     }
   }
 }
