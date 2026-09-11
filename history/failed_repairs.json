@@ -416,5 +416,41 @@
     ],
     "last_attempt": "2026-09-11T00:18:46.887171+00:00",
     "attempt_count": 1
+  },
+  "disneyhotstar::agentzero": {
+    "name": "Agent Zero",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-11T04:54:36.190764+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::chrishemswortharoadtriptoremember": {
+    "name": "Chris Hemsworth: A Road Trip To Remember",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chris%20Hemsworth%20A%20Road%20Trip%20to%20Remember%20%282025%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-11T04:54:54.097835+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::expeditionamazon": {
+    "name": "Expedition Amazon",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Expedition%20Amazon%20%282024%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
+    ],
+    "last_attempt": "2026-09-11T04:55:11.442943+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::explorerlakeoffire": {
+    "name": "Explorer: Lake Of Fire",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Explorer%20Lake%20of%20Fire%20%282022%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
+    ],
+    "last_attempt": "2026-09-11T04:55:29.363540+00:00",
+    "attempt_count": 1
   }
 }
