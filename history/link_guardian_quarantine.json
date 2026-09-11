@@ -98,9 +98,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-09-08T11:24:42.891550+00:00",
-      "next_retry_at": "2026-09-11T11:24:42.891570+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-09-11T16:32:40.810233+00:00",
+      "next_retry_at": "2026-09-14T16:32:40.810253+00:00",
+      "attempt_count": 7
     },
     "kannadamovies::https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -1002,7 +1002,60 @@
       "last_attempt": "2026-09-11T11:41:02.562983+00:00",
       "next_retry_at": "2026-09-11T17:41:02.562985+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/our-hero-balthazar-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/our-hero-balthazar-2026-full-movie-download",
+      "movie": {
+        "name": "Our Hero, Balthazar",
+        "category": "English Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
+        "source_url": "https://cinefreak.net/our-hero-balthazar-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Our%20Hero%20Balthazar%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Our%20Hero%20Balthazar%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-11T16:36:56.751596+00:00",
+      "last_attempt": "2026-09-11T16:36:56.751612+00:00",
+      "next_retry_at": "2026-09-11T22:36:56.751615+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/oculus-2014-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/oculus-2014-full-movie-download",
+      "movie": {
+        "name": "Oculus",
+        "category": "English Movies",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg",
+        "source_url": "https://cinefreak.net/oculus-2014-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-11T16:36:56.752081+00:00",
+      "last_attempt": "2026-09-11T16:36:56.752090+00:00",
+      "next_retry_at": "2026-09-11T22:36:56.752095+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-11T11:41:02.582368+00:00"
+  "updated_at": "2026-09-11T16:36:56.775384+00:00"
 }

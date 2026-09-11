@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 65,
-    "last_updated": "2026-09-11 | 11:30:43 (UTC)",
+    "total_movies": 63,
+    "last_updated": "2026-09-11 | 16:36:56 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -15,7 +15,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Night%20Nurse%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Night%20Nurse%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -80,7 +80,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20My%20Best%20Friend%20His%20Girlfriend%20and%20Me%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20My%20Best%20Friend%20His%20Girlfriend%20and%20Me%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -297,19 +297,6 @@
       ]
     },
     {
-      "name": "Our Hero, Balthazar",
-      "category": "English Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
-      "source_url": "https://cinefreak.net/our-hero-balthazar-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Our%20Hero%20Balthazar%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Stand Your Ground",
       "category": "English Movies",
       "year": "2025",
@@ -318,11 +305,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -476,15 +463,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -709,23 +692,6 @@
       ]
     },
     {
-      "name": "Oculus",
-      "category": "English Movies",
-      "year": "2013",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg",
-      "source_url": "https://cinefreak.net/oculus-2014-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Oculus%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "RED 2",
       "category": "English Movies",
       "year": "2013",
@@ -807,7 +773,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -863,7 +829,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -928,11 +894,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
