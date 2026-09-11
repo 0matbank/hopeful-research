@@ -74,9 +74,9 @@
         "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.757409+00:00",
-      "last_attempt": "2026-09-08T04:43:01.008280+00:00",
-      "next_retry_at": "2026-09-11T04:43:01.008295+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-09-11T11:30:25.667988+00:00",
+      "next_retry_at": "2026-09-14T11:30:25.668006+00:00",
+      "attempt_count": 7
     },
     "kannadamovies::https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -881,7 +881,128 @@
       "last_attempt": "2026-09-11T05:00:16.898953+00:00",
       "next_retry_at": "2026-09-11T11:00:16.898955+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/coma-2020-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/coma-2020-full-movie-download",
+      "movie": {
+        "name": "Coma",
+        "category": "English Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hVEsBS4vnozB1yAsMiqW0IMxyp.jpg",
+        "source_url": "https://cinefreak.net/coma-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-11T11:30:43.757304+00:00",
+      "last_attempt": "2026-09-11T11:30:43.757318+00:00",
+      "next_retry_at": "2026-09-11T17:30:43.757321+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/pompeii-out-of-time-with-tom-hiddleston-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/pompeii-out-of-time-with-tom-hiddleston-2026-full-series-download",
+      "movie": {
+        "name": "Pompeii: Out Of Time With Tom Hiddleston",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnOYQ6uqxj5HEuXtVf1vSZicok.jpg",
+        "source_url": "https://cinefreak.net/pompeii-out-of-time-with-tom-hiddleston-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Pompeii%20Out%20of%20Time%20with%20Tom%20Hiddleston%20%282026%29%20S01%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Pompeii%20Out%20of%20Time%20with%20Tom%20Hiddleston%20%282026%29%20S01%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-11T11:41:02.562150+00:00",
+      "last_attempt": "2026-09-11T11:41:02.562164+00:00",
+      "next_retry_at": "2026-09-11T17:41:02.562166+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/mark-2025-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+      "movie": {
+        "name": "Mark",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+        "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-11T11:41:02.562549+00:00",
+      "last_attempt": "2026-09-11T11:41:02.562555+00:00",
+      "next_retry_at": "2026-09-11T17:41:02.562558+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/wild-life-2023-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/wild-life-2023-full-movie-download",
+      "movie": {
+        "name": "Wild Life",
+        "category": "Disney Hotstar",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gptHW5vSYZtRt13GmjT3fuRY9rY.jpg",
+        "source_url": "https://cinefreak.net/wild-life-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Wild%20Life%20%282023%29%20WEB-DL%20%5BEnglish%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Wild%20Life%20%282023%29%20WEB-DL%20%5BEnglish%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
+      ],
+      "quarantined_at": "2026-09-11T11:41:02.562828+00:00",
+      "last_attempt": "2026-09-11T11:41:02.562833+00:00",
+      "next_retry_at": "2026-09-11T17:41:02.562835+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/the-medium-2021-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/the-medium-2021-full-movie-download",
+      "movie": {
+        "name": "The Medium",
+        "category": "Disney Hotstar",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWoSE8SH6XhgWKHIL3p0sj7lA3V.jpg",
+        "source_url": "https://cinefreak.net/the-medium-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20Medium%20%282021%29%20BluRay%20%5BHindi-Thai%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20Medium%20%282021%29%20BluRay%20%5BHindi-Thai%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-11T11:41:02.562978+00:00",
+      "last_attempt": "2026-09-11T11:41:02.562983+00:00",
+      "next_retry_at": "2026-09-11T17:41:02.562985+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-11T05:00:16.919019+00:00"
+  "updated_at": "2026-09-11T11:41:02.582368+00:00"
 }

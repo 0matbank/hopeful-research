@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 66,
-    "last_updated": "2026-09-10 | 15:26:24 (UTC)",
+    "total_movies": 65,
+    "last_updated": "2026-09-11 | 11:30:43 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -563,19 +563,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sputnik%20%282020%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Coma",
-      "category": "English Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hVEsBS4vnozB1yAsMiqW0IMxyp.jpg",
-      "source_url": "https://cinefreak.net/coma-2020-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },

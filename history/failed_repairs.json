@@ -452,5 +452,41 @@
     ],
     "last_attempt": "2026-09-11T04:55:29.363540+00:00",
     "attempt_count": 1
+  },
+  "englishmovies::coma": {
+    "name": "Coma",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-11T11:30:43.674582+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::pompeiioutoftimewithtomhiddleston": {
+    "name": "Pompeii: Out Of Time With Tom Hiddleston",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Pompeii%20Out%20of%20Time%20with%20Tom%20Hiddleston%20%282026%29%20S01%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-11T11:37:23.660663+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::wildlife": {
+    "name": "Wild Life",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Wild%20Life%20%282023%29%20WEB-DL%20%5BEnglish%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
+    ],
+    "last_attempt": "2026-09-11T11:39:41.412554+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::themedium": {
+    "name": "The Medium",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20The%20Medium%20%282021%29%20BluRay%20%5BHindi-Thai%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-11T11:41:02.450301+00:00",
+    "attempt_count": 1
   }
 }
