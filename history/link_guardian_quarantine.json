@@ -257,9 +257,9 @@
         "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809094+00:00",
-      "last_attempt": "2026-09-10T16:29:00.193194+00:00",
-      "next_retry_at": "2026-09-11T04:29:00.193213+00:00",
-      "attempt_count": 2
+      "last_attempt": "2026-09-12T15:36:02.861301+00:00",
+      "next_retry_at": "2026-09-13T15:36:02.861318+00:00",
+      "attempt_count": 3
     },
     "banglamovies::https://cinefreak.net/swastik-sanket-2022-full-movie-download": {
       "category": "Bangla Movies",
@@ -1079,7 +1079,31 @@
       "last_attempt": "2026-09-11T21:02:29.348293+00:00",
       "next_retry_at": "2026-09-12T03:02:29.348296+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/1920-2008-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/1920-2008-full-movie-download",
+      "movie": {
+        "name": "1920",
+        "category": "Hindi Movies",
+        "year": "1920",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9rva37n3B27xHmcur8oxW8Ludi.jpg",
+        "source_url": "https://cinefreak.net/1920-2008-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%201920%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%201920%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-12T15:36:21.179762+00:00",
+      "last_attempt": "2026-09-12T15:36:21.179773+00:00",
+      "next_retry_at": "2026-09-12T21:36:21.179776+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-12T12:17:51.281811+00:00"
+  "updated_at": "2026-09-12T15:42:10.728539+00:00"
 }
