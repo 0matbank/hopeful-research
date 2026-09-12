@@ -281,9 +281,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809399+00:00",
-      "last_attempt": "2026-09-07T00:03:01.809405+00:00",
-      "next_retry_at": "2026-09-07T06:03:01.809408+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-12T18:27:53.139560+00:00",
+      "next_retry_at": "2026-09-13T06:27:53.139577+00:00",
+      "attempt_count": 2
     },
     "disneyhotstar::https://cinefreak.net/a-woman-called-mother-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -1103,7 +1103,103 @@
       "last_attempt": "2026-09-12T15:36:21.179773+00:00",
       "next_retry_at": "2026-09-12T21:36:21.179776+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/1921-2018-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/1921-2018-full-movie-download",
+      "movie": {
+        "name": "1921",
+        "category": "Hindi Movies",
+        "year": "1921",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEOwlojOgtbfdFrMANVwVohOqyY.jpg",
+        "source_url": "https://cinefreak.net/1921-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%201921%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%201921%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-12T18:32:42.043740+00:00",
+      "last_attempt": "2026-09-12T18:32:42.043756+00:00",
+      "next_retry_at": "2026-09-13T00:32:42.043759+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/1920-horrors-of-the-heart-2023-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/1920-horrors-of-the-heart-2023-full-movie-download",
+      "movie": {
+        "name": "1920 Horrors of the Heart",
+        "category": "Hindi Movies",
+        "year": "1920",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTe8eTiHocRLjMnx6ArBovQRqbe.jpg",
+        "source_url": "https://cinefreak.net/1920-horrors-of-the-heart-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%201920%20Horrors%20of%20the%20Heart%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%201920%20Horrors%20of%20the%20Heart%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-12T18:32:42.044021+00:00",
+      "last_attempt": "2026-09-12T18:32:42.044027+00:00",
+      "next_retry_at": "2026-09-13T00:32:42.044030+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/1920-london-2016-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/1920-london-2016-full-movie-download",
+      "movie": {
+        "name": "1920 London",
+        "category": "Hindi Movies",
+        "year": "1920",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rs4RBiOX8qoUG5bw1SlGFuzUYws.jpg",
+        "source_url": "https://cinefreak.net/1920-london-2016-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%201920%20London%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%201920%20London%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-12T18:32:42.044153+00:00",
+      "last_attempt": "2026-09-12T18:32:42.044156+00:00",
+      "next_retry_at": "2026-09-13T00:32:42.044158+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/1920-evil-returns-2012-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/1920-evil-returns-2012-full-movie-download",
+      "movie": {
+        "name": "1920 Evil Returns",
+        "category": "Hindi Movies",
+        "year": "1920",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGxYnL1fjDdzSbIowzyQTc4QNjY.jpg",
+        "source_url": "https://cinefreak.net/1920-evil-returns-2012-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%201920%20Evil%20Returns%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%201920%20Evil%20Returns%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-12T18:32:42.044264+00:00",
+      "last_attempt": "2026-09-12T18:32:42.044267+00:00",
+      "next_retry_at": "2026-09-13T00:32:42.044269+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-12T15:42:10.728539+00:00"
+  "updated_at": "2026-09-12T18:32:42.066755+00:00"
 }
