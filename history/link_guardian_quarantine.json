@@ -209,9 +209,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-06T22:16:33.551425+00:00",
-      "last_attempt": "2026-09-10T04:56:18.174301+00:00",
-      "next_retry_at": "2026-09-11T04:56:18.174318+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-09-12T07:13:04.673457+00:00",
+      "next_retry_at": "2026-09-14T07:13:04.673476+00:00",
+      "attempt_count": 4
     },
     "banglamovies::https://cinefreak.net/brombhodoityo-2020-full-movie-download": {
       "category": "Bangla Movies",
@@ -1081,5 +1081,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-12T00:27:42.959119+00:00"
+  "updated_at": "2026-09-12T07:18:38.478426+00:00"
 }
