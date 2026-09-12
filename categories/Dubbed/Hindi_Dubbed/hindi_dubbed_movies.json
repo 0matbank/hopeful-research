@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 84,
-    "last_updated": "2026-09-12 | 12:17:51 (UTC)",
+    "total_movies": 94,
+    "last_updated": "2026-09-12 | 14:34:29 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -911,6 +911,80 @@
       ]
     },
     {
+      "name": "Vishwanath & Sons",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDDTfzPEE2n6DcVizYUGjyDUz7X.jpg",
+      "source_url": "https://cinefreak.net/vishwanath-sons-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20and%20Sons%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20and%20Sons%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20&%20Sons%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20&%20Sons%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Maharaja Hostel",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7k2NhmlnMMRup94QbbCfBuct05.jpg",
+      "source_url": "https://cinefreak.net/maharaja-hostel-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Maharaja%20Hostel%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Maharaja%20Hostel%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Maharaja%20Hostel%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Prince Of Mollywood",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PO7OXg7U6GXTN09hbyGatbQvgB.jpg",
+      "source_url": "https://cinefreak.net/prince-of-mollywood-2026-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-04",
+          "resolution": "HD 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Prince%20of%20Mollywood%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "DCP Shankar",
+      "category": "Hindi Dubbed Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w500/owTGigIkRTcrbDLenLfaH2vhoqa.jpg",
+      "source_url": "https://cinefreak.net/dcp-shankar-the-destroyer-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20DCP%20Shankar%20The%20Destroyer%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Hindi Dubbed Movies",
       "year": "2025",
@@ -1108,6 +1182,19 @@
       ]
     },
     {
+      "name": "Dexter",
+      "category": "Hindi Dubbed Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jLbZlzNOfHQgD0a1wgtBuscriZ.jpg",
+      "source_url": "https://cinefreak.net/dexter-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Dexter%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Honeymoon Express",
       "category": "Hindi Dubbed Movies",
       "year": "2024",
@@ -1134,6 +1221,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ramana%20Avatara%20%282024%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aarata",
+      "category": "Hindi Dubbed Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPZV8segFQe3Dn7pTfmMOLxDMyn.jpg",
+      "source_url": "https://cinefreak.net/aarata-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Aarata%20%282024%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1224,6 +1324,44 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thugs%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Por Thozhil",
+      "category": "Hindi Dubbed Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ2BbjGBDRW5Q5Q9jgEknuiEQ0f.jpg",
+      "source_url": "https://cinefreak.net/por-thozhil-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Parking",
+      "category": "Hindi Dubbed Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoCp5KcjnMp4FKSrHP3otsdog9l.jpg",
+      "source_url": "https://cinefreak.net/parking-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Parking%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Parking%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1372,6 +1510,19 @@
       ]
     },
     {
+      "name": "SR Kalyanamandapam",
+      "category": "Hindi Dubbed Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmKT6NrV64MBLLU6y1775lT9kb.jpg",
+      "source_url": "https://cinefreak.net/sr-kalyanamandapam-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20SR%20Kalyanamandapam%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Naan Sirithal",
       "category": "Hindi Dubbed Movies",
       "year": "2020",
@@ -1477,6 +1628,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kaashmora%20%282016%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Khushi",
+      "category": "Hindi Dubbed Movies",
+      "year": "2001",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/of4y70hwpWBCRKbfcsQMG6eg7jW.jpg",
+      "source_url": "https://cinefreak.net/khushi-2001-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Kushi%20%282001%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
