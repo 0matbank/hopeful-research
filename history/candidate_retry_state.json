@@ -607,6 +607,42 @@
         "last_failed_at": "2026-09-11T15:27:42.119492+00:00",
         "retry_after_epoch": 1789183662,
         "retry_after": "2026-09-12T03:27:42.119492+00:00"
+      },
+      "https://cinefreak.net/ginny-wedss-sunny-2-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-12T01:57:17.968712+00:00",
+        "retry_after_epoch": 1789221437,
+        "retry_after": "2026-09-12T13:57:17.968712+00:00"
+      },
+      "https://cinefreak.net/momacu-2026-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-12T01:57:17.983115+00:00",
+        "retry_after_epoch": 1789221437,
+        "retry_after": "2026-09-12T13:57:17.983115+00:00"
+      },
+      "https://cinefreak.net/the-man-who-feels-no-pain-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-12T01:57:18.293806+00:00",
+        "retry_after_epoch": 1789221438,
+        "retry_after": "2026-09-12T13:57:18.293806+00:00"
+      },
+      "https://cinefreak.net/lord-curzon-ki-haveli-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-12T01:57:18.472458+00:00",
+        "retry_after_epoch": 1789221438,
+        "retry_after": "2026-09-12T13:57:18.472458+00:00"
+      },
+      "https://cinefreak.net/unbroken-the-unmukt-chand-story-2026-hindi-web-dl-720p-1080p-4k-2160p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-12T01:57:18.472487+00:00",
+        "retry_after_epoch": 1789221438,
+        "retry_after": "2026-09-12T13:57:18.472487+00:00"
+      },
+      "https://cinefreak.net/bholaa-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-12T01:57:18.472499+00:00",
+        "retry_after_epoch": 1789221438,
+        "retry_after": "2026-09-12T13:57:18.472499+00:00"
       }
     }
   }

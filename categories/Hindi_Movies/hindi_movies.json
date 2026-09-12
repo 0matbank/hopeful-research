@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 77,
-    "last_updated": "2026-09-11 | 15:27:42 (UTC)",
+    "total_movies": 81,
+    "last_updated": "2026-09-12 | 01:57:18 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -817,6 +817,23 @@
       ]
     },
     {
+      "name": "Maa Behen",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfooTavEjaWh6krAcPpHp1CPj7E.jpg",
+      "source_url": "https://cinefreak.net/maa-behen-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Maa%20Behen%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Maa%20Behen%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Murder Files",
       "category": "Hindi Movies",
       "year": "2025",
@@ -1044,6 +1061,23 @@
       ]
     },
     {
+      "name": "Article 15",
+      "category": "Hindi Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egknEWNt2B0slG2OC0gSpLZdVHj.jpg",
+      "source_url": "https://cinefreak.net/article-15-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Article%2015%20%282019%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Article%2015%20%282019%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Meri Pyaari Bindu",
       "category": "Hindi Movies",
       "year": "2017",
@@ -1211,6 +1245,36 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Awarapan",
+      "category": "Hindi Movies",
+      "year": "2007",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVArEukDbkfNjxsynes4PWI4nlk.jpg",
+      "source_url": "https://cinefreak.net/awarapan-2007-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Malamaal Weekly",
+      "category": "Hindi Movies",
+      "year": "2006",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGYn1rK0XBciKqnGHtLSnzJw6Gf.jpg",
+      "source_url": "https://cinefreak.net/malamaal-weekly-2006-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Malamaal%20Weekly%20%282006%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
