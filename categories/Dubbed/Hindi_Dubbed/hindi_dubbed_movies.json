@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 94,
-    "last_updated": "2026-09-13 | 01:45:23 (UTC)",
+    "total_movies": 95,
+    "last_updated": "2026-09-13 | 15:14:10 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -1179,6 +1179,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Dexter%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mark",
+      "category": "Hindi Dubbed Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+      "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
         }
       ]
     },

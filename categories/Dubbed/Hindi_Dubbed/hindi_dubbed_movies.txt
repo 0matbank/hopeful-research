@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
-TOTAL MOVIES: 94
-LAST UPDATED: 2026-09-13 | 01:45:23 (UTC)
+TOTAL MOVIES: 95
+LAST UPDATED: 2026-09-13 | 15:14:10 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -971,6 +971,17 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-66
+Movie name: Mark
+Category: Hindi Dubbed Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-67
 Movie name: Honeymoon Express
 Category: Hindi Dubbed Movies
 Year: 2024
@@ -984,7 +995,7 @@ STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-67
+Movie-68
 Movie name: Ramana Avatara
 Category: Hindi Dubbed Movies
 Year: 2024
@@ -995,7 +1006,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-68
+Movie-69
 Movie name: Aarata
 Category: Hindi Dubbed Movies
 Year: 2024
@@ -1006,7 +1017,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-69
+Movie-70
 Movie name: Christy
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1020,7 +1031,7 @@ STREAM Link 2: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-70
+Movie-71
 Show name: Thank You Teacher
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1038,7 +1049,7 @@ Episode: Episode 13-16
 
 ================================================================================
 
-Movie-71
+Movie-72
 Movie name: Maruthi Nagar Police Station
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1049,7 +1060,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-72
+Movie-73
 Movie name: Kadina Kadoramee Andakadaham
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1060,7 +1071,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-73
+Movie-74
 Movie name: CSI Sanatan
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1071,7 +1082,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-74
+Movie-75
 Movie name: Thugs
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1082,7 +1093,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-75
+Movie-76
 Movie name: Por Thozhil
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1099,7 +1110,7 @@ STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-76
+Movie-77
 Movie name: Parking
 Category: Hindi Dubbed Movies
 Year: 2023
@@ -1113,7 +1124,7 @@ STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-77
+Movie-78
 Movie name: Love Mocktail 2
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1127,7 +1138,7 @@ STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-78
+Movie-79
 Movie name: The Ghost
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1147,7 +1158,7 @@ STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-79
+Movie-80
 Movie name: Heaven
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1161,7 +1172,7 @@ STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-80
+Movie-81
 Movie name: Ini Utharam
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1172,7 +1183,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-81
+Movie-82
 Movie name: Sita Ramam
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1192,7 +1203,7 @@ STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-82
+Movie-83
 Movie name: Har Har Mahadev
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1206,7 +1217,7 @@ STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-83
+Movie-84
 Movie name: Garuda Gamana Vrishabha Vahana
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1220,7 +1231,7 @@ STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-84
+Movie-85
 Movie name: Tuck Jagadish
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1231,7 +1242,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-85
+Movie-86
 Movie name: SR Kalyanamandapam
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1242,7 +1253,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-86
+Movie-87
 Movie name: Naan Sirithal
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1253,7 +1264,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-87
+Movie-88
 Movie name: Big Brother
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1264,7 +1275,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-88
+Movie-89
 Movie name: Mafia
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1278,7 +1289,7 @@ STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-89
+Movie-90
 Movie name: Oh! Baby
 Category: Hindi Dubbed Movies
 Year: 2019
@@ -1289,7 +1300,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-90
+Movie-91
 Show name: My Mowgli Boy
 Category: Hindi Dubbed Movies
 Year: 2019
@@ -1312,7 +1323,7 @@ Episode: Episode 21-25
 
 ================================================================================
 
-Movie-91
+Movie-92
 Movie name: Srirastu Subhamastu
 Category: Hindi Dubbed Movies
 Year: 2016
@@ -1323,7 +1334,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-92
+Movie-93
 Movie name: Kaashmora
 Category: Hindi Dubbed Movies
 Year: 2016
@@ -1334,7 +1345,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-93
+Movie-94
 Movie name: Khushi
 Category: Hindi Dubbed Movies
 Year: 2001
@@ -1345,7 +1356,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-94
+Movie-95
 Movie name: Prince No 1
 Category: Hindi Dubbed Movies
 Year: 2000

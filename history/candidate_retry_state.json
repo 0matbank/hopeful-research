@@ -465,16 +465,16 @@
         "retry_after": "2026-09-14T01:45:23.143317+00:00"
       },
       "https://cinefreak.net/uthama-puthiran-2010-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-13T01:45:23.143250+00:00",
-        "retry_after_epoch": 1789307123,
-        "retry_after": "2026-09-13T13:45:23.143250+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-13T15:14:10.664417+00:00",
+        "retry_after_epoch": 1789398850,
+        "retry_after": "2026-09-14T15:14:10.664417+00:00"
       },
       "https://cinefreak.net/mr-majnu-2019-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-13T01:45:23.143294+00:00",
-        "retry_after_epoch": 1789307123,
-        "retry_after": "2026-09-13T13:45:23.143294+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-13T15:14:10.664450+00:00",
+        "retry_after_epoch": 1789398850,
+        "retry_after": "2026-09-14T15:14:10.664450+00:00"
       }
     },
     "Disney Hotstar": {
