@@ -281,9 +281,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809399+00:00",
-      "last_attempt": "2026-09-12T18:27:53.139560+00:00",
-      "next_retry_at": "2026-09-13T06:27:53.139577+00:00",
-      "attempt_count": 2
+      "last_attempt": "2026-09-13T11:58:35.663902+00:00",
+      "next_retry_at": "2026-09-14T11:58:35.663923+00:00",
+      "attempt_count": 3
     },
     "disneyhotstar::https://cinefreak.net/a-woman-called-mother-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -1199,7 +1199,55 @@
       "last_attempt": "2026-09-12T18:32:42.044267+00:00",
       "next_retry_at": "2026-09-13T00:32:42.044269+00:00",
       "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/mark-2025-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+      "movie": {
+        "name": "Mark",
+        "category": "Kannada Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+        "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-13T12:06:52.674594+00:00",
+      "last_attempt": "2026-09-13T12:06:52.674610+00:00",
+      "next_retry_at": "2026-09-13T18:06:52.674612+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/the-terrorist-2018-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/the-terrorist-2018-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "The Terrorist",
+        "category": "Kannada Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4hb4kW0MhsQi2tF5ldWIbwsV8.jpg",
+        "source_url": "https://cinefreak.net/the-terrorist-2018-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Terrorist%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20The%20Terrorist%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-13T12:06:52.674969+00:00",
+      "last_attempt": "2026-09-13T12:06:52.674974+00:00",
+      "next_retry_at": "2026-09-13T18:06:52.674976+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-13T05:01:34.773753+00:00"
+  "updated_at": "2026-09-13T12:06:52.688093+00:00"
 }
