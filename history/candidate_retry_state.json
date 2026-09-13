@@ -453,16 +453,28 @@
     },
     "Hindi Dubbed Movies": {
       "https://cinefreak.net/blue-star-2024-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-05T09:20:42.002293+00:00",
-        "retry_after_epoch": 1788643242,
-        "retry_after": "2026-09-05T21:20:42.002293+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-13T01:45:23.143307+00:00",
+        "retry_after_epoch": 1789350323,
+        "retry_after": "2026-09-14T01:45:23.143307+00:00"
       },
       "https://cinefreak.net/anali-2026-full-movie-download": {
+        "failure_count": 2,
+        "last_failed_at": "2026-09-13T01:45:23.143317+00:00",
+        "retry_after_epoch": 1789350323,
+        "retry_after": "2026-09-14T01:45:23.143317+00:00"
+      },
+      "https://cinefreak.net/uthama-puthiran-2010-full-movie-download": {
         "failure_count": 1,
-        "last_failed_at": "2026-09-05T09:20:42.002326+00:00",
-        "retry_after_epoch": 1788643242,
-        "retry_after": "2026-09-05T21:20:42.002326+00:00"
+        "last_failed_at": "2026-09-13T01:45:23.143250+00:00",
+        "retry_after_epoch": 1789307123,
+        "retry_after": "2026-09-13T13:45:23.143250+00:00"
+      },
+      "https://cinefreak.net/mr-majnu-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-13T01:45:23.143294+00:00",
+        "retry_after_epoch": 1789307123,
+        "retry_after": "2026-09-13T13:45:23.143294+00:00"
       }
     },
     "Disney Hotstar": {
