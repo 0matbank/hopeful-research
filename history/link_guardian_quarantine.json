@@ -310,9 +310,9 @@
         "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:09:17.443560+00:00",
-      "last_attempt": "2026-09-07T00:09:17.443570+00:00",
-      "next_retry_at": "2026-09-07T06:09:17.443573+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-13T04:54:42.065541+00:00",
+      "next_retry_at": "2026-09-13T16:54:42.065564+00:00",
+      "attempt_count": 2
     },
     "kannadamovies::https://cinefreak.net/usiru-2025-full-movie-download": {
       "category": "Kannada Movies",
@@ -1201,5 +1201,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-12T22:26:46.550486+00:00"
+  "updated_at": "2026-09-13T05:01:34.773753+00:00"
 }
