@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 40,
-    "last_updated": "2026-09-13 | 12:06:52 (UTC)",
+    "total_movies": 41,
+    "last_updated": "2026-09-14 | 05:05:53 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -349,6 +349,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4"
+        }
+      ]
+    },
+    {
+      "name": "GST",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOzf9I1cXNN6MPeNQ7H35NAMNeh.jpg",
+      "source_url": "https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
