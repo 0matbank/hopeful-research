@@ -85,6 +85,48 @@
         "last_failed_at": "2026-09-14T02:03:57.012880+00:00",
         "retry_after_epoch": 1789394637,
         "retry_after": "2026-09-14T14:03:57.012880+00:00"
+      },
+      "https://cinefreak.net/amigos-doppel-dot-com-2024-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T15:19:22.383147+00:00",
+        "retry_after_epoch": 1789442362,
+        "retry_after": "2026-09-15T03:19:22.383147+00:00"
+      },
+      "https://cinefreak.net/adithya-varma-2019-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T15:19:22.383231+00:00",
+        "retry_after_epoch": 1789442362,
+        "retry_after": "2026-09-15T03:19:22.383231+00:00"
+      },
+      "https://cinefreak.net/a-aa-premi-2016-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T15:19:22.383252+00:00",
+        "retry_after_epoch": 1789442362,
+        "retry_after": "2026-09-15T03:19:22.383252+00:00"
+      },
+      "https://cinefreak.net/tej-i-love-you-2018-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T15:19:22.383263+00:00",
+        "retry_after_epoch": 1789442362,
+        "retry_after": "2026-09-15T03:19:22.383263+00:00"
+      },
+      "https://cinefreak.net/johaar-2025-bengali-dubbed-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T15:19:22.383273+00:00",
+        "retry_after_epoch": 1789442362,
+        "retry_after": "2026-09-15T03:19:22.383273+00:00"
+      },
+      "https://cinefreak.net/universal-soldier-regeneration-2009-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T15:19:23.092569+00:00",
+        "retry_after_epoch": 1789442363,
+        "retry_after": "2026-09-15T03:19:23.092569+00:00"
+      },
+      "https://cinefreak.net/bandhobi-2022-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T15:19:23.092589+00:00",
+        "retry_after_epoch": 1789442363,
+        "retry_after": "2026-09-15T03:19:23.092589+00:00"
       }
     },
     "Bangla Movies": {

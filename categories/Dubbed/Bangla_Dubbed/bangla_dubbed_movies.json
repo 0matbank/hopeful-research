@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 55,
-    "last_updated": "2026-09-14 | 02:03:57 (UTC)",
+    "total_movies": 58,
+    "last_updated": "2026-09-14 | 15:19:23 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -737,6 +737,27 @@
       ]
     },
     {
+      "name": "Descendants Of The Sun",
+      "category": "Bangla Dubbed",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/05/Descendants-of-the-Sun-Poster.jpg",
+      "source_url": "https://cinefreak.net/descendants-of-the-sun-2025-season-1-web-dl-bengali-dubbed-web-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-05",
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Descendants%20of%20the%20Sun%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%20Toffee%201080p.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 51-53",
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Descendants%20of%20the%20Sun%20%5BS01E51-53%5D%20WEB-DL%20%5BBengali%20ORG%5D%20Toffee%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Aliya Basu Gayab Hai",
       "category": "Bangla Dubbed",
       "year": "2024",
@@ -977,6 +998,19 @@
       ]
     },
     {
+      "name": "Manchi Lakshanalunna Abbayi",
+      "category": "Bangla Dubbed",
+      "year": "2018",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/09/mla.webp",
+      "source_url": "https://cinefreak.net/manchi-lakshanalunna-abbayi-mla-2018-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20MLA%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20BONGO%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "I",
       "category": "Bangla Dubbed",
       "year": "2015",
@@ -1025,6 +1059,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Universal Soldier: Day Of Reckoning",
+      "category": "Bangla Dubbed",
+      "year": "2012",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/09/Universal-Soldier-4.webp",
+      "source_url": "https://cinefreak.net/universal-soldier-day-of-reckoning-2012-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Universal%20Soldier%204%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%20BONGO%201080p.mkv"
         }
       ]
     },
