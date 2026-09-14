@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 58,
-    "last_updated": "2026-09-14 | 15:19:23 (UTC)",
+    "total_movies": 61,
+    "last_updated": "2026-09-14 | 17:32:04 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -758,6 +758,35 @@
       ]
     },
     {
+      "name": "Dirilis Ertugrul (Season 1",
+      "category": "Bangla Dubbed",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/07/S01.jpg",
+      "source_url": "https://cinefreak.net/dirilis-ertugrul-season-1-web-dl-bengali-toffee-web-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-05",
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dirilis%20Ertugrul%20%282025%29%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%20Toffee%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mistry",
+      "category": "Bangla Dubbed",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/06/Mistry-2025.webp",
+      "source_url": "https://cinefreak.net/mistry-2025-season-1-web-dl-dual-audio-hotstar-web-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mistry%20%282025%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Aliya Basu Gayab Hai",
       "category": "Bangla Dubbed",
       "year": "2024",
@@ -908,6 +937,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Manga%20Ambition%20%282023%29%20WEB-DL%20%5BBengali%20Dubbed%5D%20Darshoo%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Zara Hatke Zara Bachke",
+      "category": "Bangla Dubbed",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIziBCZWsDCzFbil4iT9TyUOnhT.jpg",
+      "source_url": "https://cinefreak.net/zara-hatke-zara-bachke-2023-web-dl-bengali-dub-org-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Zara%20Hatke%20Zara%20Bachke%20%282023%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },

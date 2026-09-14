@@ -127,6 +127,48 @@
         "last_failed_at": "2026-09-14T15:19:23.092589+00:00",
         "retry_after_epoch": 1789442363,
         "retry_after": "2026-09-15T03:19:23.092589+00:00"
+      },
+      "https://cinefreak.net/bilal-a-new-breed-of-hero-2016-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T17:32:02.367223+00:00",
+        "retry_after_epoch": 1789450322,
+        "retry_after": "2026-09-15T05:32:02.367223+00:00"
+      },
+      "https://cinefreak.net/bhamakalapam-2-super-housewife-2-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T17:32:02.367290+00:00",
+        "retry_after_epoch": 1789450322,
+        "retry_after": "2026-09-15T05:32:02.367290+00:00"
+      },
+      "https://cinefreak.net/dirilis-ertugrul-2025-season-5-web-dl-bengali-toffee-web-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T17:32:02.367306+00:00",
+        "retry_after_epoch": 1789450322,
+        "retry_after": "2026-09-15T05:32:02.367306+00:00"
+      },
+      "https://cinefreak.net/the-journey-ababil-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T17:32:02.367318+00:00",
+        "retry_after_epoch": 1789450322,
+        "retry_after": "2026-09-15T05:32:02.367318+00:00"
+      },
+      "https://cinefreak.net/kung-fu-football-2001-bengali-dubbed-web-dl-480p-720p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T17:32:02.367330+00:00",
+        "retry_after_epoch": 1789450322,
+        "retry_after": "2026-09-15T05:32:02.367330+00:00"
+      },
+      "https://cinefreak.net/kerala-crime-files-the-search-for-cpo-ambili-raju-2025-season-2-web-dl-dual-audio-hotstar-web-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T17:32:03.828508+00:00",
+        "retry_after_epoch": 1789450323,
+        "retry_after": "2026-09-15T05:32:03.828508+00:00"
+      },
+      "https://cinefreak.net/mumbaikar-2023-web-dl-bengali-dub-org-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T17:32:03.828537+00:00",
+        "retry_after_epoch": 1789450323,
+        "retry_after": "2026-09-15T05:32:03.828537+00:00"
       }
     },
     "Bangla Movies": {
