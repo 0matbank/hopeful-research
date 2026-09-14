@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
 TOTAL MOVIES: 67
-LAST UPDATED: 2026-09-10 | 11:33:11 (UTC)
+LAST UPDATED: 2026-09-14 | 19:32:42 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -14,7 +14,7 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2836MqQccrdG9hqzs6ZDfKBS
 Season: S01
 Episode: N/A
   Resolution-1: HD 1080P
-  Link-1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Baahubali%20The%20Torch%20Bearer%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+  Link-1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Baahubali%20The%20Torch%20Bearer%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -133,16 +133,10 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0rN6dUnvAAjIwKDLRSIdkrZcBA.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -678,10 +672,10 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep3Bhk34epfWY1LrRfyqZli07Cl.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -848,7 +842,7 @@ Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WHx9ryr1XigcqCudVJfA4IK0jC.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20A1%20Express%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20A1%20Express%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -964,7 +958,7 @@ Year: 2018
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hco2ELKdYmRBJAYOr2hn8qU0UkD.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Bluff%20Master%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Bluff%20Master%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -975,7 +969,7 @@ Year: 2018
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qawBFeXKfsUNIfnq4cTJbg1INFK.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Chal%20Mohan%20Ranga%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p.mkv
+STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Chal%20Mohan%20Ranga%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p.mkv
 
 ================================================================================
 
