@@ -43,6 +43,48 @@
         "last_failed_at": "2026-08-31T02:00:28.391467+00:00",
         "retry_after_epoch": 1788184828,
         "retry_after": "2026-08-31T14:00:28.391467+00:00"
+      },
+      "https://cinefreak.net/mirai-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T02:03:56.489982+00:00",
+        "retry_after_epoch": 1789394636,
+        "retry_after": "2026-09-14T14:03:56.489982+00:00"
+      },
+      "https://cinefreak.net/oh-my-love-orey-bujjiga-2020-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T02:03:56.490018+00:00",
+        "retry_after_epoch": 1789394636,
+        "retry_after": "2026-09-14T14:03:56.490018+00:00"
+      },
+      "https://cinefreak.net/mirage-2025-bengali-dubbed-bengali-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T02:03:56.490029+00:00",
+        "retry_after_epoch": 1789394636,
+        "retry_after": "2026-09-14T14:03:56.490029+00:00"
+      },
+      "https://cinefreak.net/sijjin-8-2025-dual-audio-bengali-dubbed-hindi-camrip-480p-720p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T02:03:56.490037+00:00",
+        "retry_after_epoch": 1789394636,
+        "retry_after": "2026-09-14T14:03:56.490037+00:00"
+      },
+      "https://cinefreak.net/inttelligent-2018-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T02:03:56.733505+00:00",
+        "retry_after_epoch": 1789394636,
+        "retry_after": "2026-09-14T14:03:56.733505+00:00"
+      },
+      "https://cinefreak.net/godse-joy-jonota-2024-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T02:03:57.012845+00:00",
+        "retry_after_epoch": 1789394637,
+        "retry_after": "2026-09-14T14:03:57.012845+00:00"
+      },
+      "https://cinefreak.net/f2-fun-and-frustration-2019-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-14T02:03:57.012880+00:00",
+        "retry_after_epoch": 1789394637,
+        "retry_after": "2026-09-14T14:03:57.012880+00:00"
       }
     },
     "Bangla Movies": {

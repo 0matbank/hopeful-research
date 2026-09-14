@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 52,
-    "last_updated": "2026-09-10 | 21:04:01 (UTC)",
+    "total_movies": 55,
+    "last_updated": "2026-09-14 | 02:03:57 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -304,7 +304,7 @@
       "name": "Emergency Room",
       "category": "Bangla Dubbed",
       "year": "2026",
-      "poster": "https://cineimg.xyz/images/6e1d5200a795935c009730c0fbb51ff0.jpg",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP37X9Qm0i8F3UucC6buI0MsI5z.jpg",
       "source_url": "https://cinefreak.net/emergency-room-2025-full-series-download",
       "res_list": [
         {
@@ -590,6 +590,27 @@
       ]
     },
     {
+      "name": "The Revolutionaries",
+      "category": "Bangla Dubbed",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
+      "source_url": "https://cinefreak.net/the-revolutionaries-2026-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 01-04",
+          "resolution": "HD 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 05-08",
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Secret Of The Shiledars",
       "category": "Bangla Dubbed",
       "year": "2025",
@@ -790,6 +811,20 @@
       ]
     },
     {
+      "name": "Save The Tigers",
+      "category": "Bangla Dubbed",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uyNd8UjItEU2M5W0YKULaxzWFm.jpg",
+      "source_url": "https://cinefreak.net/save-the-tigers-2023-full-series-download",
+      "res_list": [
+        {
+          "season": "S02",
+          "resolution": "HD 1080P",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282024%29%20S02%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Ayali",
       "category": "Bangla Dubbed",
       "year": "2023",
@@ -800,20 +835,6 @@
           "season": "S01",
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ayali%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Save The Tigers",
-      "category": "Bangla Dubbed",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uyNd8UjItEU2M5W0YKULaxzWFm.jpg",
-      "source_url": "https://cinefreak.net/save-the-tigers-2023-full-series-download",
-      "res_list": [
-        {
-          "season": "S02",
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282024%29%20S02%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
@@ -904,6 +925,19 @@
       ]
     },
     {
+      "name": "Bro Daddy",
+      "category": "Bangla Dubbed",
+      "year": "2022",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/10/bro-daddy.webp",
+      "source_url": "https://cinefreak.net/bro-daddy-2022-hq-bengali-hindi-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bro%20Daddy%20%282022%29%20WEB-DL%20%5BHQ%20Bengali-Hindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Kadakh",
       "category": "Bangla Dubbed",
       "year": "2019",
@@ -939,6 +973,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20KGF%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "category": "Bangla Dubbed",
+      "year": "2015",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/09/I-Virus-2015.webp",
+      "source_url": "https://cinefreak.net/i-virus-2015-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20-%20Virus%20%282015%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
         }
       ]
     },
