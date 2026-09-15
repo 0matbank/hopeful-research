@@ -189,30 +189,6 @@
       "next_retry_at": "2026-09-18T11:50:11.150628+00:00",
       "attempt_count": 5
     },
-    "banglamovies::https://cinefreak.net/brombhodoityo-2020-full-movie-download": {
-      "category": "Bangla Movies",
-      "source_url": "https://cinefreak.net/brombhodoityo-2020-full-movie-download",
-      "movie": {
-        "name": "Brombhodoityo",
-        "category": "Bangla Movies",
-        "year": "2020",
-        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Brombhodoityo-2020.webp",
-        "source_url": "https://cinefreak.net/brombhodoityo-2020-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bromhodoityo%20%282020%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bromhodoityo%20%282020%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-      ],
-      "quarantined_at": "2026-09-06T22:16:33.551731+00:00",
-      "last_attempt": "2026-09-13T16:23:04.687539+00:00",
-      "next_retry_at": "2026-09-15T16:23:04.687556+00:00",
-      "attempt_count": 4
-    },
     "banglamovies::https://cinefreak.net/nana-hee-2025-full-movie-download": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/nana-hee-2025-full-movie-download",
@@ -1328,7 +1304,105 @@
       "last_attempt": "2026-09-15T11:54:58.019178+00:00",
       "next_retry_at": "2026-09-15T17:54:58.019180+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/lingam-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/lingam-2026-full-series-download",
+      "movie": {
+        "name": "Lingam",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqO8IY6V9T8HNG4mefxPfyLzRpW.jpg",
+        "source_url": "https://cinefreak.net/lingam-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lingam%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lingam%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-15T17:11:13.762960+00:00",
+      "last_attempt": "2026-09-15T17:11:13.762974+00:00",
+      "next_retry_at": "2026-09-15T23:11:13.762976+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/lucky-2026-bengali-dubbed-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/lucky-2026-bengali-dubbed-full-movie-download",
+      "movie": {
+        "name": "Lucky",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/02/Lucky-2026.webp",
+        "source_url": "https://cinefreak.net/lucky-2026-bengali-dubbed-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Lucky%20The%20Superstar%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Lucky%20The%20Superstar%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-15T17:11:13.763374+00:00",
+      "last_attempt": "2026-09-15T17:11:13.763382+00:00",
+      "next_retry_at": "2026-09-15T23:11:13.763385+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/chutney-sambar-2024-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/chutney-sambar-2024-full-series-download",
+      "movie": {
+        "name": "Chutney Sambar",
+        "category": "Bangla Dubbed",
+        "year": "2024",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Chutney-Sambar-2024.webp",
+        "source_url": "https://cinefreak.net/chutney-sambar-2024-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chutney%20Sambar%20%282024%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chutney%20Sambar%20%282024%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-15T17:11:13.763812+00:00",
+      "last_attempt": "2026-09-15T17:11:13.763818+00:00",
+      "next_retry_at": "2026-09-15T23:11:13.763820+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/kadakh-2020-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/kadakh-2020-full-movie-download",
+      "movie": {
+        "name": "Kadakh",
+        "category": "Bangla Dubbed",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvnJ92WolGcVr72LxBKAXP6twY6.jpg",
+        "source_url": "https://cinefreak.net/kadakh-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kadakh%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kadakh%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-15T17:11:13.764203+00:00",
+      "last_attempt": "2026-09-15T17:11:13.764212+00:00",
+      "next_retry_at": "2026-09-15T23:11:13.764216+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-15T11:57:30.419678+00:00"
+  "updated_at": "2026-09-15T17:11:13.786463+00:00"
 }
