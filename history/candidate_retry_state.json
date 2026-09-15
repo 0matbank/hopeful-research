@@ -689,6 +689,12 @@
         "last_failed_at": "2026-09-10T15:26:23.499694+00:00",
         "retry_after_epoch": 1789097183,
         "retry_after": "2026-09-11T03:26:23.499694+00:00"
+      },
+      "https://cinefreak.net/quicksand-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-15T05:24:34.447604+00:00",
+        "retry_after_epoch": 1789493074,
+        "retry_after": "2026-09-15T17:24:34.447604+00:00"
       }
     },
     "Hindi Movies": {

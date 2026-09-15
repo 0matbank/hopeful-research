@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 62,
-    "last_updated": "2026-09-11 | 21:02:29 (UTC)",
+    "total_movies": 71,
+    "last_updated": "2026-09-15 | 05:24:36 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -297,6 +297,19 @@
       ]
     },
     {
+      "name": "Fall 2: Deadpoint",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "source_url": "https://cinefreak.net/fall-2-deadpoint-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Fall%202%20%282026%29%20CAM%20%5BEnglish%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Stand Your Ground",
       "category": "English Movies",
       "year": "2025",
@@ -408,6 +421,19 @@
       ]
     },
     {
+      "name": "In A Violent Nature",
+      "category": "English Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+      "source_url": "https://cinefreak.net/in-a-violent-nature-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20a%20Violent%20Nature%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "John Wick: Chapter 4",
       "category": "English Movies",
       "year": "2023",
@@ -455,6 +481,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "White Elephant",
+      "category": "English Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG56H40Y1BuHSPoWtEgDJsSgDBZ.jpg",
+      "source_url": "https://cinefreak.net/white-elephant-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20White%20Elephant%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -593,6 +632,36 @@
       ]
     },
     {
+      "name": "The Blackout",
+      "category": "English Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/avl9MEQhtvokNnzoWepkmHBZ2ss.jpg",
+      "source_url": "https://cinefreak.net/the-blackout-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Blackout%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Blackout%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Our House",
+      "category": "English Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg",
+      "source_url": "https://cinefreak.net/our-house-2018-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Our%20House%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Stronger",
       "category": "English Movies",
       "year": "2017",
@@ -709,6 +778,19 @@
       ]
     },
     {
+      "name": "Anonymous",
+      "category": "English Movies",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRjdFP0kqCPaDKeXgQtsb7how6e.jpg",
+      "source_url": "https://cinefreak.net/anonymous-2011-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anonymous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Casino Jack",
       "category": "English Movies",
       "year": "2010",
@@ -741,7 +823,7 @@
     {
       "name": "World's Greatest Dad",
       "category": "English Movies",
-      "year": "2009",
+      "year": "2010",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
       "source_url": "https://cinefreak.net/worlds-greatest-dad-2009-full-movie-download",
       "res_list": [
@@ -808,6 +890,19 @@
       ]
     },
     {
+      "name": "Donnie Brasco",
+      "category": "English Movies",
+      "year": "1997",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+      "source_url": "https://cinefreak.net/donnie-brasco-1997-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Donnie%20Brasco%20%281997%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Higher Learning",
       "category": "English Movies",
       "year": "1995",
@@ -843,6 +938,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Clueless%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Captain Ron",
+      "category": "English Movies",
+      "year": "1992",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/otnKFXvqFH2swlrNf2sNiXpnIsR.jpg",
+      "source_url": "https://cinefreak.net/captain-ron-1992-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Captain%20Ron%20%281992%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -899,6 +1007,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Brief Encounter",
+      "category": "English Movies",
+      "year": "1945",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+      "source_url": "https://cinefreak.net/brief-encounter-1945-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brief%20Encounter%20%281974%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     }
