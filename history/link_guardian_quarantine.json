@@ -185,9 +185,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-06T22:16:33.551425+00:00",
-      "last_attempt": "2026-09-12T07:13:04.673457+00:00",
-      "next_retry_at": "2026-09-14T07:13:04.673476+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-09-15T11:50:11.150610+00:00",
+      "next_retry_at": "2026-09-18T11:50:11.150628+00:00",
+      "attempt_count": 5
     },
     "banglamovies::https://cinefreak.net/brombhodoityo-2020-full-movie-download": {
       "category": "Bangla Movies",
@@ -1247,7 +1247,88 @@
       "last_attempt": "2026-09-14T19:28:40.651292+00:00",
       "next_retry_at": "2026-09-15T01:28:40.651299+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/abigail-2024-bengali-dubbed-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/abigail-2024-bengali-dubbed-full-movie-download",
+      "movie": {
+        "name": "Abigail",
+        "category": "Bangla Dubbed",
+        "year": "2024",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Abigail-2024.webp",
+        "source_url": "https://cinefreak.net/abigail-2024-bengali-dubbed-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-15T11:54:58.018755+00:00",
+      "last_attempt": "2026-09-15T11:54:58.018771+00:00",
+      "next_retry_at": "2026-09-15T17:54:58.018774+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/1000-babies-2024-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/1000-babies-2024-full-series-download",
+      "movie": {
+        "name": "1000 Babies",
+        "category": "Bangla Dubbed",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4NujYjc4GkbjWlwCJpybuFzFWt.jpg",
+        "source_url": "https://cinefreak.net/1000-babies-2024-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-04",
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 05-07",
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E05-07%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv",
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E05-07%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-15T11:54:58.018983+00:00",
+      "last_attempt": "2026-09-15T11:54:58.018987+00:00",
+      "next_retry_at": "2026-09-15T17:54:58.018989+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/2012-2009-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/2012-2009-full-movie-download",
+      "movie": {
+        "name": "2012",
+        "category": "Bangla Dubbed",
+        "year": "2012",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/2012-2009.webp",
+        "source_url": "https://cinefreak.net/2012-2009-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-15T11:54:58.019175+00:00",
+      "last_attempt": "2026-09-15T11:54:58.019178+00:00",
+      "next_retry_at": "2026-09-15T17:54:58.019180+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-15T05:04:19.601525+00:00"
+  "updated_at": "2026-09-15T11:57:30.419678+00:00"
 }

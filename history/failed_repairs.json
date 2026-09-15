@@ -488,5 +488,33 @@
     ],
     "last_attempt": "2026-09-11T11:41:02.450301+00:00",
     "attempt_count": 1
+  },
+  "bangladubbed::abigail": {
+    "name": "Abigail",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-15T11:51:15.264391+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::1000babies": {
+    "name": "1000 Babies",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv",
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%201000%20Babies%20%5BS01E05-07%5D%20WEB-DL%20%5BBengali-Hindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-15T11:52:57.919366+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::2012": {
+    "name": "2012",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-15T11:54:57.846397+00:00",
+    "attempt_count": 1
   }
 }
