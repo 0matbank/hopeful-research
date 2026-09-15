@@ -329,6 +329,12 @@
         "last_failed_at": "2026-09-01T15:56:45.801214+00:00",
         "retry_after_epoch": 1788321405,
         "retry_after": "2026-09-02T03:56:45.801214+00:00"
+      },
+      "https://cinefreak.net/kaliyugam-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-15T02:13:25.605901+00:00",
+        "retry_after_epoch": 1789481605,
+        "retry_after": "2026-09-15T14:13:25.605901+00:00"
       }
     },
     "Malayalam Movies": {

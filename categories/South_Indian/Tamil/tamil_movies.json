@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Tamil Movies",
-    "total_movies": 51,
-    "last_updated": "2026-09-14 | 19:28:40 (UTC)",
+    "total_movies": 60,
+    "last_updated": "2026-09-15 | 02:13:26 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -701,6 +701,87 @@
       ]
     },
     {
+      "name": "Mandaadi",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
+      "source_url": "https://cinefreak.net/mandaadi-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mandaadi%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sardar 2",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+      "source_url": "https://cinefreak.net/sardar-2-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sardar-2%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Magudam",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPsJfQHRw5QiwQqOoOQWkfBmnhE.jpg",
+      "source_url": "https://cinefreak.net/magudam-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Magudam%20%282026%29%20WEB-DL%20%5BTamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Ananthan Kaadu",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsTdBWZXPvl8kpK9Yr20xWH75PP.jpg",
+      "source_url": "https://cinefreak.net/ananthan-kaadu-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HQ%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "My Lord",
+      "category": "Tamil Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UqRp28DXtG8npwPsk0MelPGKhH.jpg",
+      "source_url": "https://cinefreak.net/my-lord-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20My%20Lord%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20My%20Lord%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Kenatha Kanom",
       "category": "Tamil Movies",
       "year": "2025",
@@ -783,6 +864,19 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Theeyavar%20Kulai%20Nadunga%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Trending",
+      "category": "Tamil Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6V1mmiMzoLjn4kW05LZ2Rqt3J2.jpg",
+      "source_url": "https://cinefreak.net/trending-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Trending%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -955,6 +1049,44 @@
       ]
     },
     {
+      "name": "Sardar",
+      "category": "Tamil Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6wfuQWN9QjUu3j63FAZ3uFL5pO.jpg",
+      "source_url": "https://cinefreak.net/sardar-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Kabadadaari",
+      "category": "Tamil Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4wi9r3nH55TOUuwq2uDGDLzbMl.jpg",
+      "source_url": "https://cinefreak.net/kabadadaari-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Kabadadaari%20%282021%29%20UNCut%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Naan Sirithal",
       "category": "Tamil Movies",
       "year": "2020",
@@ -1011,6 +1143,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Watchman",
+      "category": "Tamil Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRwDs5cw4JYGhsNEvGKYRCrtzlh.jpg",
+      "source_url": "https://cinefreak.net/watchman-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Watchman%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Watchman%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
