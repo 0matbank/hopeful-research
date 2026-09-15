@@ -209,9 +209,9 @@
         "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809094+00:00",
-      "last_attempt": "2026-09-13T20:54:13.620021+00:00",
-      "next_retry_at": "2026-09-15T20:54:13.620044+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-09-15T21:25:50.358336+00:00",
+      "next_retry_at": "2026-09-18T21:25:50.358357+00:00",
+      "attempt_count": 5
     },
     "banglamovies::https://cinefreak.net/swastik-sanket-2022-full-movie-download": {
       "category": "Bangla Movies",
@@ -1402,7 +1402,55 @@
       "last_attempt": "2026-09-15T17:11:13.764212+00:00",
       "next_retry_at": "2026-09-15T23:11:13.764216+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/saandrithazh-2026-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/saandrithazh-2026-full-movie-download",
+      "movie": {
+        "name": "Sakkhi",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Saandrithazh-2026.webp",
+        "source_url": "https://cinefreak.net/saandrithazh-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Saandrithazh%20-%20Sakkhi%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20Bongo%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Saandrithazh%20-%20Sakkhi%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20Bongo%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-15T21:45:13.065144+00:00",
+      "last_attempt": "2026-09-15T21:45:13.065160+00:00",
+      "next_retry_at": "2026-09-16T03:45:13.065163+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/motu-patlu-ka-goa-dhamaal-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/motu-patlu-ka-goa-dhamaal-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Motu Patlu Ka Goa Dhamaal",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-Ka-Goa-Dhamaal-2025.jpg",
+        "source_url": "https://cinefreak.net/motu-patlu-ka-goa-dhamaal-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Ka%20Goa%20Dhamaal%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Ka%20Goa%20Dhamaal%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-15T21:45:13.065428+00:00",
+      "last_attempt": "2026-09-15T21:45:13.065433+00:00",
+      "next_retry_at": "2026-09-16T03:45:13.065435+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-15T17:11:13.786463+00:00"
+  "updated_at": "2026-09-15T21:45:13.086515+00:00"
 }
