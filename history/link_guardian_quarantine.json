@@ -233,9 +233,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809399+00:00",
-      "last_attempt": "2026-09-13T11:58:35.663902+00:00",
-      "next_retry_at": "2026-09-14T11:58:35.663923+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-09-16T07:44:58.032345+00:00",
+      "next_retry_at": "2026-09-18T07:44:58.032368+00:00",
+      "attempt_count": 4
     },
     "disneyhotstar::https://cinefreak.net/a-woman-called-mother-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -1499,7 +1499,31 @@
       "last_attempt": "2026-09-16T00:36:23.692412+00:00",
       "next_retry_at": "2026-09-16T06:36:23.692415+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/ali-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/ali-2025-full-movie-download",
+      "movie": {
+        "name": "Ali",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/03/dceec777-c2c5-4296-9172-128a7367d6ec.webp",
+        "source_url": "https://cinefreak.net/ali-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ali%20%282025%29%20WEB-DL%20%5BBengali%5D%20Bongo%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ali%20%282025%29%20WEB-DL%20%5BBengali%5D%20Bongo%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-16T07:48:52.964037+00:00",
+      "last_attempt": "2026-09-16T07:48:52.964053+00:00",
+      "next_retry_at": "2026-09-16T13:48:52.964055+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-16T00:36:23.714683+00:00"
+  "updated_at": "2026-09-16T07:52:30.603194+00:00"
 }

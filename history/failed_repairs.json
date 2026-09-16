@@ -552,5 +552,14 @@
     ],
     "last_attempt": "2026-09-16T00:35:14.708187+00:00",
     "attempt_count": 1
+  },
+  "banglamovies::ali": {
+    "name": "Ali",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ali%20%282025%29%20WEB-DL%20%5BBengali%5D%20Bongo%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-16T07:46:08.931354+00:00",
+    "attempt_count": 1
   }
 }
