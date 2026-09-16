@@ -286,9 +286,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T12:51:24.396939+00:00",
-      "last_attempt": "2026-09-07T12:51:24.396959+00:00",
-      "next_retry_at": "2026-09-07T18:51:24.396963+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-16T18:14:34.437272+00:00",
+      "next_retry_at": "2026-09-17T06:14:34.437296+00:00",
+      "attempt_count": 2
     },
     "kannadamovies::https://cinefreak.net/chef-chidambara-2024-full-movie-download": {
       "category": "Kannada Movies",
@@ -1547,7 +1547,55 @@
       "last_attempt": "2026-09-16T13:41:11.898513+00:00",
       "next_retry_at": "2026-09-16T19:41:11.898515+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/hridita-2022-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/hridita-2022-full-movie-download",
+      "movie": {
+        "name": "Hridita",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1fKJix8x2VZjpJg2gi37OApmw0.jpg",
+        "source_url": "https://cinefreak.net/hridita-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Hridita%20%282022%29%20WEB-DL%20%5BBengali%5D%20EW%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Hridita%20%282022%29%20WEB-DL%20%5BBengali%5D%20EW%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-16T18:19:32.463643+00:00",
+      "last_attempt": "2026-09-16T18:19:32.463660+00:00",
+      "next_retry_at": "2026-09-17T00:19:32.463663+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/haami-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/haami-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Haami",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyZ6SSV8F7yQxEiYCk2QSgzLIXI.jpg",
+        "source_url": "https://cinefreak.net/haami-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Haami%20%282022%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Haami%20%282022%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-16T18:19:32.463961+00:00",
+      "last_attempt": "2026-09-16T18:19:32.463968+00:00",
+      "next_retry_at": "2026-09-17T00:19:32.463971+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-16T13:41:11.920842+00:00"
+  "updated_at": "2026-09-16T18:19:32.536966+00:00"
 }
