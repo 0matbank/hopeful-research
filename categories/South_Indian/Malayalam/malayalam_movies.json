@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 61,
-    "last_updated": "2026-09-14 | 00:22:35 (UTC)",
+    "total_movies": 68,
+    "last_updated": "2026-09-16 | 15:45:24 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -596,6 +596,36 @@
       ]
     },
     {
+      "name": "Kalamkaval",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9m8kyklpW8xWk1pxuKnPTx0F1b.jpg",
+      "source_url": "https://cinefreak.net/kalamkaval-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kalamkaval%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kalamkaval%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Varavu",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sjawSVPrR5liK2iy543k7J33G4.jpg",
+      "source_url": "https://cinefreak.net/varavu-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Varavu%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -707,23 +737,6 @@
       ]
     },
     {
-      "name": "Kalamkaval",
-      "category": "Malayalam Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9m8kyklpW8xWk1pxuKnPTx0F1b.jpg",
-      "source_url": "https://cinefreak.net/kalamkaval-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kalamkaval%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kalamkaval%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Eko",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -754,6 +767,78 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dominic%20and%20the%20Ladies%20Purse%20%282025%29%20WEB-DL%20%5BMalayalam%5D%20ZEE5%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dies Irae",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/123DlTiiezgLaJruVe7RiSi0RFf.jpg",
+      "source_url": "https://cinefreak.net/dies-irae-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Dies%20Irae%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Dies%20Irae%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Little Hearts",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDTHRLgYTUAZimgNsmG6t2Saabz.jpg",
+      "source_url": "https://cinefreak.net/little-hearts-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Little%20Hearts%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Avihitham",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPHdHjoUK2Hft5XpyYQ4s7XqxrE.jpg",
+      "source_url": "https://cinefreak.net/avihitham-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lokah: Chapter One",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/10/lokah.webp",
+      "source_url": "https://cinefreak.net/lokah-chapter-one-chandra-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -984,6 +1069,19 @@
       ]
     },
     {
+      "name": "Padmini",
+      "category": "Malayalam Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH5T9iztaJZ0NZDWiOOJfwzxUXI.jpg",
+      "source_url": "https://cinefreak.net/padmini-2023-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Padmini%20%282023%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Heaven",
       "category": "Malayalam Movies",
       "year": "2022",
@@ -1104,6 +1202,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Nine%209%20%282019%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "B Tech",
+      "category": "Malayalam Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCK2gixgOBjibqUIPATba2XXDKV.jpg",
+      "source_url": "https://cinefreak.net/b-tech-2018-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },

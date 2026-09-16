@@ -427,6 +427,24 @@
         "last_failed_at": "2026-09-03T01:52:34.674751+00:00",
         "retry_after_epoch": 1788443554,
         "retry_after": "2026-09-03T13:52:34.674751+00:00"
+      },
+      "https://cinefreak.net/karam-2025-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-16T15:45:24.083262+00:00",
+        "retry_after_epoch": 1789616724,
+        "retry_after": "2026-09-17T03:45:24.083262+00:00"
+      },
+      "https://cinefreak.net/oru-yamandan-premakadha-2019-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-amazon-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-16T15:45:24.083299+00:00",
+        "retry_after_epoch": 1789616724,
+        "retry_after": "2026-09-17T03:45:24.083299+00:00"
+      },
+      "https://cinefreak.net/shylock-2020-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-16T15:45:24.428622+00:00",
+        "retry_after_epoch": 1789616724,
+        "retry_after": "2026-09-17T03:45:24.428622+00:00"
       }
     },
     "Kannada Movies": {
