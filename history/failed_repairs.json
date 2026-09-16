@@ -570,5 +570,32 @@
     ],
     "last_attempt": "2026-09-16T18:17:26.520010+00:00",
     "attempt_count": 1
+  },
+  "banglamovies::jotokandokolkatatei": {
+    "name": "Joto Kando Kolkatatei",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Joto%20Kando%20Kolkatatei%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20HEVC.mkv"
+    ],
+    "last_attempt": "2026-09-16T21:25:47.117530+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::karnasubarnerguptodhon": {
+    "name": "Karnasubarner Guptodhon",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karnasubarner%20Guptodhon%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-16T21:28:00.211712+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::kishmish": {
+    "name": "Kishmish",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kishmish%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-16T21:28:51.783888+00:00",
+    "attempt_count": 1
   }
 }

@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
-TOTAL MOVIES: 41
-LAST UPDATED: 2026-09-14 | 05:05:53 (UTC)
+TOTAL MOVIES: 42
+LAST UPDATED: 2026-09-16 | 21:23:26 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -357,6 +357,20 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-28
+Movie name: Chef Chidambara
+Category: Kannada Movies
+Year: 2024
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAqYULyRX4yTEXkoM9erpVyeKnh.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv
+
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p.mkv
+
+================================================================================
+
+Movie-29
 Movie name: Gurudev Hoysala
 Category: Kannada Movies
 Year: 2023
@@ -367,7 +381,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
+Movie-30
 Movie name: Love Mocktail 2
 Category: Kannada Movies
 Year: 2022
@@ -381,7 +395,7 @@ STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
+Movie-31
 Movie name: Thurthu Nirgamana
 Category: Kannada Movies
 Year: 2022
@@ -392,7 +406,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-31
+Movie-32
 Movie name: Kantara
 Category: Kannada Movies
 Year: 2022
@@ -409,7 +423,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
+Movie-33
 Movie name: K.G.F: Chapter 2
 Category: Kannada Movies
 Year: 2022
@@ -441,7 +455,7 @@ STREAM Link 8: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-34
 Movie name: Inspector Vikram
 Category: Kannada Movies
 Year: 2021
@@ -452,7 +466,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-35
 Movie name: Hero
 Category: Kannada Movies
 Year: 2021
@@ -463,7 +477,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-36
 Movie name: Dia
 Category: Kannada Movies
 Year: 2020
@@ -474,7 +488,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
+Movie-37
 Movie name: Pailwaan
 Category: Kannada Movies
 Year: 2019
@@ -485,7 +499,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-38
 Movie name: Aa Karaala Ratri
 Category: Kannada Movies
 Year: 2018
@@ -496,7 +510,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
+Movie-39
 Movie name: K.G.F: Chapter 1
 Category: Kannada Movies
 Year: 2018
@@ -513,7 +527,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-39
+Movie-40
 Movie name: Rangi Taranga
 Category: Kannada Movies
 Year: 2015
@@ -527,7 +541,7 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET
 
 ================================================================================
 
-Movie-40
+Movie-41
 Movie name: Ugramm
 Category: Kannada Movies
 Year: 2014
@@ -538,7 +552,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-41
+Movie-42
 Show name: Healer
 Category: Kannada Movies
 Year: 2014

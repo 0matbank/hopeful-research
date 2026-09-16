@@ -290,30 +290,6 @@
       "next_retry_at": "2026-09-17T06:14:34.437296+00:00",
       "attempt_count": 2
     },
-    "kannadamovies::https://cinefreak.net/chef-chidambara-2024-full-movie-download": {
-      "category": "Kannada Movies",
-      "source_url": "https://cinefreak.net/chef-chidambara-2024-full-movie-download",
-      "movie": {
-        "name": "Chef Chidambara",
-        "category": "Kannada Movies",
-        "year": "2024",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAqYULyRX4yTEXkoM9erpVyeKnh.jpg",
-        "source_url": "https://cinefreak.net/chef-chidambara-2024-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
-      ],
-      "quarantined_at": "2026-09-07T12:51:24.397353+00:00",
-      "last_attempt": "2026-09-07T12:51:24.397361+00:00",
-      "next_retry_at": "2026-09-07T18:51:24.397363+00:00",
-      "attempt_count": 1
-    },
     "banglamovies::https://cinefreak.net/tilottoma-2024-full-movie-download": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/tilottoma-2024-full-movie-download",
@@ -1595,7 +1571,79 @@
       "last_attempt": "2026-09-16T18:19:32.463968+00:00",
       "next_retry_at": "2026-09-17T00:19:32.463971+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/joto-kando-kolkatatei-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/joto-kando-kolkatatei-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Joto Kando Kolkatatei",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvEms19SDDMc4KAMza0vOwJMhhZ.jpg",
+        "source_url": "https://cinefreak.net/joto-kando-kolkatatei-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Joto%20Kando%20Kolkatatei%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20HEVC.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Joto%20Kando%20Kolkatatei%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20HEVC.mkv"
+      ],
+      "quarantined_at": "2026-09-16T21:29:53.493705+00:00",
+      "last_attempt": "2026-09-16T21:29:53.493721+00:00",
+      "next_retry_at": "2026-09-17T03:29:53.493725+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/karnasubarner-guptodhon-2022-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/karnasubarner-guptodhon-2022-full-movie-download",
+      "movie": {
+        "name": "Karnasubarner Guptodhon",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8T2lOstnWmfYg4NWOFWFguTn8uv.jpg",
+        "source_url": "https://cinefreak.net/karnasubarner-guptodhon-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karnasubarner%20Guptodhon%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karnasubarner%20Guptodhon%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-16T21:29:53.494143+00:00",
+      "last_attempt": "2026-09-16T21:29:53.494151+00:00",
+      "next_retry_at": "2026-09-17T03:29:53.494153+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/kishmish-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/kishmish-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Kishmish",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHprVP4S5oOu5L5ohVfuxQLf9B0.jpg",
+        "source_url": "https://cinefreak.net/kishmish-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kishmish%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kishmish%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-16T21:29:53.494291+00:00",
+      "last_attempt": "2026-09-16T21:29:53.494296+00:00",
+      "next_retry_at": "2026-09-17T03:29:53.494298+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-16T18:19:32.536966+00:00"
+  "updated_at": "2026-09-16T21:29:53.514884+00:00"
 }
