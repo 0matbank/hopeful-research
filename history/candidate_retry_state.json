@@ -445,6 +445,36 @@
         "last_failed_at": "2026-09-16T15:45:24.428622+00:00",
         "retry_after_epoch": 1789616724,
         "retry_after": "2026-09-17T03:45:24.428622+00:00"
+      },
+      "https://cinefreak.net/mirage-2025-bengali-dubbed-bengali-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T02:08:37.532825+00:00",
+        "retry_after_epoch": 1789654117,
+        "retry_after": "2026-09-17T14:08:37.532825+00:00"
+      },
+      "https://cinefreak.net/paathirathri-2025-malayalam-predvd-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T02:08:37.728832+00:00",
+        "retry_after_epoch": 1789654117,
+        "retry_after": "2026-09-17T14:08:37.728832+00:00"
+      },
+      "https://cinefreak.net/the-pet-detective-2025-malayalam-predvd-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T02:08:37.728874+00:00",
+        "retry_after_epoch": 1789654117,
+        "retry_after": "2026-09-17T14:08:37.728874+00:00"
+      },
+      "https://cinefreak.net/jai-ganesh-2024-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T02:08:37.728880+00:00",
+        "retry_after_epoch": 1789654117,
+        "retry_after": "2026-09-17T14:08:37.728880+00:00"
+      },
+      "https://cinefreak.net/checkmates-2024-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T02:08:37.951764+00:00",
+        "retry_after_epoch": 1789654117,
+        "retry_after": "2026-09-17T14:08:37.951764+00:00"
       }
     },
     "Kannada Movies": {
