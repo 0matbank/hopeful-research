@@ -74,9 +74,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-09-14T19:26:12.077051+00:00",
-      "next_retry_at": "2026-09-17T19:26:12.077075+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-09-17T21:31:29.413664+00:00",
+      "next_retry_at": "2026-09-20T21:31:29.413690+00:00",
+      "attempt_count": 9
     },
     "kannadamovies::https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -1741,5 +1741,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-17T18:30:18.022921+00:00"
+  "updated_at": "2026-09-17T21:42:01.798982+00:00"
 }
