@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 73,
-    "last_updated": "2026-09-17 | 02:08:37 (UTC)",
+    "total_movies": 79,
+    "last_updated": "2026-09-17 | 15:52:14 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -626,6 +626,19 @@
       ]
     },
     {
+      "name": "Bethlehem Kudumba Unit",
+      "category": "Malayalam Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+      "source_url": "https://cinefreak.net/bethlehem-kudumba-unit-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bethlehem%20Kudumba%20Unit%20%282026%29%20HDTC%20%5BMalayalam%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Malabar Tales",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -852,6 +865,40 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maine%20Pyar%20Kiya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Hridayapoorvam",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6M2odS1RqGEUPKirIvB1VZ9i6Y.jpg",
+      "source_url": "https://cinefreak.net/hridayapoorvam-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Hridayapoorvam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Hridayapoorvam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Odum Kuthira Chaadum Kuthira",
+      "category": "Malayalam Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBqBd1nLF367oMh7y72WpaNcasq.jpg",
+      "source_url": "https://cinefreak.net/odum-kuthira-chaadum-kuthira-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1249,6 +1296,19 @@
       ]
     },
     {
+      "name": "#Home",
+      "category": "Malayalam Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNG5VujToJkZNm6ZR9i6pJx5tsY.jpg",
+      "source_url": "https://cinefreak.net/home-2021-hindi-dubbed-hindi-malayalam-uncut-hdrip-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Home%20%282021%29%20UNCUT%20HDRip%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Big Brother",
       "category": "Malayalam Movies",
       "year": "2020",
@@ -1275,6 +1335,19 @@
       ]
     },
     {
+      "name": "Kumbalangi Nights",
+      "category": "Malayalam Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ3RvIirE2C7gdBKvPRaoQ3iCo2.jpg",
+      "source_url": "https://cinefreak.net/kumbalangi-nights-2019-hindi-dubbed-hindi-hq-dubbed-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kumbalangi%20Nights%20%282019%29%20WEBRip%20%5BMalayalam%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "B Tech",
       "category": "Malayalam Movies",
       "year": "2018",
@@ -1288,6 +1361,19 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Oppam",
+      "category": "Malayalam Movies",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQaBBb5ShAaikL621nWFa4j37tS.jpg",
+      "source_url": "https://cinefreak.net/oppam-2016-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oppam%20%282016%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p.mkv"
         }
       ]
     },

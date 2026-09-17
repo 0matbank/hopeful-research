@@ -475,6 +475,30 @@
         "last_failed_at": "2026-09-17T02:08:37.951764+00:00",
         "retry_after_epoch": 1789654117,
         "retry_after": "2026-09-17T14:08:37.951764+00:00"
+      },
+      "https://cinefreak.net/sumathi-valavu-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T15:52:13.473072+00:00",
+        "retry_after_epoch": 1789703533,
+        "retry_after": "2026-09-18T03:52:13.473072+00:00"
+      },
+      "https://cinefreak.net/meesha-2025-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T15:52:13.743582+00:00",
+        "retry_after_epoch": 1789703533,
+        "retry_after": "2026-09-18T03:52:13.743582+00:00"
+      },
+      "https://cinefreak.net/oru-ronaldo-chithram-2025-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T15:52:13.743618+00:00",
+        "retry_after_epoch": 1789703533,
+        "retry_after": "2026-09-18T03:52:13.743618+00:00"
+      },
+      "https://cinefreak.net/detective-ujjwalan-2025-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-17T15:52:14.061464+00:00",
+        "retry_after_epoch": 1789703534,
+        "retry_after": "2026-09-18T03:52:14.061464+00:00"
       }
     },
     "Kannada Movies": {
