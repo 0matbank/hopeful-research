@@ -615,5 +615,23 @@
     ],
     "last_attempt": "2026-09-17T07:48:33.999100+00:00",
     "attempt_count": 1
+  },
+  "banglamovies::tobuobhalobashi": {
+    "name": "Tobuo Bhalobashi",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tobuo%20Bhalobashi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-17T13:34:36.194859+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::tomarjonnomon": {
+    "name": "Tomar Jonno Mon",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tomar%20Jonno%20Mon%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-17T13:35:05.554012+00:00",
+    "attempt_count": 1
   }
 }

@@ -50,9 +50,9 @@
         "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.757409+00:00",
-      "last_attempt": "2026-09-14T12:54:31.803994+00:00",
-      "next_retry_at": "2026-09-17T12:54:31.804011+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-09-17T13:32:09.711818+00:00",
+      "next_retry_at": "2026-09-20T13:32:09.711837+00:00",
+      "attempt_count": 9
     },
     "kannadamovies::https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -1691,7 +1691,55 @@
       "last_attempt": "2026-09-17T07:51:29.688171+00:00",
       "next_retry_at": "2026-09-17T13:51:29.688173+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/tobuo-bhalobashi-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/tobuo-bhalobashi-2025-full-movie-download",
+      "movie": {
+        "name": "Tobuo Bhalobashi",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylW61AbZrFrr8eWCSCyOb6JVUhn.jpg",
+        "source_url": "https://cinefreak.net/tobuo-bhalobashi-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tobuo%20Bhalobashi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tobuo%20Bhalobashi%20%282025%29%20WEB-DL%20%5BBengali%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-17T13:37:02.228446+00:00",
+      "last_attempt": "2026-09-17T13:37:02.228461+00:00",
+      "next_retry_at": "2026-09-17T19:37:02.228465+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/tomar-jonno-mon-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/tomar-jonno-mon-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Tomar Jonno Mon",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/89FhSJlxR1RnCRjGRO6CZCiqlQY.jpg",
+        "source_url": "https://cinefreak.net/tomar-jonno-mon-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tomar%20Jonno%20Mon%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Tomar%20Jonno%20Mon%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-17T13:37:02.228748+00:00",
+      "last_attempt": "2026-09-17T13:37:02.228753+00:00",
+      "next_retry_at": "2026-09-17T19:37:02.228756+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-17T07:51:29.708885+00:00"
+  "updated_at": "2026-09-17T13:39:42.669478+00:00"
 }
