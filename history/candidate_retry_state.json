@@ -621,6 +621,36 @@
         "last_failed_at": "2026-09-04T15:21:00.377536+00:00",
         "retry_after_epoch": 1788578460,
         "retry_after": "2026-09-05T03:21:00.377536+00:00"
+      },
+      "https://cinefreak.net/kotee-2024-uncut-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-18T01:56:54.647184+00:00",
+        "retry_after_epoch": 1789739814,
+        "retry_after": "2026-09-18T13:56:54.647184+00:00"
+      },
+      "https://cinefreak.net/garadi-2023-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-18T01:56:54.647217+00:00",
+        "retry_after_epoch": 1789739814,
+        "retry_after": "2026-09-18T13:56:54.647217+00:00"
+      },
+      "https://cinefreak.net/choo-mantar-2025-web-dl-kannada-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-18T01:56:54.647227+00:00",
+        "retry_after_epoch": 1789739814,
+        "retry_after": "2026-09-18T13:56:54.647227+00:00"
+      },
+      "https://cinefreak.net/royal-2025-web-dl-kannada-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-18T01:56:54.647234+00:00",
+        "retry_after_epoch": 1789739814,
+        "retry_after": "2026-09-18T13:56:54.647234+00:00"
+      },
+      "https://cinefreak.net/maa-nanna-superhero-2024-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-18T01:56:57.081267+00:00",
+        "retry_after_epoch": 1789739817,
+        "retry_after": "2026-09-18T13:56:57.081267+00:00"
       }
     },
     "Telugu Movies": {

@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 42,
-    "last_updated": "2026-09-16 | 21:23:26 (UTC)",
+    "total_movies": 47,
+    "last_updated": "2026-09-18 | 01:56:57 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -370,6 +370,70 @@
       ]
     },
     {
+      "name": "Identity",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS0b3YY5sd5WC0QKmrSojCeRGtX.jpg",
+      "source_url": "https://cinefreak.net/identity-2025-web-dl-dual-audio-zee5-full-movie-download-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET%20-%20Identity%20%282025%29%20WEB-DL%20%5BHindi%5D%20UPLY%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Rekhachithram",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTY3ZDgzNDQtZjMwZS00NDFmLTg2ZjMtNDhkMjE5NzJjMjMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "source_url": "https://cinefreak.net/rekhachithram-2025-web-dl-hindi-dubbed-480p-720p-1080p-2160p-full-movie-download-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.NET%20-%20Rekhachithram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20HEVC%20Esub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.NET%20-%20Rekhachithram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20Esub.mkv"
+        },
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Rekhachithram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%202160p%20Esub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Vidaamuyarchi",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTQ1Yjk5YWMtYjg1OS00YmJjLTg0MzgtNWU2MmFjNDljOTQ2XkEyXkFqcGc@.jpg",
+      "source_url": "https://cinefreak.net/vidaamuyarchi-2025-hdts-hindi-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Sankranthiki Vasthunam",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiib7DYfZo8Tl6EVDoMVYFJAUD.jpg",
+      "source_url": "https://cinefreak.net/sankranthiki-vasthunam-2025-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.NET%20-%20Sankranthiki%20Vasthunam%20%282025%29%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20ZEE5%201080p%20Esub.mkv"
+        },
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET%20-%20Sankranthiki%20Vasthunam%20%282025%29%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20ZEE5%202160p%20Esub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Bhairathi Ranagal",
       "category": "Kannada Movies",
       "year": "2024",
@@ -443,6 +507,27 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Marco",
+      "category": "Kannada Movies",
+      "year": "2024",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTVmNDVhMDEtNDMyNy00NTY0LWJkNzEtY2E5ZTVlZDRmYWY3XkEyXkFqcGc@._V1_.jpg",
+      "source_url": "https://cinefreak.net/marco-2024-web-dl-multi-audio-full-movie-download-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.NET%20-%20MARCO%20%282024%29%20AMZN%20WEB-DL%20%5BHindi%20%28ORG%20DDP5.1%29%5D%201080p%20HEVC%20Esub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.NET%20-%20MARCO%20%282024%29%20AMZN%20WEB-DL%20%5BHindi%20%28ORG%20DDP5.1%29%5D%201080p%20Esub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20MARCO%20%282024%29%20AMZN%20WEB-DL%20%5BHindi%20%28ORG%20DDP5.1%29%5D%202160p%20HEVC%20Esub.mkv"
         }
       ]
     },
