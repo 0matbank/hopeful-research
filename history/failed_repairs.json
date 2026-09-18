@@ -633,5 +633,14 @@
     ],
     "last_attempt": "2026-09-17T13:35:05.554012+00:00",
     "attempt_count": 1
+  },
+  "disneyhotstar::goldland": {
+    "name": "Gold Land",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Gold%20Land%20%5BS01E06-10%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-18T07:37:13.656121+00:00",
+    "attempt_count": 1
   }
 }
