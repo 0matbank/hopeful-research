@@ -503,34 +503,34 @@
     },
     "Kannada Movies": {
       "https://cinefreak.net/mark-2025-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-03T15:26:36.532255+00:00",
-        "retry_after_epoch": 1788492396,
-        "retry_after": "2026-09-04T03:26:36.532255+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-18T15:24:47.219920+00:00",
+        "retry_after_epoch": 1789831487,
+        "retry_after": "2026-09-19T15:24:47.219920+00:00"
       },
       "https://cinefreak.net/kavacha-2019-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-03T15:26:36.532301+00:00",
-        "retry_after_epoch": 1788492396,
-        "retry_after": "2026-09-04T03:26:36.532301+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-18T15:24:47.219928+00:00",
+        "retry_after_epoch": 1789831487,
+        "retry_after": "2026-09-19T15:24:47.219928+00:00"
       },
       "https://cinefreak.net/shivaji-surathkal-the-case-of-ranagiri-rahasya-2020-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-03T15:26:37.067841+00:00",
-        "retry_after_epoch": 1788492397,
-        "retry_after": "2026-09-04T03:26:37.067841+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-18T15:24:47.219934+00:00",
+        "retry_after_epoch": 1789831487,
+        "retry_after": "2026-09-19T15:24:47.219934+00:00"
       },
       "https://cinefreak.net/maatonda-heluve-2025-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-03T15:26:37.067872+00:00",
-        "retry_after_epoch": 1788492397,
-        "retry_after": "2026-09-04T03:26:37.067872+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-18T15:24:47.219940+00:00",
+        "retry_after_epoch": 1789831487,
+        "retry_after": "2026-09-19T15:24:47.219940+00:00"
       },
       "https://cinefreak.net/kothalavadi-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-03T15:26:37.256317+00:00",
-        "retry_after_epoch": 1788492397,
-        "retry_after": "2026-09-04T03:26:37.256317+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-18T15:24:47.219946+00:00",
+        "retry_after_epoch": 1789831487,
+        "retry_after": "2026-09-19T15:24:47.219946+00:00"
       },
       "https://cinefreak.net/su-from-so-2025-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
         "failure_count": 1,
@@ -651,6 +651,18 @@
         "last_failed_at": "2026-09-18T01:56:57.081267+00:00",
         "retry_after_epoch": 1789739817,
         "retry_after": "2026-09-18T13:56:57.081267+00:00"
+      },
+      "https://cinefreak.net/rathnan-prapancha-2021-web-dl-hindi-dubbed-full-movie-download-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-18T15:24:47.219877+00:00",
+        "retry_after_epoch": 1789788287,
+        "retry_after": "2026-09-19T03:24:47.219877+00:00"
+      },
+      "https://cinefreak.net/case-of-kondana-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-18T15:24:47.219910+00:00",
+        "retry_after_epoch": 1789788287,
+        "retry_after": "2026-09-19T03:24:47.219910+00:00"
       }
     },
     "Telugu Movies": {
