@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 81,
-    "last_updated": "2026-09-17 | 13:37:02 (UTC)",
+    "total_movies": 82,
+    "last_updated": "2026-09-18 | 13:01:02 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -697,6 +697,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Nokshi%20Kathar%20Jomin%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lawho Gouranger Naam Re",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8CHcwfl1ZjPdujGX5n9ALpQ0cm.jpg",
+      "source_url": "https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
     },

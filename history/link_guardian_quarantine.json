@@ -165,30 +165,6 @@
       "next_retry_at": "2026-09-21T07:27:03.387782+00:00",
       "attempt_count": 6
     },
-    "banglamovies::https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download": {
-      "category": "Bangla Movies",
-      "source_url": "https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download",
-      "movie": {
-        "name": "Lawho Gouranger Naam Re",
-        "category": "Bangla Movies",
-        "year": "2025",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8CHcwfl1ZjPdujGX5n9ALpQ0cm.jpg",
-        "source_url": "https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "4K 2160P",
-            "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
-      ],
-      "quarantined_at": "2026-09-06T22:16:33.551425+00:00",
-      "last_attempt": "2026-09-15T11:50:11.150610+00:00",
-      "next_retry_at": "2026-09-18T11:50:11.150628+00:00",
-      "attempt_count": 5
-    },
     "banglamovies::https://cinefreak.net/nana-hee-2025-full-movie-download": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/nana-hee-2025-full-movie-download",
@@ -1796,5 +1772,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-18T07:39:14.787326+00:00"
+  "updated_at": "2026-09-18T13:09:18.080346+00:00"
 }
