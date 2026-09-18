@@ -262,9 +262,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T12:51:24.396939+00:00",
-      "last_attempt": "2026-09-17T07:45:28.857899+00:00",
-      "next_retry_at": "2026-09-18T07:45:28.857917+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-09-18T20:59:17.884621+00:00",
+      "next_retry_at": "2026-09-20T20:59:17.884643+00:00",
+      "attempt_count": 4
     },
     "banglamovies::https://cinefreak.net/tilottoma-2024-full-movie-download": {
       "category": "Bangla Movies",
@@ -1797,5 +1797,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-18T17:52:53.421497+00:00"
+  "updated_at": "2026-09-18T21:06:17.119460+00:00"
 }
