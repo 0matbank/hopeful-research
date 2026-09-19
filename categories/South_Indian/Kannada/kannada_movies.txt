@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
 TOTAL MOVIES: 50
-LAST UPDATED: 2026-09-18 | 15:24:47 (UTC)
+LAST UPDATED: 2026-09-19 | 02:00:55 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -362,7 +362,7 @@ STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET
 Movie-28
 Movie name: Daaku Maharaaj
 Category: Kannada Movies
-Year: 2025
+Year: 2024
 Poster: https://m.media-amazon.com/images/M/MV5BOTFjYWUwOGEtZjhkNS00MmZhLWE3NTMtNzhlMTE3MDRjOWYzXkEyXkFqcGc@._V1_.jpg
 
 RESOLUTION 1: HEVC 1080P
