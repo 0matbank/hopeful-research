@@ -310,9 +310,9 @@
         "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-08T04:44:36.326231+00:00",
-      "last_attempt": "2026-09-08T04:44:36.326233+00:00",
-      "next_retry_at": "2026-09-08T10:44:36.326235+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-09-19T17:19:27.910384+00:00",
+      "next_retry_at": "2026-09-20T05:19:27.910407+00:00",
+      "attempt_count": 2
     },
     "disneyhotstar::https://cinefreak.net/save-the-tigers-2026-full-series-download": {
       "category": "Disney Hotstar",
@@ -1939,7 +1939,31 @@
       "last_attempt": "2026-09-19T12:37:08.034967+00:00",
       "next_retry_at": "2026-09-19T18:37:08.034970+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/how-to-make-a-killing-2025-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/how-to-make-a-killing-2025-full-movie-download",
+      "movie": {
+        "name": "How To Make A Killing",
+        "category": "English Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oovadj4TsgCuAGfd5LhDP19ZCYD.jpg",
+        "source_url": "https://cinefreak.net/how-to-make-a-killing-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20How%20to%20Make%20a%20Killing%20%282024%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20How%20to%20Make%20a%20Killing%20%282024%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-19T17:25:56.588815+00:00",
+      "last_attempt": "2026-09-19T17:25:56.588825+00:00",
+      "next_retry_at": "2026-09-19T23:25:56.588828+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-19T12:39:32.746770+00:00"
+  "updated_at": "2026-09-19T17:25:56.607811+00:00"
 }
