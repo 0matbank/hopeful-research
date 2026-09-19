@@ -185,9 +185,9 @@
         "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809094+00:00",
-      "last_attempt": "2026-09-15T21:25:50.358336+00:00",
-      "next_retry_at": "2026-09-18T21:25:50.358357+00:00",
-      "attempt_count": 5
+      "last_attempt": "2026-09-19T00:24:32.807217+00:00",
+      "next_retry_at": "2026-09-22T00:24:32.807234+00:00",
+      "attempt_count": 6
     },
     "banglamovies::https://cinefreak.net/swastik-sanket-2022-full-movie-download": {
       "category": "Bangla Movies",
@@ -1795,7 +1795,127 @@
       "last_attempt": "2026-09-18T17:52:53.393406+00:00",
       "next_retry_at": "2026-09-18T23:52:53.393410+00:00",
       "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/star-trek-starfleet-academy-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/star-trek-starfleet-academy-2026-full-series-download",
+      "movie": {
+        "name": "Star Trek: Starfleet Academy",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+        "source_url": "https://cinefreak.net/star-trek-starfleet-academy-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Starfleet%20Academy%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Starfleet%20Academy%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-19T00:31:14.786233+00:00",
+      "last_attempt": "2026-09-19T00:31:14.786266+00:00",
+      "next_retry_at": "2026-09-19T06:31:14.786268+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/star-trek-strange-new-worlds-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/star-trek-strange-new-worlds-2026-full-series-download",
+      "movie": {
+        "name": "Star Trek: Strange New Worlds",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+        "source_url": "https://cinefreak.net/star-trek-strange-new-worlds-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S04",
+            "episode": "Episode 02",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S04",
+            "episode": "Episode 03",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E03%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S04",
+            "episode": "Episode 04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S04",
+            "episode": "Episode 05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S04",
+            "episode": "Episode 06",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S04",
+            "episode": "Episode 07",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E03%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS04E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-19T00:31:14.786769+00:00",
+      "last_attempt": "2026-09-19T00:31:14.786776+00:00",
+      "next_retry_at": "2026-09-19T06:31:14.786779+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/star-trek-strange-new-worlds-2025-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/star-trek-strange-new-worlds-2025-full-series-download",
+      "movie": {
+        "name": "Star Trek: Strange New Worlds",
+        "category": "Disney Hotstar",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
+        "source_url": "https://cinefreak.net/star-trek-strange-new-worlds-2025-full-series-download",
+        "res_list": [
+          {
+            "season": "S03",
+            "episode": "Episode 01-05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS03E01-05%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S03",
+            "episode": "Episode 06-10",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS03E06-10%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS03E01-05%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS03E06-10%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-19T00:31:14.787017+00:00",
+      "last_attempt": "2026-09-19T00:31:14.787022+00:00",
+      "next_retry_at": "2026-09-19T06:31:14.787025+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-18T21:06:17.119460+00:00"
+  "updated_at": "2026-09-19T00:31:14.807842+00:00"
 }
