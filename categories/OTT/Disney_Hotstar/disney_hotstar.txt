@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
 TOTAL MOVIES: 44
-LAST UPDATED: 2026-09-19 | 00:31:14 (UTC)
+LAST UPDATED: 2026-09-19 | 07:31:47 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -93,47 +93,62 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnWyFmAGQaUdi1kISvXqy20H
 Season: S02
 Episode: Episode 01-04
   Resolution-1: HD 1080P
-  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 05-08
   Resolution-2: HD 1080P
-  Link-2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 09-12
   Resolution-3: HD 1080P
-  Link-3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E09-12%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-3: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E09-12%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 13-16
   Resolution-4: HD 1080P
-  Link-4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E13-16%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-4: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E13-16%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Season: S02
+Episode: Episode 17-20
+  Resolution-5: HD 1080P
+  Link-5: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E17-20%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Season: S02
+Episode: Episode 21-25
+  Resolution-6: HD 1080P
+  Link-6: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E21-25%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 26-29
-  Resolution-5: HD 1080P
-  Link-5: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-7: HD 1080P
+  Link-7: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Season: S02
+Episode: Episode 30-33
+  Resolution-8: HD 1080P
+  Link-8: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E30-33%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 34-37
-  Resolution-6: HD 1080P
-  Link-6: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E34-37%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-9: HD 1080P
+  Link-9: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E34-37%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 38-41
-  Resolution-7: HD 1080P
-  Link-7: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-10: HD 1080P
+  Link-10: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 42-45
-  Resolution-8: HD 1080P
-  Link-8: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-11: HD 1080P
+  Link-11: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 46-50
-  Resolution-9: HD 1080P
-  Link-9: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E46-50%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-12: HD 1080P
+  Link-12: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E46-50%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -628,10 +643,10 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 RESOLUTION 2: 4K 2160P HEVC
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -1040,7 +1055,17 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXUtd6fpt15vMZSO6du1uXQj
 Season: S01
 Episode: Episode 01-04
   Resolution-1: HD 1080P
-  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Link-1: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 05-08
+  Resolution-2: HD 1080P
+  Link-2: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 09-12
+  Resolution-3: HD 1080P
+  Link-3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1051,16 +1076,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -1182,11 +1207,20 @@ Category: Disney Hotstar
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thaai%20Kizhavi%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20HEVC%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Thaai%20Kizhavi%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thaai%20Kizhavi%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+STREAM Link 2: https://static.tildacdn.net/vide3661-3332-4065-a564-656239306161/2-3.mp4
+
+RESOLUTION 3: HD 1080P
+STREAM Link 3: https://static.tildacdn.net/vide6333-3861-4166-b438-393836346561/4-3.mp4
+
+RESOLUTION 4: HD 1080P
+STREAM Link 4: https://static.tildacdn.net/vide3362-3638-4966-b166-366236633961/3-4.mp4
+
+RESOLUTION 5: HD 1080P
+STREAM Link 5: https://static.tildacdn.net/vide6663-3837-4136-b931-333265653061/1-3.mp4
 
 ================================================================================
 
