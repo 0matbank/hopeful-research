@@ -238,9 +238,9 @@
         "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:09:17.443560+00:00",
-      "last_attempt": "2026-09-17T18:18:49.397232+00:00",
-      "next_retry_at": "2026-09-19T18:18:49.397250+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-09-19T20:46:13.756144+00:00",
+      "next_retry_at": "2026-09-22T20:46:13.756163+00:00",
+      "attempt_count": 5
     },
     "kannadamovies::https://cinefreak.net/usiru-2025-full-movie-download": {
       "category": "Kannada Movies",
@@ -1963,7 +1963,31 @@
       "last_attempt": "2026-09-19T17:25:56.588825+00:00",
       "next_retry_at": "2026-09-19T23:25:56.588828+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/king-of-prison-2020-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/king-of-prison-2020-full-movie-download",
+      "movie": {
+        "name": "King Of Prison",
+        "category": "English Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBTCjSLfLFWxtDP8sy0PEDzRbSd.jpg",
+        "source_url": "https://cinefreak.net/king-of-prison-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20King%20of%20Prison%20%282020%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20King%20of%20Prison%20%282020%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-19T20:51:51.154745+00:00",
+      "last_attempt": "2026-09-19T20:51:51.154757+00:00",
+      "next_retry_at": "2026-09-20T02:51:51.154759+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-19T17:25:56.607811+00:00"
+  "updated_at": "2026-09-19T20:51:51.174703+00:00"
 }
