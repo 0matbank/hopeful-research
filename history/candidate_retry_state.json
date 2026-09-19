@@ -737,6 +737,24 @@
         "last_failed_at": "2026-09-06T01:41:02.920386+00:00",
         "retry_after_epoch": 1788702062,
         "retry_after": "2026-09-06T13:41:02.920386+00:00"
+      },
+      "https://cinefreak.net/surya-vs-surya-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-19T15:02:36.113519+00:00",
+        "retry_after_epoch": 1789873356,
+        "retry_after": "2026-09-20T03:02:36.113519+00:00"
+      },
+      "https://cinefreak.net/sarileru-neekevvaru-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-19T15:02:36.381781+00:00",
+        "retry_after_epoch": 1789873356,
+        "retry_after": "2026-09-20T03:02:36.381781+00:00"
+      },
+      "https://cinefreak.net/jai-lava-kusa-2017-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-19T15:02:36.714733+00:00",
+        "retry_after_epoch": 1789873356,
+        "retry_after": "2026-09-20T03:02:36.714733+00:00"
       }
     },
     "Hindi Dubbed Movies": {

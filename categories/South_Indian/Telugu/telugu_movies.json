@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 67,
-    "last_updated": "2026-09-15 | 11:57:30 (UTC)",
+    "total_movies": 74,
+    "last_updated": "2026-09-19 | 15:02:36 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -699,6 +699,57 @@
       ]
     },
     {
+      "name": "Irumudi",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0huHbMUwEkp0ETChWLOD8MriNr.jpg",
+      "source_url": "https://cinefreak.net/irumudi-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Sampradayini Suppini Suddapoosani",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg",
+      "source_url": "https://cinefreak.net/sampradayini-suppini-suddapoosani-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Sampradayini%20Suppini%20Suddapoosani%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Couple Friendly",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/03/Couple-Friendly-2026.webp",
+      "source_url": "https://cinefreak.net/couple-friendly-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Couple%20Friendly%20%282026%29%20WEB-DL%20%5BTelugu%5D%201080p%20MSub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shanmukha",
       "category": "Telugu Movies",
       "year": "2025",
@@ -801,6 +852,66 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mowgli%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Laila",
+      "category": "Telugu Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFogllaRGlAhk1nqvVGFpZpl4qU.jpg",
+      "source_url": "https://cinefreak.net/laila-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Laila%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Eesha",
+      "category": "Telugu Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/87MhKILHPwcForDY0HxzII4tPvA.jpg",
+      "source_url": "https://cinefreak.net/eesha-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20ISHA%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20ISHA%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Drinker Sai",
+      "category": "Telugu Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ7CtrA5631A5VunLtBAt2SbGLZ.jpg",
+      "source_url": "https://cinefreak.net/drinker-sai-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aa Okkati Adakku",
+      "category": "Telugu Movies",
+      "year": "2024",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/03/Aa-Okkati-Adakku-2024.webp",
+      "source_url": "https://cinefreak.net/aa-okkati-adakku-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Aa%20Okkati%20Adakku%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
