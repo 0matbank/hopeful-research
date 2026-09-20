@@ -310,9 +310,9 @@
         "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-08T04:44:36.326231+00:00",
-      "last_attempt": "2026-09-19T17:19:27.910384+00:00",
-      "next_retry_at": "2026-09-20T05:19:27.910407+00:00",
-      "attempt_count": 2
+      "last_attempt": "2026-09-20T18:52:12.649385+00:00",
+      "next_retry_at": "2026-09-21T18:52:12.649405+00:00",
+      "attempt_count": 3
     },
     "disneyhotstar::https://cinefreak.net/save-the-tigers-2026-full-series-download": {
       "category": "Disney Hotstar",
@@ -2064,7 +2064,31 @@
       "last_attempt": "2026-09-20T16:16:40.883563+00:00",
       "next_retry_at": "2026-09-20T22:16:40.883566+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/kaashmora-2016-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/kaashmora-2016-full-movie-download",
+      "movie": {
+        "name": "Kaashmora",
+        "category": "Hindi Dubbed Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTYbSIkPavrvjy09C4TRUAAeghN.jpg",
+        "source_url": "https://cinefreak.net/kaashmora-2016-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kaashmora%20%282016%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kaashmora%20%282016%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-20T18:57:19.363177+00:00",
+      "last_attempt": "2026-09-20T18:57:19.363193+00:00",
+      "next_retry_at": "2026-09-21T00:57:19.363195+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-20T16:16:40.904708+00:00"
+  "updated_at": "2026-09-20T18:57:19.378290+00:00"
 }
