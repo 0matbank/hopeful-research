@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 74,
-    "last_updated": "2026-09-19 | 15:02:36 (UTC)",
+    "total_movies": 81,
+    "last_updated": "2026-09-20 | 02:06:20 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -750,6 +750,70 @@
       ]
     },
     {
+      "name": "Karmakhya",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGVN0bh4xQtJIHiXFy2JyWVOiMd.jpg",
+      "source_url": "https://cinefreak.net/karmakhya-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Karmakhya%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Funky",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
+      "source_url": "https://cinefreak.net/funky-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Funky%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Funky%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Funky%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Rajasaab",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+      "source_url": "https://cinefreak.net/the-rajasaab-2026-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Raja%20Saab%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Raja%20Saab%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Honey",
+      "category": "Telugu Movies",
+      "year": "2026",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/f789d92c9a91fe0734ed53e29300314b991611dbb8120bc762b77b0a23650dfc.jpg",
+      "source_url": "https://cinefreak.net/honey-2026-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Honey%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shanmukha",
       "category": "Telugu Movies",
       "year": "2025",
@@ -1134,6 +1198,23 @@
       ]
     },
     {
+      "name": "Uppena",
+      "category": "Telugu Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEZBmb1xsdMqCTJzEMZESg4Nvgk.jpg",
+      "source_url": "https://cinefreak.net/uppena-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Uppena%20%282021%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Uppena%20%282021%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Colour Photo",
       "category": "Telugu Movies",
       "year": "2020",
@@ -1264,6 +1345,27 @@
       ]
     },
     {
+      "name": "DJ: Duvvada Jagannadham",
+      "category": "Telugu Movies",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okq2Q1f2alXGWQMLsCi4wXoAXt4.jpg",
+      "source_url": "https://cinefreak.net/dj-duvvada-jagannadham-2017-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20DJ-Duvvada%20Jagannadham%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20DJ-Duvvada%20Jagannadham%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20DJ-Duvvada%20Jagannadham%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "A Aa",
       "category": "Telugu Movies",
       "year": "2016",
@@ -1290,6 +1392,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Brindavanam%20%282010%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Arundhati",
+      "category": "Telugu Movies",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhw0y6E4WbQ4LjlW3962vevh9BQ.jpg",
+      "source_url": "https://cinefreak.net/arundhati-2009-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Arundhati%20%282009%29%20UNCUT%20BluRay%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Arundhati%20%282009%29%20UNCUT%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     }

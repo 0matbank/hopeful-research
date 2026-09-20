@@ -755,6 +755,24 @@
         "last_failed_at": "2026-09-19T15:02:36.714733+00:00",
         "retry_after_epoch": 1789873356,
         "retry_after": "2026-09-20T03:02:36.714733+00:00"
+      },
+      "https://cinefreak.net/paanch-minar-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-20T02:06:19.308978+00:00",
+        "retry_after_epoch": 1789913179,
+        "retry_after": "2026-09-20T14:06:19.308978+00:00"
+      },
+      "https://cinefreak.net/yevadu-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-20T02:06:20.181996+00:00",
+        "retry_after_epoch": 1789913180,
+        "retry_after": "2026-09-20T14:06:20.181996+00:00"
+      },
+      "https://cinefreak.net/magadheera-2009-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-20T02:06:20.182031+00:00",
+        "retry_after_epoch": 1789913180,
+        "retry_after": "2026-09-20T14:06:20.182031+00:00"
       }
     },
     "Hindi Dubbed Movies": {
