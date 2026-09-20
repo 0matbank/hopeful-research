@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
-TOTAL MOVIES: 95
-LAST UPDATED: 2026-09-20 | 11:35:56 (UTC)
+TOTAL MOVIES: 94
+LAST UPDATED: 2026-09-20 | 16:16:40 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -229,10 +229,10 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p%20HEVC.mkv
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p%20HEVC.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p.mkv
+STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p.mkv
 
 ================================================================================
 
@@ -346,16 +346,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -413,16 +413,10 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -594,7 +588,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w500/89Mwr7BvdhgpjysLCxgO1h0NK8e.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dream%20Girl%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv
+STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Dream%20Girl%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv
 
 ================================================================================
 
@@ -1159,10 +1153,10 @@ Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7R95cC7pjHLeDmQ0tX8gILX9dty.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1198,20 +1192,6 @@ STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-83
-Movie name: Har Har Mahadev
-Category: Hindi Dubbed Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnSPawPoBmtcd6vCTIncY3QAesD.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Har%20Har%20Mahadev%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Har%20Har%20Mahadev%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-84
 Movie name: Garuda Gamana Vrishabha Vahana
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1225,7 +1205,7 @@ STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-85
+Movie-84
 Movie name: Tuck Jagadish
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1236,7 +1216,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-86
+Movie-85
 Movie name: SR Kalyanamandapam
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1247,7 +1227,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-87
+Movie-86
 Movie name: Naan Sirithal
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1258,7 +1238,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-88
+Movie-87
 Movie name: Big Brother
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1269,7 +1249,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-89
+Movie-88
 Movie name: Mafia
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1283,7 +1263,7 @@ STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-90
+Movie-89
 Movie name: Oh! Baby
 Category: Hindi Dubbed Movies
 Year: 2019
@@ -1294,7 +1274,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-91
+Movie-90
 Show name: My Mowgli Boy
 Category: Hindi Dubbed Movies
 Year: 2019
@@ -1317,7 +1297,7 @@ Episode: Episode 21-25
 
 ================================================================================
 
-Movie-92
+Movie-91
 Movie name: Srirastu Subhamastu
 Category: Hindi Dubbed Movies
 Year: 2016
@@ -1328,7 +1308,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-93
+Movie-92
 Movie name: Kaashmora
 Category: Hindi Dubbed Movies
 Year: 2016
@@ -1339,7 +1319,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-94
+Movie-93
 Movie name: Khushi
 Category: Hindi Dubbed Movies
 Year: 2001
@@ -1350,7 +1330,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-95
+Movie-94
 Movie name: Prince No 1
 Category: Hindi Dubbed Movies
 Year: 2000
