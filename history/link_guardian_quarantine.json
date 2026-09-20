@@ -74,9 +74,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-09-17T21:31:29.413664+00:00",
-      "next_retry_at": "2026-09-20T21:31:29.413690+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-09-20T22:30:18.070801+00:00",
+      "next_retry_at": "2026-09-23T22:30:18.070819+00:00",
+      "attempt_count": 10
     },
     "kannadamovies::https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -2088,7 +2088,56 @@
       "last_attempt": "2026-09-20T18:57:19.363193+00:00",
       "next_retry_at": "2026-09-21T00:57:19.363195+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/lingam-2026-full-series-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/lingam-2026-full-series-download",
+      "movie": {
+        "name": "Lingam",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqO8IY6V9T8HNG4mefxPfyLzRpW.jpg",
+        "source_url": "https://cinefreak.net/lingam-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lingam%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lingam%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-20T22:39:15.251228+00:00",
+      "last_attempt": "2026-09-20T22:39:15.251247+00:00",
+      "next_retry_at": "2026-09-21T04:39:15.251252+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/mario-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/mario-2025-full-movie-download",
+      "movie": {
+        "name": "Mario",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6UBMJQisGuoIEoh8VRlFsRuRJN.jpg",
+        "source_url": "https://cinefreak.net/mario-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-20T22:39:15.251748+00:00",
+      "last_attempt": "2026-09-20T22:39:15.251754+00:00",
+      "next_retry_at": "2026-09-21T04:39:15.251756+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-20T18:57:19.378290+00:00"
+  "updated_at": "2026-09-20T22:39:15.272717+00:00"
 }

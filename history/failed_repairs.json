@@ -706,5 +706,33 @@
     ],
     "last_attempt": "2026-09-20T18:57:19.225421+00:00",
     "attempt_count": 1
+  },
+  "hindidubbedmovies::lingam": {
+    "name": "Lingam",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lingam%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-20T22:32:25.757818+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::mario": {
+    "name": "Mario",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-20T22:34:47.258734+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::mymowgliboy": {
+    "name": "My Mowgli Boy",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv",
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E21-25%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-20T22:39:15.081127+00:00",
+    "attempt_count": 1
   }
 }
