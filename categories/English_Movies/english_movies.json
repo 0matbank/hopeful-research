@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 68,
-    "last_updated": "2026-09-20 | 00:15:07 (UTC)",
+    "total_movies": 66,
+    "last_updated": "2026-09-20 | 05:02:08 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -354,7 +354,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Wedding%20Banquet%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Wedding%20Banquet%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -529,7 +529,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -555,7 +555,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -568,7 +568,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -760,7 +760,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20White%20House%20Down%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20White%20House%20Down%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -804,19 +804,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "World's Greatest Dad",
-      "category": "English Movies",
-      "year": "2010",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
-      "source_url": "https://cinefreak.net/worlds-greatest-dad-2009-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Worlds%20Greatest%20Dad%20%282010%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -911,7 +898,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -955,19 +942,6 @@
       ]
     },
     {
-      "name": "The Phantom Empire",
-      "category": "English Movies",
-      "year": "1988",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1C81XbB9YzGhOYI8kstFtc7i1v.jpg",
-      "source_url": "https://cinefreak.net/the-phantom-empire-1987-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Phantom%20Empire%20%281988%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Rabid",
       "category": "English Movies",
       "year": "1977",
@@ -993,7 +967,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
         }
       ]
     },

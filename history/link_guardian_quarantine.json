@@ -26,9 +26,9 @@
         "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T13:39:41.838971+00:00",
-      "last_attempt": "2026-09-17T00:36:28.874933+00:00",
-      "next_retry_at": "2026-09-20T00:36:28.874950+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-09-20T04:59:15.653152+00:00",
+      "next_retry_at": "2026-09-23T04:59:15.653169+00:00",
+      "attempt_count": 10
     },
     "kannadamovies::https://cinefreak.net/hero-2021-full-movie-download": {
       "category": "Kannada Movies",
@@ -1987,7 +1987,55 @@
       "last_attempt": "2026-09-19T20:51:51.154757+00:00",
       "next_retry_at": "2026-09-20T02:51:51.154759+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/worlds-greatest-dad-2009-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/worlds-greatest-dad-2009-full-movie-download",
+      "movie": {
+        "name": "World's Greatest Dad",
+        "category": "English Movies",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ESsZLvZPIvbCPCh7CPCSnF4EeH.jpg",
+        "source_url": "https://cinefreak.net/worlds-greatest-dad-2009-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Worlds%20Greatest%20Dad%20%282010%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Worlds%20Greatest%20Dad%20%282010%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-20T05:02:08.599792+00:00",
+      "last_attempt": "2026-09-20T05:02:08.599806+00:00",
+      "next_retry_at": "2026-09-20T11:02:08.599808+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-phantom-empire-1987-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-phantom-empire-1987-full-movie-download",
+      "movie": {
+        "name": "The Phantom Empire",
+        "category": "English Movies",
+        "year": "1988",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1C81XbB9YzGhOYI8kstFtc7i1v.jpg",
+        "source_url": "https://cinefreak.net/the-phantom-empire-1987-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Phantom%20Empire%20%281988%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Phantom%20Empire%20%281988%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-20T05:02:08.600155+00:00",
+      "last_attempt": "2026-09-20T05:02:08.600172+00:00",
+      "next_retry_at": "2026-09-20T11:02:08.600175+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-20T00:15:07.821966+00:00"
+  "updated_at": "2026-09-20T05:03:59.115200+00:00"
 }
