@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 44
-LAST UPDATED: 2026-09-19 | 12:39:32 (UTC)
+TOTAL MOVIES: 54
+LAST UPDATED: 2026-09-21 | 02:04:20 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -1225,6 +1225,70 @@ STREAM Link 5: https://static.tildacdn.net/vide6663-3837-4136-b931-333265653061/
 ================================================================================
 
 Movie-33
+Movie name: The Awakening
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbBehMLO6Ge7Tbk374dIBtUjO6P.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Awakening%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-34
+Show name: Ali Baba Aur 40 Bhoot
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/umD3yw6SFybqXc8jW2l1AOyaUKC.jpg
+
+Season: S01
+Episode: Episode 01-04
+  Resolution-1: HD 1080P
+  Link-1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 05-08
+  Resolution-2: HD 1080P
+  Link-2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-35
+Movie name: Thudakkam
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-36
+Show name: Gunehgar Rishtey
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sku157X4UkRulgiObWX3ZIq1R2.jpg
+
+Season: S01
+Episode: Episode 01-05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv
+
+Season: S01
+Episode: Episode 06-10
+  Resolution-2: HD 1080P
+  Link-2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv
+
+================================================================================
+
+Movie-37
 Show name: Dear X
 Category: Disney Hotstar
 Year: 2025
@@ -1237,7 +1301,7 @@ Episode: Episode 01-04
 
 ================================================================================
 
-Movie-34
+Movie-38
 Movie name: Junior
 Category: Disney Hotstar
 Year: 2025
@@ -1254,7 +1318,7 @@ STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-39
 Movie name: Dog 51
 Category: Disney Hotstar
 Year: 2025
@@ -1265,10 +1329,61 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
-Movie name: Noise
+Movie-40
+Show name: MobLand
 Category: Disney Hotstar
 Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg
+
+Season: S01
+Episode: Episode 01-05
+  Resolution-1: HD 1080P
+  Link-1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 06-10
+  Resolution-2: HD 1080P
+  Link-2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-41
+Movie name: Motu Patlu Ka Goa Dhamaal
+Category: Disney Hotstar
+Year: 2025
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-Ka-Goa-Dhamaal-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Ka%20Goa%20Dhamaal%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-42
+Movie name: Motu Patlu & The Madness Of Multiverse
+Category: Disney Hotstar
+Year: 2025
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Madness-Of-Multiverse-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-43
+Movie name: Motu Patlu & The Mighty Magnathor
+Category: Disney Hotstar
+Year: 2025
+Poster: https://m.media-amazon.com/images/M/MV5BZmVkMTMxYWUtNDZiYy00N2RhLTk1YzEtMWJmZDRmODQ2YWE4XkEyXkFqcGc@._V1_SX600.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-44
+Movie name: Noise
+Category: Disney Hotstar
+Year: 2024
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU3NXe7QqjJNxVpYPdz8dscFWlj.jpg
 
 RESOLUTION 1: HD 1080P
@@ -1279,7 +1394,7 @@ STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-45
 Show name: A Shop For Killers
 Category: Disney Hotstar
 Year: 2024
@@ -1297,7 +1412,7 @@ Episode: Episode 05-08
 
 ================================================================================
 
-Movie-38
+Movie-46
 Show name: Ayali
 Category: Disney Hotstar
 Year: 2023
@@ -1310,7 +1425,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-39
+Movie-47
 Movie name: Neru
 Category: Disney Hotstar
 Year: 2023
@@ -1321,7 +1436,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-40
+Movie-48
 Show name: Star Trek: Strange New Worlds
 Category: Disney Hotstar
 Year: 2023
@@ -1339,7 +1454,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-41
+Movie-49
 Show name: Star Trek: Strange New Worlds
 Category: Disney Hotstar
 Year: 2022
@@ -1357,7 +1472,27 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-42
+Movie-50
+Movie name: Babli Bouncer
+Category: Disney Hotstar
+Year: 2022
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/iX2vylrLdiiDBGaA3xhPobJp7dW.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-51
 Movie name: Shiddat
 Category: Disney Hotstar
 Year: 2021
@@ -1374,7 +1509,7 @@ STREAM Link 3: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-52
 Show name: Flower Of Evil
 Category: Disney Hotstar
 Year: 2020
@@ -1397,7 +1532,18 @@ Episode: Episode 11-16
 
 ================================================================================
 
-Movie-44
+Movie-53
+Movie name: Shiva The Tiny Men From Mountain
+Category: Disney Hotstar
+Year: 2019
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Shiva-The-Tiny-Men-From-Mountain-2025.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-54
 Show name: 24: India
 Category: Disney Hotstar
 Year: 2013
