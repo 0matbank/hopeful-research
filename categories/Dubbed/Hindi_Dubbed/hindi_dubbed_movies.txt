@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
 TOTAL MOVIES: 90
-LAST UPDATED: 2026-09-21 | 13:00:41 (UTC)
+LAST UPDATED: 2026-09-21 | 19:38:56 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -549,7 +549,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w500/27Bws03eofwvOFgiUXcjdSgznCL.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Fingerprint%20Murders%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20The%20Fingerprint%20Murders%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv
 
 ================================================================================
 
@@ -602,13 +602,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HEVC%20HC-ESub.mkv
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HEVC%20HC-ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HC-ESub.mkv
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HC-ESub.mkv
 
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%20HQ-Rip%201080p%20HC-ESub.mkv
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%20HQ-Rip%201080p%20HC-ESub.mkv
 
 ================================================================================
 
@@ -656,13 +656,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -893,7 +893,7 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4RBmd46UWfTRudGkYOnvFLbtX3.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1038,7 +1038,7 @@ Year: 2023
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZK0AkM2YT9dNjZfRaNWDu1kkuJ.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thugs%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thugs%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1094,16 +1094,10 @@ Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KK3jv8XQPfWBRj9LImQCk0Cmmh.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1172,8 +1166,8 @@ Category: Hindi Dubbed Movies
 Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3N0BvNtplnvK1kyqP4dQREUCn5.jpg
 
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1244,7 +1238,7 @@ Year: 2016
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYfkUX61GyyWxxzGve5dQlWJl4c.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Srirastu%20Subhamastu%20%282016%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srirastu%20Subhamastu%20%282016%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
