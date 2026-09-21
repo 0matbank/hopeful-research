@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 54,
-    "last_updated": "2026-09-21 | 02:04:20 (UTC)",
+    "total_movies": 59,
+    "last_updated": "2026-09-21 | 17:21:54 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -1542,6 +1542,45 @@
       ]
     },
     {
+      "name": "Motu Patlu Ka Goa Dhamaal",
+      "category": "Disney Hotstar",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-Ka-Goa-Dhamaal-2025.jpg",
+      "source_url": "https://cinefreak.net/motu-patlu-ka-goa-dhamaal-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Ka%20Goa%20Dhamaal%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chikoo Bunty: The Detective Bros",
+      "category": "Disney Hotstar",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Chikoo-Bunty-2026.webp",
+      "source_url": "https://cinefreak.net/chikoo-bunty-the-detective-bros-2026-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mike & Nick & Nick & Alice",
+      "category": "Disney Hotstar",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "source_url": "https://cinefreak.net/mike-nick-nick-alice-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Mike%20&%20Nick%20&%20Nick%20&%20Alice%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Dear X",
       "category": "Disney Hotstar",
       "year": "2025",
@@ -1612,19 +1651,6 @@
       ]
     },
     {
-      "name": "Motu Patlu Ka Goa Dhamaal",
-      "category": "Disney Hotstar",
-      "year": "2025",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-Ka-Goa-Dhamaal-2025.jpg",
-      "source_url": "https://cinefreak.net/motu-patlu-ka-goa-dhamaal-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Ka%20Goa%20Dhamaal%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "Motu Patlu & The Madness Of Multiverse",
       "category": "Disney Hotstar",
       "year": "2025",
@@ -1638,9 +1664,22 @@
       ]
     },
     {
-      "name": "Motu Patlu & The Mighty Magnathor",
+      "name": "Match Fixing",
       "category": "Disney Hotstar",
       "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/szmEGYLFC7caihW0qrOoWgcMn5c.jpg",
+      "source_url": "https://cinefreak.net/match-fixing-the-nation-at-stake-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Match%20Fixing%20%282025%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Motu Patlu & The Mighty Magnathor",
+      "category": "Disney Hotstar",
+      "year": "2024",
       "poster": "https://m.media-amazon.com/images/M/MV5BZmVkMTMxYWUtNDZiYy00N2RhLTk1YzEtMWJmZDRmODQ2YWE4XkEyXkFqcGc@._V1_SX600.jpg",
       "source_url": "https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
@@ -1831,6 +1870,20 @@
       ]
     },
     {
+      "name": "Code M",
+      "category": "Disney Hotstar",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1tG6iuR0sr9mvbTHDP2pVjwd38.jpg",
+      "source_url": "https://cinefreak.net/code-m-2020-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Code%20M%20%282020%29%20S01%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shiva The Tiny Men From Mountain",
       "category": "Disney Hotstar",
       "year": "2019",
@@ -1855,6 +1908,19 @@
           "episode": "Episode 09-12",
           "resolution": "HD 1080P",
           "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E09-12%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "2012",
+      "category": "Disney Hotstar",
+      "year": "2009",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/2012-2009.webp",
+      "source_url": "https://cinefreak.net/2012-2009-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
         }
       ]
     }

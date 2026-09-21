@@ -855,6 +855,36 @@
         "last_failed_at": "2026-09-07T16:55:32.610785+00:00",
         "retry_after_epoch": 1788843332,
         "retry_after": "2026-09-08T04:55:32.610785+00:00"
+      },
+      "https://cinefreak.net/chutney-sambar-2024-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-21T17:21:53.201707+00:00",
+        "retry_after_epoch": 1790054513,
+        "retry_after": "2026-09-22T05:21:53.201707+00:00"
+      },
+      "https://cinefreak.net/abigail-2024-bengali-dubbed-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-21T17:21:53.201740+00:00",
+        "retry_after_epoch": 1790054513,
+        "retry_after": "2026-09-22T05:21:53.201740+00:00"
+      },
+      "https://cinefreak.net/1000-babies-2024-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-21T17:21:53.201750+00:00",
+        "retry_after_epoch": 1790054513,
+        "retry_after": "2026-09-22T05:21:53.201750+00:00"
+      },
+      "https://cinefreak.net/willow-2022-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-21T17:21:53.643704+00:00",
+        "retry_after_epoch": 1790054513,
+        "retry_after": "2026-09-22T05:21:53.643704+00:00"
+      },
+      "https://cinefreak.net/the-carpenters-son-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-21T17:21:54.149430+00:00",
+        "retry_after_epoch": 1790054514,
+        "retry_after": "2026-09-22T05:21:54.149430+00:00"
       }
     },
     "English Movies": {
