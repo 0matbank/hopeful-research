@@ -286,9 +286,9 @@
         "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Tilottoma%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-08T04:44:36.325960+00:00",
-      "last_attempt": "2026-09-20T11:30:02.004296+00:00",
-      "next_retry_at": "2026-09-21T11:30:02.004321+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-09-22T17:01:41.873193+00:00",
+      "next_retry_at": "2026-09-24T17:01:41.873212+00:00",
+      "attempt_count": 4
     },
     "banglamovies::https://cinefreak.net/khawto-2016-full-movie-download": {
       "category": "Bangla Movies",
@@ -2238,7 +2238,36 @@
       "last_attempt": "2026-09-22T11:52:32.551841+00:00",
       "next_retry_at": "2026-09-22T17:52:32.551844+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/ghamasaan-2024-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/ghamasaan-2024-full-movie-download",
+      "movie": {
+        "name": "Ghamasaan",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiiCF0MkRRNooqO53Esu0jtTYMJ.jpg",
+        "source_url": "https://cinefreak.net/ghamasaan-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ghamasaan%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-22T17:06:42.997135+00:00",
+      "last_attempt": "2026-09-22T17:06:42.997149+00:00",
+      "next_retry_at": "2026-09-22T23:06:42.997151+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-22T11:52:32.572264+00:00"
+  "updated_at": "2026-09-22T17:06:43.019697+00:00"
 }
