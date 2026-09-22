@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 59,
-    "last_updated": "2026-09-21 | 17:21:54 (UTC)",
+    "total_movies": 67,
+    "last_updated": "2026-09-22 | 02:12:05 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -1581,6 +1581,33 @@
       ]
     },
     {
+      "name": "The Madison",
+      "category": "Disney Hotstar",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+      "source_url": "https://cinefreak.net/the-madison-2026-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "episode": "Episode 02",
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 05",
+          "resolution": "HD 1080P",
+          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 06",
+          "resolution": "HD 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Dear X",
       "category": "Disney Hotstar",
       "year": "2025",
@@ -1677,6 +1704,27 @@
       ]
     },
     {
+      "name": "Zootopia 2",
+      "category": "Disney Hotstar",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "source_url": "https://cinefreak.net/zootopia-2-2025-dual-audio-hindi-english-bluray-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Motu Patlu & The Mighty Magnathor",
       "category": "Disney Hotstar",
       "year": "2024",
@@ -1724,6 +1772,23 @@
           "episode": "Episode 05-08",
           "resolution": "HD 1080P",
           "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aayushmati Geeta Matric Pass",
+      "category": "Disney Hotstar",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snUfealex5cEPtJCZOLHQhtnxrQ.jpg",
+      "source_url": "https://cinefreak.net/aayushmati-geeta-matric-pass-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20HEVC.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p.mkv"
         }
       ]
     },
@@ -1822,6 +1887,32 @@
       ]
     },
     {
+      "name": "Govinda Naam Mera",
+      "category": "Disney Hotstar",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c93pb87QTyMIdzV6ufUZSQfVMFi.jpg",
+      "source_url": "https://cinefreak.net/govinda-naam-mera-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Govinda%20Naam%20Mera%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Cobra",
+      "category": "Disney Hotstar",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eriBjgwmiXWqKKZxciLQiWgof1K.jpg",
+      "source_url": "https://cinefreak.net/cobra-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cobra%20%282022%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Shiddat",
       "category": "Disney Hotstar",
       "year": "2021",
@@ -1914,13 +2005,52 @@
     {
       "name": "2012",
       "category": "Disney Hotstar",
-      "year": "2009",
+      "year": "2012",
       "poster": "https://cinefreak.net/wp-content/uploads/2026/04/2012-2009.webp",
       "source_url": "https://cinefreak.net/2012-2009-full-movie-download",
       "res_list": [
         {
           "resolution": "HD 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "WALL·E",
+      "category": "Disney Hotstar",
+      "year": "2008",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg",
+      "source_url": "https://cinefreak.net/wall%c2%b7e-2008-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20WALL-E%20%282008%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Meet The Robinsons",
+      "category": "Disney Hotstar",
+      "year": "2007",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg",
+      "source_url": "https://cinefreak.net/meet-the-robinsons-2007-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Meet%20the%20Robinsons%20%282007%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Me, Myself & Irene",
+      "category": "Disney Hotstar",
+      "year": "2000",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg",
+      "source_url": "https://cinefreak.net/me-myself-irene-2000-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Me%20Myself%20and%20Irene%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     }

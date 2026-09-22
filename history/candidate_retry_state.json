@@ -885,6 +885,18 @@
         "last_failed_at": "2026-09-21T17:21:54.149430+00:00",
         "retry_after_epoch": 1790054514,
         "retry_after": "2026-09-22T05:21:54.149430+00:00"
+      },
+      "https://cinefreak.net/goodbye-christopher-robin-2017-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-22T02:12:04.534664+00:00",
+        "retry_after_epoch": 1790086324,
+        "retry_after": "2026-09-22T14:12:04.534664+00:00"
+      },
+      "https://cinefreak.net/the-fall-guy-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-22T02:12:04.534698+00:00",
+        "retry_after_epoch": 1790086324,
+        "retry_after": "2026-09-22T14:12:04.534698+00:00"
       }
     },
     "English Movies": {

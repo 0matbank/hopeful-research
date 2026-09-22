@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 59
-LAST UPDATED: 2026-09-21 | 17:21:54 (UTC)
+TOTAL MOVIES: 67
+LAST UPDATED: 2026-09-22 | 02:12:05 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -1322,6 +1322,29 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-40
+Show name: The Madison
+Category: Disney Hotstar
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg
+
+Season: S01
+Episode: Episode 02
+  Resolution-1: HD 1080P
+  Link-1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 05
+  Resolution-2: HD 1080P
+  Link-2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 06
+  Resolution-3: HD 1080P
+  Link-3: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-41
 Show name: Dear X
 Category: Disney Hotstar
 Year: 2025
@@ -1334,7 +1357,7 @@ Episode: Episode 01-04
 
 ================================================================================
 
-Movie-41
+Movie-42
 Movie name: Junior
 Category: Disney Hotstar
 Year: 2025
@@ -1351,7 +1374,7 @@ STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-42
+Movie-43
 Movie name: Dog 51
 Category: Disney Hotstar
 Year: 2025
@@ -1362,7 +1385,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-44
 Show name: MobLand
 Category: Disney Hotstar
 Year: 2025
@@ -1380,7 +1403,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-44
+Movie-45
 Movie name: Motu Patlu & The Madness Of Multiverse
 Category: Disney Hotstar
 Year: 2025
@@ -1391,7 +1414,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-46
 Movie name: Match Fixing
 Category: Disney Hotstar
 Year: 2025
@@ -1402,7 +1425,24 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
+Movie-47
+Movie name: Zootopia 2
+Category: Disney Hotstar
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-48
 Movie name: Motu Patlu & The Mighty Magnathor
 Category: Disney Hotstar
 Year: 2024
@@ -1413,7 +1453,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-49
 Movie name: Noise
 Category: Disney Hotstar
 Year: 2024
@@ -1427,7 +1467,7 @@ STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-50
 Show name: A Shop For Killers
 Category: Disney Hotstar
 Year: 2024
@@ -1445,7 +1485,21 @@ Episode: Episode 05-08
 
 ================================================================================
 
-Movie-49
+Movie-51
+Movie name: Aayushmati Geeta Matric Pass
+Category: Disney Hotstar
+Year: 2024
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/snUfealex5cEPtJCZOLHQhtnxrQ.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20HEVC.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-52
 Show name: Ayali
 Category: Disney Hotstar
 Year: 2023
@@ -1458,7 +1512,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-50
+Movie-53
 Movie name: Neru
 Category: Disney Hotstar
 Year: 2023
@@ -1469,7 +1523,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-54
 Show name: Star Trek: Strange New Worlds
 Category: Disney Hotstar
 Year: 2023
@@ -1487,7 +1541,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-52
+Movie-55
 Show name: Star Trek: Strange New Worlds
 Category: Disney Hotstar
 Year: 2022
@@ -1505,7 +1559,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-53
+Movie-56
 Movie name: Babli Bouncer
 Category: Disney Hotstar
 Year: 2022
@@ -1525,7 +1579,29 @@ STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-54
+Movie-57
+Movie name: Govinda Naam Mera
+Category: Disney Hotstar
+Year: 2022
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/c93pb87QTyMIdzV6ufUZSQfVMFi.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Govinda%20Naam%20Mera%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-58
+Movie name: Cobra
+Category: Disney Hotstar
+Year: 2022
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/eriBjgwmiXWqKKZxciLQiWgof1K.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cobra%20%282022%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-59
 Movie name: Shiddat
 Category: Disney Hotstar
 Year: 2021
@@ -1542,7 +1618,7 @@ STREAM Link 3: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
+Movie-60
 Show name: Flower Of Evil
 Category: Disney Hotstar
 Year: 2020
@@ -1565,7 +1641,7 @@ Episode: Episode 11-16
 
 ================================================================================
 
-Movie-56
+Movie-61
 Show name: Code M
 Category: Disney Hotstar
 Year: 2020
@@ -1578,7 +1654,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-57
+Movie-62
 Movie name: Shiva The Tiny Men From Mountain
 Category: Disney Hotstar
 Year: 2019
@@ -1589,7 +1665,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-58
+Movie-63
 Show name: 24: India
 Category: Disney Hotstar
 Year: 2013
@@ -1602,14 +1678,47 @@ Episode: Episode 09-12
 
 ================================================================================
 
-Movie-59
+Movie-64
 Movie name: 2012
 Category: Disney Hotstar
-Year: 2009
+Year: 2012
 Poster: https://cinefreak.net/wp-content/uploads/2026/04/2012-2009.webp
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv
+
+================================================================================
+
+Movie-65
+Movie name: WALL·E
+Category: Disney Hotstar
+Year: 2008
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20WALL-E%20%282008%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-66
+Movie name: Meet The Robinsons
+Category: Disney Hotstar
+Year: 2007
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Meet%20the%20Robinsons%20%282007%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-67
+Movie name: Me, Myself & Irene
+Category: Disney Hotstar
+Year: 2000
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Me%20Myself%20and%20Irene%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 
