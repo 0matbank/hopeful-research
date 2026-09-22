@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 74,
-    "last_updated": "2026-09-22 | 05:09:35 (UTC)",
+    "total_movies": 73,
+    "last_updated": "2026-09-22 | 11:52:32 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -178,15 +178,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -199,15 +195,19 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv"
+          "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         },
         {
           "resolution": "HQ 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20HQ%201080p.mkv"
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -355,11 +355,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Daadi%20Ki%20Shaadi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Daadi%20Ki%20Shaadi%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv"
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Daadi%20Ki%20Shaadi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -656,19 +652,6 @@
       ]
     },
     {
-      "name": "Dial",
-      "category": "Hindi Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68M7izYXT9gGV5LOXfZ9OHyz0VO.jpg",
-      "source_url": "https://cinefreak.net/dial-1975-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dial%201975%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "The East Palace",
       "category": "Hindi Movies",
       "year": "2026",
@@ -711,11 +694,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1069,10 +1052,6 @@
       "source_url": "https://cinefreak.net/fever-2016-full-movie-download",
       "res_list": [
         {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
           "resolution": "HQ 1080P",
           "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
         }
@@ -1147,15 +1126,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

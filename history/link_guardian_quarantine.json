@@ -108,9 +108,9 @@
         "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
       ],
       "quarantined_at": "2026-08-30T18:21:48.581826+00:00",
-      "last_attempt": "2026-09-19T07:24:02.450864+00:00",
-      "next_retry_at": "2026-09-22T07:24:02.450894+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-09-22T11:45:44.970558+00:00",
+      "next_retry_at": "2026-09-25T11:45:44.970646+00:00",
+      "attempt_count": 10
     },
     "banglamovies::https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Movies",
@@ -2214,7 +2214,31 @@
       "last_attempt": "2026-09-22T05:09:35.955689+00:00",
       "next_retry_at": "2026-09-22T11:09:35.955691+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/dial-1975-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/dial-1975-2026-full-movie-download",
+      "movie": {
+        "name": "Dial",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68M7izYXT9gGV5LOXfZ9OHyz0VO.jpg",
+        "source_url": "https://cinefreak.net/dial-1975-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dial%201975%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dial%201975%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-22T11:52:32.551824+00:00",
+      "last_attempt": "2026-09-22T11:52:32.551841+00:00",
+      "next_retry_at": "2026-09-22T17:52:32.551844+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-22T05:09:35.971826+00:00"
+  "updated_at": "2026-09-22T11:52:32.572264+00:00"
 }
