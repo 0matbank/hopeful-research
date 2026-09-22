@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 82,
-    "last_updated": "2026-09-18 | 13:01:02 (UTC)",
+    "total_movies": 91,
+    "last_updated": "2026-09-22 | 15:53:47 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -443,6 +443,36 @@
       ]
     },
     {
+      "name": "Katukutu Buro",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wVhqnbCjEEa1pTw6QEUdDrCExM.jpg",
+      "source_url": "https://cinefreak.net/katukutu-buro-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Katukutu%20Buro%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Katukutu%20Buro%20%282026%29%20WEB-DL%20%5BBengali%5D%204K-2160p%20AV1%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aajo Ardhangini",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbV6Nt9W804NmEiZdt0QOQoYnU.jpg",
+      "source_url": "https://cinefreak.net/aajo-ardhangini-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Aajo%20Ardhangini%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Saralakkho Holmes",
       "category": "Bangla Movies",
       "year": "2025",
@@ -714,6 +744,32 @@
       ]
     },
     {
+      "name": "Raas",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj6xNjxaERcNNRtQxMFPO0JNYe6.jpg",
+      "source_url": "https://cinefreak.net/raas-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Raas%20%282025%29%20HDTV%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bahurup",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9mFZoVLfHT4pNKyq1ZON6wslHt.jpg",
+      "source_url": "https://cinefreak.net/bahurup-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bohurup%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Abigail",
       "category": "Bangla Movies",
       "year": "2024",
@@ -909,6 +965,32 @@
       ]
     },
     {
+      "name": "Moner Moto Manush Pailam Na",
+      "category": "Bangla Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icqwqWeSLt8LLrjsrrbYiqdkkBk.jpg",
+      "source_url": "https://cinefreak.net/moner-moto-manush-pailam-na-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Moner%20Moto%20Manush%20Pailam%20Na%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Goyenda Tatar",
+      "category": "Bangla Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLPTMCBt0kZEk2whHDvkCTObrLO.jpg",
+      "source_url": "https://cinefreak.net/goyenda-tatar-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Goyenda%20Tatar%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Fidaa",
       "category": "Bangla Movies",
       "year": "2018",
@@ -1026,6 +1108,19 @@
       ]
     },
     {
+      "name": "Asha Jaoar Majhe",
+      "category": "Bangla Movies",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fygLI6KJw9Kj8FM7qGF6jsDvML1.jpg",
+      "source_url": "https://cinefreak.net/labour-of-love-2015-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Asha%20Jaoar%20Majhe%20%282014%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Amazing Spider-Man 2",
       "category": "Bangla Movies",
       "year": "2014",
@@ -1117,6 +1212,19 @@
       ]
     },
     {
+      "name": "Bombaiyer Bombete",
+      "category": "Bangla Movies",
+      "year": "2003",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3d7B5hHhzTKIUxRT1QfgzcjhAK5.jpg",
+      "source_url": "https://cinefreak.net/bombaiyer-bombete-2003-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bombaiyer%20Bombete%20%282002%29%20DVDRIP%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Spider-Man",
       "category": "Bangla Movies",
       "year": "2002",
@@ -1126,6 +1234,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Saanjhbatir Roopkathara",
+      "category": "Bangla Movies",
+      "year": "2002",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA6uvCXizDqLW8dN79JKqOHhGOq.jpg",
+      "source_url": "https://cinefreak.net/saanjhbatir-roopkathara-2002-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saanjhbatir%20Rupkathara%20%282002%29%20WEB-DL%20%5BBengali%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saanjhbatir%20Rupkathara%20%282002%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
