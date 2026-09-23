@@ -1,35 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "hindimovies::https://cinefreak.net/jogi-2022-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/jogi-2022-full-movie-download",
-      "movie": {
-        "name": "Jogi",
-        "category": "Hindi Movies",
-        "year": "2022",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQJ93gdI2htbZfOLX41PnkRxW3l.jpg",
-        "source_url": "https://cinefreak.net/jogi-2022-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-          },
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
-        "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-      ],
-      "quarantined_at": "2026-08-30T13:39:41.838971+00:00",
-      "last_attempt": "2026-09-20T04:59:15.653152+00:00",
-      "next_retry_at": "2026-09-23T04:59:15.653169+00:00",
-      "attempt_count": 10
-    },
     "kannadamovies::https://cinefreak.net/hero-2021-full-movie-download": {
       "category": "Kannada Movies",
       "source_url": "https://cinefreak.net/hero-2021-full-movie-download",
@@ -2320,7 +2291,31 @@
       "last_attempt": "2026-09-23T00:44:47.639292+00:00",
       "next_retry_at": "2026-09-23T06:44:47.639295+00:00",
       "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/agnyathavasi-2025-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/agnyathavasi-2025-full-movie-download",
+      "movie": {
+        "name": "Agnyathavasi",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ephTFUQNYhBmYjKqMoMazzHpVqu.jpg",
+        "source_url": "https://cinefreak.net/agnyathavasi-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Agnyathavasi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Agnyathavasi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-23T07:54:11.876557+00:00",
+      "last_attempt": "2026-09-23T07:54:11.876575+00:00",
+      "next_retry_at": "2026-09-23T13:54:11.876579+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-23T00:44:47.663989+00:00"
+  "updated_at": "2026-09-23T07:54:11.899337+00:00"
 }
