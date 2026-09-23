@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 49,
-    "last_updated": "2026-09-23 | 07:54:11 (UTC)",
+    "total_movies": 48,
+    "last_updated": "2026-09-23 | 13:47:18 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -172,12 +172,12 @@
       "source_url": "https://cinefreak.net/i-am-god-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+          "resolution": "HD 1080P",
+          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -617,35 +617,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%2060FPS%20HEVC%20ESub.mkv"
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "4K 2160P HEVC",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20KGF%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20KGF%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%20AMZN%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20KGF%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi%20ORG%5D%20AMZN%201080p%20%5B60FPS%5D%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20KGF%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -680,19 +656,6 @@
       ]
     },
     {
-      "name": "Hero",
-      "category": "Kannada Movies",
-      "year": "2021",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZAxSiL5csPIe6Q1V8pbwz69U5m.jpg",
-      "source_url": "https://cinefreak.net/hero-2021-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Dia",
       "category": "Kannada Movies",
       "year": "2020",
@@ -701,7 +664,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESubs.mkv"
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESubs.mkv"
         }
       ]
     },
@@ -739,16 +702,12 @@
       "source_url": "https://cinefreak.net/k-g-f-chapter-1-2018-hindi-dubbed-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
-        },
-        {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%2060FPS%20HEVC%20ESub.mkv"
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%2060FPS%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "4K 2160P HEVC",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -793,19 +752,25 @@
           "season": "S01",
           "episode": "Episode 01-05",
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 06-10",
+          "resolution": "HD 1080P",
+          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
           "episode": "Episode 11-15",
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E11-15%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+          "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E11-15%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
           "episode": "Episode 16-20",
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E16-20%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E16-20%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
         }
       ]
     }
