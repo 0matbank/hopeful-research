@@ -21,9 +21,9 @@
         "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.757409+00:00",
-      "last_attempt": "2026-09-20T16:11:52.316460+00:00",
-      "next_retry_at": "2026-09-23T16:11:52.316480+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-09-23T18:26:22.348971+00:00",
+      "next_retry_at": "2026-09-26T18:26:22.348996+00:00",
+      "attempt_count": 11
     },
     "kannadamovies::https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -2339,7 +2339,84 @@
       "last_attempt": "2026-09-23T13:47:18.573733+00:00",
       "next_retry_at": "2026-09-23T19:47:18.573735+00:00",
       "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/krishnam-pranaya-sakhi-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/krishnam-pranaya-sakhi-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Krishnam Pranaya Sakhi",
+        "category": "Kannada Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3swr0fu3NAm0myEaeJVTorMiG.jpg",
+        "source_url": "https://cinefreak.net/krishnam-pranaya-sakhi-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Krishnam%20Pranaya%20Sakhi%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20SNXT%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Krishnam%20Pranaya%20Sakhi%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20SNXT%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-23T18:32:23.005780+00:00",
+      "last_attempt": "2026-09-23T18:32:23.005793+00:00",
+      "next_retry_at": "2026-09-24T00:32:23.005796+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/pailwaan-2019-hindi-dubbed-uncut-hdrip-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/pailwaan-2019-hindi-dubbed-uncut-hdrip-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Pailwaan",
+        "category": "Kannada Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umWoSbujUE3iyrBjDxstuNapu0m.jpg",
+        "source_url": "https://cinefreak.net/pailwaan-2019-hindi-dubbed-uncut-hdrip-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pailwaan%20%282019%29%20UNCUT%20HDRip%20%5BHindi%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pailwaan%20%282019%29%20UNCUT%20HDRip%20%5BHindi%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-23T18:32:23.006034+00:00",
+      "last_attempt": "2026-09-23T18:32:23.006037+00:00",
+      "next_retry_at": "2026-09-24T00:32:23.006039+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/rangi-taranga-2015-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/rangi-taranga-2015-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Rangi Taranga",
+        "category": "Kannada Movies",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvE6k9noK4BaU2F1GBhVe7vvjcI.jpg",
+        "source_url": "https://cinefreak.net/rangi-taranga-2015-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET%20-%20Rangi%20Taranga%20%282015%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET%20-%20Rangi%20Taranga%20%282015%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET%20-%20Rangi%20Taranga%20%282015%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.NET%20-%20Rangi%20Taranga%20%282015%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-23T18:32:23.006150+00:00",
+      "last_attempt": "2026-09-23T18:32:23.006153+00:00",
+      "next_retry_at": "2026-09-24T00:32:23.006154+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-23T13:47:18.593595+00:00"
+  "updated_at": "2026-09-23T18:32:23.025286+00:00"
 }
