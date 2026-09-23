@@ -226,53 +226,41 @@
         "retry_after_epoch": 1790215789,
         "retry_after": "2026-09-24T02:09:49.630358+00:00"
       },
-      "https://cinefreak.net/bismillah-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-08T01:46:58.554271+00:00",
-        "retry_after_epoch": 1788875218,
-        "retry_after": "2026-09-08T13:46:58.554271+00:00"
-      },
       "https://cinefreak.net/abby-sen-2015-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-08T15:33:27.761630+00:00",
-        "retry_after_epoch": 1788924807,
-        "retry_after": "2026-09-09T03:33:27.761630+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-23T15:43:40.228546+00:00",
+        "retry_after_epoch": 1790264620,
+        "retry_after": "2026-09-24T15:43:40.228546+00:00"
       },
       "https://cinefreak.net/ahare-mon-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-08T15:33:27.761678+00:00",
-        "retry_after_epoch": 1788924807,
-        "retry_after": "2026-09-09T03:33:27.761678+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-23T15:43:40.228592+00:00",
+        "retry_after_epoch": 1790264620,
+        "retry_after": "2026-09-24T15:43:40.228592+00:00"
       },
       "https://cinefreak.net/srabon-josnay-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-toffee-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-09T01:54:26.570527+00:00",
-        "retry_after_epoch": 1788962066,
-        "retry_after": "2026-09-09T13:54:26.570527+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-23T15:43:40.228600+00:00",
+        "retry_after_epoch": 1790264620,
+        "retry_after": "2026-09-24T15:43:40.228600+00:00"
       },
       "https://cinefreak.net/fereshteh-2025-bengali-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-09T01:54:26.616321+00:00",
-        "retry_after_epoch": 1788962066,
-        "retry_after": "2026-09-09T13:54:26.616321+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-23T15:43:40.228608+00:00",
+        "retry_after_epoch": 1790264620,
+        "retry_after": "2026-09-24T15:43:40.228608+00:00"
       },
       "https://cinefreak.net/tento-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-09T01:54:26.616354+00:00",
-        "retry_after_epoch": 1788962066,
-        "retry_after": "2026-09-09T13:54:26.616354+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-23T15:43:40.228614+00:00",
+        "retry_after_epoch": 1790264620,
+        "retry_after": "2026-09-24T15:43:40.228614+00:00"
       },
       "https://cinefreak.net/plan-b-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
         "failure_count": 1,
         "last_failed_at": "2026-09-09T01:54:27.123407+00:00",
         "retry_after_epoch": 1788962067,
         "retry_after": "2026-09-09T13:54:27.123407+00:00"
-      },
-      "https://cinefreak.net/aborto-2013-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-22T15:53:47.839915+00:00",
-        "retry_after_epoch": 1790135627,
-        "retry_after": "2026-09-23T03:53:47.839915+00:00"
       }
     },
     "Tamil Movies": {
