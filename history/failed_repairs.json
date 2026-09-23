@@ -752,5 +752,15 @@
     ],
     "last_attempt": "2026-09-22T11:51:33.431462+00:00",
     "attempt_count": 1
+  },
+  "hindimovies::rajashivaji": {
+    "name": "Raja Shivaji",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Raja%20Shivaji%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%201080p%20ESub.mkv",
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Raja%20Shivaji%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-23T00:41:58.471971+00:00",
+    "attempt_count": 1
   }
 }
