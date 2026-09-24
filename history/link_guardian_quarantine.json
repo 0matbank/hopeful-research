@@ -103,9 +103,9 @@
         "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-06T11:05:44.368789+00:00",
-      "last_attempt": "2026-09-21T05:02:18.847558+00:00",
-      "next_retry_at": "2026-09-24T05:02:18.847575+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-09-24T11:52:15.409782+00:00",
+      "next_retry_at": "2026-09-27T11:52:15.409803+00:00",
+      "attempt_count": 9
     },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -2456,5 +2456,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-24T05:08:42.960981+00:00"
+  "updated_at": "2026-09-24T11:57:17.628570+00:00"
 }
