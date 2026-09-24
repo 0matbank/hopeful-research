@@ -180,9 +180,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809399+00:00",
-      "last_attempt": "2026-09-21T19:33:01.466294+00:00",
-      "next_retry_at": "2026-09-24T19:33:01.466315+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-09-24T21:35:13.705577+00:00",
+      "next_retry_at": "2026-09-27T21:35:13.705597+00:00",
+      "attempt_count": 7
     },
     "disneyhotstar::https://cinefreak.net/a-woman-called-mother-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -2485,5 +2485,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-24T17:22:31.524596+00:00"
+  "updated_at": "2026-09-24T21:40:46.745899+00:00"
 }
