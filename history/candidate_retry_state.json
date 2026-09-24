@@ -917,6 +917,24 @@
         "last_failed_at": "2026-09-15T05:24:34.447604+00:00",
         "retry_after_epoch": 1789493074,
         "retry_after": "2026-09-15T17:24:34.447604+00:00"
+      },
+      "https://cinefreak.net/lethal-weapon-1987-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-24T16:04:43.231396+00:00",
+        "retry_after_epoch": 1790309083,
+        "retry_after": "2026-09-25T04:04:43.231396+00:00"
+      },
+      "https://cinefreak.net/rocky-1976-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-24T16:04:44.555941+00:00",
+        "retry_after_epoch": 1790309084,
+        "retry_after": "2026-09-25T04:04:44.555941+00:00"
+      },
+      "https://cinefreak.net/rocky-balboa-2006-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-24T16:04:44.555974+00:00",
+        "retry_after_epoch": 1790309084,
+        "retry_after": "2026-09-25T04:04:44.555974+00:00"
       }
     },
     "Hindi Movies": {

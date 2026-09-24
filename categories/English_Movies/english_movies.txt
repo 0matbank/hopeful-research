@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: English Movies
-TOTAL MOVIES: 77
-LAST UPDATED: 2026-09-24 | 04:58:20 (UTC)
+TOTAL MOVIES: 84
+LAST UPDATED: 2026-09-24 | 16:04:45 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -786,6 +786,17 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-62
+Movie name: Courageous
+Category: English Movies
+Year: 2011
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVRkbZRCoHtnfi0V9GFZ3uXjCNp.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Courageous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-63
 Movie name: Casino Jack
 Category: English Movies
 Year: 2010
@@ -796,7 +807,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-64
 Movie name: RED
 Category: English Movies
 Year: 2010
@@ -810,7 +821,7 @@ STREAM Link 2: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
+Movie-65
 Movie name: The Prestige
 Category: English Movies
 Year: 2006
@@ -821,7 +832,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-65
+Movie-66
 Movie name: The Break-Up
 Category: English Movies
 Year: 2006
@@ -832,7 +843,7 @@ STREAM Link 1: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-67
 Movie name: Hitch
 Category: English Movies
 Year: 2005
@@ -843,7 +854,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-67
+Movie-68
 Movie name: Heartbreakers
 Category: English Movies
 Year: 2001
@@ -854,7 +865,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-68
+Movie-69
 Movie name: Reindeer Games
 Category: English Movies
 Year: 2000
@@ -868,7 +879,7 @@ STREAM Link 2: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-69
+Movie-70
 Movie name: Donnie Brasco
 Category: English Movies
 Year: 1997
@@ -879,7 +890,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-70
+Movie-71
 Movie name: Higher Learning
 Category: English Movies
 Year: 1995
@@ -890,7 +901,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-71
+Movie-72
 Movie name: Toy Story
 Category: English Movies
 Year: 1995
@@ -901,7 +912,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-72
+Movie-73
 Movie name: Clueless
 Category: English Movies
 Year: 1995
@@ -912,7 +923,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-73
+Movie-74
 Movie name: Captain Ron
 Category: English Movies
 Year: 1992
@@ -923,7 +934,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-74
+Movie-75
 Movie name: Robotrix
 Category: English Movies
 Year: 1991
@@ -934,7 +945,73 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-75
+Movie-76
+Movie name: Rocky V
+Category: English Movies
+Year: 1990
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rocky%20V%20%281990%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-77
+Movie name: RoboCop
+Category: English Movies
+Year: 1987
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHtOgGb3NihlyRATHlKPaFApbrd.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20RoboCop%20%281987%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-78
+Movie name: Mad Max Beyond Thunderdome
+Category: English Movies
+Year: 1985
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%203%20Beyond%20Thunderdome%20%281985%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-79
+Movie name: The Terminator
+Category: English Movies
+Year: 1984
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvktm0BHcnmDpul4Hz01GIazWPr.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Terminator%20%281984%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-80
+Movie name: Mad Max 2
+Category: English Movies
+Year: 1981
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-81
+Movie name: Mad Max
+Category: English Movies
+Year: 1979
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LrI4GiCSrChgkdskVZiwv643Kg.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%20%281979%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-82
 Movie name: Rabid
 Category: English Movies
 Year: 1977
@@ -948,7 +1025,7 @@ STREAM Link 2: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-76
+Movie-83
 Movie name: Brief Encounter
 Category: English Movies
 Year: 1974
@@ -959,7 +1036,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-77
+Movie-84
 Movie name: The Sound Of Music
 Category: English Movies
 Year: 1965

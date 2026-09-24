@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 77,
-    "last_updated": "2026-09-24 | 04:58:20 (UTC)",
+    "total_movies": 84,
+    "last_updated": "2026-09-24 | 16:04:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -944,6 +944,19 @@
       ]
     },
     {
+      "name": "Courageous",
+      "category": "English Movies",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVRkbZRCoHtnfi0V9GFZ3uXjCNp.jpg",
+      "source_url": "https://cinefreak.net/courageous-2011-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Courageous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Casino Jack",
       "category": "English Movies",
       "year": "2010",
@@ -1117,6 +1130,84 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Robotrix%20%281991%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Rocky V",
+      "category": "English Movies",
+      "year": "1990",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "source_url": "https://cinefreak.net/rocky-v-1990-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rocky%20V%20%281990%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "RoboCop",
+      "category": "English Movies",
+      "year": "1987",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "source_url": "https://cinefreak.net/robocop-1987-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20RoboCop%20%281987%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mad Max Beyond Thunderdome",
+      "category": "English Movies",
+      "year": "1985",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg",
+      "source_url": "https://cinefreak.net/mad-max-beyond-thunderdome-1985-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%203%20Beyond%20Thunderdome%20%281985%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Terminator",
+      "category": "English Movies",
+      "year": "1984",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "source_url": "https://cinefreak.net/the-terminator-1984-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Terminator%20%281984%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mad Max 2",
+      "category": "English Movies",
+      "year": "1981",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "source_url": "https://cinefreak.net/mad-max-2-1981-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Mad Max",
+      "category": "English Movies",
+      "year": "1979",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+      "source_url": "https://cinefreak.net/mad-max-1979-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%20%281979%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
