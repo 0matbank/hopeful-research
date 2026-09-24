@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 66,
-    "last_updated": "2026-09-20 | 05:02:08 (UTC)",
+    "total_movies": 76,
+    "last_updated": "2026-09-24 | 01:58:19 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -316,6 +316,91 @@
       ]
     },
     {
+      "name": "The Love Hypothesis",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "source_url": "https://cinefreak.net/the-love-hypothesis-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Toy Story 5",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+      "source_url": "https://cinefreak.net/toy-story-5-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Battle",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1y1xAQFmEwdb2TiJ0ja6XAbE0v.jpg",
+      "source_url": "https://cinefreak.net/battle-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Battle%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Desert Child",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PODwO3sxLAMU9NyffIdYOzxYVW.jpg",
+      "source_url": "https://cinefreak.net/the-desert-child-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Desert%20Child%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Ice Cream Man",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+      "source_url": "https://cinefreak.net/ice-cream-man-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ice%20Cream%20Man%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Stand Your Ground",
       "category": "English Movies",
       "year": "2025",
@@ -385,6 +470,40 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20President%20Down%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Wolf Man",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+      "source_url": "https://cinefreak.net/wolf-man-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Squad 36",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfQi2JzENT5MNJhN1nkIZMNWm4M.jpg",
+      "source_url": "https://cinefreak.net/squad-36-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Squad%2036%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -735,6 +854,19 @@
       ]
     },
     {
+      "name": "Dawn Of The Planet Of The Apes",
+      "category": "English Movies",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+      "source_url": "https://cinefreak.net/dawn-of-the-planet-of-the-apes-2014-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "RED 2",
       "category": "English Movies",
       "year": "2013",
@@ -774,6 +906,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anonymous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Rise Of The Planet Of The Apes",
+      "category": "English Movies",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+      "source_url": "https://cinefreak.net/rise-of-the-planet-of-the-apes-2011-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Rise%20Of%20The%20Planet%20Of%20The%20Apes%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rise%20of%20the%20Planet%20of%20the%20Apes%20%282011%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -843,6 +992,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Heartbreakers",
+      "category": "English Movies",
+      "year": "2001",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwvec0gRMSpLakcPuxe0RWScNv3.jpg",
+      "source_url": "https://cinefreak.net/heartbreakers-2001-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Heartbreakers%20%282001%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -959,6 +1121,19 @@
       ]
     },
     {
+      "name": "Brief Encounter",
+      "category": "English Movies",
+      "year": "1974",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+      "source_url": "https://cinefreak.net/brief-encounter-1945-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brief%20Encounter%20%281974%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Sound Of Music",
       "category": "English Movies",
       "year": "1965",
@@ -968,19 +1143,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Brief Encounter",
-      "category": "English Movies",
-      "year": "1945",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
-      "source_url": "https://cinefreak.net/brief-encounter-1945-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brief%20Encounter%20%281974%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     }
