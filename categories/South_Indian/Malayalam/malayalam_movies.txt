@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Malayalam Movies
-TOTAL MOVIES: 79
-LAST UPDATED: 2026-09-23 | 23:01:53 (UTC)
+TOTAL MOVIES: 78
+LAST UPDATED: 2026-09-24 | 05:08:42 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -29,13 +29,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWPVJjzU8wRG72OieszybwV6pPE.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -150,14 +150,8 @@ Category: Malayalam Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -339,11 +333,11 @@ Category: Malayalam Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxz8X9FK3aOE9AtKnwp8ZZQDob.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: 4K 2160P HEVC
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -471,7 +465,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/a41fqMDWRcZcDqidGcq10xmRoh.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Chatha%20Pacha%20The%20Ring%20of%20Rowdies%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chatha%20Pacha%20The%20Ring%20of%20Rowdies%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -482,7 +476,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEyEFVdlmUdapDl77704aR8o59D.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Baby%20Girl%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Girl%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -540,13 +534,13 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIg1yo3hpaytvhkhI61LFLuuQNm.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -579,7 +573,7 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/df5IaJtB0dmUkDfOCbr0xkPTXDc.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -638,7 +632,7 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbydhHW7IYMcdvn9jO9BdW4eUwk.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dominic%20and%20the%20Ladies%20Purse%20%282025%29%20WEB-DL%20%5BMalayalam%5D%20ZEE5%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dominic%20and%20the%20Ladies%20Purse%20%282025%29%20WEB-DL%20%5BMalayalam%5D%20ZEE5%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -914,17 +908,6 @@ STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-61
-Movie name: Christopher
-Category: Malayalam Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhVDopMAb2vA0L93zDZlDWg4FgX.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Christopher%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-62
 Movie name: Nalla Nilavulla Rathri
 Category: Malayalam Movies
 Year: 2023
@@ -938,7 +921,7 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-62
 Movie name: Padmini
 Category: Malayalam Movies
 Year: 2023
@@ -949,7 +932,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
+Movie-63
 Movie name: Heaven
 Category: Malayalam Movies
 Year: 2022
@@ -963,7 +946,7 @@ STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-65
+Movie-64
 Movie name: Malikappuram
 Category: Malayalam Movies
 Year: 2022
@@ -974,7 +957,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-65
 Movie name: John Luther
 Category: Malayalam Movies
 Year: 2022
@@ -991,7 +974,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-67
+Movie-66
 Movie name: Kaapa
 Category: Malayalam Movies
 Year: 2022
@@ -1008,7 +991,7 @@ STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-68
+Movie-67
 Movie name: Rorschach
 Category: Malayalam Movies
 Year: 2022
@@ -1019,7 +1002,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-69
+Movie-68
 Movie name: Kaduva
 Category: Malayalam Movies
 Year: 2022
@@ -1030,18 +1013,18 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET
 
 ================================================================================
 
-Movie-70
+Movie-69
 Movie name: Churuli
 Category: Malayalam Movies
 Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSjykY5ZuVWHK0C7k4CXZ5566No.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Churuli%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Churuli%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-71
+Movie-70
 Movie name: Minnal Murali
 Category: Malayalam Movies
 Year: 2021
@@ -1055,7 +1038,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET
 
 ================================================================================
 
-Movie-72
+Movie-71
 Movie name: Police Story 2
 Category: Malayalam Movies
 Year: 2021
@@ -1066,7 +1049,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET
 
 ================================================================================
 
-Movie-73
+Movie-72
 Movie name: #Home
 Category: Malayalam Movies
 Year: 2021
@@ -1077,7 +1060,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-74
+Movie-73
 Movie name: Big Brother
 Category: Malayalam Movies
 Year: 2020
@@ -1088,7 +1071,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-75
+Movie-74
 Movie name: Nine
 Category: Malayalam Movies
 Year: 2019
@@ -1099,7 +1082,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-76
+Movie-75
 Movie name: Kumbalangi Nights
 Category: Malayalam Movies
 Year: 2019
@@ -1110,7 +1093,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-77
+Movie-76
 Movie name: B Tech
 Category: Malayalam Movies
 Year: 2018
@@ -1124,7 +1107,7 @@ STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-78
+Movie-77
 Movie name: Oppam
 Category: Malayalam Movies
 Year: 2016
@@ -1135,7 +1118,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-79
+Movie-78
 Movie name: Premam
 Category: Malayalam Movies
 Year: 2015
