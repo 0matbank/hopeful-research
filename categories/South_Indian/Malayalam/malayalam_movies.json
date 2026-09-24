@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 78,
-    "last_updated": "2026-09-24 | 11:57:17 (UTC)",
+    "total_movies": 77,
+    "last_updated": "2026-09-24 | 17:22:31 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -244,19 +244,19 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         },
         {
           "resolution": "HQ 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
         },
         {
           "resolution": "4K 2160P HEVC",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -269,15 +269,19 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         },
         {
           "resolution": "HQ 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLV%20HQ%201080p%20ESub.mkv"
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLV%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -580,23 +584,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Girl%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Kalamkaval",
-      "category": "Malayalam Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9m8kyklpW8xWk1pxuKnPTx0F1b.jpg",
-      "source_url": "https://cinefreak.net/kalamkaval-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kalamkaval%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kalamkaval%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1006,11 +993,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1104,11 +1087,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Nalla%20Nilavulla%20Rathri%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Nalla%20Nilavulla%20Rathri%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Nalla%20Nilavulla%20Rathri%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1185,15 +1164,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },
