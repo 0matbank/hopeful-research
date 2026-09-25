@@ -79,9 +79,9 @@
         "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
       ],
       "quarantined_at": "2026-08-30T18:21:48.581826+00:00",
-      "last_attempt": "2026-09-22T11:45:44.970558+00:00",
-      "next_retry_at": "2026-09-25T11:45:44.970646+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-09-25T13:53:26.803202+00:00",
+      "next_retry_at": "2026-09-28T13:53:26.803221+00:00",
+      "attempt_count": 11
     },
     "banglamovies::https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Movies",
@@ -2459,7 +2459,36 @@
       "last_attempt": "2026-09-24T17:22:31.497367+00:00",
       "next_retry_at": "2026-09-24T23:22:31.497370+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/good-night-2023-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/good-night-2023-full-movie-download",
+      "movie": {
+        "name": "Good Night",
+        "category": "Tamil Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFTO0tCTxXazstWfhOQHPb3kcMT.jpg",
+        "source_url": "https://cinefreak.net/good-night-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Good%20Night%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Good%20Night%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Good%20Night%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Good%20Night%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-25T13:58:57.025807+00:00",
+      "last_attempt": "2026-09-25T13:58:57.025821+00:00",
+      "next_retry_at": "2026-09-25T19:58:57.025824+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-25T08:03:51.576077+00:00"
+  "updated_at": "2026-09-25T13:58:57.052581+00:00"
 }
