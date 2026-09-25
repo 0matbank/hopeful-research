@@ -185,9 +185,9 @@
         "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:09:17.443560+00:00",
-      "last_attempt": "2026-09-22T21:24:03.658170+00:00",
-      "next_retry_at": "2026-09-25T21:24:03.658191+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-09-25T23:21:10.012957+00:00",
+      "next_retry_at": "2026-09-28T23:21:10.012974+00:00",
+      "attempt_count": 7
     },
     "kannadamovies::https://cinefreak.net/usiru-2025-full-movie-download": {
       "category": "Kannada Movies",
@@ -2517,7 +2517,118 @@
       "last_attempt": "2026-09-25T18:46:55.334931+00:00",
       "next_retry_at": "2026-09-26T00:46:55.334934+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/oru-nodi-2024-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/oru-nodi-2024-full-movie-download",
+      "movie": {
+        "name": "Oru Nodi",
+        "category": "Tamil Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcZl2itDpPLKvMrd8C2hNxifGMp.jpg",
+        "source_url": "https://cinefreak.net/oru-nodi-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Nodi%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Oru%20Nodi%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-25T23:28:06.702672+00:00",
+      "last_attempt": "2026-09-25T23:28:06.702685+00:00",
+      "next_retry_at": "2026-09-26T05:28:06.702687+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/revolver-rita-2025-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/revolver-rita-2025-full-movie-download",
+      "movie": {
+        "name": "Revolver Rita",
+        "category": "Tamil Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aht5LuEzNQKHEWycCsO6mOJhn1U.jpg",
+        "source_url": "https://cinefreak.net/revolver-rita-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-25T23:28:06.703003+00:00",
+      "last_attempt": "2026-09-25T23:28:06.703010+00:00",
+      "next_retry_at": "2026-09-26T05:28:06.703012+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/raatchasi-2019-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/raatchasi-2019-full-movie-download",
+      "movie": {
+        "name": "Raatchasi",
+        "category": "Tamil Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwGChfkDcxljj4pgb53A7JonOqU.jpg",
+        "source_url": "https://cinefreak.net/raatchasi-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-25T23:28:06.703245+00:00",
+      "last_attempt": "2026-09-25T23:28:06.703251+00:00",
+      "next_retry_at": "2026-09-26T05:28:06.703253+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/pudhupettai-2006-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/pudhupettai-2006-full-movie-download",
+      "movie": {
+        "name": "Pudhupettai",
+        "category": "Tamil Movies",
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etW6tRiYL11J9UFQMl6ipja9PvC.jpg",
+        "source_url": "https://cinefreak.net/pudhupettai-2006-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-25T23:28:06.703450+00:00",
+      "last_attempt": "2026-09-25T23:28:06.703455+00:00",
+      "next_retry_at": "2026-09-26T05:28:06.703457+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-25T18:46:55.360957+00:00"
+  "updated_at": "2026-09-25T23:28:06.727996+00:00"
 }
