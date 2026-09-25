@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Malayalam Movies
 TOTAL MOVIES: 77
-LAST UPDATED: 2026-09-25 | 00:42:04 (UTC)
+LAST UPDATED: 2026-09-25 | 08:03:51 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -553,8 +553,14 @@ Category: Malayalam Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYCJihP5IQwUw9RMSmeGg7yU1FP.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 

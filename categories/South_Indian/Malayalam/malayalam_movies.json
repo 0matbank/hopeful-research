@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Malayalam Movies",
     "total_movies": 77,
-    "last_updated": "2026-09-25 | 00:42:04 (UTC)",
+    "last_updated": "2026-09-25 | 08:03:51 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -672,8 +672,16 @@
       "source_url": "https://cinefreak.net/written-directed-by-god-2025-full-movie-download",
       "res_list": [
         {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
           "resolution": "HD 1080P",
-          "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Written%20And%20Directed%20By%20God%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 94,
-    "last_updated": "2026-09-23 | 15:43:40 (UTC)",
+    "total_movies": 95,
+    "last_updated": "2026-09-25 | 07:54:07 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -779,6 +779,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Raas%20%282025%29%20HDTV%20%5BBengali%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Nana Hee",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/quscZPqxTPUdXgemvVIoePk7znI.jpg",
+      "source_url": "https://cinefreak.net/nana-hee-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
         }
       ]
     },
