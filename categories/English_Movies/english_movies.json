@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 84,
-    "last_updated": "2026-09-24 | 16:04:45 (UTC)",
+    "total_movies": 94,
+    "last_updated": "2026-09-25 | 02:13:24 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -418,6 +418,49 @@
       ]
     },
     {
+      "name": "This Tempting Madness",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg",
+      "source_url": "https://cinefreak.net/this-tempting-madness-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20This%20Tempting%20Madness%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Resident Evil",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "source_url": "https://cinefreak.net/resident-evil-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%201080p%20HC-ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Teenage Sex And Death At Camp Miasma",
+      "category": "English Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+      "source_url": "https://cinefreak.net/teenage-sex-and-death-at-camp-miasma-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Stand Your Ground",
       "category": "English Movies",
       "year": "2025",
@@ -777,6 +820,23 @@
       ]
     },
     {
+      "name": "The Darkest Minds",
+      "category": "English Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
+      "source_url": "https://cinefreak.net/the-darkest-minds-2018-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Darkest%20Minds%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Darkest%20Minds%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Stronger",
       "category": "English Movies",
       "year": "2017",
@@ -914,6 +974,19 @@
       ]
     },
     {
+      "name": "Killing Season",
+      "category": "English Movies",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
+      "source_url": "https://cinefreak.net/killing-season-2013-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Killing%20Season%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Anonymous",
       "category": "English Movies",
       "year": "2011",
@@ -953,6 +1026,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Courageous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Blitz",
+      "category": "English Movies",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg",
+      "source_url": "https://cinefreak.net/blitz-2011-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Blitz%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1013,6 +1099,19 @@
       ]
     },
     {
+      "name": "Tom And Jerry: Shiver Me Whiskers",
+      "category": "English Movies",
+      "year": "2006",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kJT2PQXBdLvT7jimzgxQFWXPBK.jpg",
+      "source_url": "https://cinefreak.net/tom-and-jerry-shiver-me-whiskers-2006-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tom%20and%20Jerry%20Shiver%20Me%20Whiskers%20%282006%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Hitch",
       "category": "English Movies",
       "year": "2005",
@@ -1022,6 +1121,32 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Charlie And The Chocolate Factory",
+      "category": "English Movies",
+      "year": "2005",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+      "source_url": "https://cinefreak.net/charlie-and-the-chocolate-factory-2005-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Charlie%20and%20the%20Chocolate%20Factory%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "The Italian Job",
+      "category": "English Movies",
+      "year": "2003",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+      "source_url": "https://cinefreak.net/the-italian-job-2003-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Italian%20Job%20%282003%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1052,6 +1177,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Saving Private Ryan",
+      "category": "English Movies",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "source_url": "https://cinefreak.net/saving-private-ryan-1998-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saving%20Private%20Ryan%20%281998%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
