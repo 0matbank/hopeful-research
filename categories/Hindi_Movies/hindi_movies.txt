@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Movies
-TOTAL MOVIES: 71
-LAST UPDATED: 2026-09-23 | 07:51:36 (UTC)
+TOTAL MOVIES: 81
+LAST UPDATED: 2026-09-25 | 16:06:09 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -595,6 +595,96 @@ STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-43
+Movie name: The Vvaan
+Category: Hindi Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2k82zqPQyuBNZxeu5Fr4LWoKUY.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Vvaan%20Force%20of%20the%20Forrest%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv
+
+================================================================================
+
+Movie-44
+Movie name: Don't Be Shy!
+Category: Hindi Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-45
+Movie name: Vibe
+Category: Hindi Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20ViBE%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv
+
+================================================================================
+
+Movie-46
+Movie name: Daayra
+Category: Hindi Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ6ORv3AfsV6m1ERL8Muk5jKpbu.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Daayra%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Daayra%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv
+
+================================================================================
+
+Movie-47
+Movie name: Heer Sara
+Category: Hindi Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cXdREhUugVwGy6DkKsdkn9VPaD.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Heer%20Sara%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Heer%20Sara%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-48
+Movie name: Lust Stories 3
+Category: Hindi Movies
+Year: 2026
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%203%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-49
 Movie name: The Murder Files
 Category: Hindi Movies
 Year: 2025
@@ -605,7 +695,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-50
 Movie name: Love In Vietnam
 Category: Hindi Movies
 Year: 2025
@@ -619,7 +709,18 @@ STREAM Link 2: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-51
+Movie name: Tara And Akash: Love Beyond Realms
+Category: Hindi Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY0XOGrpIiFrPBXnpLGvZttjoSX.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tara%20and%20Akash%20Love%20Beyond%20Realms%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-52
 Movie name: Navras Katha Collage
 Category: Hindi Movies
 Year: 2024
@@ -630,7 +731,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
+Movie-53
 Movie name: The Birthday Boy
 Category: Hindi Movies
 Year: 2024
@@ -641,7 +742,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-54
 Movie name: Aliya Basu Gayab Hai
 Category: Hindi Movies
 Year: 2024
@@ -652,7 +753,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-55
 Movie name: Khufiya
 Category: Hindi Movies
 Year: 2023
@@ -669,7 +770,7 @@ STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-56
 Movie name: Jaane Jaan
 Category: Hindi Movies
 Year: 2023
@@ -683,7 +784,7 @@ STREAM Link 2: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
+Movie-57
 Movie name: Ishq-e-Nadaan
 Category: Hindi Movies
 Year: 2023
@@ -694,7 +795,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-58
 Movie name: Tiku Weds Sheru
 Category: Hindi Movies
 Year: 2023
@@ -708,7 +809,7 @@ STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-52
+Movie-59
 Movie name: Satyaprem Ki Katha
 Category: Hindi Movies
 Year: 2023
@@ -719,7 +820,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-60
 Movie name: Sirf Ek Bandaa Kaafi Hai
 Category: Hindi Movies
 Year: 2023
@@ -730,7 +831,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-54
+Movie-61
 Movie name: Mujib: The Making Of A Nation
 Category: Hindi Movies
 Year: 2023
@@ -741,7 +842,27 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
+Movie-62
+Movie name: Lust Stories 2
+Category: Hindi Movies
+Year: 2023
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5x729JI6wZs9hCqX7tc7oH87ih.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+
+================================================================================
+
+Movie-63
 Movie name: Jogi
 Category: Hindi Movies
 Year: 2022
@@ -752,7 +873,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-56
+Movie-64
 Movie name: 420 IPC
 Category: Hindi Movies
 Year: 2021
@@ -763,7 +884,18 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-57
+Movie-65
+Movie name: Nail Polish
+Category: Hindi Movies
+Year: 2021
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcruMXQ2l8Gp69onHp2T3UtgMgW.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nail%20Polish%20%282021%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-66
 Movie name: Angrezi Medium
 Category: Hindi Movies
 Year: 2020
@@ -777,7 +909,7 @@ STREAM Link 2: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-58
+Movie-67
 Movie name: Article 15
 Category: Hindi Movies
 Year: 2019
@@ -791,7 +923,24 @@ STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-59
+Movie-68
+Movie name: Lust Stories
+Category: Hindi Movies
+Year: 2018
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SPwWvEUt4scWnYOdyhKJRDL77F.jpg
+
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-69
 Movie name: Meri Pyaari Bindu
 Category: Hindi Movies
 Year: 2017
@@ -805,7 +954,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-60
+Movie-70
 Movie name: Jab Harry Met Sejal
 Category: Hindi Movies
 Year: 2017
@@ -819,7 +968,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-61
+Movie-71
 Movie name: Fever
 Category: Hindi Movies
 Year: 2016
@@ -830,7 +979,7 @@ STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-62
+Movie-72
 Movie name: Sanam Re
 Category: Hindi Movies
 Year: 2016
@@ -847,7 +996,7 @@ STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-73
 Movie name: M.S. Dhoni: The Untold Story
 Category: Hindi Movies
 Year: 2016
@@ -858,7 +1007,7 @@ STREAM Link 1: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
+Movie-74
 Movie name: Badlapur
 Category: Hindi Movies
 Year: 2015
@@ -869,7 +1018,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-65
+Movie-75
 Movie name: Arjun: The Warrior Prince
 Category: Hindi Movies
 Year: 2012
@@ -880,7 +1029,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-76
 Movie name: Cocktail
 Category: Hindi Movies
 Year: 2012
@@ -894,7 +1043,7 @@ STREAM Link 2: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-67
+Movie-77
 Movie name: Saheb Biwi Aur Gangster
 Category: Hindi Movies
 Year: 2011
@@ -905,7 +1054,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-68
+Movie-78
 Movie name: Udaan
 Category: Hindi Movies
 Year: 2010
@@ -916,7 +1065,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-69
+Movie-79
 Movie name: A Wednesday!
 Category: Hindi Movies
 Year: 2008
@@ -927,7 +1076,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-70
+Movie-80
 Movie name: Awarapan
 Category: Hindi Movies
 Year: 2007
@@ -941,7 +1090,7 @@ STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-71
+Movie-81
 Movie name: Malamaal Weekly
 Category: Hindi Movies
 Year: 2006

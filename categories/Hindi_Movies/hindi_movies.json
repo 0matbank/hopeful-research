@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 71,
-    "last_updated": "2026-09-23 | 07:51:36 (UTC)",
+    "total_movies": 81,
+    "last_updated": "2026-09-25 | 16:06:09 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -721,6 +721,116 @@
       ]
     },
     {
+      "name": "The Vvaan",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2k82zqPQyuBNZxeu5Fr4LWoKUY.jpg",
+      "source_url": "https://cinefreak.net/the-vvaan-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Vvaan%20Force%20of%20the%20Forrest%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Don't Be Shy!",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg",
+      "source_url": "https://cinefreak.net/dont-be-shy-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dont%20Be%20Shy%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Vibe",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+      "source_url": "https://cinefreak.net/vibe-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20ViBE%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Daayra",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ6ORv3AfsV6m1ERL8Muk5jKpbu.jpg",
+      "source_url": "https://cinefreak.net/daayra-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Daayra%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Daayra%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Heer Sara",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cXdREhUugVwGy6DkKsdkn9VPaD.jpg",
+      "source_url": "https://cinefreak.net/heer-sara-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Heer%20Sara%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Heer%20Sara%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lust Stories 3",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+      "source_url": "https://cinefreak.net/lust-stories-3-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%203%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Murder Files",
       "category": "Hindi Movies",
       "year": "2025",
@@ -747,6 +857,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Love%20in%20Vietnam%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Tara And Akash: Love Beyond Realms",
+      "category": "Hindi Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY0XOGrpIiFrPBXnpLGvZttjoSX.jpg",
+      "source_url": "https://cinefreak.net/tara-and-akash-love-beyond-realms-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tara%20and%20Akash%20Love%20Beyond%20Realms%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -897,6 +1020,31 @@
       ]
     },
     {
+      "name": "Lust Stories 2",
+      "category": "Hindi Movies",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5x729JI6wZs9hCqX7tc7oH87ih.jpg",
+      "source_url": "https://cinefreak.net/lust-stories-2-2023-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Jogi",
       "category": "Hindi Movies",
       "year": "2022",
@@ -919,6 +1067,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20420%20IPC%20%282021%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Nail Polish",
+      "category": "Hindi Movies",
+      "year": "2021",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcruMXQ2l8Gp69onHp2T3UtgMgW.jpg",
+      "source_url": "https://cinefreak.net/nail-polish-2021-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nail%20Polish%20%282021%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -953,6 +1114,27 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Article%2015%20%282019%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lust Stories",
+      "category": "Hindi Movies",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SPwWvEUt4scWnYOdyhKJRDL77F.jpg",
+      "source_url": "https://cinefreak.net/lust-stories-2018-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
