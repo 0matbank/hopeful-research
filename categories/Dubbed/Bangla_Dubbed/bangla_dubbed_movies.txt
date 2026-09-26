@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 50
-LAST UPDATED: 2026-09-16 | 07:52:30 (UTC)
+TOTAL MOVIES: 51
+LAST UPDATED: 2026-09-26 | 16:28:18 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -573,6 +573,17 @@ Episode: Episode 05-08
 ================================================================================
 
 Movie-20
+Movie name: Chikoo Bunty: The Detective Bros
+Category: Bangla Dubbed
+Year: 2026
+Poster: https://cinefreak.net/wp-content/uploads/2026/05/Chikoo-Bunty-2026.webp
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+
+================================================================================
+
+Movie-21
 Show name: The Secret Of The Shiledars
 Category: Bangla Dubbed
 Year: 2025
@@ -585,7 +596,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-21
+Movie-22
 Movie name: Motu Patlu & The Case Of Project X
 Category: Bangla Dubbed
 Year: 2025
@@ -596,7 +607,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-23
 Movie name: Chikoo Aur Bunty Siblings Not Allowed
 Category: Bangla Dubbed
 Year: 2025
@@ -607,7 +618,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-24
 Movie name: Motu Patlu Vs The Ghost House
 Category: Bangla Dubbed
 Year: 2025
@@ -618,7 +629,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-24
+Movie-25
 Movie name: Others
 Category: Bangla Dubbed
 Year: 2025
@@ -632,7 +643,7 @@ STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
+Movie-26
 Movie name: Charlie
 Category: Bangla Dubbed
 Year: 2025
@@ -643,7 +654,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
+Movie-27
 Movie name: Date With Saie
 Category: Bangla Dubbed
 Year: 2025
@@ -654,7 +665,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
+Movie-28
 Movie name: Eleven
 Category: Bangla Dubbed
 Year: 2025
@@ -665,7 +676,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-28
+Movie-29
 Show name: Descendants Of The Sun
 Category: Bangla Dubbed
 Year: 2025
@@ -683,7 +694,7 @@ Episode: Episode 51-53
 
 ================================================================================
 
-Movie-29
+Movie-30
 Show name: Dirilis Ertugrul (Season 1
 Category: Bangla Dubbed
 Year: 2025
@@ -696,7 +707,7 @@ Episode: Episode 01-05
 
 ================================================================================
 
-Movie-30
+Movie-31
 Show name: Mistry
 Category: Bangla Dubbed
 Year: 2025
@@ -709,7 +720,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-31
+Movie-32
 Movie name: Aliya Basu Gayab Hai
 Category: Bangla Dubbed
 Year: 2024
@@ -720,7 +731,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
+Movie-33
 Movie name: Voyal
 Category: Bangla Dubbed
 Year: 2024
@@ -731,7 +742,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-34
 Show name: Ayali
 Category: Bangla Dubbed
 Year: 2023
@@ -744,7 +755,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-34
+Movie-35
 Movie name: Blind
 Category: Bangla Dubbed
 Year: 2023
@@ -755,7 +766,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-36
 Movie name: Bloody Daddy
 Category: Bangla Dubbed
 Year: 2023
@@ -766,7 +777,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
+Movie-37
 Movie name: Antony
 Category: Bangla Dubbed
 Year: 2023
@@ -777,7 +788,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-38
 Movie name: Manga Ambition
 Category: Bangla Dubbed
 Year: 2023
@@ -788,7 +799,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
+Movie-39
 Movie name: Zara Hatke Zara Bachke
 Category: Bangla Dubbed
 Year: 2023
@@ -799,7 +810,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-39
+Movie-40
 Show name: Undekhi
 Category: Bangla Dubbed
 Year: 2022
@@ -812,7 +823,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-40
+Movie-41
 Movie name: Bhediya
 Category: Bangla Dubbed
 Year: 2022
@@ -823,7 +834,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-41
+Movie-42
 Movie name: Bro Daddy
 Category: Bangla Dubbed
 Year: 2022
@@ -834,7 +845,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-42
+Movie-43
 Movie name: Kaithi
 Category: Bangla Dubbed
 Year: 2019
@@ -845,7 +856,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-44
 Movie name: K.G.F: Chapter 1
 Category: Bangla Dubbed
 Year: 2018
@@ -856,7 +867,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-45
 Movie name: Manchi Lakshanalunna Abbayi
 Category: Bangla Dubbed
 Year: 2018
@@ -867,7 +878,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-46
 Movie name: I
 Category: Bangla Dubbed
 Year: 2015
@@ -878,7 +889,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
+Movie-47
 Movie name: The Amazing Spider-Man 2
 Category: Bangla Dubbed
 Year: 2014
@@ -889,7 +900,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-48
 Movie name: The Amazing Spider-Man
 Category: Bangla Dubbed
 Year: 2012
@@ -900,7 +911,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-49
 Movie name: Universal Soldier: Day Of Reckoning
 Category: Bangla Dubbed
 Year: 2012
@@ -911,7 +922,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-50
 Show name: Man Vs. Wild
 Category: Bangla Dubbed
 Year: 2006
@@ -924,7 +935,7 @@ Episode: Episode 01-05
 
 ================================================================================
 
-Movie-50
+Movie-51
 Movie name: Spider-Man
 Category: Bangla Dubbed
 Year: 2002

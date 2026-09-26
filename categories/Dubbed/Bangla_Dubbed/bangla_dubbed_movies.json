@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 50,
-    "last_updated": "2026-09-16 | 07:52:30 (UTC)",
+    "total_movies": 51,
+    "last_updated": "2026-09-26 | 16:28:18 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -671,6 +671,19 @@
           "episode": "Episode 05-08",
           "resolution": "HD 1080P",
           "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Chikoo Bunty: The Detective Bros",
+      "category": "Bangla Dubbed",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Chikoo-Bunty-2026.webp",
+      "source_url": "https://cinefreak.net/chikoo-bunty-the-detective-bros-2026-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
         }
       ]
     },
