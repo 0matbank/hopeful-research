@@ -257,9 +257,9 @@
         "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-08T04:44:36.326231+00:00",
-      "last_attempt": "2026-09-23T00:38:57.885086+00:00",
-      "next_retry_at": "2026-09-25T00:38:57.885109+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-09-26T05:04:59.235032+00:00",
+      "next_retry_at": "2026-09-29T05:04:59.235055+00:00",
+      "attempt_count": 5
     },
     "disneyhotstar::https://cinefreak.net/save-the-tigers-2026-full-series-download": {
       "category": "Disney Hotstar",
@@ -2628,7 +2628,31 @@
       "last_attempt": "2026-09-25T23:28:06.703455+00:00",
       "next_retry_at": "2026-09-26T05:28:06.703457+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/yaanai-2022-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/yaanai-2022-full-movie-download",
+      "movie": {
+        "name": "Yaanai",
+        "category": "Tamil Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfK7CTnhoFcxRVNk04bUHQjq3AJ.jpg",
+        "source_url": "https://cinefreak.net/yaanai-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-26T05:13:12.946624+00:00",
+      "last_attempt": "2026-09-26T05:13:12.946635+00:00",
+      "next_retry_at": "2026-09-26T11:13:12.946638+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-25T23:28:06.727996+00:00"
+  "updated_at": "2026-09-26T05:13:12.972465+00:00"
 }
