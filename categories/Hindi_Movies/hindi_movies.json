@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 81,
-    "last_updated": "2026-09-25 | 16:06:09 (UTC)",
+    "total_movies": 91,
+    "last_updated": "2026-09-26 | 02:21:16 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -831,6 +831,72 @@
       ]
     },
     {
+      "name": "Last Man In Tower",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbsXYxMLJbMFgaCZ1deFpGiMUI1.jpg",
+      "source_url": "https://cinefreak.net/last-man-in-tower-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Last%20Man%20in%20Tower%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "System",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
+      "source_url": "https://cinefreak.net/system-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Indian Institute Of Zombies",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSiNbahfCoezs5LQYNtJrvczngM.jpg",
+      "source_url": "https://cinefreak.net/indian-institute-of-zombies-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20IIZ%20Indian%20Institute%20of%20Zombies%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Hathras",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Hathras-2026-.jpg",
+      "source_url": "https://cinefreak.net/hathras-2026-full-series-download",
+      "res_list": [
+        {
+          "season": "S01",
+          "resolution": "HD 1080P",
+          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Hathras%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%20ZEE5%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Hathras%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Murder Files",
       "category": "Hindi Movies",
       "year": "2025",
@@ -870,6 +936,31 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tara%20and%20Akash%20Love%20Beyond%20Realms%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dhurandhar",
+      "category": "Hindi Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/po7U3As6Jp2zG9RopavoZMkdnr1.jpg",
+      "source_url": "https://cinefreak.net/dhurandhar-2025-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20%282025%29%20Raw%20&%20Uncut%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20%282025%29%20Raw%20&%20Uncut%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20%282025%29%20Raw%20&%20Uncut%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20%282025%29%20Raw%20&%20Uncut%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1058,6 +1149,44 @@
       ]
     },
     {
+      "name": "Judaa Hoke Bhi",
+      "category": "Hindi Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AerKfZy9tBgHtqiXd2ExFx8U7c.jpg",
+      "source_url": "https://cinefreak.net/judaa-hoke-bhi-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Judaa%20Hoke%20Bhi%20%282022%29%20HDRIP%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Brahmāstra Part One: Shiva",
+      "category": "Hindi Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x61qdvHIsr9U53FwoLVDQqAGur0.jpg",
+      "source_url": "https://cinefreak.net/brahmastra-part-one-shiva-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "420 IPC",
       "category": "Hindi Movies",
       "year": "2021",
@@ -1114,6 +1243,19 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Article%2015%20%282019%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Pati Patni Aur Woh",
+      "category": "Hindi Movies",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sAegdBnkfucqhrsocR47zCKcez.jpg",
+      "source_url": "https://cinefreak.net/pati-patni-aur-woh-2019-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1233,6 +1375,19 @@
       ]
     },
     {
+      "name": "Bhaag Johnny",
+      "category": "Hindi Movies",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vs5TYt6lEq88zBURWr7lydqCnL.jpg",
+      "source_url": "https://cinefreak.net/bhaag-johnny-2015-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhaag%20johnny%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Arjun: The Warrior Prince",
       "category": "Hindi Movies",
       "year": "2012",
@@ -1298,6 +1453,27 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Oye Lucky! Lucky Oye!",
+      "category": "Hindi Movies",
+      "year": "2008",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtuw7H9ACOfs9BtRGF9okrr8yJH.jpg",
+      "source_url": "https://cinefreak.net/oye-lucky-lucky-oye-2008-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oye%20Lucky%20Lucky%20Oye%21%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Oye%20lucky%20lucky%20oye%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oye%20lucky%20lucky%20oye%20%282008%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
