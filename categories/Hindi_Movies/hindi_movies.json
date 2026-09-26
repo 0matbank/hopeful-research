@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 91,
-    "last_updated": "2026-09-26 | 02:21:16 (UTC)",
+    "total_movies": 97,
+    "last_updated": "2026-09-26 | 15:17:52 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -897,6 +897,73 @@
       ]
     },
     {
+      "name": "Kartavya",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNSxtbTKClhbCVwChbW7GogafJy.jpg",
+      "source_url": "https://cinefreak.net/kartavya-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Kartavya%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Kartavya%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kartavya%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dhurandhar: The Revenge",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1dGYCdc8imuQ6LFkd9moc0zaBe.jpg",
+      "source_url": "https://cinefreak.net/dhurandhar-the-revenge-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20The%20Revenge%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20The%20Revenge%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20The%20Revenge%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20The%20Revenge%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Krishnavataram Part 1: The Heart",
+      "category": "Hindi Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+      "source_url": "https://cinefreak.net/krishnavataram-part-1-the-heart-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HEVC 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Krishnavataram%20Part%201%20The%20Heart%20%282026%29%20HDTC-V2%20%5BHindi%20Line%5D%201080p%20HEVC%20HC-ESub.mkv"
+        },
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Krishnavataram%20Part%201%20The%20Heart%20%282026%29%20HDTC-V2%20%5BHindi%20Line%5D%201080p%20HC-ESub.mkv"
+        },
+        {
+          "resolution": "HQ 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Krishnavataram%20Part%201%20The%20Heart%20%282026%29%20HDTC-V2%20%5BHindi%20Line%5D%20HQ%201080p%20HC-ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "The Murder Files",
       "category": "Hindi Movies",
       "year": "2025",
@@ -1504,6 +1571,45 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Malamaal%20Weekly%20%282006%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Diler Daring",
+      "category": "Hindi Movies",
+      "year": "2004",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFJ3hsJHqm1fumMC9R0HCGKQX5Q.jpg",
+      "source_url": "https://cinefreak.net/anji-2004-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Diler%20Daring%20%282004%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Aashiq",
+      "category": "Hindi Movies",
+      "year": "2001",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbZukvlXufjDzQVJ2PycABTIiN.jpg",
+      "source_url": "https://cinefreak.net/aashiq-2001-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aashiq%20%282001%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Ghar Dwaar",
+      "category": "Hindi Movies",
+      "year": "1985",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW1hqesrSWczwD1gwxtQs8ainA1.jpg",
+      "source_url": "https://cinefreak.net/ghar-dwaar-1985-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ghar%20Dwaar%20%281985%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     }

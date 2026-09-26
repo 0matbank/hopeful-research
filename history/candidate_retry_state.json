@@ -1033,6 +1033,30 @@
         "last_failed_at": "2026-09-12T01:57:18.472499+00:00",
         "retry_after_epoch": 1789221438,
         "retry_after": "2026-09-12T13:57:18.472499+00:00"
+      },
+      "https://cinefreak.net/aamdani-atthanni-kharcha-rupaiya-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-26T15:17:51.490531+00:00",
+        "retry_after_epoch": 1790479071,
+        "retry_after": "2026-09-27T03:17:51.490531+00:00"
+      },
+      "https://cinefreak.net/aap-aye-bahaar-ayee-1971-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-26T15:17:51.490592+00:00",
+        "retry_after_epoch": 1790479071,
+        "retry_after": "2026-09-27T03:17:51.490592+00:00"
+      },
+      "https://cinefreak.net/astitva-2000-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-26T15:17:51.809712+00:00",
+        "retry_after_epoch": 1790479071,
+        "retry_after": "2026-09-27T03:17:51.809712+00:00"
+      },
+      "https://cinefreak.net/beyond-the-clouds-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-26T15:17:51.809741+00:00",
+        "retry_after_epoch": 1790479071,
+        "retry_after": "2026-09-27T03:17:51.809741+00:00"
       }
     }
   }
