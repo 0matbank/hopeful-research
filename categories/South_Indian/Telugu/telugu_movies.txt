@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
-TOTAL MOVIES: 86
-LAST UPDATED: 2026-09-26 | 16:34:07 (UTC)
+TOTAL MOVIES: 85
+LAST UPDATED: 2026-09-26 | 21:19:50 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -267,7 +267,7 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxMiOXMzGdDppUuAjZEnkZO
 Season: S01
 Episode: N/A
   Resolution-1: HD 1080P
-  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Isakapatnam%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+  Link-1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Isakapatnam%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -462,16 +462,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -532,16 +532,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl35nsSE0zDvIrvFewLtM748SBf.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -563,7 +563,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9be5MRYOUFE3SOAbmh3U481N3fb.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kjq%20King%20Jackie%20Queen%20%282026%29%201080p%20ESub.mkv
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Kjq%20King%20Jackie%20Queen%20%282026%29%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -787,13 +787,13 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWak2wkhTmWFnR8GODZvE1xyBaJ.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -949,17 +949,6 @@ STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-59
-Movie name: Hero
-Category: Telugu Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUSvQSpR2TXsRbBX2b9Bhwh3jl9.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-60
 Movie name: Sita Ramam
 Category: Telugu Movies
 Year: 2022
@@ -979,18 +968,18 @@ STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-61
+Movie-60
 Movie name: Kotha Kothaga
 Category: Telugu Movies
 Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nw7eV7hsqCA2DsBD6XidPmDHNgw.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-62
+Movie-61
 Movie name: Viraata Parvam
 Category: Telugu Movies
 Year: 2022
@@ -1001,7 +990,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-62
 Movie name: Swathi Muthyam
 Category: Telugu Movies
 Year: 2022
@@ -1015,7 +1004,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
+Movie-63
 Movie name: DJ Tillu
 Category: Telugu Movies
 Year: 2022
@@ -1026,7 +1015,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-65
+Movie-64
 Movie name: Butterfly
 Category: Telugu Movies
 Year: 2022
@@ -1040,7 +1029,7 @@ STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-65
 Movie name: Tuck Jagadish
 Category: Telugu Movies
 Year: 2021
@@ -1054,7 +1043,7 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-67
+Movie-66
 Movie name: Thellavarithe Guruvaram
 Category: Telugu Movies
 Year: 2021
@@ -1068,7 +1057,7 @@ STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-68
+Movie-67
 Movie name: Sashi
 Category: Telugu Movies
 Year: 2021
@@ -1079,7 +1068,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-69
+Movie-68
 Movie name: A1 Express
 Category: Telugu Movies
 Year: 2021
@@ -1090,7 +1079,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-70
+Movie-69
 Movie name: Red
 Category: Telugu Movies
 Year: 2021
@@ -1104,7 +1093,7 @@ STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-71
+Movie-70
 Movie name: Uppena
 Category: Telugu Movies
 Year: 2021
@@ -1118,7 +1107,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-72
+Movie-71
 Movie name: Bheeshma
 Category: Telugu Movies
 Year: 2020
@@ -1129,7 +1118,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-73
+Movie-72
 Movie name: Oh! Baby
 Category: Telugu Movies
 Year: 2019
@@ -1140,7 +1129,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-74
+Movie-73
 Movie name: Ninu Veedani Needanu Nene
 Category: Telugu Movies
 Year: 2019
@@ -1151,7 +1140,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-75
+Movie-74
 Movie name: Prati Roju Pandaage
 Category: Telugu Movies
 Year: 2019
@@ -1162,7 +1151,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-76
+Movie-75
 Movie name: Gaddalakonda Ganesh
 Category: Telugu Movies
 Year: 2019
@@ -1173,7 +1162,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-77
+Movie-76
 Movie name: RDX Love
 Category: Telugu Movies
 Year: 2019
@@ -1184,7 +1173,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-78
+Movie-77
 Movie name: Bluff Master
 Category: Telugu Movies
 Year: 2018
@@ -1195,7 +1184,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-79
+Movie-78
 Movie name: Chal Mohan Ranga
 Category: Telugu Movies
 Year: 2018
@@ -1206,7 +1195,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-80
+Movie-79
 Movie name: Spyder
 Category: Telugu Movies
 Year: 2017
@@ -1217,7 +1206,7 @@ STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-81
+Movie-80
 Movie name: DJ: Duvvada Jagannadham
 Category: Telugu Movies
 Year: 2017
@@ -1234,7 +1223,7 @@ STREAM Link 3: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-82
+Movie-81
 Movie name: Arjun Reddy
 Category: Telugu Movies
 Year: 2017
@@ -1248,7 +1237,7 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-83
+Movie-82
 Movie name: A Aa
 Category: Telugu Movies
 Year: 2016
@@ -1259,7 +1248,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-84
+Movie-83
 Movie name: Rebel
 Category: Telugu Movies
 Year: 2012
@@ -1270,7 +1259,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-85
+Movie-84
 Movie name: Brindavanam
 Category: Telugu Movies
 Year: 2010
@@ -1281,7 +1270,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-86
+Movie-85
 Movie name: Arundhati
 Category: Telugu Movies
 Year: 2009
