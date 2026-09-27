@@ -45,9 +45,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-09-23T22:59:31.349906+00:00",
-      "next_retry_at": "2026-09-26T22:59:31.349927+00:00",
-      "attempt_count": 11
+      "last_attempt": "2026-09-27T00:40:55.548678+00:00",
+      "next_retry_at": "2026-09-30T00:40:55.549494+00:00",
+      "attempt_count": 12
     },
     "kannadamovies::https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -2782,7 +2782,36 @@
       "last_attempt": "2026-09-26T21:19:50.987573+00:00",
       "next_retry_at": "2026-09-27T03:19:50.987575+00:00",
       "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/mario-2025-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/mario-2025-full-movie-download",
+      "movie": {
+        "name": "Mario",
+        "category": "Telugu Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6UBMJQisGuoIEoh8VRlFsRuRJN.jpg",
+        "source_url": "https://cinefreak.net/mario-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Mario%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-27T00:46:38.165515+00:00",
+      "last_attempt": "2026-09-27T00:46:38.165529+00:00",
+      "next_retry_at": "2026-09-27T06:46:38.165532+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-26T21:19:51.008331+00:00"
+  "updated_at": "2026-09-27T00:46:38.190097+00:00"
 }
