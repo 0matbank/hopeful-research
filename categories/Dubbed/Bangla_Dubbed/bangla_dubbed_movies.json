@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 51,
-    "last_updated": "2026-09-26 | 16:28:18 (UTC)",
+    "total_movies": 52,
+    "last_updated": "2026-09-27 | 08:16:10 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -684,6 +684,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Lockdown",
+      "category": "Bangla Dubbed",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Lockdown-bangla.webp",
+      "source_url": "https://cinefreak.net/lockdown-2026-bengali-hq-studio-dubbedfull-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Lockdown%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
         }
       ]
     },

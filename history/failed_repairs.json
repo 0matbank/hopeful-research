@@ -872,5 +872,32 @@
     ],
     "last_attempt": "2026-09-27T00:46:20.602498+00:00",
     "attempt_count": 1
+  },
+  "telugumovies::nawabcafe": {
+    "name": "Nawab Cafe",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Nawab%20Cafe%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-27T08:18:18.650258+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::sashi": {
+    "name": "Sashi",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sashi%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-27T08:21:31.470203+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::ohbaby": {
+    "name": "Oh! Baby",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Oh%20Baby%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-27T08:23:55.364006+00:00",
+    "attempt_count": 1
   }
 }
