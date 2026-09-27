@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
 TOTAL MOVIES: 81
-LAST UPDATED: 2026-09-27 | 08:24:29 (UTC)
+LAST UPDATED: 2026-09-27 | 14:10:53 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -302,7 +302,7 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjTdpWZFccXGekoWwIqNZZE
 Season: S01
 Episode: N/A
   Resolution-1: HD 1080P
-  Link-1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Super%20Subbu%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+  Link-1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Super%20Subbu%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -419,16 +419,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqV5a8SPAP0oW59MzMshIJra3r4.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -915,16 +915,16 @@ Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KK3jv8XQPfWBRj9LImQCk0Cmmh.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -935,16 +935,16 @@ Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1O94ZBzsQXJihtVkrsStRLyUDR.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HD 1080P
-STREAM Link 3: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -1030,10 +1030,10 @@ Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xkFnuOFerKPQrD6sw0zXKcfPaN.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Thellavarithe%20Guruvaram%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Thellavarithe%20Guruvaram%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Thellavarithe%20Guruvaram%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thellavarithe%20Guruvaram%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1159,8 +1159,11 @@ Category: Telugu Movies
 Year: 2017
 Poster: https://cinefreak.net/wp-content/uploads/2026/06/Spyder-2017.webp
 
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
