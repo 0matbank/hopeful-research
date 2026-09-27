@@ -156,9 +156,9 @@
         "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-07T00:03:01.809399+00:00",
-      "last_attempt": "2026-09-24T21:35:13.705577+00:00",
-      "next_retry_at": "2026-09-27T21:35:13.705597+00:00",
-      "attempt_count": 7
+      "last_attempt": "2026-09-27T23:06:56.916770+00:00",
+      "next_retry_at": "2026-09-30T23:06:56.916789+00:00",
+      "attempt_count": 8
     },
     "disneyhotstar::https://cinefreak.net/a-woman-called-mother-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -2859,7 +2859,31 @@
       "last_attempt": "2026-09-27T08:24:29.266980+00:00",
       "next_retry_at": "2026-09-27T14:24:29.266981+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/manchi-lakshanalunna-abbayi-mla-2018-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/manchi-lakshanalunna-abbayi-mla-2018-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Manchi Lakshanalunna Abbayi",
+        "category": "Bangla Dubbed",
+        "year": "2018",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/09/mla.webp",
+        "source_url": "https://cinefreak.net/manchi-lakshanalunna-abbayi-mla-2018-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20MLA%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20BONGO%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20MLA%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20BONGO%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-27T23:16:17.592077+00:00",
+      "last_attempt": "2026-09-27T23:16:17.592089+00:00",
+      "next_retry_at": "2026-09-28T05:16:17.592092+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-27T18:34:21.332894+00:00"
+  "updated_at": "2026-09-27T23:16:17.615674+00:00"
 }

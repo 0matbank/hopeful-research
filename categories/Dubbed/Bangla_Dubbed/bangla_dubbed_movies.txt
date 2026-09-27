@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 52
-LAST UPDATED: 2026-09-27 | 18:31:52 (UTC)
+TOTAL MOVIES: 51
+LAST UPDATED: 2026-09-27 | 23:16:17 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -313,7 +313,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Master-2026.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Master%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Master%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv
 
 ================================================================================
 
@@ -326,7 +326,7 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP37X9Qm0i8F3UucC6buI0Ms
 Season: S01
 Episode: Episode 01-03
   Resolution-1: HD 1080P
-  Link-1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Emergency%20Room%20%5BS01E01-03%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Link-1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Emergency%20Room%20%5BS01E01-03%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 ================================================================================
 
@@ -370,7 +370,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Kaalidas-2-bangla.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv
 
 ================================================================================
 
@@ -383,12 +383,12 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCeCMul8edU1PZTb7x4ijgvK
 Season: S01
 Episode: Episode 01-05
   Resolution-1: HD 1080P
-  Link-1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Avinash%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Avinash%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 06-10
   Resolution-2: HD 1080P
-  Link-2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Avinash%20%5BS01E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Avinash%20%5BS01E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -430,7 +430,7 @@ Poster: https://image.tmdb.org/t/p/original/w7eJIMCc4DRWM2o5HleNmy8ezKw.jpg
 Season: S01
 Episode: N/A
   Resolution-1: HD 1080P
-  Link-1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Declassified%20Operation%20Sindoor%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Declassified%20Operation%20Sindoor%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -555,7 +555,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/02/Mana-Shankara-Vara-Prasad-Garu.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Mana%20Shankara%20Vara%20Prasad%20Garu%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20ZEE5%201080p%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mana%20Shankara%20Vara%20Prasad%20Garu%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20ZEE5%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -619,7 +619,7 @@ Year: 2025
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Case-Of-Project-X-2025.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Case%20Of%20Project%20X%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Case%20Of%20Project%20X%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
 
 ================================================================================
 
@@ -676,8 +676,11 @@ Category: Bangla Dubbed
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg
 
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -688,7 +691,7 @@ Year: 2025
 Poster: https://cinefreak.net/wp-content/uploads/2025/11/Eleven-2025.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Eleven%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Eleven%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -702,11 +705,6 @@ Season: S01
 Episode: Episode 01-05
   Resolution-1: HD 1080P
   Link-1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Descendants%20of%20the%20Sun%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%20Toffee%201080p.mkv
-
-Season: S01
-Episode: Episode 51-53
-  Resolution-2: HD 1080P
-  Link-2: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Descendants%20of%20the%20Sun%20%5BS01E51-53%5D%20WEB-DL%20%5BBengali%20ORG%5D%20Toffee%201080p.mkv
 
 ================================================================================
 
@@ -811,7 +809,7 @@ Year: 2023
 Poster: https://cinefreak.net/wp-content/uploads/2025/11/Manga-Ambition-2023.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Manga%20Ambition%20%282023%29%20WEB-DL%20%5BBengali%20Dubbed%5D%20Darshoo%201080p.mkv
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Manga%20Ambition%20%282023%29%20WEB-DL%20%5BBengali%20Dubbed%5D%20Darshoo%201080p.mkv
 
 ================================================================================
 
@@ -868,7 +866,7 @@ Year: 2019
 Poster: https://cinefreak.net/wp-content/uploads/2026/02/Kaithi-2019.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Kaithi%20%282019%29%20WEBRip%20%5BBengali%20ORG%5D%201080p.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Kaithi%20%282019%29%20WEBRip%20%5BBengali%20ORG%5D%201080p.mkv
 
 ================================================================================
 
@@ -879,22 +877,11 @@ Year: 2018
 Poster: https://cinefreak.net/wp-content/uploads/2026/02/kgf-1.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20KGF%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20KGF%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv
 
 ================================================================================
 
 Movie-46
-Movie name: Manchi Lakshanalunna Abbayi
-Category: Bangla Dubbed
-Year: 2018
-Poster: https://cinefreak.net/wp-content/uploads/2025/09/mla.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20MLA%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20BONGO%201080p.mkv
-
-================================================================================
-
-Movie-47
 Movie name: I
 Category: Bangla Dubbed
 Year: 2015
@@ -905,7 +892,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-47
 Movie name: The Amazing Spider-Man 2
 Category: Bangla Dubbed
 Year: 2014
@@ -916,7 +903,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-48
 Movie name: The Amazing Spider-Man
 Category: Bangla Dubbed
 Year: 2012
@@ -927,7 +914,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
+Movie-49
 Movie name: Universal Soldier: Day Of Reckoning
 Category: Bangla Dubbed
 Year: 2012
@@ -938,7 +925,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-50
 Show name: Man Vs. Wild
 Category: Bangla Dubbed
 Year: 2006
@@ -951,7 +938,7 @@ Episode: Episode 01-05
 
 ================================================================================
 
-Movie-52
+Movie-51
 Movie name: Spider-Man
 Category: Bangla Dubbed
 Year: 2002
