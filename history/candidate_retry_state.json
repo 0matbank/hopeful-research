@@ -787,6 +787,18 @@
         "last_failed_at": "2026-09-13T15:14:10.664450+00:00",
         "retry_after_epoch": 1789398850,
         "retry_after": "2026-09-14T15:14:10.664450+00:00"
+      },
+      "https://cinefreak.net/zarafa-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-27T15:58:23.748487+00:00",
+        "retry_after_epoch": 1790567903,
+        "retry_after": "2026-09-28T03:58:23.748487+00:00"
+      },
+      "https://cinefreak.net/indra-2002-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-09-27T15:58:23.748524+00:00",
+        "retry_after_epoch": 1790567903,
+        "retry_after": "2026-09-28T03:58:23.748524+00:00"
       }
     },
     "Disney Hotstar": {
