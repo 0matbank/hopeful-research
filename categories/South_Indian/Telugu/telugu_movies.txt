@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
 TOTAL MOVIES: 81
-LAST UPDATED: 2026-09-27 | 14:10:53 (UTC)
+LAST UPDATED: 2026-09-27 | 18:34:21 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -571,16 +571,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv
+STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv
 
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -1015,11 +1012,14 @@ Category: Telugu Movies
 Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3N0BvNtplnvK1kyqP4dQREUCn5.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 

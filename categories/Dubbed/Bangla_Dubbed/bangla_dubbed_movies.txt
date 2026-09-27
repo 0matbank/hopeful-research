@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
 TOTAL MOVIES: 52
-LAST UPDATED: 2026-09-27 | 08:16:10 (UTC)
+LAST UPDATED: 2026-09-27 | 18:31:52 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -282,22 +282,27 @@ Poster: https://cinefreak.net/wp-content/uploads/2026/05/CID-Squad-2026.webp
 Season: S01
 Episode: Episode 01
   Resolution-1: HD 1080P
-  Link-1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E01%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
+  Link-1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E01%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
 
 Season: S01
 Episode: Episode 02
   Resolution-2: HD 1080P
-  Link-2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E02%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
+  Link-2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E02%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
 
 Season: S01
 Episode: Episode 03
   Resolution-3: HD 1080P
-  Link-3: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E03%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
+  Link-3: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E03%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
+
+Season: S01
+Episode: Episode 04
+  Resolution-4: HD 1080P
+  Link-4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E04%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
 
 Season: S01
 Episode: Episode 05
-  Resolution-4: HD 1080P
-  Link-4: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E05%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
+  Resolution-5: HD 1080P
+  Link-5: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E05%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
 
 ================================================================================
 
@@ -521,7 +526,7 @@ Poster: https://cinefreak.net/wp-content/uploads/2026/03/Chiraiya-2026.webp
 Season: S01
 Episode: N/A
   Resolution-1: HD 1080P
-  Link-1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Chiraiya%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chiraiya%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -625,7 +630,7 @@ Year: 2025
 Poster: https://i.postimg.cc/yYDWgHQf/Screenshot-1.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20aur%20Bunty%20Siblings%20Not%20allowed%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20aur%20Bunty%20Siblings%20Not%20allowed%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
 
 ================================================================================
 
@@ -738,7 +743,7 @@ Year: 2024
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVEEJlh4CA8IZIPZrosc9ZWLhI5.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -784,7 +789,7 @@ Year: 2023
 Poster: https://cinefreak.net/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.04.48-PM.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -795,7 +800,7 @@ Year: 2023
 Poster: https://cinefreak.net/wp-content/uploads/2025/12/antony.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Antony%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20AMZN%201080p.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Antony%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20AMZN%201080p.mkv
 
 ================================================================================
 
@@ -841,7 +846,7 @@ Year: 2022
 Poster: https://cinefreak.net/wp-content/uploads/2026/04/Bhediya-2022.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
