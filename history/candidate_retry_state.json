@@ -3,52 +3,28 @@
   "categories": {
     "Bangla Dubbed": {
       "https://cinefreak.net/cid-2025-season-2-web-dl-bengali-dubbed-sliv-web-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-08-30T11:00:03.038394+00:00",
-        "retry_after_epoch": 1788130803,
-        "retry_after": "2026-08-30T23:00:03.038394+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-28T18:54:29.272590+00:00",
+        "retry_after_epoch": 1790708069,
+        "retry_after": "2026-09-29T18:54:29.272590+00:00"
       },
       "https://cinefreak.net/spider-man-far-from-home-2019-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-08-30T11:00:03.038447+00:00",
-        "retry_after_epoch": 1788130803,
-        "retry_after": "2026-08-30T23:00:03.038447+00:00"
-      },
-      "https://cinefreak.net/ray-2021-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-08-30T11:00:03.039531+00:00",
-        "retry_after_epoch": 1788130803,
-        "retry_after": "2026-08-30T23:00:03.039531+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-28T18:54:29.272622+00:00",
+        "retry_after_epoch": 1790708069,
+        "retry_after": "2026-09-29T18:54:29.272622+00:00"
       },
       "https://cinefreak.net/oops-ab-kya-2025-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-08-30T11:00:03.039758+00:00",
-        "retry_after_epoch": 1788130803,
-        "retry_after": "2026-08-30T23:00:03.039758+00:00"
-      },
-      "https://cinefreak.net/blink-2024-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-08-30T15:44:39.067245+00:00",
-        "retry_after_epoch": 1788147879,
-        "retry_after": "2026-08-31T03:44:39.067245+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-28T18:54:29.458344+00:00",
+        "retry_after_epoch": 1790708069,
+        "retry_after": "2026-09-29T18:54:29.458344+00:00"
       },
       "https://cinefreak.net/the-fall-guy-2024-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-08-30T15:44:39.067428+00:00",
-        "retry_after_epoch": 1788147879,
-        "retry_after": "2026-08-31T03:44:39.067428+00:00"
-      },
-      "https://cinefreak.net/bad-genius-2017-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-08-31T02:00:28.391467+00:00",
-        "retry_after_epoch": 1788184828,
-        "retry_after": "2026-08-31T14:00:28.391467+00:00"
-      },
-      "https://cinefreak.net/mirai-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-14T02:03:56.489982+00:00",
-        "retry_after_epoch": 1789394636,
-        "retry_after": "2026-09-14T14:03:56.489982+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-09-28T18:54:29.639477+00:00",
+        "retry_after_epoch": 1790708069,
+        "retry_after": "2026-09-29T18:54:29.639477+00:00"
       },
       "https://cinefreak.net/oh-my-love-orey-bujjiga-2020-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
         "failure_count": 1,
