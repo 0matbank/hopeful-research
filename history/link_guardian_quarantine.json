@@ -79,9 +79,9 @@
         "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
       ],
       "quarantined_at": "2026-08-30T18:21:48.581826+00:00",
-      "last_attempt": "2026-09-25T13:53:26.803202+00:00",
-      "next_retry_at": "2026-09-28T13:53:26.803221+00:00",
-      "attempt_count": 11
+      "last_attempt": "2026-09-28T14:03:18.615309+00:00",
+      "next_retry_at": "2026-10-01T14:03:18.615327+00:00",
+      "attempt_count": 12
     },
     "banglamovies::https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Movies",
@@ -2885,5 +2885,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-28T05:37:52.928255+00:00"
+  "updated_at": "2026-09-28T14:15:35.568639+00:00"
 }
