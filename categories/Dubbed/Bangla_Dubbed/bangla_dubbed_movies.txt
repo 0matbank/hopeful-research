@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
 TOTAL MOVIES: 57
-LAST UPDATED: 2026-09-28 | 18:54:30 (UTC)
+LAST UPDATED: 2026-09-28 | 20:46:29 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -227,52 +227,52 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnWyFmAGQaUdi1kISvXqy20H
 Season: S02
 Episode: Episode 01-04
   Resolution-1: HD 1080P
-  Link-1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 05-08
   Resolution-2: HD 1080P
-  Link-2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 09-12
   Resolution-3: HD 1080P
-  Link-3: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E09-12%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-3: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E09-12%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 13-16
   Resolution-4: HD 1080P
-  Link-4: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E13-16%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-4: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E13-16%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 17-20
   Resolution-5: HD 1080P
-  Link-5: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E17-20%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-5: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E17-20%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 21-25
   Resolution-6: HD 1080P
-  Link-6: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E21-25%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-6: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E21-25%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 26-29
   Resolution-7: HD 1080P
-  Link-7: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-7: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 30-33
   Resolution-8: HD 1080P
-  Link-8: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E30-33%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-8: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E30-33%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 34-37
   Resolution-9: HD 1080P
-  Link-9: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E34-37%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-9: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E34-37%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 38-41
   Resolution-10: HD 1080P
-  Link-10: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-10: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
 Episode: Episode 42-45
@@ -282,7 +282,7 @@ Episode: Episode 42-45
 Season: S02
 Episode: Episode 46-50
   Resolution-12: HD 1080P
-  Link-12: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E46-50%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-12: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E46-50%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -293,9 +293,14 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzVP9rqT2YH2nTx3l3csmmU9B1q.jpg
 
 Season: S01
-Episode: Episode 02
+Episode: Episode 01
   Resolution-1: HD 1080P
-  Link-1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Legend%20Of%20Karna%20%5BS01E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20The%20Legend%20Of%20Karna%20%5BS01E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 02
+  Resolution-2: HD 1080P
+  Link-2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Legend%20Of%20Karna%20%5BS01E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -319,7 +324,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-1.38.46-AM.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Save%20the%20Tigers%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Save%20the%20Tigers%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -462,12 +467,12 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQRFVM5MJsnNBUQgRP31aWwy
 Season: S01
 Episode: Episode 42-45
   Resolution-1: HD 1080P
-  Link-1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 46-47
   Resolution-2: HD 1080P
-  Link-2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E46-47%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E46-47%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -589,12 +594,12 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgVtjCdC5aBADQswOGx7BnTb
 Season: S01
 Episode: Episode 01-03
   Resolution-1: HD 1080P
-  Link-1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Secret%20Stories%20Roslin%20%5BS01E01-03%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Secret%20Stories%20Roslin%20%5BS01E01-03%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 04-06
   Resolution-2: HD 1080P
-  Link-2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Secret%20Stories%20Roslin%20%5BS01E04-06%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
+  Link-2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Secret%20Stories%20Roslin%20%5BS01E04-06%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -618,12 +623,12 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oikzZ6QgHsTjZ2JqkmKH1NR
 Season: S01
 Episode: Episode 01-04
   Resolution-1: HD 1080P
-  Link-1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 05-08
   Resolution-2: HD 1080P
-  Link-2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Link-2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1030,7 +1035,7 @@ Year: 2014
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1041,7 +1046,7 @@ Year: 2012
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2012.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1076,7 +1081,7 @@ Year: 2002
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Spider-Man-2002-.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
