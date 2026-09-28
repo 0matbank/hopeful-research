@@ -765,16 +765,10 @@
     },
     "Hindi Dubbed Movies": {
       "https://cinefreak.net/blue-star-2024-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-09-13T01:45:23.143307+00:00",
-        "retry_after_epoch": 1789350323,
-        "retry_after": "2026-09-14T01:45:23.143307+00:00"
-      },
-      "https://cinefreak.net/anali-2026-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-09-13T01:45:23.143317+00:00",
-        "retry_after_epoch": 1789350323,
-        "retry_after": "2026-09-14T01:45:23.143317+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-09-28T02:18:47.709135+00:00",
+        "retry_after_epoch": 1790821127,
+        "retry_after": "2026-10-01T02:18:47.709135+00:00"
       },
       "https://cinefreak.net/uthama-puthiran-2010-full-movie-download": {
         "failure_count": 2,
