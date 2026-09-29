@@ -229,9 +229,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-09-26T11:30:36.930556+00:00",
-      "next_retry_at": "2026-09-28T11:30:36.930572+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-09-29T16:33:22.451536+00:00",
+      "next_retry_at": "2026-10-02T16:33:22.451547+00:00",
+      "attempt_count": 5
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -2878,7 +2878,103 @@
       "last_attempt": "2026-09-29T02:09:49.237000+00:00",
       "next_retry_at": "2026-09-29T08:09:49.237003+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/domm-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/domm-2026-full-movie-download",
+      "movie": {
+        "name": "Domm",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOJg5L4YXmeZxSYqpTZI8LMfdQk.jpg",
+        "source_url": "https://cinefreak.net/domm-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Domm%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Domm%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-29T16:39:39.891637+00:00",
+      "last_attempt": "2026-09-29T16:39:39.891646+00:00",
+      "next_retry_at": "2026-09-29T22:39:39.891648+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/manobjomin-2023-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/manobjomin-2023-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Manobjomin",
+        "category": "Bangla Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSQGCv7TYkvHG7IDTXyt9yCTIYR.jpg",
+        "source_url": "https://cinefreak.net/manobjomin-2023-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Manobjomin%20%282023%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Manobjomin%20%282023%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-29T16:39:39.892045+00:00",
+      "last_attempt": "2026-09-29T16:39:39.892050+00:00",
+      "next_retry_at": "2026-09-29T22:39:39.892051+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/haami-2-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/haami-2-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Haami 2",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/79dpwcK1KysbRq8zsZyqvqhNTAO.jpg",
+        "source_url": "https://cinefreak.net/haami-2-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Haami%202%20%282022%29%20WEB-DL%20%5BBengali%5D%20SLIV%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Haami%202%20%282022%29%20WEB-DL%20%5BBengali%5D%20SLIV%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-29T16:39:39.892149+00:00",
+      "last_attempt": "2026-09-29T16:39:39.892151+00:00",
+      "next_retry_at": "2026-09-29T22:39:39.892152+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/jodi-kintu-tobuo-2021-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/jodi-kintu-tobuo-2021-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Jodi Kintu Tobuo",
+        "category": "Bangla Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAuP8yq4rAPAQjHFa8AqpVSB5pQ.jpg",
+        "source_url": "https://cinefreak.net/jodi-kintu-tobuo-2021-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Jodi%20Kintu%20Tobuo%20%282021%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Jodi%20Kintu%20Tobuo%20%282021%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-29T16:39:39.892223+00:00",
+      "last_attempt": "2026-09-29T16:39:39.892225+00:00",
+      "next_retry_at": "2026-09-29T22:39:39.892226+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-29T08:43:13.237372+00:00"
+  "updated_at": "2026-09-29T16:39:39.932289+00:00"
 }

@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Movies
-TOTAL MOVIES: 96
-LAST UPDATED: 2026-09-29 | 08:43:13 (UTC)
+TOTAL MOVIES: 92
+LAST UPDATED: 2026-09-29 | 16:39:39 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -81,7 +81,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/03/jacpot.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Jackpot%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Jackpot%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
@@ -92,7 +92,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/79kT7LY2ShpVF8z9InUd10g1ph8.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Love%20Sitter%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Love%20Sitter%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
@@ -114,7 +114,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFMSGCTLJ4n4GdXv5Jw2Qz4Z78v.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20%20Malik%20%282026%29%20WEB-DL%20%5BBengali%5D%20Utshob%201080p.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20%20Malik%20%282026%29%20WEB-DL%20%5BBengali%5D%20Utshob%201080p.mkv
 
 ================================================================================
 
@@ -211,7 +211,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/06/Lifeline-2026.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Lifeline%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lifeline%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -255,17 +255,6 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-20
-Movie name: Domm
-Category: Bangla Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOJg5L4YXmeZxSYqpTZI8LMfdQk.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Domm%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-21
 Movie name: Sulabh Complex
 Category: Bangla Movies
 Year: 2026
@@ -276,7 +265,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-21
 Movie name: Pother Pechal
 Category: Bangla Movies
 Year: 2026
@@ -287,29 +276,29 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-22
 Movie name: Faisha Gesi
 Category: Bangla Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/n98fbXRyNdTMrapcLAJ29cwQ74n.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Faisha%20Gesi%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Faisha%20Gesi%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-24
+Movie-23
 Movie name: Ekshathe Alada
 Category: Bangla Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8yTY1o45qdQWZoKofRBTfCyb3o.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Ekshathe%20Alada%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Ekshathe%20Alada%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-25
+Movie-24
 Movie name: The University Of Chankharpul
 Category: Bangla Movies
 Year: 2026
@@ -320,7 +309,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
+Movie-25
 Movie name: Ultorath
 Category: Bangla Movies
 Year: 2026
@@ -331,7 +320,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
+Movie-26
 Movie name: Vijaynagar'er Hirey
 Category: Bangla Movies
 Year: 2026
@@ -342,7 +331,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-28
+Movie-27
 Movie name: Oru Durooha Saahacharyathil
 Category: Bangla Movies
 Year: 2026
@@ -353,7 +342,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
+Movie-28
 Movie name: Phutaniganjer Mahesh
 Category: Bangla Movies
 Year: 2026
@@ -364,7 +353,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
+Movie-29
 Movie name: Proshnouttor
 Category: Bangla Movies
 Year: 2026
@@ -375,7 +364,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-31
+Movie-30
 Movie name: Katukutu Buro
 Category: Bangla Movies
 Year: 2026
@@ -389,7 +378,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
+Movie-31
 Movie name: Aajo Ardhangini
 Category: Bangla Movies
 Year: 2026
@@ -400,7 +389,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-32
 Movie name: Bahurup
 Category: Bangla Movies
 Year: 2026
@@ -411,7 +400,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-33
 Movie name: Tagar
 Category: Bangla Movies
 Year: 2025
@@ -422,7 +411,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-34
 Movie name: Saralakkho Holmes
 Category: Bangla Movies
 Year: 2025
@@ -433,7 +422,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
+Movie-35
 Movie name: Chandrabindoo
 Category: Bangla Movies
 Year: 2025
@@ -447,7 +436,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-36
 Movie name: Projapati 2
 Category: Bangla Movies
 Year: 2025
@@ -461,7 +450,7 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
+Movie-37
 Movie name: Oporichito
 Category: Bangla Movies
 Year: 2025
@@ -472,7 +461,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-39
+Movie-38
 Movie name: Babu Shona
 Category: Bangla Movies
 Year: 2025
@@ -483,7 +472,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-40
+Movie-39
 Movie name: Dhumketu
 Category: Bangla Movies
 Year: 2025
@@ -494,7 +483,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-41
+Movie-40
 Movie name: Ranna Baati
 Category: Bangla Movies
 Year: 2025
@@ -505,7 +494,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-42
+Movie-41
 Movie name: Sada Golap
 Category: Bangla Movies
 Year: 2025
@@ -516,7 +505,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-42
 Movie name: Omimangshito
 Category: Bangla Movies
 Year: 2025
@@ -527,7 +516,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-43
 Movie name: Noor
 Category: Bangla Movies
 Year: 2025
@@ -538,7 +527,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-44
 Movie name: Puratawn
 Category: Bangla Movies
 Year: 2025
@@ -549,7 +538,7 @@ STREAM Link 1: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
+Movie-45
 Movie name: Antoratma
 Category: Bangla Movies
 Year: 2025
@@ -560,7 +549,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-46
 Movie name: Putulnacher Itikatha
 Category: Bangla Movies
 Year: 2025
@@ -574,7 +563,7 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-47
 Movie name: Neel Chokro
 Category: Bangla Movies
 Year: 2025
@@ -585,7 +574,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-48
 Movie name: Lokah Chapter 1: Chandra
 Category: Bangla Movies
 Year: 2025
@@ -595,25 +584,22 @@ RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv
+STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv
 
 ================================================================================
 
-Movie-50
+Movie-49
 Movie name: Grihapravesh
 Category: Bangla Movies
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRBuaEPaix3AAtPZdsH7IszYHP.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Grihapravesh%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4
+STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4
 
 ================================================================================
 
-Movie-51
+Movie-50
 Movie name: Perfect Wife
 Category: Bangla Movies
 Year: 2025
@@ -624,7 +610,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-52
+Movie-51
 Movie name: Nokshi Kathar Jomin
 Category: Bangla Movies
 Year: 2025
@@ -635,7 +621,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-52
 Movie name: Lawho Gouranger Naam Re
 Category: Bangla Movies
 Year: 2025
@@ -646,7 +632,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-54
+Movie-53
 Movie name: Raas
 Category: Bangla Movies
 Year: 2025
@@ -657,7 +643,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
+Movie-54
 Movie name: Nana Hee
 Category: Bangla Movies
 Year: 2025
@@ -668,7 +654,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-56
+Movie-55
 Movie name: Abigail
 Category: Bangla Movies
 Year: 2024
@@ -679,7 +665,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-57
+Movie-56
 Movie name: Moyurakkhi
 Category: Bangla Movies
 Year: 2024
@@ -690,7 +676,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-58
+Movie-57
 Movie name: Padatik
 Category: Bangla Movies
 Year: 2024
@@ -701,7 +687,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-59
+Movie-58
 Movie name: Aliya Basu Gayab Hai
 Category: Bangla Movies
 Year: 2024
@@ -712,7 +698,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-60
+Movie-59
 Movie name: Saba
 Category: Bangla Movies
 Year: 2024
@@ -723,7 +709,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-61
+Movie-60
 Movie name: Blind
 Category: Bangla Movies
 Year: 2023
@@ -734,7 +720,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-62
+Movie-61
 Movie name: Bloody Daddy
 Category: Bangla Movies
 Year: 2023
@@ -745,7 +731,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-62
 Movie name: Unish20
 Category: Bangla Movies
 Year: 2023
@@ -756,18 +742,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
-Movie name: Manobjomin
-Category: Bangla Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSQGCv7TYkvHG7IDTXyt9yCTIYR.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Manobjomin%20%282023%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-65
+Movie-63
 Movie name: Bhediya
 Category: Bangla Movies
 Year: 2022
@@ -778,29 +753,18 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-64
 Movie name: Kakababur Protyaborton
 Category: Bangla Movies
 Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4UL1SqkFUMK3Kgx0cCNHUrswqb.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-67
-Movie name: Haami 2
-Category: Bangla Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/79dpwcK1KysbRq8zsZyqvqhNTAO.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Haami%202%20%282022%29%20WEB-DL%20%5BBengali%5D%20SLIV%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-68
+Movie-65
 Movie name: Bismillah
 Category: Bangla Movies
 Year: 2022
@@ -811,18 +775,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-69
-Movie name: Jodi Kintu Tobuo
-Category: Bangla Movies
-Year: 2021
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAuP8yq4rAPAQjHFa8AqpVSB5pQ.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Jodi%20Kintu%20Tobuo%20%282021%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-70
+Movie-66
 Movie name: Brombhodoityo
 Category: Bangla Movies
 Year: 2020
@@ -833,7 +786,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-71
+Movie-67
 Movie name: Cat Sticks
 Category: Bangla Movies
 Year: 2019
@@ -844,7 +797,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-72
+Movie-68
 Movie name: Moner Moto Manush Pailam Na
 Category: Bangla Movies
 Year: 2019
@@ -855,7 +808,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-73
+Movie-69
 Movie name: Goyenda Tatar
 Category: Bangla Movies
 Year: 2019
@@ -866,7 +819,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-74
+Movie-70
 Movie name: Fidaa
 Category: Bangla Movies
 Year: 2018
@@ -877,7 +830,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-75
+Movie-71
 Movie name: Shonar Pahar
 Category: Bangla Movies
 Year: 2018
@@ -888,7 +841,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-76
+Movie-72
 Movie name: [18+] Vrindavani Vairagya
 Category: Bangla Movies
 Year: 2018
@@ -899,7 +852,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-77
+Movie-73
 Movie name: Aami Ashbo Phirey
 Category: Bangla Movies
 Year: 2018
@@ -910,7 +863,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-78
+Movie-74
 Movie name: Golmaal
 Category: Bangla Movies
 Year: 2017
@@ -921,7 +874,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-79
+Movie-75
 Movie name: Posto
 Category: Bangla Movies
 Year: 2017
@@ -932,7 +885,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-80
+Movie-76
 Movie name: Shikari
 Category: Bangla Movies
 Year: 2016
@@ -943,7 +896,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-81
+Movie-77
 Movie name: Abhimaan
 Category: Bangla Movies
 Year: 2016
@@ -954,7 +907,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-82
+Movie-78
 Movie name: Oggatonama
 Category: Bangla Movies
 Year: 2016
@@ -965,7 +918,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-83
+Movie-79
 Movie name: Khawto
 Category: Bangla Movies
 Year: 2016
@@ -976,7 +929,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-84
+Movie-80
 Movie name: Asha Jaoar Majhe
 Category: Bangla Movies
 Year: 2014
@@ -987,7 +940,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-85
+Movie-81
 Movie name: The Amazing Spider-Man 2
 Category: Bangla Movies
 Year: 2014
@@ -998,7 +951,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-86
+Movie-82
 Movie name: Chirodini Tumi Je Amar 2
 Category: Bangla Movies
 Year: 2014
@@ -1009,7 +962,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-87
+Movie-83
 Movie name: Mrs Sen
 Category: Bangla Movies
 Year: 2013
@@ -1020,7 +973,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-88
+Movie-84
 Movie name: Aborto
 Category: Bangla Movies
 Year: 2013
@@ -1031,7 +984,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-89
+Movie-85
 Movie name: The Amazing Spider-Man
 Category: Bangla Movies
 Year: 2012
@@ -1042,7 +995,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-90
+Movie-86
 Movie name: Sanskar
 Category: Bangla Movies
 Year: 2011
@@ -1053,18 +1006,21 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-91
+Movie-87
 Movie name: Ley Chakka
 Category: Bangla Movies
 Year: 2010
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/18x58WzI2b48HKtpZ9ysyXdam9b.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p.mkv
+
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%20HQ%201080p.mkv
 
 ================================================================================
 
-Movie-92
+Movie-88
 Movie name: Prem Amar
 Category: Bangla Movies
 Year: 2009
@@ -1075,7 +1031,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-93
+Movie-89
 Movie name: Bombaiyer Bombete
 Category: Bangla Movies
 Year: 2002
@@ -1086,7 +1042,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-94
+Movie-90
 Movie name: Spider-Man
 Category: Bangla Movies
 Year: 2002
@@ -1097,7 +1053,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-95
+Movie-91
 Movie name: Saanjhbatir Roopkathara
 Category: Bangla Movies
 Year: 2002
@@ -1111,14 +1067,14 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-96
+Movie-92
 Movie name: Hothat Brishti
 Category: Bangla Movies
 Year: 1998
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHKfeC8FZ2PTbCXGYWyVXy0JPL.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Hothat%20Brishti%20%281998%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Hothat%20Brishti%20%281998%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
