@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Movies
-TOTAL MOVIES: 95
-LAST UPDATED: 2026-09-29 | 02:05:48 (UTC)
+TOTAL MOVIES: 96
+LAST UPDATED: 2026-09-29 | 08:43:13 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -37,7 +37,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/04/Cha-Garam-2026.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -48,29 +48,29 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/03/Chokro-2026.webp
 
 Season: S02
-Episode: Episode 01
+Episode: Episode 01-07
   Resolution-1: HD 1080P
-  Link-1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
+  Link-1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01-07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
 
 Season: S02
-Episode: Episode 02
+Episode: Episode 01
   Resolution-2: HD 1080P
-  Link-2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E02%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
+  Link-2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
 
 Season: S02
 Episode: Episode 05
   Resolution-3: HD 1080P
-  Link-3: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E05%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
+  Link-3: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E05%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
 
 Season: S02
 Episode: Episode 06
   Resolution-4: HD 1080P
-  Link-4: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E06%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
+  Link-4: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E06%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
 
 Season: S02
 Episode: Episode 07
   Resolution-5: HD 1080P
-  Link-5: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
+  Link-5: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv
 
 ================================================================================
 
@@ -222,10 +222,10 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Bonolota-Express-2026-v2.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20HoiChoi%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20HoiChoi%201080p%20ESub.mkv
 
 RESOLUTION 2: HEVC 1080P
-STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv
+STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 3: HD 1080P
 STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20RAW%201080p%20ESub.mkv
@@ -440,7 +440,7 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuUKcB5nnKCqsUqFUiAqTfbebf7.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
 
 RESOLUTION 2: 4K 2160P HEVC
 STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv
@@ -490,10 +490,7 @@ Year: 2025
 Poster: https://cinefreak.net/wp-content/uploads/2025/08/Dhumketu-2025.webp
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Dhumketu%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20HEVC.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Dhumketu%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dhumketu%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20HEVC.mkv
 
 ================================================================================
 
@@ -744,7 +741,7 @@ Year: 2023
 Poster: https://cinefreak.net/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.04.48-PM.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -843,7 +840,7 @@ Year: 2019
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDj7ksttGh97KNIqKeZVQ0eu0k.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Cat%20Sticks%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cat%20Sticks%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -898,7 +895,7 @@ Year: 2018
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtyvlyzjBuHWTlkQJTAz0uYtrIG.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
@@ -969,6 +966,17 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-83
+Movie name: Khawto
+Category: Bangla Movies
+Year: 2016
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxZRXp6N43j3y0bQbSLGy4Pax3R.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-84
 Movie name: Asha Jaoar Majhe
 Category: Bangla Movies
 Year: 2014
@@ -979,7 +987,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-84
+Movie-85
 Movie name: The Amazing Spider-Man 2
 Category: Bangla Movies
 Year: 2014
@@ -990,18 +998,18 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-85
+Movie-86
 Movie name: Chirodini Tumi Je Amar 2
 Category: Bangla Movies
 Year: 2014
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KOSq3gTVIBgNEq7J5nRaeQJdWg.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Chirodini%20Tumi%20Je%20Amar%202%20%282014%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chirodini%20Tumi%20Je%20Amar%202%20%282014%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-86
+Movie-87
 Movie name: Mrs Sen
 Category: Bangla Movies
 Year: 2013
@@ -1012,7 +1020,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-87
+Movie-88
 Movie name: Aborto
 Category: Bangla Movies
 Year: 2013
@@ -1023,7 +1031,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-88
+Movie-89
 Movie name: The Amazing Spider-Man
 Category: Bangla Movies
 Year: 2012
@@ -1034,7 +1042,7 @@ STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-89
+Movie-90
 Movie name: Sanskar
 Category: Bangla Movies
 Year: 2011
@@ -1045,7 +1053,7 @@ STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-90
+Movie-91
 Movie name: Ley Chakka
 Category: Bangla Movies
 Year: 2010
@@ -1056,7 +1064,7 @@ STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-91
+Movie-92
 Movie name: Prem Amar
 Category: Bangla Movies
 Year: 2009
@@ -1067,7 +1075,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-92
+Movie-93
 Movie name: Bombaiyer Bombete
 Category: Bangla Movies
 Year: 2002
@@ -1078,7 +1086,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-93
+Movie-94
 Movie name: Spider-Man
 Category: Bangla Movies
 Year: 2002
@@ -1089,7 +1097,7 @@ STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-94
+Movie-95
 Movie name: Saanjhbatir Roopkathara
 Category: Bangla Movies
 Year: 2002
@@ -1103,7 +1111,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-95
+Movie-96
 Movie name: Hothat Brishti
 Category: Bangla Movies
 Year: 1998
