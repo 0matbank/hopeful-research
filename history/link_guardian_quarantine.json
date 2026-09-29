@@ -160,35 +160,6 @@
       "next_retry_at": "2026-09-30T23:06:56.916789+00:00",
       "attempt_count": 8
     },
-    "disneyhotstar::https://cinefreak.net/a-woman-called-mother-2025-full-movie-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/a-woman-called-mother-2025-full-movie-download",
-      "movie": {
-        "name": "A Woman Called Mother",
-        "category": "Disney Hotstar",
-        "year": "2025",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojWSVt7O92ZLtEUyQs8u5pRI40b.jpg",
-        "source_url": "https://cinefreak.net/a-woman-called-mother-2025-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%201080p%20ESub.mkv"
-          },
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%201080p%20ESub.mkv",
-        "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
-      ],
-      "quarantined_at": "2026-09-07T00:09:17.443560+00:00",
-      "last_attempt": "2026-09-25T23:21:10.012957+00:00",
-      "next_retry_at": "2026-09-28T23:21:10.012974+00:00",
-      "attempt_count": 7
-    },
     "kannadamovies::https://cinefreak.net/usiru-2025-full-movie-download": {
       "category": "Kannada Movies",
       "source_url": "https://cinefreak.net/usiru-2025-full-movie-download",
@@ -2883,7 +2854,55 @@
       "last_attempt": "2026-09-27T23:16:17.592089+00:00",
       "next_retry_at": "2026-09-28T05:16:17.592092+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/zara-hatke-zara-bachke-2023-web-dl-bengali-dub-org-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/zara-hatke-zara-bachke-2023-web-dl-bengali-dub-org-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Zara Hatke Zara Bachke",
+        "category": "Bangla Dubbed",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIziBCZWsDCzFbil4iT9TyUOnhT.jpg",
+        "source_url": "https://cinefreak.net/zara-hatke-zara-bachke-2023-web-dl-bengali-dub-org-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Zara%20Hatke%20Zara%20Bachke%20%282023%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Zara%20Hatke%20Zara%20Bachke%20%282023%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-09-29T02:09:49.236732+00:00",
+      "last_attempt": "2026-09-29T02:09:49.236742+00:00",
+      "next_retry_at": "2026-09-29T08:09:49.236744+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/universal-soldier-day-of-reckoning-2012-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/universal-soldier-day-of-reckoning-2012-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Universal Soldier: Day Of Reckoning",
+        "category": "Bangla Dubbed",
+        "year": "2012",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/09/Universal-Soldier-4.webp",
+        "source_url": "https://cinefreak.net/universal-soldier-day-of-reckoning-2012-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Universal%20Soldier%204%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%20BONGO%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Universal%20Soldier%204%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%20BONGO%201080p.mkv"
+      ],
+      "quarantined_at": "2026-09-29T02:09:49.236995+00:00",
+      "last_attempt": "2026-09-29T02:09:49.237000+00:00",
+      "next_retry_at": "2026-09-29T08:09:49.237003+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-28T20:46:29.369678+00:00"
+  "updated_at": "2026-09-29T02:09:49.259746+00:00"
 }
