@@ -971,5 +971,41 @@
     ],
     "last_attempt": "2026-09-29T16:38:47.735093+00:00",
     "attempt_count": 1
+  },
+  "banglamovies::noor": {
+    "name": "Noor",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Noor%20%282025%29%20WEB-DL%20%5BBengali%5D%20BioscopePlus%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-29T22:23:55.017128+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::neelchokro": {
+    "name": "Neel Chokro",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Neel%20Chokro%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-29T22:24:21.633428+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::perfectwife": {
+    "name": "Perfect Wife",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Wife%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-09-29T22:24:47.956489+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::nokshikatharjomin": {
+    "name": "Nokshi Kathar Jomin",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Nokshi%20Kathar%20Jomin%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+    ],
+    "last_attempt": "2026-09-29T22:25:14.327684+00:00",
+    "attempt_count": 1
   }
 }
