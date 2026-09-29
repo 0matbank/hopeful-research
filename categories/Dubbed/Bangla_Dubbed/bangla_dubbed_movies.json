@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 55,
-    "last_updated": "2026-09-29 | 02:09:49 (UTC)",
+    "total_movies": 58,
+    "last_updated": "2026-09-29 | 03:03:48 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -997,6 +997,23 @@
       ]
     },
     {
+      "name": "Mirage",
+      "category": "Bangla Dubbed",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg",
+      "source_url": "https://cinefreak.net/mirage-2025-bengali-dubbed-bengali-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
       "name": "Aliya Basu Gayab Hai",
       "category": "Bangla Dubbed",
       "year": "2024",
@@ -1149,6 +1166,19 @@
       ]
     },
     {
+      "name": "Godse",
+      "category": "Bangla Dubbed",
+      "year": "2022",
+      "poster": "https://cinefreak.net/wp-content/uploads/2024/10/codes.webp",
+      "source_url": "https://cinefreak.net/godse-joy-jonota-2024-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Godse%20-%20Joy%20Jonota%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
       "name": "Ray",
       "category": "Bangla Dubbed",
       "year": "2021",
@@ -1172,6 +1202,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Kaithi%20%282019%29%20WEBRip%20%5BBengali%20ORG%5D%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Adithya Varma",
+      "category": "Bangla Dubbed",
+      "year": "2019",
+      "poster": "https://cinefreak.net/wp-content/uploads/2025/09/Adithya-Varma.jpg",
+      "source_url": "https://cinefreak.net/adithya-varma-2019-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Adithya%20Varma%20%282019%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
         }
       ]
     },
