@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Movies
 TOTAL MOVIES: 88
-LAST UPDATED: 2026-09-29 | 22:26:50 (UTC)
+LAST UPDATED: 2026-09-30 | 05:45:20 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -175,10 +175,10 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpsMRdcrXE4iQpOasSNtlZyhgrN.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20AV1%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20AV1%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
 
 RESOLUTION 3: 4K 2160P
 STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv
@@ -203,7 +203,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHewWBdFBJ1IDIvzCEpLOaeqTb9.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Roid%20%282026%29%20HDTC%20%5BBengali%20LiNE%5D%201080p%20HC-ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Roid%20%282026%29%20HDTC%20%5BBengali%20LiNE%5D%201080p%20HC-ESub.mkv
 
 ================================================================================
 
@@ -242,7 +242,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Prince.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
@@ -253,7 +253,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Rakkhosh-2026.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
@@ -264,7 +264,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/THUMB_2026-03-17_4254008.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Sulabh%20Complex%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sulabh%20Complex%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -363,7 +363,7 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Proshnouttor.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Proshnouttor%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Proshnouttor%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
@@ -421,7 +421,7 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pkcjPJBjAZzt9VSeNFZFZFRVBR.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Saralakkha%20Holmes%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Saralakkha%20Holmes%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -496,7 +496,10 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1S4Jlirr3TldceHOOgBZ0FeZeVz.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Ranna%20Baati%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ranna%20Baati%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
+
+RESOLUTION 2: 4K 2160P HEVC
+STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Ranna%20Baati%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -507,7 +510,7 @@ Year: 2025
 Poster: https://cinefreak.net/wp-content/uploads/2025/12/Sada-Golap-2025.webp
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Sada%20Golap%20%282025%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sada%20Golap%20%282025%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p.mkv
 
 ================================================================================
 
@@ -854,7 +857,7 @@ Year: 2016
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qaMSYxVNiBZlbb0ihO6gHpLvlc.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20ESub.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -909,7 +912,7 @@ Year: 2014
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -953,7 +956,7 @@ Year: 2012
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2012.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -964,7 +967,7 @@ Year: 2011
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGV1JYHGhHwlYNUrtlA3nPiFSb7.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Sanskar%20%282011%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sanskar%20%282011%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1011,7 +1014,7 @@ Year: 2002
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/Spider-Man-2002-.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
