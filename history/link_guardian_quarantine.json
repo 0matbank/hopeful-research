@@ -233,30 +233,6 @@
       "next_retry_at": "2026-10-02T16:33:22.451547+00:00",
       "attempt_count": 5
     },
-    "bangladubbed::https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-      "category": "Bangla Dubbed",
-      "source_url": "https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "movie": {
-        "name": "Motu Patlu & The Madness Of Multiverse",
-        "category": "Bangla Dubbed",
-        "year": "2025",
-        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Madness-Of-Multiverse-2025.jpg",
-        "source_url": "https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
-      ],
-      "quarantined_at": "2026-09-10T16:38:14.751343+00:00",
-      "last_attempt": "2026-09-10T16:38:14.751347+00:00",
-      "next_retry_at": "2026-09-10T22:38:14.751348+00:00",
-      "attempt_count": 1
-    },
     "bangladubbed::https://cinefreak.net/maadeva-2025-full-movie-download-2": {
       "category": "Bangla Dubbed",
       "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
@@ -3072,5 +3048,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-09-30T05:45:20.868688+00:00"
+  "updated_at": "2026-09-30T12:57:53.753655+00:00"
 }

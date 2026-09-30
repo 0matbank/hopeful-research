@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
 TOTAL MOVIES: 68
-LAST UPDATED: 2026-09-29 | 02:01:58 (UTC)
+LAST UPDATED: 2026-09-30 | 12:57:53 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -455,82 +455,112 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04GVavxTuTWCNrtbllGrQiR
 Season: S01
 Episode: Episode 01-04
   Resolution-1: HD 1080P
-  Link-1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Link-1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 05-08
   Resolution-2: HD 1080P
-  Link-2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Link-2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 09-12
   Resolution-3: HD 1080P
-  Link-3: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Link-3: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 13-16
+  Resolution-4: HD 1080P
+  Link-4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 17-20
+  Resolution-5: HD 1080P
+  Link-5: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 21-24
-  Resolution-4: HD 1080P
-  Link-4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-6: HD 1080P
+  Link-6: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 25-28
-  Resolution-5: HD 1080P
-  Link-5: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-7: HD 1080P
+  Link-7: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 29-32
+  Resolution-8: HD 1080P
+  Link-8: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 33-36
-  Resolution-6: HD 1080P
-  Link-6: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-9: HD 1080P
+  Link-9: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 37-40
-  Resolution-7: HD 1080P
-  Link-7: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-10: HD 1080P
+  Link-10: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 41-44
-  Resolution-8: HD 1080P
-  Link-8: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-11: HD 1080P
+  Link-11: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 45-48
-  Resolution-9: HD 1080P
-  Link-9: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-12: HD 1080P
+  Link-12: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 49-52
-  Resolution-10: HD 1080P
-  Link-10: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-13: HD 1080P
+  Link-13: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 53-56
-  Resolution-11: HD 1080P
-  Link-11: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-14: HD 1080P
+  Link-14: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 57-60
-  Resolution-12: HD 1080P
-  Link-12: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-15: HD 1080P
+  Link-15: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 61-64
-  Resolution-13: HD 1080P
-  Link-13: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-16: HD 1080P
+  Link-16: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 65-68
-  Resolution-14: HD 1080P
-  Link-14: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-17: HD 1080P
+  Link-17: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 69-72
+  Resolution-18: HD 1080P
+  Link-18: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E69-72%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 73-76
-  Resolution-15: HD 1080P
-  Link-15: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-19: HD 1080P
+  Link-19: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 77-80
-  Resolution-16: HD 1080P
-  Link-16: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-20: HD 1080P
+  Link-20: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 81-84
+  Resolution-21: HD 1080P
+  Link-21: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E81-84%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 85-88
+  Resolution-22: HD 1080P
+  Link-22: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E85-88%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -860,17 +890,17 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2zF4NDPU0xTPKb5wrOhsFdY
 Season: S01
 Episode: Episode 01
   Resolution-1: HD 1080P
-  Link-1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E01%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E01%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 02
   Resolution-2: HD 1080P
-  Link-2: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E02%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Link-2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E02%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 03
   Resolution-3: HD 1080P
-  Link-3: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E03%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Link-3: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E03%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 04
@@ -890,12 +920,12 @@ Episode: Episode 06
 Season: S01
 Episode: Episode 07
   Resolution-7: HD 1080P
-  Link-7: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Link-7: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 08
   Resolution-8: HD 1080P
-  Link-8: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Link-8: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 09
@@ -906,6 +936,16 @@ Season: S01
 Episode: Episode 10
   Resolution-10: HD 1080P
   Link-10: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E10%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 11
+  Resolution-11: HD 1080P
+  Link-11: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20Uri%20%5BS01E11%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 12
+  Resolution-12: HD 1080P
+  Link-12: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20Uri%20%5BS01E12%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1244,12 +1284,17 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/umD3yw6SFybqXc8jW2l1AOya
 Season: S01
 Episode: Episode 01-04
   Resolution-1: HD 1080P
-  Link-1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Link-1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 05-08
   Resolution-2: HD 1080P
   Link-2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+Season: S01
+Episode: Episode 09-12
+  Resolution-3: HD 1080P
+  Link-3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1490,12 +1535,12 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yUY1HUyQuybbvkAAhLzQ7x1
 Season: S01
 Episode: Episode 01-04
   Resolution-1: HD 1080P
-  Link-1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E01-04%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
+  Link-1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E01-04%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 05-08
   Resolution-2: HD 1080P
-  Link-2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
+  Link-2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1506,10 +1551,10 @@ Year: 2024
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/snUfealex5cEPtJCZOLHQhtnxrQ.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20HEVC.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20HEVC.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p.mkv
+STREAM Link 2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p.mkv
 
 ================================================================================
 
@@ -1688,7 +1733,17 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab46GZYGn63DbswgIKMepgj4
 Season: S02
 Episode: Episode 09-12
   Resolution-1: HD 1080P
-  Link-1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E09-12%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+  Link-1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E09-12%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+Season: S02
+Episode: Episode 17-20
+  Resolution-2: HD 1080P
+  Link-2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E17-20%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
+
+Season: S02
+Episode: Episode 21-24
+  Resolution-3: HD 1080P
+  Link-3: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E21-24%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 

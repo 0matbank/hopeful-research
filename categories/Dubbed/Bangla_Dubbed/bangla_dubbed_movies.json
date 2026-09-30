@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 58,
-    "last_updated": "2026-09-29 | 17:09:33 (UTC)",
+    "total_movies": 59,
+    "last_updated": "2026-09-30 | 12:41:27 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -1010,6 +1010,19 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Motu Patlu & The Madness Of Multiverse",
+      "category": "Bangla Dubbed",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Madness-Of-Multiverse-2025.jpg",
+      "source_url": "https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
         }
       ]
     },
