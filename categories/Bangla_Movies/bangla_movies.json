@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 88,
-    "last_updated": "2026-09-30 | 12:42:20 (UTC)",
+    "total_movies": 89,
+    "last_updated": "2026-09-30 | 19:25:26 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -477,6 +477,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bohurup%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Utsaber Ratri",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Utsaber-Ratri-2026.webp",
+      "source_url": "https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
