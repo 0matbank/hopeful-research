@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 89,
-    "last_updated": "2026-09-30 | 19:25:26 (UTC)",
+    "total_movies": 90,
+    "last_updated": "2026-10-01 | 06:02:27 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -891,6 +891,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bismillah%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Swastik Sanket",
+      "category": "Bangla Movies",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfzwhP34dkyvwxyeFNj7LtGGkkN.jpg",
+      "source_url": "https://cinefreak.net/swastik-sanket-2022-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },

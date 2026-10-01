@@ -112,30 +112,6 @@
       "next_retry_at": "2026-10-03T23:54:52.765144+00:00",
       "attempt_count": 10
     },
-    "banglamovies::https://cinefreak.net/swastik-sanket-2022-full-movie-download": {
-      "category": "Bangla Movies",
-      "source_url": "https://cinefreak.net/swastik-sanket-2022-full-movie-download",
-      "movie": {
-        "name": "Swastik Sanket",
-        "category": "Bangla Movies",
-        "year": "2022",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfzwhP34dkyvwxyeFNj7LtGGkkN.jpg",
-        "source_url": "https://cinefreak.net/swastik-sanket-2022-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-      ],
-      "quarantined_at": "2026-09-07T00:03:01.809399+00:00",
-      "last_attempt": "2026-09-27T23:06:56.916770+00:00",
-      "next_retry_at": "2026-09-30T23:06:56.916789+00:00",
-      "attempt_count": 8
-    },
     "kannadamovies::https://cinefreak.net/usiru-2025-full-movie-download": {
       "category": "Kannada Movies",
       "source_url": "https://cinefreak.net/usiru-2025-full-movie-download",
@@ -3024,5 +3000,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-01T00:06:28.699603+00:00"
+  "updated_at": "2026-10-01T06:17:03.003250+00:00"
 }
