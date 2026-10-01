@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Disney Hotstar",
     "total_movies": 68,
-    "last_updated": "2026-10-01 | 06:17:02 (UTC)",
+    "last_updated": "2026-10-01 | 13:36:04 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -749,15 +749,19 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         },
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1029,37 +1033,37 @@
           "season": "S15",
           "episode": "Episode 01",
           "resolution": "HD 1080P",
-          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E01%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E01%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",
           "episode": "Episode 02",
           "resolution": "HD 1080P",
-          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E02%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E02%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",
           "episode": "Episode 03",
           "resolution": "HD 1080P",
-          "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E03%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E03%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",
           "episode": "Episode 04",
           "resolution": "HD 1080P",
-          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E04%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E04%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",
           "episode": "Episode 05",
           "resolution": "HD 1080P",
-          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",
           "episode": "Episode 06",
           "resolution": "HD 1080P",
-          "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E06%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E06%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",
@@ -1095,7 +1099,7 @@
           "season": "S15",
           "episode": "Episode 12",
           "resolution": "HD 1080P",
-          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E12%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E12%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",
@@ -1108,6 +1112,30 @@
           "episode": "Episode 14",
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E14%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        },
+        {
+          "season": "S15",
+          "episode": "Episode 15",
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E15%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S15",
+          "episode": "Episode 16",
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E16%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+        },
+        {
+          "season": "S15",
+          "episode": "Episode 17",
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E17%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S15",
+          "episode": "Episode 18",
+          "resolution": "HD 1080P",
+          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E18%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         }
       ]
     },
@@ -1420,7 +1448,7 @@
           "season": "S01",
           "episode": "Episode 01",
           "resolution": "HD 1080P",
-          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
@@ -1456,7 +1484,7 @@
           "season": "S01",
           "episode": "Episode 04",
           "resolution": "HD 1080P",
-          "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
@@ -1469,6 +1497,36 @@
           "episode": "Episode 05",
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 05",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 06",
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 06",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 07",
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+        },
+        {
+          "season": "S01",
+          "episode": "Episode 07",
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E07%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1755,11 +1813,11 @@
       "res_list": [
         {
           "resolution": "HEVC 1080P",
-          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         },
         {
           "resolution": "HQ 1080P",
@@ -1791,13 +1849,13 @@
           "season": "S01",
           "episode": "Episode 01-05",
           "resolution": "HD 1080P",
-          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
           "episode": "Episode 06-10",
           "resolution": "HD 1080P",
-          "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1823,7 +1881,7 @@
       "res_list": [
         {
           "resolution": "HD 1080P",
-          "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Match%20Fixing%20%282025%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
+          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Match%20Fixing%20%282025%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },

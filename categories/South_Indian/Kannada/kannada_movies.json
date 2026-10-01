@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 43,
-    "last_updated": "2026-09-23 | 23:05:17 (UTC)",
+    "total_movies": 44,
+    "last_updated": "2026-10-01 | 13:24:13 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -413,6 +413,23 @@
         {
           "resolution": "4K 2160P",
           "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET%20-%20Sankranthiki%20Vasthunam%20%282025%29%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20ZEE5%202160p%20Esub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Usiru",
+      "category": "Kannada Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg",
+      "source_url": "https://cinefreak.net/usiru-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P HEVC",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
