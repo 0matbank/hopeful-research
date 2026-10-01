@@ -49,40 +49,6 @@
       "next_retry_at": "2026-10-03T05:38:37.147923+00:00",
       "attempt_count": 13
     },
-    "kannadamovies::https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-      "category": "Kannada Movies",
-      "source_url": "https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "movie": {
-        "name": "Kaalapatthar",
-        "category": "Kannada Movies",
-        "year": "2024",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTELAAH02Xv8BNXa6n2uBo853pR.jpg",
-        "source_url": "https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://m.media-amazon.com/images/I/91tM7VzYXSL.mp4"
-          },
-          {
-            "resolution": "HD 1080P",
-            "link": "https://m.media-amazon.com/images/I/91v31-0CMPL.mp4"
-          },
-          {
-            "resolution": "HD 1080P",
-            "link": "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://m.media-amazon.com/images/I/91tM7VzYXSL.mp4",
-        "https://m.media-amazon.com/images/I/91v31-0CMPL.mp4",
-        "https://m.media-amazon.com/images/I/C1LrGUVidPL.mp4"
-      ],
-      "quarantined_at": "2026-08-30T18:21:48.581826+00:00",
-      "last_attempt": "2026-09-28T14:03:18.615309+00:00",
-      "next_retry_at": "2026-10-01T14:03:18.615327+00:00",
-      "attempt_count": 12
-    },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/bhuto-purbo-2025-full-movie-download",
@@ -2974,7 +2940,85 @@
       "last_attempt": "2026-09-29T22:26:50.028249+00:00",
       "next_retry_at": "2026-09-30T04:26:50.028251+00:00",
       "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/pritam-and-pedro-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/pritam-and-pedro-2026-full-series-download",
+      "movie": {
+        "name": "Pritam And Pedro",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC0MtWrnC0SZICFHazagIfVKy0x.jpg",
+        "source_url": "https://cinefreak.net/pritam-and-pedro-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Pritam%20And%20Pedro%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Pritam%20And%20Pedro%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-01T19:49:31.838882+00:00",
+      "last_attempt": "2026-10-01T19:49:31.838895+00:00",
+      "next_retry_at": "2026-10-02T01:49:31.838898+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Motu Patlu & The Mighty Magnathor",
+        "category": "Disney Hotstar",
+        "year": "2024",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmVkMTMxYWUtNDZiYy00N2RhLTk1YzEtMWJmZDRmODQ2YWE4XkEyXkFqcGc@._V1_SX600.jpg",
+        "source_url": "https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-01T19:49:31.839388+00:00",
+      "last_attempt": "2026-10-01T19:49:31.839408+00:00",
+      "next_retry_at": "2026-10-02T01:49:31.839413+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/noise-2025-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/noise-2025-full-movie-download",
+      "movie": {
+        "name": "Noise",
+        "category": "Disney Hotstar",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU3NXe7QqjJNxVpYPdz8dscFWlj.jpg",
+        "source_url": "https://cinefreak.net/noise-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Noise%20%282024%29%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Noise%20%282024%29%20WEB-DL%20%5BHindi-Korean%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Noise%20%282024%29%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Noise%20%282024%29%20WEB-DL%20%5BHindi-Korean%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-01T19:49:31.839630+00:00",
+      "last_attempt": "2026-10-01T19:49:31.839636+00:00",
+      "next_retry_at": "2026-10-02T01:49:31.839638+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-01T13:36:04.264138+00:00"
+  "updated_at": "2026-10-01T19:49:31.867645+00:00"
 }
