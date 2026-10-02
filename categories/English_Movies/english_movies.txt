@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: English Movies
 TOTAL MOVIES: 94
-LAST UPDATED: 2026-10-02 | 05:47:53 (UTC)
+LAST UPDATED: 2026-10-02 | 12:49:22 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -78,7 +78,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3NNwo7kImaJS7fL6YlBsJx0i6R.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -162,13 +162,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
+STREAM Link 3: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
 
 RESOLUTION 4: 4K 2160P HEVC
 STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
@@ -226,7 +226,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s9IVDZetaGc8isbjslCZggsNSX.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Dark%20Hollow%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Dark%20Hollow%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -548,10 +548,13 @@ Year: 2022
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu8IwL6q8y7Mi016Uios7LXz0hc.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -573,7 +576,7 @@ Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Hes%20All%20That%20%282021%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Hes%20All%20That%20%282021%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -584,7 +587,7 @@ Year: 2020
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Fatale%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Fatale%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -650,10 +653,10 @@ Year: 2019
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
 STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
@@ -720,10 +723,10 @@ Year: 2017
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
 STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
@@ -776,7 +779,7 @@ Year: 2014
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uCkeMxYv7WNqko2oMWt7IuvV5G.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Deadly%20Virtues%20Love%20Honour%20Obey%20%282014%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Deadly%20Virtues%20Love%20Honour%20Obey%20%282014%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -939,7 +942,7 @@ Year: 2005
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1019,7 +1022,7 @@ Year: 1995
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuud1Blsdwo1KQRdz5UVwjlLAWQ.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 
