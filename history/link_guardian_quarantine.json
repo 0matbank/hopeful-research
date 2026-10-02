@@ -103,30 +103,6 @@
       "next_retry_at": "2026-10-02T16:33:22.451547+00:00",
       "attempt_count": 5
     },
-    "bangladubbed::https://cinefreak.net/maadeva-2025-full-movie-download-2": {
-      "category": "Bangla Dubbed",
-      "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
-      "movie": {
-        "name": "Maadeva",
-        "category": "Bangla Dubbed",
-        "year": "2025",
-        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Maadeva-2025.webp",
-        "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
-      ],
-      "quarantined_at": "2026-09-10T16:38:14.751472+00:00",
-      "last_attempt": "2026-09-10T16:38:14.751477+00:00",
-      "next_retry_at": "2026-09-10T22:38:14.751482+00:00",
-      "attempt_count": 1
-    },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
       "source_url": "https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
@@ -2996,5 +2972,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-02T00:07:54.852144+00:00"
+  "updated_at": "2026-10-02T05:51:14.191561+00:00"
 }

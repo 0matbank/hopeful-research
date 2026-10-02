@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 59,
-    "last_updated": "2026-09-30 | 12:41:27 (UTC)",
+    "total_movies": 60,
+    "last_updated": "2026-10-02 | 05:44:37 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -1023,6 +1023,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Maadeva",
+      "category": "Bangla Dubbed",
+      "year": "2025",
+      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Maadeva-2025.webp",
+      "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
         }
       ]
     },
