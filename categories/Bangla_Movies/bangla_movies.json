@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 90,
-    "last_updated": "2026-10-01 | 06:02:27 (UTC)",
+    "total_movies": 91,
+    "last_updated": "2026-10-01 | 23:56:15 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -813,6 +813,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saba%20%282024%29%20WEB-DL%20%5BBengali%5D%20HC%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Tilottoma",
+      "category": "Bangla Movies",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBwYUoeTEKWQnsslmbGlKUxd2rI.jpg",
+      "source_url": "https://cinefreak.net/tilottoma-2024-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tilottoma%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
