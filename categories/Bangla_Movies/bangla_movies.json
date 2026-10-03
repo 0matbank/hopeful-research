@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 91,
-    "last_updated": "2026-10-01 | 23:56:15 (UTC)",
+    "total_movies": 92,
+    "last_updated": "2026-10-03 | 21:22:24 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -490,6 +490,23 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Bibi Payra",
+      "category": "Bangla Movies",
+      "year": "2026",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1HafVAujBlpahAILY96SbhbsVq.jpg",
+      "source_url": "https://cinefreak.net/bibi-payra-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+        },
+        {
+          "resolution": "4K 2160P",
+          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
         }
       ]
     },
