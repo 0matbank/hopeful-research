@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
 TOTAL MOVIES: 113
-LAST UPDATED: 2026-10-03 | 11:52:45 (UTC)
+LAST UPDATED: 2026-10-03 | 16:29:22 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -43,10 +43,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9lxwYiSORwKUOVm74i7IqtsnT.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -176,10 +182,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0rN6dUnvAAjIwKDLRSIdkrZcBA.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -226,10 +235,10 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/456FlpiU1iOBnaOxSd783QhZKWw.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p%20HEVC.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p%20HEVC.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p.mkv
 
 ================================================================================
 
@@ -302,10 +311,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8URM569W1ETAeGd33CPkrc6KF1O.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -330,7 +345,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
@@ -414,10 +429,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVENga0uWeOM3vc7KtLhieBwNRy.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Godari%20Gattupaina%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -572,7 +590,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w500/89Mwr7BvdhgpjysLCxgO1h0NK8e.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Dream%20Girl%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Dream%20Girl%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv
 
 ================================================================================
 
@@ -1029,7 +1047,7 @@ Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/df5IaJtB0dmUkDfOCbr0xkPTXDc.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1404,10 +1422,10 @@ Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jWfzHXvqLllbsVL7bvV1UVTq8s.jpg
 
 RESOLUTION 1: HQ 1080P HEVC
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Garuda%20Gamana%20Vrishabha%20Vahana%20%282021%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p%20HEVC.mkv
+STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Garuda%20Gamana%20Vrishabha%20Vahana%20%282021%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p%20HEVC.mkv
 
 RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Garuda%20Gamana%20Vrishabha%20Vahana%20%282021%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv
+STREAM Link 2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Garuda%20Gamana%20Vrishabha%20Vahana%20%282021%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv
 
 ================================================================================
 

@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-09-10T16:38:14.751830+00:00",
-      "next_retry_at": "2026-09-10T22:38:14.751831+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-10-03T16:22:17.032103+00:00",
+      "next_retry_at": "2026-10-04T04:22:17.032125+00:00",
+      "attempt_count": 2
     },
     "banglamovies::https://cinefreak.net/bibi-payra-2026-full-movie-download": {
       "category": "Bangla Movies",
@@ -2972,5 +2972,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-03T11:52:45.492567+00:00"
+  "updated_at": "2026-10-03T16:29:22.701358+00:00"
 }
