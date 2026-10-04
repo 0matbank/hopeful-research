@@ -74,9 +74,9 @@
         "https://pub-877a1d7c5db14657a07f6cc1cb6b43c8.r2.dev/CINEFREAK.TOP%20-%20Bhuto%20Purbo%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-06T22:16:33.551224+00:00",
-      "last_attempt": "2026-09-30T23:54:52.765129+00:00",
-      "next_retry_at": "2026-10-03T23:54:52.765144+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-10-04T00:42:04.472877+00:00",
+      "next_retry_at": "2026-10-07T00:42:04.472894+00:00",
+      "attempt_count": 11
     },
     "disneyhotstar::https://cinefreak.net/save-the-tigers-2026-full-series-download": {
       "category": "Disney Hotstar",
@@ -2941,7 +2941,31 @@
       "last_attempt": "2026-10-01T19:49:31.839636+00:00",
       "next_retry_at": "2026-10-02T01:49:31.839638+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/mark-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+      "movie": {
+        "name": "Mark",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+        "source_url": "https://cinefreak.net/mark-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-04T00:49:56.905303+00:00",
+      "last_attempt": "2026-10-04T00:49:56.905318+00:00",
+      "next_retry_at": "2026-10-04T06:49:56.905321+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-03T21:32:02.426789+00:00"
+  "updated_at": "2026-10-04T00:49:56.930304+00:00"
 }
