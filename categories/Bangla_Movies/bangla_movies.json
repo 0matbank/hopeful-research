@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 92,
-    "last_updated": "2026-10-03 | 21:22:24 (UTC)",
+    "total_movies": 93,
+    "last_updated": "2026-10-04 | 19:41:57 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -765,6 +765,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Danter Lorai",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNDBhNWItZTQ4ZC00MWM5LTlmYmYtNzk1YzU1NGFlMzBiXkEyXkFqcGc@._V1_.jpg",
+      "source_url": "https://cinefreak.net/danter-lorai-2025-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Danter%20Lorai%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
         }
       ]
     },

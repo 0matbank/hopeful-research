@@ -151,30 +151,6 @@
       "next_retry_at": "2026-10-05T15:25:21.385102+00:00",
       "attempt_count": 3
     },
-    "banglamovies::https://cinefreak.net/danter-lorai-2025-full-movie-download": {
-      "category": "Bangla Movies",
-      "source_url": "https://cinefreak.net/danter-lorai-2025-full-movie-download",
-      "movie": {
-        "name": "Danter Lorai",
-        "category": "Bangla Movies",
-        "year": "2025",
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNDBhNWItZTQ4ZC00MWM5LTlmYmYtNzk1YzU1NGFlMzBiXkEyXkFqcGc@._V1_.jpg",
-        "source_url": "https://cinefreak.net/danter-lorai-2025-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Danter%20Lorai%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Danter%20Lorai%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
-      ],
-      "quarantined_at": "2026-09-10T21:01:05.462755+00:00",
-      "last_attempt": "2026-09-10T21:01:05.462762+00:00",
-      "next_retry_at": "2026-09-11T03:01:05.462764+00:00",
-      "attempt_count": 1
-    },
     "banglamovies::https://cinefreak.net/dimlight-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/dimlight-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
@@ -2967,5 +2943,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-04T15:32:25.771569+00:00"
+  "updated_at": "2026-10-04T19:49:34.375848+00:00"
 }
