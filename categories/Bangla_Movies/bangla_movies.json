@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 93,
-    "last_updated": "2026-10-04 | 19:41:57 (UTC)",
+    "total_movies": 94,
+    "last_updated": "2026-10-04 | 23:14:31 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -778,6 +778,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Danter%20Lorai%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+        }
+      ]
+    },
+    {
+      "name": "Dimlight",
+      "category": "Bangla Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sQiIcEgT0Ey4wg6PO0Wc5duZ0E.jpg",
+      "source_url": "https://cinefreak.net/dimlight-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-chorki-gdrive-esub-cinefreak",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dimlight%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
         }
       ]
     },

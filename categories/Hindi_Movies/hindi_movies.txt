@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Movies
 TOTAL MOVIES: 97
-LAST UPDATED: 2026-10-04 | 19:44:40 (UTC)
+LAST UPDATED: 2026-10-04 | 23:21:45 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -34,7 +34,7 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hi8jjHZLNqsG3rXnv79yhDDMnc.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Bhai%20Tera%20Star%20Hai%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bhai%20Tera%20Star%20Hai%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv
 
 ================================================================================
 
@@ -231,8 +231,14 @@ Category: Hindi Movies
 Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfqp6gMlvHODYnBXoogqRyIs0k.jpg
 
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv
+RESOLUTION 1: HEVC 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+
+RESOLUTION 2: HD 1080P
+STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: 4K 2160P HEVC
+STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -243,10 +249,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LPkXJustudEBgPZEm9tgDx5KtC.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Chand%20Mera%20Dil%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Chand%20Mera%20Dil%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chand%20Mera%20Dil%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Chand%20Mera%20Dil%20%282026%29%20WEB-DL%20%5BHindi%5D%20ATV%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -339,13 +348,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1rC9HMKvnKooIPVfNVN2Oukzx6.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Awarapan%202%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv
+STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Awarapan%202%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv
+STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Awarapan%202%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20HQ%201080p.mkv
+STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -356,10 +365,16 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRmPnUAhHHiDJPfNGLP8ikoc5cx.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -370,13 +385,13 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/57RMDlqWcoNnp0RjekNRH51N1hx.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
+STREAM Link 3: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -505,7 +520,13 @@ RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv
+STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv
+
+RESOLUTION 3: HQ 1080P
+STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv
+
+RESOLUTION 4: 4K 2160P HEVC
+STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -545,10 +566,10 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHFZkkes8BpHt4p3IRLUSjRVvrW.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1190,7 +1211,7 @@ Year: 2015
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bbJBjCcyjYyMG9kW38X55tgiYu.jpg
 
 RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -1287,10 +1308,10 @@ Year: 2007
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVArEukDbkfNjxsynes4PWI4nlk.jpg
 
 RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv
 
 RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
