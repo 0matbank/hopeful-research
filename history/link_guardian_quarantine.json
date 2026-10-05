@@ -151,30 +151,6 @@
       "next_retry_at": "2026-10-05T15:25:21.385102+00:00",
       "attempt_count": 3
     },
-    "banglamovies::https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak": {
-      "category": "Bangla Movies",
-      "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
-      "movie": {
-        "name": "Aranyar Prachin Probad",
-        "category": "Bangla Movies",
-        "year": "2024",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pusGs1xtqN6du26hC0fFavF22Qy.jpg",
-        "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
-      ],
-      "quarantined_at": "2026-09-10T21:01:05.463307+00:00",
-      "last_attempt": "2026-09-10T21:01:05.463313+00:00",
-      "next_retry_at": "2026-09-11T03:01:05.463315+00:00",
-      "attempt_count": 1
-    },
     "banglamovies::https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download",
@@ -2919,5 +2895,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-04T23:21:45.208686+00:00"
+  "updated_at": "2026-10-05T05:55:56.691714+00:00"
 }
