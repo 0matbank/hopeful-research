@@ -151,30 +151,6 @@
       "next_retry_at": "2026-10-05T15:25:21.385102+00:00",
       "attempt_count": 3
     },
-    "banglamovies::https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download": {
-      "category": "Bangla Movies",
-      "source_url": "https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download",
-      "movie": {
-        "name": "Abar Bochhor Koori Pore",
-        "category": "Bangla Movies",
-        "year": "2022",
-        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ye2UHIBz3CTA9a0PnSpipatd4n8.jpg",
-        "source_url": "https://cinefreak.net/abar-bochhor-koori-pore-2022-full-movie-download",
-        "res_list": [
-          {
-            "resolution": "HD 1080P",
-            "link": "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Abar%20Bochhor%20Koori%20Pore%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-          }
-        ]
-      },
-      "dead_links": [
-        "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Abar%20Bochhor%20Koori%20Pore%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-      ],
-      "quarantined_at": "2026-09-10T21:01:05.463481+00:00",
-      "last_attempt": "2026-09-10T21:01:05.463486+00:00",
-      "next_retry_at": "2026-09-11T03:01:05.463488+00:00",
-      "attempt_count": 1
-    },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
       "source_url": "https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download",
@@ -2895,5 +2871,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-05T05:55:56.691714+00:00"
+  "updated_at": "2026-10-05T14:54:30.757989+00:00"
 }
