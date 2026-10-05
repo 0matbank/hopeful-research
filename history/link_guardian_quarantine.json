@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-10-02T19:23:11.927159+00:00",
-      "next_retry_at": "2026-10-05T19:23:11.927173+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-10-05T22:42:19.856573+00:00",
+      "next_retry_at": "2026-10-08T22:42:19.856586+00:00",
+      "attempt_count": 7
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -2869,7 +2869,31 @@
       "last_attempt": "2026-10-04T00:49:56.905318+00:00",
       "next_retry_at": "2026-10-04T06:49:56.905321+00:00",
       "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/daaku-maharaaj-2025-pre-dvdrip-telugu-full-movie-download-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/daaku-maharaaj-2025-pre-dvdrip-telugu-full-movie-download-cinefreak",
+      "movie": {
+        "name": "Daaku Maharaaj",
+        "category": "Kannada Movies",
+        "year": "2024",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTFjYWUwOGEtZjhkNS00MmZhLWE3NTMtNzhlMTE3MDRjOWYzXkEyXkFqcGc@._V1_.jpg",
+        "source_url": "https://cinefreak.net/daaku-maharaaj-2025-pre-dvdrip-telugu-full-movie-download-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.NET%20-%20Daaku%20Maharaaj%20%282024%29%20NF%20WEB-DL%20%5BHindi-Tamil-Telugu-Malayalam-Kannada%5D%201080p%20HEVC%20Esub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.NET%20-%20Daaku%20Maharaaj%20%282024%29%20NF%20WEB-DL%20%5BHindi-Tamil-Telugu-Malayalam-Kannada%5D%201080p%20HEVC%20Esub.mkv"
+      ],
+      "quarantined_at": "2026-10-05T22:51:43.723245+00:00",
+      "last_attempt": "2026-10-05T22:51:43.723255+00:00",
+      "next_retry_at": "2026-10-06T04:51:43.723257+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-05T14:54:30.757989+00:00"
+  "updated_at": "2026-10-05T22:51:43.735510+00:00"
 }
