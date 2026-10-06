@@ -45,9 +45,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-10-03T11:44:31.017824+00:00",
-      "next_retry_at": "2026-10-06T11:44:31.017838+00:00",
-      "attempt_count": 14
+      "last_attempt": "2026-10-06T15:15:45.526585+00:00",
+      "next_retry_at": "2026-10-09T15:15:45.526600+00:00",
+      "attempt_count": 15
     },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -2941,7 +2941,205 @@
       "last_attempt": "2026-10-06T06:36:45.824597+00:00",
       "next_retry_at": "2026-10-06T12:36:45.824599+00:00",
       "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download",
+      "movie": {
+        "name": "Chinna Chinna Aasai",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg",
+        "source_url": "https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-06T15:16:01.816435+00:00",
+      "last_attempt": "2026-10-06T15:16:01.816444+00:00",
+      "next_retry_at": "2026-10-06T21:16:01.816447+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/achyuta-avataaram-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/achyuta-avataaram-2026-full-movie-download",
+      "movie": {
+        "name": "Achyuta Avataaram",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH5QDBV55imyvC31MMdxTtHUT6t.jpg",
+        "source_url": "https://cinefreak.net/achyuta-avataaram-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-06T15:16:01.816680+00:00",
+      "last_attempt": "2026-10-06T15:16:01.816690+00:00",
+      "next_retry_at": "2026-10-06T21:16:01.816694+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/aadu-3-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/aadu-3-2026-full-movie-download",
+      "movie": {
+        "name": "Aadu 3",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yzYF6MGJ9oZGobttiiUz0RYpRX.jpg",
+        "source_url": "https://cinefreak.net/aadu-3-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Aadu%203%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Aadu%203%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-06T15:16:01.816984+00:00",
+      "last_attempt": "2026-10-06T15:16:01.816990+00:00",
+      "next_retry_at": "2026-10-06T21:16:01.816992+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/checkmate-2024-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/checkmate-2024-full-movie-download",
+      "movie": {
+        "name": "Checkmate",
+        "category": "Malayalam Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh6RO2OvQs6XSeEYTLri5Xw0FNd.jpg",
+        "source_url": "https://cinefreak.net/checkmate-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Checkmate%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Checkmate%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Checkmate%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Checkmate%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-06T15:16:01.817316+00:00",
+      "last_attempt": "2026-10-06T15:16:01.817322+00:00",
+      "next_retry_at": "2026-10-06T21:16:01.817324+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/christy-2023-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/christy-2023-full-movie-download",
+      "movie": {
+        "name": "Christy",
+        "category": "Malayalam Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg",
+        "source_url": "https://cinefreak.net/christy-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-06T15:16:01.817456+00:00",
+      "last_attempt": "2026-10-06T15:16:01.817460+00:00",
+      "next_retry_at": "2026-10-06T21:16:01.817462+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/big-brother-2020-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/big-brother-2020-full-movie-download",
+      "movie": {
+        "name": "Big Brother",
+        "category": "Malayalam Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7E9mFsCwm6s5k0akviOIuVIKIU.jpg",
+        "source_url": "https://cinefreak.net/big-brother-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-06T15:16:01.817667+00:00",
+      "last_attempt": "2026-10-06T15:16:01.817671+00:00",
+      "next_retry_at": "2026-10-06T21:16:01.817673+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/b-tech-2018-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/b-tech-2018-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "B Tech",
+        "category": "Malayalam Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCK2gixgOBjibqUIPATba2XXDKV.jpg",
+        "source_url": "https://cinefreak.net/b-tech-2018-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-06T15:16:01.817793+00:00",
+      "last_attempt": "2026-10-06T15:16:01.817797+00:00",
+      "next_retry_at": "2026-10-06T21:16:01.817799+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-06T06:36:45.843549+00:00"
+  "updated_at": "2026-10-06T15:16:01.841065+00:00"
 }

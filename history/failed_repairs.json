@@ -1034,5 +1034,84 @@
     ],
     "last_attempt": "2026-10-06T06:35:56.295497+00:00",
     "attempt_count": 1
+  },
+  "malayalammovies::chinnachinnaaasai": {
+    "name": "Chinna Chinna Aasai",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:15:48.052866+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::achyutaavataaram": {
+    "name": "Achyuta Avataaram",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:15:49.853952+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::aadu3": {
+    "name": "Aadu 3",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Aadu%203%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:15:51.520848+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::avihitham": {
+    "name": "Avihitham",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:15:53.343449+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::checkmate": {
+    "name": "Checkmate",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Checkmate%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Checkmate%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:15:55.296902+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::christy": {
+    "name": "Christy",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:15:57.038597+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::bigbrother": {
+    "name": "Big Brother",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:15:58.661643+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::btech": {
+    "name": "B Tech",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20B%20Tech%20%282018%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-06T15:16:01.710207+00:00",
+    "attempt_count": 1
   }
 }
