@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-10-04T15:25:21.385085+00:00",
-      "next_retry_at": "2026-10-05T15:25:21.385102+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-10-07T08:45:00.000780+00:00",
+      "next_retry_at": "2026-10-09T08:45:00.000807+00:00",
+      "attempt_count": 4
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -3453,7 +3453,248 @@
       "last_attempt": "2026-10-07T01:36:23.690709+00:00",
       "next_retry_at": "2026-10-07T07:36:23.690711+00:00",
       "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/pallichattambi-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/pallichattambi-2026-full-movie-download",
+      "movie": {
+        "name": "Pallichattambi",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Pallichattambi.jpg",
+        "source_url": "https://cinefreak.net/pallichattambi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.659568+00:00",
+      "last_attempt": "2026-10-07T08:45:20.659585+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.659588+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/varavu-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/varavu-2026-full-movie-download",
+      "movie": {
+        "name": "Varavu",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sjawSVPrR5liK2iy543k7J33G4.jpg",
+        "source_url": "https://cinefreak.net/varavu-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Varavu%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Varavu%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.659976+00:00",
+      "last_attempt": "2026-10-07T08:45:20.659982+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.659985+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/the-malabar-tales-2025-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/the-malabar-tales-2025-full-movie-download",
+      "movie": {
+        "name": "The Malabar Tales",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg",
+        "source_url": "https://cinefreak.net/the-malabar-tales-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.660139+00:00",
+      "last_attempt": "2026-10-07T08:45:20.660144+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.660146+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/pongala-2025-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/pongala-2025-full-movie-download",
+      "movie": {
+        "name": "Pongala",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg",
+        "source_url": "https://cinefreak.net/pongala-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.660326+00:00",
+      "last_attempt": "2026-10-07T08:45:20.660332+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.660335+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/sarkeet-2025-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/sarkeet-2025-full-movie-download",
+      "movie": {
+        "name": "Sarkeet",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yruMwNKwObVwS8vbE3N6hriAdYB.jpg",
+        "source_url": "https://cinefreak.net/sarkeet-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Sarkeet%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Sarkeet%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.660492+00:00",
+      "last_attempt": "2026-10-07T08:45:20.660497+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.660498+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/secret-2024-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/secret-2024-full-movie-download",
+      "movie": {
+        "name": "Secret",
+        "category": "Malayalam Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDv1DD8Ux8eO8rhdTXVOciC6QwK.jpg",
+        "source_url": "https://cinefreak.net/secret-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Secret%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Secret%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.660693+00:00",
+      "last_attempt": "2026-10-07T08:45:20.660697+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.660700+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/rdx-robert-dony-xavier-2023-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/rdx-robert-dony-xavier-2023-full-movie-download",
+      "movie": {
+        "name": "RDX: Robert Dony Xavier",
+        "category": "Malayalam Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvPPKLTo8H1iA3mB7sgGYcvGiQq.jpg",
+        "source_url": "https://cinefreak.net/rdx-robert-dony-xavier-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv",
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.660868+00:00",
+      "last_attempt": "2026-10-07T08:45:20.660873+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.660875+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/padmini-2023-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/padmini-2023-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Padmini",
+        "category": "Malayalam Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH5T9iztaJZ0NZDWiOOJfwzxUXI.jpg",
+        "source_url": "https://cinefreak.net/padmini-2023-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Padmini%20%282023%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Padmini%20%282023%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.661014+00:00",
+      "last_attempt": "2026-10-07T08:45:20.661019+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.661020+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/police-story-2-cold-case-2021-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/police-story-2-cold-case-2021-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Police Story 2",
+        "category": "Malayalam Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lodKsWEcNNlEPbE461pD2c2SuG.jpg",
+        "source_url": "https://cinefreak.net/police-story-2-cold-case-2021-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET%20-%20Cold%20Case%20-%20Police%20Story%202%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET%20-%20Cold%20Case%20-%20Police%20Story%202%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T08:45:20.661189+00:00",
+      "last_attempt": "2026-10-07T08:45:20.661194+00:00",
+      "next_retry_at": "2026-10-07T14:45:20.661196+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-07T01:36:23.714990+00:00"
+  "updated_at": "2026-10-07T08:45:20.686175+00:00"
 }

@@ -1255,5 +1255,100 @@
     ],
     "last_attempt": "2026-10-07T01:36:23.555147+00:00",
     "attempt_count": 1
+  },
+  "malayalammovies::pallichattambi": {
+    "name": "Pallichattambi",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:02.783984+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::vishnuvinyasam": {
+    "name": "Vishnu Vinyasam",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Vishnu%20Vinyasam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:04.795246+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::varavu": {
+    "name": "Varavu",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Varavu%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:06.792211+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::themalabartales": {
+    "name": "The Malabar Tales",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:08.562051+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::pongala": {
+    "name": "Pongala",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:10.508569+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::sarkeet": {
+    "name": "Sarkeet",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Sarkeet%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:12.625403+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::secret": {
+    "name": "Secret",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Secret%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:14.513678+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::rdxrobertdonyxavier": {
+    "name": "RDX: Robert Dony Xavier",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv",
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:16.439322+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::padmini": {
+    "name": "Padmini",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Padmini%20%282023%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:18.534035+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::policestory2": {
+    "name": "Police Story 2",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET%20-%20Cold%20Case%20-%20Police%20Story%202%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T08:45:20.506714+00:00",
+    "attempt_count": 1
   }
 }

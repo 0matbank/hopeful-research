@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Malayalam Movies
-TOTAL MOVIES: 58
-LAST UPDATED: 2026-10-07 | 01:36:23 (UTC)
+TOTAL MOVIES: 49
+LAST UPDATED: 2026-10-07 | 08:45:20 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -56,26 +56,6 @@ Episode: Episode 17-20
 ================================================================================
 
 Movie-4
-Movie name: Pallichattambi
-Category: Malayalam Movies
-Year: 2026
-Poster: https://cinefreak.net/wp-content/uploads/2026/04/Pallichattambi.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-5
 Movie name: Dose
 Category: Malayalam Movies
 Year: 2026
@@ -86,7 +66,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
+Movie-5
 Movie name: Aroopi
 Category: Malayalam Movies
 Year: 2026
@@ -100,7 +80,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
+Movie-6
 Movie name: Mollywood Times
 Category: Malayalam Movies
 Year: 2026
@@ -120,7 +100,7 @@ STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-7
 Movie name: Karakkam
 Category: Malayalam Movies
 Year: 2026
@@ -140,7 +120,7 @@ STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-8
 Movie name: Athiradi
 Category: Malayalam Movies
 Year: 2026
@@ -154,7 +134,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-9
 Movie name: Dridam
 Category: Malayalam Movies
 Year: 2026
@@ -174,7 +154,7 @@ STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
+Movie-10
 Movie name: Patriot
 Category: Malayalam Movies
 Year: 2026
@@ -191,7 +171,7 @@ STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-12
+Movie-11
 Movie name: Drishyam 3
 Category: Malayalam Movies
 Year: 2026
@@ -202,7 +182,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-12
 Movie name: Vaazha II
 Category: Malayalam Movies
 Year: 2026
@@ -222,7 +202,7 @@ STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-13
 Movie name: Bharathanatyam 2 Mohiniyattam
 Category: Malayalam Movies
 Year: 2026
@@ -236,7 +216,7 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-15
+Movie-14
 Movie name: I, Nobody
 Category: Malayalam Movies
 Year: 2026
@@ -256,7 +236,7 @@ STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-15
 Movie name: Oru Durooha Saahacharyathil
 Category: Malayalam Movies
 Year: 2026
@@ -267,7 +247,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-16
 Movie name: Prathichaya
 Category: Malayalam Movies
 Year: 2026
@@ -281,7 +261,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-17
 Movie name: Valathu Vashathe Kallan
 Category: Malayalam Movies
 Year: 2026
@@ -298,7 +278,7 @@ STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-18
 Movie name: Sambhavam Adhyayam Onnu
 Category: Malayalam Movies
 Year: 2026
@@ -315,7 +295,7 @@ STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-19
 Movie name: Vishnu Vinyasam
 Category: Malayalam Movies
 Year: 2026
@@ -324,12 +304,9 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKYnjoPahCSo9KJV1c5yORbt
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Vishnu%20Vinyasam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Vishnu%20Vinyasam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
 ================================================================================
 
-Movie-21
+Movie-20
 Movie name: Chatha Pacha: The Ring Of Rowdies
 Category: Malayalam Movies
 Year: 2026
@@ -340,7 +317,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-21
 Movie name: Baby Girl
 Category: Malayalam Movies
 Year: 2026
@@ -351,18 +328,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
-Movie name: Varavu
-Category: Malayalam Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sjawSVPrR5liK2iy543k7J33G4.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Varavu%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-24
+Movie-22
 Movie name: Bethlehem Kudumba Unit
 Category: Malayalam Movies
 Year: 2026
@@ -373,18 +339,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
-Movie name: The Malabar Tales
-Category: Malayalam Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-26
+Movie-23
 Movie name: Balti
 Category: Malayalam Movies
 Year: 2025
@@ -401,18 +356,7 @@ STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
-Movie name: Pongala
-Category: Malayalam Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-28
+Movie-24
 Movie name: Written & Directed By God
 Category: Malayalam Movies
 Year: 2025
@@ -429,7 +373,7 @@ STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
+Movie-25
 Movie name: Dheeram
 Category: Malayalam Movies
 Year: 2025
@@ -440,18 +384,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
-Movie name: Sarkeet
-Category: Malayalam Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yruMwNKwObVwS8vbE3N6hriAdYB.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Sarkeet%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-31
+Movie-26
 Movie name: Sarvam Maya
 Category: Malayalam Movies
 Year: 2025
@@ -471,7 +404,7 @@ STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
+Movie-27
 Movie name: Eko
 Category: Malayalam Movies
 Year: 2025
@@ -482,7 +415,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-28
 Movie name: Dominic And The Ladies' Purse
 Category: Malayalam Movies
 Year: 2025
@@ -493,7 +426,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-29
 Movie name: Avihitham
 Category: Malayalam Movies
 Year: 2025
@@ -504,7 +437,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-30
 Movie name: Aabhyanthara Kuttavaali
 Category: Malayalam Movies
 Year: 2025
@@ -515,7 +448,7 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 
 ================================================================================
 
-Movie-36
+Movie-31
 Movie name: Maine Pyar Kiya
 Category: Malayalam Movies
 Year: 2025
@@ -526,7 +459,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-32
 Movie name: Hridayapoorvam
 Category: Malayalam Movies
 Year: 2025
@@ -540,7 +473,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
+Movie-33
 Movie name: Odum Kuthira Chaadum Kuthira
 Category: Malayalam Movies
 Year: 2025
@@ -554,7 +487,7 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-39
+Movie-34
 Movie name: Vaazha
 Category: Malayalam Movies
 Year: 2024
@@ -565,18 +498,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-40
-Movie name: Secret
-Category: Malayalam Movies
-Year: 2024
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDv1DD8Ux8eO8rhdTXVOciC6QwK.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Secret%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-41
+Movie-35
 Movie name: A.R.M
 Category: Malayalam Movies
 Year: 2024
@@ -590,7 +512,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-42
+Movie-36
 Movie name: Neelavelicham
 Category: Malayalam Movies
 Year: 2023
@@ -601,7 +523,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-37
 Movie name: Samara
 Category: Malayalam Movies
 Year: 2023
@@ -612,7 +534,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-38
 Movie name: Romancham
 Category: Malayalam Movies
 Year: 2023
@@ -626,7 +548,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-39
 Movie name: Journey Of Love 18+
 Category: Malayalam Movies
 Year: 2023
@@ -637,24 +559,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
-Movie name: RDX: Robert Dony Xavier
-Category: Malayalam Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvPPKLTo8H1iA3mB7sgGYcvGiQq.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv
-
-RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20RDX%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-47
+Movie-40
 Movie name: Nalla Nilavulla Rathri
 Category: Malayalam Movies
 Year: 2023
@@ -665,18 +570,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
-Movie name: Padmini
-Category: Malayalam Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/dH5T9iztaJZ0NZDWiOOJfwzxUXI.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Padmini%20%282023%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-49
+Movie-41
 Movie name: Heaven
 Category: Malayalam Movies
 Year: 2022
@@ -690,7 +584,7 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
+Movie-42
 Movie name: John Luther
 Category: Malayalam Movies
 Year: 2022
@@ -707,7 +601,7 @@ STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-43
 Movie name: Kaapa
 Category: Malayalam Movies
 Year: 2022
@@ -721,7 +615,7 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-52
+Movie-44
 Movie name: Rorschach
 Category: Malayalam Movies
 Year: 2022
@@ -735,7 +629,7 @@ STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-45
 Movie name: Kaduva
 Category: Malayalam Movies
 Year: 2022
@@ -746,7 +640,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET
 
 ================================================================================
 
-Movie-54
+Movie-46
 Movie name: Churuli
 Category: Malayalam Movies
 Year: 2021
@@ -757,18 +651,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
-Movie name: Police Story 2
-Category: Malayalam Movies
-Year: 2021
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lodKsWEcNNlEPbE461pD2c2SuG.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.NET%20-%20Cold%20Case%20-%20Police%20Story%202%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-56
+Movie-47
 Movie name: Kumbalangi Nights
 Category: Malayalam Movies
 Year: 2019
@@ -779,7 +662,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-57
+Movie-48
 Movie name: Oppam
 Category: Malayalam Movies
 Year: 2016
@@ -790,7 +673,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-58
+Movie-49
 Movie name: Premam
 Category: Malayalam Movies
 Year: 2015
