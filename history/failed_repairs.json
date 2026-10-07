@@ -1421,5 +1421,92 @@
     ],
     "last_attempt": "2026-10-07T17:27:41.272426+00:00",
     "attempt_count": 1
+  },
+  "tamilmovies::idhayammurali": {
+    "name": "Idhayam Murali",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:13.499684+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::gattakusthi2": {
+    "name": "Gatta Kusthi 2",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:15.456192+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::kaalidas2": {
+    "name": "Kaalidas 2",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:17.308058+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::jockey": {
+    "name": "Jockey",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20JOCKEY%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:19.290184+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::hotspot2much": {
+    "name": "Hotspot 2 Much",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Hotspot%202%20Much%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Hotspot%202%20Much%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:21.340573+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::gamblers": {
+    "name": "Gamblers",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Gamblers%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:23.249178+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::jorakaiyathattunga": {
+    "name": "Jora Kaiya Thattunga",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Jadugar%20Ka%20Badla%20Jora%20Kaiya%20Thattunga%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:25.100846+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::kabadadaari": {
+    "name": "Kabadadaari",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Kabadadaari%20%282021%29%20UNCut%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:27.098771+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::iruttu": {
+    "name": "Iruttu",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Iruttu%20%282019%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-07T23:09:29.044511+00:00",
+    "attempt_count": 1
   }
 }

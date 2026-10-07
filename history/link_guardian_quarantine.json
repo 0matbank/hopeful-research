@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-09-10T21:04:01.023742+00:00",
-      "next_retry_at": "2026-09-11T03:04:01.023745+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-10-07T23:09:11.160736+00:00",
+      "next_retry_at": "2026-10-08T11:09:11.160753+00:00",
+      "attempt_count": 2
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -3882,7 +3882,253 @@
       "last_attempt": "2026-10-07T17:27:41.390428+00:00",
       "next_retry_at": "2026-10-07T23:27:41.390431+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/idhayam-murali-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/idhayam-murali-2026-full-movie-download",
+      "movie": {
+        "name": "Idhayam Murali",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg",
+        "source_url": "https://cinefreak.net/idhayam-murali-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.164799+00:00",
+      "last_attempt": "2026-10-07T23:09:29.164812+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.164815+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/gatta-kusthi-2-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/gatta-kusthi-2-2026-full-movie-download",
+      "movie": {
+        "name": "Gatta Kusthi 2",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9lxwYiSORwKUOVm74i7IqtsnT.jpg",
+        "source_url": "https://cinefreak.net/gatta-kusthi-2-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20DS4K%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gatta%20Kusthi-2%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.165037+00:00",
+      "last_attempt": "2026-10-07T23:09:29.165042+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.165044+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/kaalidas-2-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/kaalidas-2-2026-full-movie-download",
+      "movie": {
+        "name": "Kaalidas 2",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZR3euvzufCE6rgMIlxuM6IwE43.jpg",
+        "source_url": "https://cinefreak.net/kaalidas-2-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.165280+00:00",
+      "last_attempt": "2026-10-07T23:09:29.165287+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.165290+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/jockey-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/jockey-2026-full-movie-download",
+      "movie": {
+        "name": "Jockey",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/69zi48P9NIwPq7qdssxQ8qqbBNG.jpg",
+        "source_url": "https://cinefreak.net/jockey-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20JOCKEY%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20JOCKEY%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.165473+00:00",
+      "last_attempt": "2026-10-07T23:09:29.165477+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.165478+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/hotspot-2-much-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/hotspot-2-much-2026-full-movie-download",
+      "movie": {
+        "name": "Hotspot 2 Much",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSdXPDyQTkXtDEgvzWxtq6f0Pud.jpg",
+        "source_url": "https://cinefreak.net/hotspot-2-much-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Hotspot%202%20Much%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Hotspot%202%20Much%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Hotspot%202%20Much%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Hotspot%202%20Much%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.165596+00:00",
+      "last_attempt": "2026-10-07T23:09:29.165600+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.165602+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/gamblers-2025-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/gamblers-2025-full-movie-download",
+      "movie": {
+        "name": "Gamblers",
+        "category": "Tamil Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFNwJcIqA2jVQ8ZCB7Jk2Q1cVx7.jpg",
+        "source_url": "https://cinefreak.net/gamblers-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Gamblers%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Gamblers%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.165702+00:00",
+      "last_attempt": "2026-10-07T23:09:29.165705+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.165706+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/jora-kaiya-thattunga-2025-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/jora-kaiya-thattunga-2025-full-movie-download",
+      "movie": {
+        "name": "Jora Kaiya Thattunga",
+        "category": "Tamil Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3nLmSgEenhqx2p6ORyKNFHsFGg.jpg",
+        "source_url": "https://cinefreak.net/jora-kaiya-thattunga-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Jadugar%20Ka%20Badla%20Jora%20Kaiya%20Thattunga%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Jadugar%20Ka%20Badla%20Jora%20Kaiya%20Thattunga%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.165811+00:00",
+      "last_attempt": "2026-10-07T23:09:29.165818+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.165821+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/kabadadaari-2021-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/kabadadaari-2021-full-movie-download",
+      "movie": {
+        "name": "Kabadadaari",
+        "category": "Tamil Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4wi9r3nH55TOUuwq2uDGDLzbMl.jpg",
+        "source_url": "https://cinefreak.net/kabadadaari-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Kabadadaari%20%282021%29%20UNCut%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Kabadadaari%20%282021%29%20UNCut%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.165980+00:00",
+      "last_attempt": "2026-10-07T23:09:29.165985+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.165987+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/iruttu-2019-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/iruttu-2019-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Iruttu",
+        "category": "Tamil Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzLRg5s1kzvxWLQCBluCzLeRRZE.jpg",
+        "source_url": "https://cinefreak.net/iruttu-2019-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Iruttu%20%282019%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Iruttu%20%282019%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-07T23:09:29.166119+00:00",
+      "last_attempt": "2026-10-07T23:09:29.166123+00:00",
+      "next_retry_at": "2026-10-08T05:09:29.166124+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-07T17:27:41.416822+00:00"
+  "updated_at": "2026-10-07T23:09:29.185839+00:00"
 }
