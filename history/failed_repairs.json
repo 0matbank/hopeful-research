@@ -1350,5 +1350,76 @@
     ],
     "last_attempt": "2026-10-07T08:45:20.506714+00:00",
     "attempt_count": 1
+  },
+  "tamilmovies::concity": {
+    "name": "Con City",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T17:27:32.273474+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::exam": {
+    "name": "EXAM",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv",
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E05-07%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T17:27:33.909205+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::ananthankaadu": {
+    "name": "Ananthan Kaadu",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HQ%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T17:27:35.455189+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::boat": {
+    "name": "Boat",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Boat%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T17:27:36.920865+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::fir": {
+    "name": "FIR",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20FIR%20%282022%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T17:27:38.346777+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::24": {
+    "name": "24",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%2024%20%282016%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%2024%20%282016%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T17:27:39.727639+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::10endrathukulla": {
+    "name": "10 Endrathukulla",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%2010%20Endrathukulla%20%282015%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T17:27:41.272426+00:00",
+    "attempt_count": 1
   }
 }

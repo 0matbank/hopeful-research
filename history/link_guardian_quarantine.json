@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-09-10T21:01:05.463730+00:00",
-      "next_retry_at": "2026-09-11T03:01:05.463732+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-10-07T17:27:30.094108+00:00",
+      "next_retry_at": "2026-10-08T05:27:30.094125+00:00",
+      "attempt_count": 2
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -3694,7 +3694,195 @@
       "last_attempt": "2026-10-07T08:45:20.661194+00:00",
       "next_retry_at": "2026-10-07T14:45:20.661196+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/con-city-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/con-city-2026-full-movie-download",
+      "movie": {
+        "name": "Con City",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+        "source_url": "https://cinefreak.net/con-city-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T17:27:41.388947+00:00",
+      "last_attempt": "2026-10-07T17:27:41.388961+00:00",
+      "next_retry_at": "2026-10-07T23:27:41.388963+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/exam-2026-full-series-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/exam-2026-full-series-download",
+      "movie": {
+        "name": "EXAM",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jt62J8sfq8pFFovZhEQmxjUqhb.jpg",
+        "source_url": "https://cinefreak.net/exam-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 05-07",
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E05-07%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv",
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20EXAM%20%5BS01E05-07%5D%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T17:27:41.389311+00:00",
+      "last_attempt": "2026-10-07T17:27:41.389319+00:00",
+      "next_retry_at": "2026-10-07T23:27:41.389322+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/ananthan-kaadu-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/ananthan-kaadu-2026-full-movie-download",
+      "movie": {
+        "name": "Ananthan Kaadu",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsTdBWZXPvl8kpK9Yr20xWH75PP.jpg",
+        "source_url": "https://cinefreak.net/ananthan-kaadu-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HQ%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HQ%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ananthan%20Kaadu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T17:27:41.389726+00:00",
+      "last_attempt": "2026-10-07T17:27:41.389734+00:00",
+      "next_retry_at": "2026-10-07T23:27:41.389736+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/boat-2024-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/boat-2024-full-movie-download",
+      "movie": {
+        "name": "Boat",
+        "category": "Tamil Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/67uhvmZ3nEeLYRtBKYNVpxt6bAl.jpg",
+        "source_url": "https://cinefreak.net/boat-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Boat%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Boat%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T17:27:41.389959+00:00",
+      "last_attempt": "2026-10-07T17:27:41.389964+00:00",
+      "next_retry_at": "2026-10-07T23:27:41.389966+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/24-2016-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/24-2016-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "24",
+        "category": "Tamil Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8d8TTADw3p75Zr4ypNWD66oqUXI.jpg",
+        "source_url": "https://cinefreak.net/24-2016-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%2024%20%282016%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%2024%20%282016%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%2024%20%282016%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%2024%20%282016%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T17:27:41.390262+00:00",
+      "last_attempt": "2026-10-07T17:27:41.390268+00:00",
+      "next_retry_at": "2026-10-07T23:27:41.390270+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/10-endrathukulla-2015-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/10-endrathukulla-2015-full-movie-download",
+      "movie": {
+        "name": "10 Endrathukulla",
+        "category": "Tamil Movies",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZx7x4JUadJBa8AFZYsc5gN5k8E.jpg",
+        "source_url": "https://cinefreak.net/10-endrathukulla-2015-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%2010%20Endrathukulla%20%282015%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%2010%20Endrathukulla%20%282015%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-07T17:27:41.390423+00:00",
+      "last_attempt": "2026-10-07T17:27:41.390428+00:00",
+      "next_retry_at": "2026-10-07T23:27:41.390431+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-07T08:45:20.686175+00:00"
+  "updated_at": "2026-10-07T17:27:41.416822+00:00"
 }
