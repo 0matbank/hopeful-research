@@ -1152,5 +1152,108 @@
     ],
     "last_attempt": "2026-10-06T21:01:40.668410+00:00",
     "attempt_count": 1
+  },
+  "malayalammovies::kattalan": {
+    "name": "Kattalan",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Kattalan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20LiNE-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:08.780519+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::madhuvidhu": {
+    "name": "Madhuvidhu",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Madhuvidhu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Madhuvidhu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:10.145010+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::kasargodembassy": {
+    "name": "Kasargod Embassy",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Kasaragod%20Embassy%20%282026%29%20S01%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:11.733881+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::lokahchapterone": {
+    "name": "Lokah: Chapter One",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20HEVC%20ESub.mkv",
+      "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:13.242147+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::littlehearts": {
+    "name": "Little Hearts",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Little%20Hearts%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:14.683140+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::kadinakadorameeandakadaham": {
+    "name": "Kadina Kadoramee Andakadaham",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Kadina%20Kadoramee%20Andakadaham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:15.986787+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::neru": {
+    "name": "Neru",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:17.491685+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::malikappuram": {
+    "name": "Malikappuram",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Malikappuram%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:19.057936+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::minnalmurali": {
+    "name": "Minnal Murali",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.NET%20-%20Minnal%20Murali%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Minnal%20Murali%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:20.490552+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::home": {
+    "name": "#Home",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Home%20%282021%29%20UNCUT%20HDRip%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:22.002662+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::nine": {
+    "name": "Nine",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Nine%209%20%282019%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-07T01:36:23.555147+00:00",
+    "attempt_count": 1
   }
 }
