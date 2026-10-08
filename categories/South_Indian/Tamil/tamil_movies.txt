@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Tamil Movies
-TOTAL MOVIES: 41
-LAST UPDATED: 2026-10-08 | 13:36:32 (UTC)
+TOTAL MOVIES: 32
+LAST UPDATED: 2026-10-08 | 19:59:44 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -177,24 +177,6 @@ Episode: Episode 65-68
 ================================================================================
 
 Movie-4
-Show name: Vadhandhi
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/udHXyVeL4W34xWT4aggqUgkqVfT.jpg
-
-Season: S02
-Episode: Episode 01-04
-  Resolution-1: HD 1080P
-  Link-1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Vadhandhi%20%5BS02E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-Season: S02
-Episode: Episode 05-08
-  Resolution-2: HD 1080P
-  Link-2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Vadhandhi%20%5BS02E05-08%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-5
 Movie name: Parimala & Co
 Category: Tamil Movies
 Year: 2026
@@ -208,7 +190,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
+Movie-5
 Movie name: Blast
 Category: Tamil Movies
 Year: 2026
@@ -228,7 +210,7 @@ STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
+Movie-6
 Movie name: Heartin
 Category: Tamil Movies
 Year: 2026
@@ -242,7 +224,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-7
 Movie name: Karuppu
 Category: Tamil Movies
 Year: 2026
@@ -262,7 +244,7 @@ STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-8
 Movie name: Satan
 Category: Tamil Movies
 Year: 2026
@@ -273,7 +255,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-9
 Movie name: Pyaar Prema Kalyanam
 Category: Tamil Movies
 Year: 2026
@@ -293,7 +275,7 @@ STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
+Movie-10
 Movie name: Jana Nayagan
 Category: Tamil Movies
 Year: 2026
@@ -310,7 +292,7 @@ STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-12
+Movie-11
 Movie name: Sattendru Maarudhu Vaanilai
 Category: Tamil Movies
 Year: 2026
@@ -321,7 +303,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-12
 Movie name: 29
 Category: Tamil Movies
 Year: 2026
@@ -338,7 +320,7 @@ STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-13
 Movie name: Kara
 Category: Tamil Movies
 Year: 2026
@@ -358,7 +340,7 @@ STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-15
+Movie-14
 Movie name: Anbe Diana
 Category: Tamil Movies
 Year: 2026
@@ -378,7 +360,7 @@ STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-15
 Movie name: Happy Raj
 Category: Tamil Movies
 Year: 2026
@@ -398,7 +380,7 @@ STREAM Link 4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-16
 Movie name: LIK: Love Insurance Kompany
 Category: Tamil Movies
 Year: 2026
@@ -415,7 +397,7 @@ STREAM Link 3: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-17
 Movie name: Youth
 Category: Tamil Movies
 Year: 2026
@@ -432,7 +414,7 @@ STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-18
 Movie name: Mandaadi
 Category: Tamil Movies
 Year: 2026
@@ -443,7 +425,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-19
 Movie name: Sardar 2
 Category: Tamil Movies
 Year: 2026
@@ -454,21 +436,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
-Movie name: With Love
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jClLRu0KZlmYqM3ByWPuoV3MnyC.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20With%20Love%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20With%20Love%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-22
+Movie-20
 Movie name: Mahasenha
 Category: Tamil Movies
 Year: 2025
@@ -479,7 +447,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-21
 Movie name: Surrender
 Category: Tamil Movies
 Year: 2025
@@ -490,7 +458,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-24
+Movie-22
 Movie name: Ten Hours
 Category: Tamil Movies
 Year: 2025
@@ -501,7 +469,7 @@ STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
+Movie-23
 Movie name: Theeyavar Kulaigal Nadunga
 Category: Tamil Movies
 Year: 2025
@@ -512,31 +480,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
-Movie name: Trending
-Category: Tamil Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6V1mmiMzoLjn4kW05LZ2Rqt3J2.jpg
-
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Trending%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-27
-Show name: The Village
-Category: Tamil Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OtWZntMIolnOmVpoJeE5Nq3o2Q.jpg
-
-Season: S01
-Episode: N/A
-  Resolution-1: HD 1080P
-  Link-1: https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20The%20Village%20%282023%29%20S01%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-28
+Movie-24
 Movie name: Maruthi Nagar Police Station
 Category: Tamil Movies
 Year: 2023
@@ -547,18 +491,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
-Movie name: Run Baby Run
-Category: Tamil Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8IuI1vB8qcrH6MKPu9FP0Xtbh.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Run%20Baby%20Run%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-30
+Movie-25
 Movie name: Agilan
 Category: Tamil Movies
 Year: 2023
@@ -569,7 +502,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-31
+Movie-26
 Movie name: Viduthalai: Part I
 Category: Tamil Movies
 Year: 2023
@@ -583,7 +516,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
+Movie-27
 Movie name: Rangoli
 Category: Tamil Movies
 Year: 2023
@@ -594,7 +527,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-28
 Movie name: FIR
 Category: Tamil Movies
 Year: 2022
@@ -605,27 +538,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
-Movie name: Sardar
-Category: Tamil Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6wfuQWN9QjUu3j63FAZ3uFL5pO.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sardar%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-35
+Movie-29
 Movie name: Psycho
 Category: Tamil Movies
 Year: 2020
@@ -639,21 +552,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
-Movie name: Watchman
-Category: Tamil Movies
-Year: 2019
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRwDs5cw4JYGhsNEvGKYRCrtzlh.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Watchman%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Watchman%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-37
+Movie-30
 Movie name: Mersal
 Category: Tamil Movies
 Year: 2017
@@ -670,7 +569,7 @@ STREAM Link 3: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/%20CINEFREAK.
 
 ================================================================================
 
-Movie-38
+Movie-31
 Movie name: Paayum Puli
 Category: Tamil Movies
 Year: 2015
@@ -681,29 +580,7 @@ STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-39
-Movie name: Thangamagan
-Category: Tamil Movies
-Year: 2015
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cndTIjQx0AvRzbZFsKQrz7G5dA3.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Thanga%20Magan%20%282015%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-40
-Movie name: Vedalam
-Category: Tamil Movies
-Year: 2015
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cily2czYaIla7RoPQc8L1KO948e.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Vedalam%20%282015%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-41
+Movie-32
 Movie name: Naan Mahaan Alla
 Category: Tamil Movies
 Year: 2010
