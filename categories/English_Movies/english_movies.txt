@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: English Movies
 TOTAL MOVIES: 94
-LAST UPDATED: 2026-10-03 | 05:27:40 (UTC)
+LAST UPDATED: 2026-10-09 | 03:23:28 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -373,17 +373,6 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-28
-Movie name: This Tempting Madness
-Category: English Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20This%20Tempting%20Madness%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-29
 Movie name: Resident Evil
 Category: English Movies
 Year: 2026
@@ -397,7 +386,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
+Movie-29
 Movie name: Teenage Sex And Death At Camp Miasma
 Category: English Movies
 Year: 2026
@@ -405,6 +394,17 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsFnXifieSTqSeWxjXSS8Rv
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+
+================================================================================
+
+Movie-30
+Movie name: This Tempting Madness
+Category: English Movies
+Year: 2025
+Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg
+
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20This%20Tempting%20Madness%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 

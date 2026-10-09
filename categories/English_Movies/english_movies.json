@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "English Movies",
     "total_movies": 94,
-    "last_updated": "2026-10-03 | 05:27:40 (UTC)",
+    "last_updated": "2026-10-09 | 03:23:28 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -450,19 +450,6 @@
       ]
     },
     {
-      "name": "This Tempting Madness",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg",
-      "source_url": "https://cinefreak.net/this-tempting-madness-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20This%20Tempting%20Madness%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Resident Evil",
       "category": "English Movies",
       "year": "2026",
@@ -489,6 +476,19 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+        }
+      ]
+    },
+    {
+      "name": "This Tempting Madness",
+      "category": "English Movies",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg",
+      "source_url": "https://cinefreak.net/this-tempting-madness-2026-full-movie-download",
+      "res_list": [
+        {
+          "resolution": "HD 1080P",
+          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20This%20Tempting%20Madness%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
