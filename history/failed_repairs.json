@@ -1966,5 +1966,84 @@
     ],
     "last_attempt": "2026-10-09T17:11:32.520372+00:00",
     "attempt_count": 1
+  },
+  "telugumovies::raobahadur": {
+    "name": "Rao Bahadur",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:32.252004+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::peddi": {
+    "name": "Peddi",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:33.884517+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::sathileelavathi": {
+    "name": "Sathi Leelavathi",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Sathi%20Leelavathi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Sathi%20Leelavathi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:35.421699+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::repuudayam10gantalaku": {
+    "name": "Repu Udayam 10 Gantalaku",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Repu%20Udayam%2010%20Gantalaku%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Repu%20Udayam%2010%20Gantalaku%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:36.807935+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::sampradayinisuppinisuddapoosani": {
+    "name": "Sampradayini Suppini Suddapoosani",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Sampradayini%20Suppini%20Suddapoosani%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:38.253317+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::shanmukha": {
+    "name": "Shanmukha",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:39.760229+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::pratirojupandaage": {
+    "name": "Prati Roju Pandaage",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Prati%20Roju%20Pandage%20%282019%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:41.478817+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::rdxlove": {
+    "name": "RDX Love",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20RDX%20Love%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-09T22:42:42.878837+00:00",
+    "attempt_count": 1
   }
 }
