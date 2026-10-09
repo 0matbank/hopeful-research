@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-10-05T22:42:19.856573+00:00",
-      "next_retry_at": "2026-10-08T22:42:19.856586+00:00",
-      "attempt_count": 7
+      "last_attempt": "2026-10-09T00:25:41.100814+00:00",
+      "next_retry_at": "2026-10-12T00:25:41.100905+00:00",
+      "attempt_count": 8
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -4639,7 +4639,244 @@
       "last_attempt": "2026-10-08T19:59:44.541429+00:00",
       "next_retry_at": "2026-10-09T01:59:44.541429+00:00",
       "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/bahubali-the-torchbearer-2026-full-series-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/bahubali-the-torchbearer-2026-full-series-download",
+      "movie": {
+        "name": "Bahubali: The Torchbearer",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2836MqQccrdG9hqzs6ZDfKBS8AH.jpg",
+        "source_url": "https://cinefreak.net/bahubali-the-torchbearer-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Baahubali%20The%20Torch%20Bearer%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Baahubali%20The%20Torch%20Bearer%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.950260+00:00",
+      "last_attempt": "2026-10-09T00:25:55.950274+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.950277+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/anaganaga-oka-raju-2026-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/anaganaga-oka-raju-2026-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Anaganaga Oka Raju",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCzGY1JD4DXqAjDKhsesKzs9vdK.jpg",
+        "source_url": "https://cinefreak.net/anaganaga-oka-raju-2026-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20Oka%20Raju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20Oka%20Raju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20Oka%20Raju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20Oka%20Raju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.950815+00:00",
+      "last_attempt": "2026-10-09T00:25:55.950821+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.950823+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/anaganaga-2025-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/anaganaga-2025-full-movie-download",
+      "movie": {
+        "name": "Anaganaga",
+        "category": "Telugu Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep3Bhk34epfWY1LrRfyqZli07Cl.jpg",
+        "source_url": "https://cinefreak.net/anaganaga-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Anaganaga%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.950990+00:00",
+      "last_attempt": "2026-10-09T00:25:55.950995+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.950997+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/aa-okkati-adakku-2024-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/aa-okkati-adakku-2024-full-movie-download",
+      "movie": {
+        "name": "Aa Okkati Adakku",
+        "category": "Telugu Movies",
+        "year": "2024",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/03/Aa-Okkati-Adakku-2024.webp",
+        "source_url": "https://cinefreak.net/aa-okkati-adakku-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Aa%20Okkati%20Adakku%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Aa%20Okkati%20Adakku%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.951160+00:00",
+      "last_attempt": "2026-10-09T00:25:55.951165+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.951167+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/butterfly-2022-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/butterfly-2022-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Butterfly",
+        "category": "Telugu Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejmnLY3u3LrRGQLiq4fiGVBUx3p.jpg",
+        "source_url": "https://cinefreak.net/butterfly-2022-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Butterfly%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Butterfly%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Butterfly%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-3ae595e790574db281c04ef21067fcbe.r2.dev/CINEFREAK.TOP%20-%20Butterfly%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.951349+00:00",
+      "last_attempt": "2026-10-09T00:25:55.951354+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.951356+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/a1-express-2021-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/a1-express-2021-full-movie-download",
+      "movie": {
+        "name": "A1 Express",
+        "category": "Telugu Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WHx9ryr1XigcqCudVJfA4IK0jC.jpg",
+        "source_url": "https://cinefreak.net/a1-express-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20A1%20Express%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20A1%20Express%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.951533+00:00",
+      "last_attempt": "2026-10-09T00:25:55.951539+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.951541+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/bluff-master-2018-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/bluff-master-2018-full-movie-download",
+      "movie": {
+        "name": "Bluff Master",
+        "category": "Telugu Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hco2ELKdYmRBJAYOr2hn8qU0UkD.jpg",
+        "source_url": "https://cinefreak.net/bluff-master-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Bluff%20Master%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Bluff%20Master%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.951791+00:00",
+      "last_attempt": "2026-10-09T00:25:55.951799+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.951803+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/chal-mohan-ranga-2018-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/chal-mohan-ranga-2018-full-movie-download",
+      "movie": {
+        "name": "Chal Mohan Ranga",
+        "category": "Telugu Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qawBFeXKfsUNIfnq4cTJbg1INFK.jpg",
+        "source_url": "https://cinefreak.net/chal-mohan-ranga-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Chal%20Mohan%20Ranga%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Chal%20Mohan%20Ranga%20%282018%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.952021+00:00",
+      "last_attempt": "2026-10-09T00:25:55.952029+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.952037+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/arundhati-2009-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/arundhati-2009-full-movie-download",
+      "movie": {
+        "name": "Arundhati",
+        "category": "Telugu Movies",
+        "year": "2009",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhw0y6E4WbQ4LjlW3962vevh9BQ.jpg",
+        "source_url": "https://cinefreak.net/arundhati-2009-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Arundhati%20%282009%29%20UNCUT%20BluRay%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Arundhati%20%282009%29%20UNCUT%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Arundhati%20%282009%29%20UNCUT%20BluRay%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Arundhati%20%282009%29%20UNCUT%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-09T00:25:55.952237+00:00",
+      "last_attempt": "2026-10-09T00:25:55.952242+00:00",
+      "next_retry_at": "2026-10-09T06:25:55.952245+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-08T19:59:44.556640+00:00"
+  "updated_at": "2026-10-09T00:25:55.978487+00:00"
 }
