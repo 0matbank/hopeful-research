@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-10-08T13:36:30.106764+00:00",
-      "next_retry_at": "2026-10-09T13:36:30.106780+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-10-10T23:36:28.814637+00:00",
+      "next_retry_at": "2026-10-12T23:36:28.814649+00:00",
+      "attempt_count": 4
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -6190,7 +6190,300 @@
       "last_attempt": "2026-10-10T18:40:49.180075+00:00",
       "next_retry_at": "2026-10-11T00:40:49.180077+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/meu-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/meu-2026-full-movie-download",
+      "movie": {
+        "name": "Meu",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH3ODZVsa5CTkPnKvIOvgclK0vg.jpg",
+        "source_url": "https://cinefreak.net/meu-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Meu%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Meu%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.395860+00:00",
+      "last_attempt": "2026-10-10T23:36:50.395874+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.395877+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/omimangshito-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/omimangshito-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Omimangshito",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8DsTUtmn7fVmx5tZihoOacZGMv.jpg",
+        "source_url": "https://cinefreak.net/omimangshito-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Omimangshito%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Omimangshito%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.396377+00:00",
+      "last_attempt": "2026-10-10T23:36:50.396384+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.396387+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/lokah-chapter-1-chandra-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/lokah-chapter-1-chandra-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Lokah Chapter 1: Chandra",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/10/LOKA-BENGLAI.webp",
+        "source_url": "https://cinefreak.net/lokah-chapter-1-chandra-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.396569+00:00",
+      "last_attempt": "2026-10-10T23:36:50.396580+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.396583+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download",
+      "movie": {
+        "name": "Lawho Gouranger Naam Re",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8CHcwfl1ZjPdujGX5n9ALpQ0cm.jpg",
+        "source_url": "https://cinefreak.net/lawho-gouranger-naam-re-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lawho%20Gouranger%20Naam%20Rey%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.396729+00:00",
+      "last_attempt": "2026-10-10T23:36:50.396734+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.396735+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/nana-hee-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/nana-hee-2025-full-movie-download",
+      "movie": {
+        "name": "Nana Hee",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/quscZPqxTPUdXgemvVIoePk7znI.jpg",
+        "source_url": "https://cinefreak.net/nana-hee-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nana%20Hee%20%282025%29%20WEB-DL%20%5BBengali%5D%20Klikk%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.396874+00:00",
+      "last_attempt": "2026-10-10T23:36:50.396879+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.396881+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/padatik-2024-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/padatik-2024-full-movie-download",
+      "movie": {
+        "name": "Padatik",
+        "category": "Bangla Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYIyedqE7v014isQICC9ALoUuU5.jpg",
+        "source_url": "https://cinefreak.net/padatik-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Padatik%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Padatik%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.397034+00:00",
+      "last_attempt": "2026-10-10T23:36:50.397039+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.397041+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/moner-moto-manush-pailam-na-2019-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/moner-moto-manush-pailam-na-2019-full-movie-download",
+      "movie": {
+        "name": "Moner Moto Manush Pailam Na",
+        "category": "Bangla Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icqwqWeSLt8LLrjsrrbYiqdkkBk.jpg",
+        "source_url": "https://cinefreak.net/moner-moto-manush-pailam-na-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Moner%20Moto%20Manush%20Pailam%20Na%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Moner%20Moto%20Manush%20Pailam%20Na%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.397320+00:00",
+      "last_attempt": "2026-10-10T23:36:50.397327+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.397330+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/goyenda-tatar-2019-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/goyenda-tatar-2019-full-movie-download",
+      "movie": {
+        "name": "Goyenda Tatar",
+        "category": "Bangla Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLPTMCBt0kZEk2whHDvkCTObrLO.jpg",
+        "source_url": "https://cinefreak.net/goyenda-tatar-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Goyenda%20Tatar%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Goyenda%20Tatar%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.397516+00:00",
+      "last_attempt": "2026-10-10T23:36:50.397522+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.397525+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/khawto-2016-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/khawto-2016-full-movie-download",
+      "movie": {
+        "name": "Khawto",
+        "category": "Bangla Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxZRXp6N43j3y0bQbSLGy4Pax3R.jpg",
+        "source_url": "https://cinefreak.net/khawto-2016-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Khawto%20%282016%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.397765+00:00",
+      "last_attempt": "2026-10-10T23:36:50.397771+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.397774+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/labour-of-love-2015-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/labour-of-love-2015-full-movie-download",
+      "movie": {
+        "name": "Asha Jaoar Majhe",
+        "category": "Bangla Movies",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fygLI6KJw9Kj8FM7qGF6jsDvML1.jpg",
+        "source_url": "https://cinefreak.net/labour-of-love-2015-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Asha%20Jaoar%20Majhe%20%282014%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Asha%20Jaoar%20Majhe%20%282014%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.397934+00:00",
+      "last_attempt": "2026-10-10T23:36:50.397940+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.397943+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/mrs-sen-2013-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/mrs-sen-2013-full-movie-download",
+      "movie": {
+        "name": "Mrs Sen",
+        "category": "Bangla Movies",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWxKnT0VHNCBe4FokkileHSTIvR.jpg",
+        "source_url": "https://cinefreak.net/mrs-sen-2013-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mrs%20Sen%20%282013%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mrs%20Sen%20%282013%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.398109+00:00",
+      "last_attempt": "2026-10-10T23:36:50.398114+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.398116+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/prem-amar-2009-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/prem-amar-2009-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Prem Amar",
+        "category": "Bangla Movies",
+        "year": "2009",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nr4Q7F1De7KczKUKKdeQXiYoow.jpg",
+        "source_url": "https://cinefreak.net/prem-amar-2009-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Prem%20Amaar%20%282009%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Prem%20Amaar%20%282009%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T23:36:50.398342+00:00",
+      "last_attempt": "2026-10-10T23:36:50.398348+00:00",
+      "next_retry_at": "2026-10-11T05:36:50.398350+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-10T18:40:54.011854+00:00"
+  "updated_at": "2026-10-10T23:36:50.421140+00:00"
 }
