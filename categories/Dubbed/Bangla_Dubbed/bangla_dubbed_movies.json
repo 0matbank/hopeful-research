@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 54,
-    "last_updated": "2026-10-10 | 05:58:27 (UTC)",
+    "total_movies": 48,
+    "last_updated": "2026-10-10 | 12:38:04 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -117,12 +117,6 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 18",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E18%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 19",
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E19%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
@@ -201,39 +195,15 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 32",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E32%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 33",
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E33%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
         },
         {
           "season": "S01",
-          "episode": "Episode 34",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E34%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 35",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E35%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 36",
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E36%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 37",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E37%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
         },
         {
           "season": "S01",
@@ -246,12 +216,6 @@
           "episode": "Episode 39",
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E39%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 40",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E40%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
         },
         {
           "season": "S01",
@@ -800,19 +764,6 @@
       ]
     },
     {
-      "name": "Mrittur Karigor",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w780/eZThZ4OMSEbX1Qm0G8cvVoTxmBG.jpg",
-      "source_url": "https://cinefreak.net/imaikkaa-nodigal-2018-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Imaikkaa%20Nodigal%20-%20Mrittur%20Karigor%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "The Secret Of The Shiledars",
       "category": "Bangla Dubbed",
       "year": "2025",
@@ -873,10 +824,6 @@
       "source_url": "https://cinefreak.net/others-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
       "res_list": [
         {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20OTHERS%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20OTHERS%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
         },
@@ -915,54 +862,6 @@
           "episode": "Episode 01-05",
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dirilis%20Ertugrul%20%282025%29%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%20Toffee%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mistry",
-      "category": "Bangla Dubbed",
-      "year": "2025",
-      "poster": "https://cinefreak.net/wp-content/uploads/2025/06/Mistry-2025.webp",
-      "source_url": "https://cinefreak.net/mistry-2025-season-1-web-dl-dual-audio-hotstar-web-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mistry%20%282025%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mirai",
-      "category": "Bangla Dubbed",
-      "year": "2025",
-      "poster": "https://cinefreak.net/wp-content/uploads/2025/11/MIRAI-Bengali.webp",
-      "source_url": "https://cinefreak.net/mirai-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mirage",
-      "category": "Bangla Dubbed",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg",
-      "source_url": "https://cinefreak.net/mirage-2025-bengali-dubbed-bengali-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1055,19 +954,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Antony%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20AMZN%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Manga Ambition",
-      "category": "Bangla Dubbed",
-      "year": "2023",
-      "poster": "https://cinefreak.net/wp-content/uploads/2025/11/Manga-Ambition-2023.webp",
-      "source_url": "https://cinefreak.net/manga-ambition-2023-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-darshoo-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Manga%20Ambition%20%282023%29%20WEB-DL%20%5BBengali%20Dubbed%5D%20Darshoo%201080p.mkv"
         }
       ]
     },
@@ -1181,19 +1067,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bad%20Genius%20%282017%29%20WEB-DL%20%5BBengali%20ORG%5D%20Bongo%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "I",
-      "category": "Bangla Dubbed",
-      "year": "2015",
-      "poster": "https://cinefreak.net/wp-content/uploads/2025/09/I-Virus-2015.webp",
-      "source_url": "https://cinefreak.net/i-virus-2015-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20-%20Virus%20%282015%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
         }
       ]
     },

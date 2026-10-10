@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-10-07T08:45:00.000780+00:00",
-      "next_retry_at": "2026-10-09T08:45:00.000807+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-10-10T12:37:45.917607+00:00",
+      "next_retry_at": "2026-10-13T12:37:45.917630+00:00",
+      "attempt_count": 5
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -5819,7 +5819,162 @@
       "last_attempt": "2026-10-10T05:58:36.423362+00:00",
       "next_retry_at": "2026-10-10T11:58:36.423363+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/imaikkaa-nodigal-2018-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/imaikkaa-nodigal-2018-full-movie-download",
+      "movie": {
+        "name": "Mrittur Karigor",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w780/eZThZ4OMSEbX1Qm0G8cvVoTxmBG.jpg",
+        "source_url": "https://cinefreak.net/imaikkaa-nodigal-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Imaikkaa%20Nodigal%20-%20Mrittur%20Karigor%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Imaikkaa%20Nodigal%20-%20Mrittur%20Karigor%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T12:38:04.563020+00:00",
+      "last_attempt": "2026-10-10T12:38:04.563037+00:00",
+      "next_retry_at": "2026-10-10T18:38:04.563041+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/mistry-2025-season-1-web-dl-dual-audio-hotstar-web-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/mistry-2025-season-1-web-dl-dual-audio-hotstar-web-series-download",
+      "movie": {
+        "name": "Mistry",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/06/Mistry-2025.webp",
+        "source_url": "https://cinefreak.net/mistry-2025-season-1-web-dl-dual-audio-hotstar-web-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mistry%20%282025%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mistry%20%282025%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T12:38:04.563475+00:00",
+      "last_attempt": "2026-10-10T12:38:04.563484+00:00",
+      "next_retry_at": "2026-10-10T18:38:04.563486+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/mirai-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/mirai-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Mirai",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/11/MIRAI-Bengali.webp",
+        "source_url": "https://cinefreak.net/mirai-2025-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T12:38:04.563645+00:00",
+      "last_attempt": "2026-10-10T12:38:04.563649+00:00",
+      "next_retry_at": "2026-10-10T18:38:04.563651+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/mirage-2025-bengali-dubbed-bengali-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/mirage-2025-bengali-dubbed-bengali-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Mirage",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg",
+        "source_url": "https://cinefreak.net/mirage-2025-bengali-dubbed-bengali-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-sonyliv-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T12:38:04.563822+00:00",
+      "last_attempt": "2026-10-10T12:38:04.563827+00:00",
+      "next_retry_at": "2026-10-10T18:38:04.563829+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/manga-ambition-2023-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-darshoo-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/manga-ambition-2023-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-darshoo-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Manga Ambition",
+        "category": "Bangla Dubbed",
+        "year": "2023",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/11/Manga-Ambition-2023.webp",
+        "source_url": "https://cinefreak.net/manga-ambition-2023-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-darshoo-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Manga%20Ambition%20%282023%29%20WEB-DL%20%5BBengali%20Dubbed%5D%20Darshoo%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Manga%20Ambition%20%282023%29%20WEB-DL%20%5BBengali%20Dubbed%5D%20Darshoo%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T12:38:04.564024+00:00",
+      "last_attempt": "2026-10-10T12:38:04.564030+00:00",
+      "next_retry_at": "2026-10-10T18:38:04.564033+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/i-virus-2015-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/i-virus-2015-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "I",
+        "category": "Bangla Dubbed",
+        "year": "2015",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/09/I-Virus-2015.webp",
+        "source_url": "https://cinefreak.net/i-virus-2015-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20-%20Virus%20%282015%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20-%20Virus%20%282015%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T12:38:04.564285+00:00",
+      "last_attempt": "2026-10-10T12:38:04.564291+00:00",
+      "next_retry_at": "2026-10-10T18:38:04.564294+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-10T05:58:36.439124+00:00"
+  "updated_at": "2026-10-10T12:38:04.587937+00:00"
 }

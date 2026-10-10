@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 54
-LAST UPDATED: 2026-10-10 | 05:58:27 (UTC)
+TOTAL MOVIES: 48
+LAST UPDATED: 2026-10-10 | 12:38:04 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -97,124 +97,94 @@ Episode: Episode 17
   Link-17: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E17%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
-Episode: Episode 18
-  Resolution-18: HD 1080P
-  Link-18: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E18%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
 Episode: Episode 19
-  Resolution-19: HD 1080P
-  Link-19: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E19%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-18: HD 1080P
+  Link-18: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E19%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 20
-  Resolution-20: HD 1080P
-  Link-20: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E20%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-19: HD 1080P
+  Link-19: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E20%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 21
-  Resolution-21: HD 1080P
-  Link-21: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E21%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-20: HD 1080P
+  Link-20: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E21%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 22
-  Resolution-22: HD 1080P
-  Link-22: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E22%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-21: HD 1080P
+  Link-21: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E22%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 23
-  Resolution-23: HD 1080P
-  Link-23: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E23%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-22: HD 1080P
+  Link-22: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E23%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 24
-  Resolution-24: HD 1080P
-  Link-24: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E24%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-23: HD 1080P
+  Link-23: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E24%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 25
-  Resolution-25: HD 1080P
-  Link-25: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E25%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-24: HD 1080P
+  Link-24: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E25%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 26
-  Resolution-26: HD 1080P
-  Link-26: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E26%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-25: HD 1080P
+  Link-25: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E26%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 27
-  Resolution-27: HD 1080P
-  Link-27: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E27%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-26: HD 1080P
+  Link-26: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E27%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 28
-  Resolution-28: HD 1080P
-  Link-28: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E28%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-27: HD 1080P
+  Link-27: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E28%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 29
-  Resolution-29: HD 1080P
-  Link-29: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E29%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-28: HD 1080P
+  Link-28: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E29%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 30
-  Resolution-30: HD 1080P
-  Link-30: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E30%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-29: HD 1080P
+  Link-29: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E30%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 31
-  Resolution-31: HD 1080P
-  Link-31: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E31%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 32
-  Resolution-32: HD 1080P
-  Link-32: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E32%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-30: HD 1080P
+  Link-30: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E31%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 33
-  Resolution-33: HD 1080P
-  Link-33: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E33%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 34
-  Resolution-34: HD 1080P
-  Link-34: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E34%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 35
-  Resolution-35: HD 1080P
-  Link-35: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E35%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
+  Resolution-31: HD 1080P
+  Link-31: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E33%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 36
-  Resolution-36: HD 1080P
-  Link-36: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E36%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 37
-  Resolution-37: HD 1080P
-  Link-37: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E37%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
+  Resolution-32: HD 1080P
+  Link-32: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E36%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 Season: S01
 Episode: Episode 38
-  Resolution-38: HD 1080P
-  Link-38: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E38%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
+  Resolution-33: HD 1080P
+  Link-33: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E38%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 Season: S01
 Episode: Episode 39
-  Resolution-39: HD 1080P
-  Link-39: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E39%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 40
-  Resolution-40: HD 1080P
-  Link-40: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E40%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
+  Resolution-34: HD 1080P
+  Link-34: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E39%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 Season: S01
 Episode: Episode 41
-  Resolution-41: HD 1080P
-  Link-41: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E41%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
+  Resolution-35: HD 1080P
+  Link-35: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E41%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
 
 ================================================================================
 
@@ -678,17 +648,6 @@ Episode: Episode 04-06
 ================================================================================
 
 Movie-23
-Movie name: Mrittur Karigor
-Category: Bangla Dubbed
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w780/eZThZ4OMSEbX1Qm0G8cvVoTxmBG.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Imaikkaa%20Nodigal%20-%20Mrittur%20Karigor%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv
-
-================================================================================
-
-Movie-24
 Show name: The Secret Of The Shiledars
 Category: Bangla Dubbed
 Year: 2025
@@ -701,7 +660,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-25
+Movie-24
 Movie name: Motu Patlu & The Case Of Project X
 Category: Bangla Dubbed
 Year: 2025
@@ -712,7 +671,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
+Movie-25
 Movie name: Chikoo Aur Bunty Siblings Not Allowed
 Category: Bangla Dubbed
 Year: 2025
@@ -723,7 +682,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
+Movie-26
 Movie name: Motu Patlu Vs The Ghost House
 Category: Bangla Dubbed
 Year: 2025
@@ -734,24 +693,21 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-28
+Movie-27
 Movie name: Others
 Category: Bangla Dubbed
 Year: 2025
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rdDxephzH5bpp3Z5aKf55evRbA.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20OTHERS%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20HEVC%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20OTHERS%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20OTHERS%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20OTHERS%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20OTHERS%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-29
+Movie-28
 Movie name: Date With Saie
 Category: Bangla Dubbed
 Year: 2025
@@ -765,7 +721,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
+Movie-29
 Show name: Dirilis Ertugrul (Season 1
 Category: Bangla Dubbed
 Year: 2025
@@ -778,48 +734,7 @@ Episode: Episode 01-05
 
 ================================================================================
 
-Movie-31
-Show name: Mistry
-Category: Bangla Dubbed
-Year: 2025
-Poster: https://cinefreak.net/wp-content/uploads/2025/06/Mistry-2025.webp
-
-Season: S01
-Episode: N/A
-  Resolution-1: HD 1080P
-  Link-1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mistry%20%282025%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-32
-Movie name: Mirai
-Category: Bangla Dubbed
-Year: 2025
-Poster: https://cinefreak.net/wp-content/uploads/2025/11/MIRAI-Bengali.webp
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirai%20%282025%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-33
-Movie name: Mirage
-Category: Bangla Dubbed
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLkc12tgINrE7KzSpjsFJnG0C6d.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%201080p%20ESub.mkv
-
-RESOLUTION 2: 4K 2160P HEVC
-STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mirage%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20SLIV%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-34
+Movie-30
 Movie name: Motu Patlu & The Madness Of Multiverse
 Category: Bangla Dubbed
 Year: 2025
@@ -830,7 +745,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-31
 Movie name: Maadeva
 Category: Bangla Dubbed
 Year: 2025
@@ -841,7 +756,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
+Movie-32
 Movie name: Aliya Basu Gayab Hai
 Category: Bangla Dubbed
 Year: 2024
@@ -852,7 +767,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-33
 Movie name: Voyal
 Category: Bangla Dubbed
 Year: 2024
@@ -863,7 +778,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
+Movie-34
 Show name: Ayali
 Category: Bangla Dubbed
 Year: 2023
@@ -876,7 +791,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-39
+Movie-35
 Movie name: Bloody Daddy
 Category: Bangla Dubbed
 Year: 2023
@@ -887,7 +802,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-40
+Movie-36
 Movie name: Antony
 Category: Bangla Dubbed
 Year: 2023
@@ -898,18 +813,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-41
-Movie name: Manga Ambition
-Category: Bangla Dubbed
-Year: 2023
-Poster: https://cinefreak.net/wp-content/uploads/2025/11/Manga-Ambition-2023.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Manga%20Ambition%20%282023%29%20WEB-DL%20%5BBengali%20Dubbed%5D%20Darshoo%201080p.mkv
-
-================================================================================
-
-Movie-42
+Movie-37
 Show name: Undekhi
 Category: Bangla Dubbed
 Year: 2022
@@ -927,7 +831,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-43
+Movie-38
 Movie name: Bhediya
 Category: Bangla Dubbed
 Year: 2022
@@ -938,7 +842,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-39
 Movie name: Bro Daddy
 Category: Bangla Dubbed
 Year: 2022
@@ -949,7 +853,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-40
 Show name: Ray
 Category: Bangla Dubbed
 Year: 2021
@@ -962,7 +866,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-46
+Movie-41
 Movie name: Kaithi
 Category: Bangla Dubbed
 Year: 2019
@@ -973,7 +877,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-47
+Movie-42
 Movie name: Adithya Varma
 Category: Bangla Dubbed
 Year: 2019
@@ -984,7 +888,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-43
 Movie name: K.G.F: Chapter 1
 Category: Bangla Dubbed
 Year: 2018
@@ -995,7 +899,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-44
 Movie name: Bad Genius
 Category: Bangla Dubbed
 Year: 2017
@@ -1006,18 +910,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
-Movie name: I
-Category: Bangla Dubbed
-Year: 2015
-Poster: https://cinefreak.net/wp-content/uploads/2025/09/I-Virus-2015.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20-%20Virus%20%282015%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv
-
-================================================================================
-
-Movie-51
+Movie-45
 Movie name: The Amazing Spider-Man 2
 Category: Bangla Dubbed
 Year: 2014
@@ -1028,7 +921,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-52
+Movie-46
 Movie name: The Amazing Spider-Man
 Category: Bangla Dubbed
 Year: 2012
@@ -1039,7 +932,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-47
 Show name: Man Vs. Wild
 Category: Bangla Dubbed
 Year: 2006
@@ -1052,7 +945,7 @@ Episode: Episode 01-05
 
 ================================================================================
 
-Movie-54
+Movie-48
 Movie name: Spider-Man
 Category: Bangla Dubbed
 Year: 2002
