@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 96,
-    "last_updated": "2026-10-08 | 18:05:30 (UTC)",
+    "total_movies": 87,
+    "last_updated": "2026-10-10 | 18:40:49 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -154,19 +154,6 @@
       ]
     },
     {
-      "name": "Djinner Bachcha",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/02/Djinner-Bachcha-2026.webp",
-      "source_url": "https://cinefreak.net/djinner-bachcha-2026-full-short-film-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Djinner%20Bachcha%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Nibba Nibbi",
       "category": "Bangla Movies",
       "year": "2026",
@@ -193,10 +180,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abar%20Hawa%20Bodol%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Abar%20Hawa%20Bodol%20%282026%29%20WEB-DL%20%5BBengali%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -546,10 +529,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -584,19 +563,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Oporichito%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Babu Shona",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtb6ZT7HCl9rJhRrvXduin6LF8.jpg",
-      "source_url": "https://cinefreak.net/babu-shona-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babu%20Shona%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -666,19 +632,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Puratawn%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Antoratma",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq5FiswTgmWVPpmGGqbSHMbRR3O.jpg",
-      "source_url": "https://cinefreak.net/antoratma-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Antoratma%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
         }
       ]
     },
@@ -886,19 +839,6 @@
       ]
     },
     {
-      "name": "Blind",
-      "category": "Bangla Movies",
-      "year": "2023",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Blind-2023.webp",
-      "source_url": "https://cinefreak.net/blind-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Bloody Daddy",
       "category": "Bangla Movies",
       "year": "2023",
@@ -951,19 +891,6 @@
       ]
     },
     {
-      "name": "Bismillah",
-      "category": "Bangla Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWAasgksJOtbQuKXrDYGpDHcY5y.jpg",
-      "source_url": "https://cinefreak.net/bismillah-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bismillah%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Swastik Sanket",
       "category": "Bangla Movies",
       "year": "2022",
@@ -990,19 +917,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Abar%20Bochhor%20Koori%20Pore%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Brombhodoityo",
-      "category": "Bangla Movies",
-      "year": "2020",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Brombhodoityo-2020.webp",
-      "source_url": "https://cinefreak.net/brombhodoityo-2020-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bromhodoityo%20%282020%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1137,19 +1051,6 @@
       ]
     },
     {
-      "name": "Abhimaan",
-      "category": "Bangla Movies",
-      "year": "2016",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8N7txQi6iehHwieCcLYpK4x48.jpg",
-      "source_url": "https://cinefreak.net/abhimaan-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Abhimaan%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Oggatonama",
       "category": "Bangla Movies",
       "year": "2016",
@@ -1198,19 +1099,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Chirodini Tumi Je Amar 2",
-      "category": "Bangla Movies",
-      "year": "2014",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KOSq3gTVIBgNEq7J5nRaeQJdWg.jpg",
-      "source_url": "https://cinefreak.net/chirodini-tumi-je-amar-2-2014-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chirodini%20Tumi%20Je%20Amar%202%20%282014%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1293,19 +1181,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Prem%20Amaar%20%282009%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bombaiyer Bombete",
-      "category": "Bangla Movies",
-      "year": "2002",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3d7B5hHhzTKIUxRT1QfgzcjhAK5.jpg",
-      "source_url": "https://cinefreak.net/bombaiyer-bombete-2003-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bombaiyer%20Bombete%20%282002%29%20DVDRIP%20%5BBengali%5D%201080p.mkv"
         }
       ]
     },

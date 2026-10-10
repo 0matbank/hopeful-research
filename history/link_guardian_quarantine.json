@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-10-08T06:11:30.082285+00:00",
-      "next_retry_at": "2026-10-09T06:11:30.082304+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-10-10T18:40:27.022339+00:00",
+      "next_retry_at": "2026-10-12T18:40:27.022355+00:00",
+      "attempt_count": 4
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -5974,7 +5974,223 @@
       "last_attempt": "2026-10-10T12:38:04.564291+00:00",
       "next_retry_at": "2026-10-10T18:38:04.564294+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/djinner-bachcha-2026-full-short-film-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/djinner-bachcha-2026-full-short-film-download",
+      "movie": {
+        "name": "Djinner Bachcha",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/02/Djinner-Bachcha-2026.webp",
+        "source_url": "https://cinefreak.net/djinner-bachcha-2026-full-short-film-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Djinner%20Bachcha%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Djinner%20Bachcha%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.178006+00:00",
+      "last_attempt": "2026-10-10T18:40:49.178021+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.178024+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/babu-shona-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/babu-shona-2025-full-movie-download",
+      "movie": {
+        "name": "Babu Shona",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtb6ZT7HCl9rJhRrvXduin6LF8.jpg",
+        "source_url": "https://cinefreak.net/babu-shona-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babu%20Shona%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babu%20Shona%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.178539+00:00",
+      "last_attempt": "2026-10-10T18:40:49.178551+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.178568+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/antoratma-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/antoratma-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Antoratma",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq5FiswTgmWVPpmGGqbSHMbRR3O.jpg",
+        "source_url": "https://cinefreak.net/antoratma-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-iscreen-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Antoratma%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Antoratma%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.178871+00:00",
+      "last_attempt": "2026-10-10T18:40:49.178877+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.178879+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/blind-2023-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/blind-2023-full-movie-download",
+      "movie": {
+        "name": "Blind",
+        "category": "Bangla Movies",
+        "year": "2023",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Blind-2023.webp",
+        "source_url": "https://cinefreak.net/blind-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Blind%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.179154+00:00",
+      "last_attempt": "2026-10-10T18:40:49.179162+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.179164+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bismillah-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bismillah-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Bismillah",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWAasgksJOtbQuKXrDYGpDHcY5y.jpg",
+        "source_url": "https://cinefreak.net/bismillah-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bismillah%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bismillah%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.179345+00:00",
+      "last_attempt": "2026-10-10T18:40:49.179350+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.179352+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/brombhodoityo-2020-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/brombhodoityo-2020-full-movie-download",
+      "movie": {
+        "name": "Brombhodoityo",
+        "category": "Bangla Movies",
+        "year": "2020",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Brombhodoityo-2020.webp",
+        "source_url": "https://cinefreak.net/brombhodoityo-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bromhodoityo%20%282020%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bromhodoityo%20%282020%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.179500+00:00",
+      "last_attempt": "2026-10-10T18:40:49.179505+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.179506+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/abhimaan-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/abhimaan-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Abhimaan",
+        "category": "Bangla Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8N7txQi6iehHwieCcLYpK4x48.jpg",
+        "source_url": "https://cinefreak.net/abhimaan-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Abhimaan%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Abhimaan%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.179730+00:00",
+      "last_attempt": "2026-10-10T18:40:49.179735+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.179737+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/chirodini-tumi-je-amar-2-2014-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/chirodini-tumi-je-amar-2-2014-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Chirodini Tumi Je Amar 2",
+        "category": "Bangla Movies",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KOSq3gTVIBgNEq7J5nRaeQJdWg.jpg",
+        "source_url": "https://cinefreak.net/chirodini-tumi-je-amar-2-2014-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chirodini%20Tumi%20Je%20Amar%202%20%282014%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chirodini%20Tumi%20Je%20Amar%202%20%282014%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.179897+00:00",
+      "last_attempt": "2026-10-10T18:40:49.179902+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.179904+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bombaiyer-bombete-2003-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bombaiyer-bombete-2003-full-movie-download",
+      "movie": {
+        "name": "Bombaiyer Bombete",
+        "category": "Bangla Movies",
+        "year": "2002",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3d7B5hHhzTKIUxRT1QfgzcjhAK5.jpg",
+        "source_url": "https://cinefreak.net/bombaiyer-bombete-2003-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bombaiyer%20Bombete%20%282002%29%20DVDRIP%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bombaiyer%20Bombete%20%282002%29%20DVDRIP%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-10T18:40:49.180071+00:00",
+      "last_attempt": "2026-10-10T18:40:49.180075+00:00",
+      "next_retry_at": "2026-10-11T00:40:49.180077+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-10T12:38:04.587937+00:00"
+  "updated_at": "2026-10-10T18:40:54.011854+00:00"
 }
