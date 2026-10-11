@@ -2530,5 +2530,60 @@
     ],
     "last_attempt": "2026-10-11T05:53:11.292985+00:00",
     "attempt_count": 1
+  },
+  "disneyhotstar::batchmates": {
+    "name": "Batchmates",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E69-72%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T12:56:39.613141+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::thepunisheronelastkill": {
+    "name": "The Punisher One Last Kill",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Punisher%20One%20Last%20Kill%20%282026%29%20WEB-DL%20%5BEnglish%5D%20JHS%204K-2160p%20HEVC%20HDR%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T12:56:41.356609+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::alibabaaur40bhoot": {
+    "name": "Ali Baba Aur 40 Bhoot",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T12:56:43.047836+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::bablibouncer": {
+    "name": "Babli Bouncer",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Babli%20Bouncer%20%282022%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T12:56:44.762826+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::2012": {
+    "name": "2012",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%202012%20%282009%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-11T12:56:46.619530+00:00",
+    "attempt_count": 1
   }
 }
