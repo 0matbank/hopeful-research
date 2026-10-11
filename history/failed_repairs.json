@@ -134,10 +134,10 @@
     "name": "Utsaber Ratri",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-e7529f94cba9498287526f7cf89bd2d7.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-06T11:02:59.538055+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-11T05:53:00.572046+00:00",
+    "attempt_count": 2
   },
   "tamilmovies::yaanai": {
     "name": "Yaanai",
@@ -210,10 +210,10 @@
     "name": "Tilottoma",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-bbe0e84db0c7476e9bf481919634034a.r2.dev/CINEFREAK.TOP%20-%20Tilottoma%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tilottoma%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-08T04:43:48.329996+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-11T05:53:06.318344+00:00",
+    "attempt_count": 2
   },
   "banglamovies::khawto": {
     "name": "Khawto",
@@ -2444,6 +2444,91 @@
       "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Prem%20Amaar%20%282009%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-10T23:36:50.228168+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::tumiamishudhu": {
+    "name": "Tumi Ami Shudhu",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Tumi%20Ami%20Shudhu%20%282026%29%20WEB-DL%20%5BBengali%5D%20Binge%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:52:56.335659+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::saptadingarguptodhon": {
+    "name": "Saptadingar Guptodhon",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:52:57.876275+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::theuniversityofchankharpul": {
+    "name": "The University Of Chankharpul",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20University%20of%20Chankharpul%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:52:59.300545+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::projapati2": {
+    "name": "Projapati 2",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Projapati%202%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Projapati%202%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:53:01.897762+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::putulnacheritikatha": {
+    "name": "Putulnacher Itikatha",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Putulnacher%20Itikatha%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Putulnacher%20Itikatha%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:53:03.452904+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::saba": {
+    "name": "Saba",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saba%20%282024%29%20WEB-DL%20%5BBengali%5D%20HC%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:53:04.956285+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::shonarpahar": {
+    "name": "Shonar Pahar",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Shonar%20Pahar%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:53:07.914650+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::saanjhbatirroopkathara": {
+    "name": "Saanjhbatir Roopkathara",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saanjhbatir%20Rupkathara%20%282002%29%20WEB-DL%20%5BBengali%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saanjhbatir%20Rupkathara%20%282002%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:53:09.237334+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::108basehospitaluri": {
+    "name": "108 Base Hospital Uri",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E04%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E10%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T05:53:11.292985+00:00",
     "attempt_count": 1
   }
 }

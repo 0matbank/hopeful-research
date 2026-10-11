@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 75,
-    "last_updated": "2026-10-10 | 23:36:50 (UTC)",
+    "total_movies": 66,
+    "last_updated": "2026-10-11 | 05:53:09 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -20,19 +20,6 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bhanupriya%20Bhooter%20Hotel%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Tumi Ami Shudhu",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpXiw2nA4Svq13vGfPLlizLPOUx.jpg",
-      "source_url": "https://cinefreak.net/tumi-ami-shudhu-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Tumi%20Ami%20Shudhu%20%282026%29%20WEB-DL%20%5BBengali%5D%20Binge%201080p%20ESub.mkv"
         }
       ]
     },
@@ -184,10 +171,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
         }
       ]
     },
@@ -330,19 +313,6 @@
       ]
     },
     {
-      "name": "The University Of Chankharpul",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cv2Lz7snJUhWQj8ZRGhbQ74gfLd.jpg",
-      "source_url": "https://cinefreak.net/the-university-of-chankharpul-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20University%20of%20Chankharpul%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Ultorath",
       "category": "Bangla Movies",
       "year": "2026",
@@ -451,19 +421,6 @@
       ]
     },
     {
-      "name": "Utsaber Ratri",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Utsaber-Ratri-2026.webp",
-      "source_url": "https://cinefreak.net/utsaber-ratri-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Utsaber%20Ratri%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Bibi Payra",
       "category": "Bangla Movies",
       "year": "2026",
@@ -516,23 +473,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Projapati 2",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPU0QGXdK26qDG886gstiP5HQPY.jpg",
-      "source_url": "https://cinefreak.net/projapati-2-2025-bengali-hdtc-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Projapati%202%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Projapati%202%20%282025%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC.mkv"
         }
       ]
     },
@@ -602,23 +542,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Puratawn%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Putulnacher Itikatha",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ4OfLg7hWiQsRc0VFIX7JPh16B.jpg",
-      "source_url": "https://cinefreak.net/putulnacher-itikatha-2025-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Putulnacher%20Itikatha%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Putulnacher%20Itikatha%20%282025%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -710,32 +633,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Saba",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipsGdGphf6SPp3dRcsCnspQRbqU.jpg",
-      "source_url": "https://cinefreak.net/saba-2024-bengali-web-dl-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saba%20%282024%29%20WEB-DL%20%5BBengali%5D%20HC%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Tilottoma",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBwYUoeTEKWQnsslmbGlKUxd2rI.jpg",
-      "source_url": "https://cinefreak.net/tilottoma-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tilottoma%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -857,19 +754,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Fidaa%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Shonar Pahar",
-      "category": "Bangla Movies",
-      "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2ghZsnUp4M6pnrK40TMIlR1dqG.jpg",
-      "source_url": "https://cinefreak.net/shonar-pahar-2018-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Shonar%20Pahar%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1026,23 +910,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Saanjhbatir Roopkathara",
-      "category": "Bangla Movies",
-      "year": "2002",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gA6uvCXizDqLW8dN79JKqOHhGOq.jpg",
-      "source_url": "https://cinefreak.net/saanjhbatir-roopkathara-2002-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Saanjhbatir%20Rupkathara%20%282002%29%20WEB-DL%20%5BBengali%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saanjhbatir%20Rupkathara%20%282002%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
