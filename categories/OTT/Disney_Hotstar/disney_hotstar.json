@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 62,
-    "last_updated": "2026-10-11 | 18:58:05 (UTC)",
+    "total_movies": 60,
+    "last_updated": "2026-10-11 | 23:43:03 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -390,30 +390,6 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 13-16",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 17-20",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 21-24",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 25-28",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 29-32",
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
@@ -774,14 +750,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -792,24 +760,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
       "source_url": "https://cinefreak.net/euphoria-2019-full-series-download",
       "res_list": [
-        {
-          "season": "S03",
-          "episode": "Episode 01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E01%5D%20WEB-DL%20%5BEnglish%5D%20AMZN%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S03",
-          "episode": "Episode 02",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E02%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S03",
-          "episode": "Episode 03",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E03%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
-        },
         {
           "season": "S03",
           "episode": "Episode 04",
@@ -869,10 +819,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20DS4K%201080p%20ESub.mkv"
         },
         {
           "resolution": "4K 2160P HEVC",
@@ -1518,27 +1464,6 @@
       ]
     },
     {
-      "name": "Gunehgar Rishtey",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sku157X4UkRulgiObWX3ZIq1R2.jpg",
-      "source_url": "https://cinefreak.net/gunehgar-rishtey-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-05",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 06-10",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "Motu Patlu Ka Goa Dhamaal",
       "category": "Disney Hotstar",
       "year": "2026",
@@ -1907,33 +1832,6 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Shiddat%20%282021%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Flower Of Evil",
-      "category": "Disney Hotstar",
-      "year": "2020",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
-      "source_url": "https://cinefreak.net/flower-of-evil-2020-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-05",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 06-10",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 11-16",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E11-16%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
         }
       ]
     },

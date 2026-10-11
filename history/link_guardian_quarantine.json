@@ -291,9 +291,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Explorer%20Lake%20of%20Fire%20%282022%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898950+00:00",
-      "last_attempt": "2026-09-11T05:00:16.898953+00:00",
-      "next_retry_at": "2026-09-11T11:00:16.898955+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-10-11T23:42:52.859068+00:00",
+      "next_retry_at": "2026-10-12T11:42:52.859142+00:00",
+      "attempt_count": 2
     },
     "englishmovies::https://cinefreak.net/coma-2020-full-movie-download": {
       "category": "English Movies",
@@ -6801,7 +6801,80 @@
       "last_attempt": "2026-10-11T12:56:46.739910+00:00",
       "next_retry_at": "2026-10-11T18:56:46.739911+00:00",
       "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/gunehgar-rishtey-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/gunehgar-rishtey-2026-full-series-download",
+      "movie": {
+        "name": "Gunehgar Rishtey",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sku157X4UkRulgiObWX3ZIq1R2.jpg",
+        "source_url": "https://cinefreak.net/gunehgar-rishtey-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 06-10",
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-11T23:43:03.775458+00:00",
+      "last_attempt": "2026-10-11T23:43:03.775471+00:00",
+      "next_retry_at": "2026-10-12T05:43:03.775474+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/flower-of-evil-2020-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/flower-of-evil-2020-full-series-download",
+      "movie": {
+        "name": "Flower Of Evil",
+        "category": "Disney Hotstar",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
+        "source_url": "https://cinefreak.net/flower-of-evil-2020-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 06-10",
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 11-16",
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E11-16%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E11-16%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-11T23:43:03.775891+00:00",
+      "last_attempt": "2026-10-11T23:43:03.775897+00:00",
+      "next_retry_at": "2026-10-12T05:43:03.775899+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-11T18:58:05.891374+00:00"
+  "updated_at": "2026-10-11T23:43:03.801790+00:00"
 }

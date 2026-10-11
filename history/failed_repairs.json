@@ -2616,5 +2616,68 @@
     ],
     "last_attempt": "2026-10-11T18:58:05.715887+00:00",
     "attempt_count": 1
+  },
+  "disneyhotstar::cousinsandkalyanams": {
+    "name": "Cousins And Kalyanams",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T23:42:55.067261+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::dridam": {
+    "name": "Dridam",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T23:42:56.713310+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::euphoria": {
+    "name": "Euphoria",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E01%5D%20WEB-DL%20%5BEnglish%5D%20AMZN%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E02%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E03%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T23:42:58.120999+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::hoppers": {
+    "name": "Hoppers",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20DS4K%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T23:42:59.516030+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::gunehgarrishtey": {
+    "name": "Gunehgar Rishtey",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gunehgar%20Rishtey%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-11T23:43:01.522424+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::flowerofevil": {
+    "name": "Flower Of Evil",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Flower%20of%20Evil%20%5BS01E11-16%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-11T23:43:03.617034+00:00",
+    "attempt_count": 1
   }
 }
