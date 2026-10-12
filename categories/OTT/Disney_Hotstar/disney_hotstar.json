@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 59,
-    "last_updated": "2026-10-12 | 15:34:02 (UTC)",
+    "total_movies": 56,
+    "last_updated": "2026-10-12 | 23:02:20 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -336,12 +336,6 @@
           "episode": "Episode 93-96",
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E93-96%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 97-100",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E97-100%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
@@ -577,33 +571,6 @@
       ]
     },
     {
-      "name": "Perfect Crown",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-      "source_url": "https://cinefreak.net/perfect-crown-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 05-08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 09-12",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Chinna Chinna Aasai",
       "category": "Disney Hotstar",
       "year": "2026",
@@ -801,12 +768,6 @@
       "res_list": [
         {
           "season": "S01",
-          "episode": "Episode 01-04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 05-08",
           "resolution": "HD 1080P",
           "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
@@ -816,18 +777,6 @@
           "episode": "Episode 09-12",
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 13-16",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 17-20",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1133,14 +1082,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1560,54 +1501,8 @@
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Star Trek: Strange New Worlds",
-      "category": "Disney Hotstar",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg",
-      "source_url": "https://cinefreak.net/star-trek-strange-new-worlds-2023-full-series-download",
-      "res_list": [
-        {
-          "season": "S02",
-          "episode": "Episode 01-05",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS02E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S02",
-          "episode": "Episode 06-10",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS02E06-10%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Star Trek: Strange New Worlds",
-      "category": "Disney Hotstar",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg",
-      "source_url": "https://cinefreak.net/star-trek-strange-new-worlds-2022-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-05",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS01E01-05%5D%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 06-10",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS01E06-10%5D%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1655,10 +1550,6 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Shiddat%20%282021%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Shiddat%20%282021%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },

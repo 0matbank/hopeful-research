@@ -2765,5 +2765,74 @@
     ],
     "last_attempt": "2026-10-12T15:34:02.291866+00:00",
     "attempt_count": 1
+  },
+  "disneyhotstar::resort": {
+    "name": "Resort",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E97-100%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-12T23:02:09.542344+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::perfectcrown": {
+    "name": "Perfect Crown",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Perfect%20Crown%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-12T23:02:11.226266+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::parttimers": {
+    "name": "Part-Timers",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-12T23:02:12.805472+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::starwarsthemandalorianandgrogu": {
+    "name": "Star Wars: The Mandalorian And Grogu",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-12T23:02:14.413922+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::neru": {
+    "name": "Neru",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-12T23:02:16.006269+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::startrekstrangenewworlds": {
+    "name": "Star Trek: Strange New Worlds",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS01E01-05%5D%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Star%20Trek%20Strange%20New%20Worlds%20%5BS01E06-10%5D%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-12T23:02:19.281626+00:00",
+    "attempt_count": 2
+  },
+  "disneyhotstar::shiddat": {
+    "name": "Shiddat",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Shiddat%20%282021%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-12T23:02:20.840300+00:00",
+    "attempt_count": 1
   }
 }
