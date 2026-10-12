@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 60,
-    "last_updated": "2026-10-11 | 23:43:03 (UTC)",
+    "total_movies": 59,
+    "last_updated": "2026-10-12 | 06:04:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -69,12 +69,6 @@
         },
         {
           "season": "S03",
-          "episode": "Episode 02",
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E02%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
-        },
-        {
-          "season": "S03",
           "episode": "Episode 03",
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E03%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
@@ -99,12 +93,6 @@
         },
         {
           "season": "S03",
-          "episode": "Episode 06",
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E06%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
-        },
-        {
-          "season": "S03",
           "episode": "Episode 07",
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
@@ -114,12 +102,6 @@
           "episode": "Episode 08",
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E08%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S03",
-          "episode": "Episode 08",
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E08%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -866,27 +848,6 @@
       ]
     },
     {
-      "name": "I, Nobody",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
-      "source_url": "https://cinefreak.net/i-nobody-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Khatron Ke Khiladi",
       "category": "Disney Hotstar",
       "year": "2026",
@@ -931,30 +892,6 @@
         },
         {
           "season": "S15",
-          "episode": "Episode 07",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E07%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E08%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 09",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E09%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 10",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E10%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
           "episode": "Episode 11",
           "resolution": "HD 1080P",
           "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E11%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
@@ -967,33 +904,9 @@
         },
         {
           "season": "S15",
-          "episode": "Episode 13",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E13%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 14",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E14%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 15",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E15%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S15",
           "episode": "Episode 16",
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E16%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 17",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E17%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         },
         {
           "season": "S15",
@@ -1564,10 +1477,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
