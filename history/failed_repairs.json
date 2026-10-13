@@ -2834,5 +2834,108 @@
     ],
     "last_attempt": "2026-10-12T23:02:20.840300+00:00",
     "attempt_count": 1
+  },
+  "englishmovies::ataleoftwocities": {
+    "name": "A Tale Of Two Cities",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20A%20Tale%20of%20Two%20Cities%20%5BS01E02%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:50:47.683315+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::battle": {
+    "name": "Battle",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Battle%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:50:49.724309+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::courageous": {
+    "name": "Courageous",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Courageous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:50:51.807732+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::charlieandthechocolatefactory": {
+    "name": "Charlie And The Chocolate Factory",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Charlie%20and%20the%20Chocolate%20Factory%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:50:53.876648+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::briefencounter": {
+    "name": "Brief Encounter",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brief%20Encounter%20%281974%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:50:56.064073+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::uyir": {
+    "name": "Uyir",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:50:58.786719+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::thukrakemerapyaar": {
+    "name": "Thukra Ke Mera Pyaar",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:51:01.024254+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::welcometothejungle": {
+    "name": "Welcome To The Jungle",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:51:03.012122+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::thecourt": {
+    "name": "The Court",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E17%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:51:04.948534+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::theawakening": {
+    "name": "The Awakening",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Awakening%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:51:06.969688+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::thudakkam": {
+    "name": "Thudakkam",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T06:51:08.924012+00:00",
+    "attempt_count": 1
   }
 }

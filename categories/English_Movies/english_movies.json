@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 94,
-    "last_updated": "2026-10-10 | 03:02:45 (UTC)",
+    "total_movies": 90,
+    "last_updated": "2026-10-13 | 06:50:56 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -325,12 +325,6 @@
           "episode": "Episode 01",
           "resolution": "HD 1080P",
           "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20A%20Tale%20of%20Two%20Cities%20%5BS01E01%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 02",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20A%20Tale%20of%20Two%20Cities%20%5BS01E02%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -390,19 +384,6 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Battle",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1y1xAQFmEwdb2TiJ0ja6XAbE0v.jpg",
-      "source_url": "https://cinefreak.net/battle-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Battle%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1057,19 +1038,6 @@
       ]
     },
     {
-      "name": "Courageous",
-      "category": "English Movies",
-      "year": "2011",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVRkbZRCoHtnfi0V9GFZ3uXjCNp.jpg",
-      "source_url": "https://cinefreak.net/courageous-2011-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Courageous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Blitz",
       "category": "English Movies",
       "year": "2011",
@@ -1161,19 +1129,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Charlie And The Chocolate Factory",
-      "category": "English Movies",
-      "year": "2005",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
-      "source_url": "https://cinefreak.net/charlie-and-the-chocolate-factory-2005-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Charlie%20and%20the%20Chocolate%20Factory%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1403,19 +1358,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Brief Encounter",
-      "category": "English Movies",
-      "year": "1974",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
-      "source_url": "https://cinefreak.net/brief-encounter-1945-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brief%20Encounter%20%281974%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

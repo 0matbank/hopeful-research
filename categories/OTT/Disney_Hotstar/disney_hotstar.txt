@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 56
-LAST UPDATED: 2026-10-12 | 23:02:20 (UTC)
+TOTAL MOVIES: 54
+LAST UPDATED: 2026-10-13 | 06:51:09 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -33,9 +33,6 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 RESOLUTION 3: HQ 1080P
 STREAM Link 3: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
@@ -144,14 +141,9 @@ Episode: Episode 38-41
   Link-10: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 Season: S02
-Episode: Episode 42-45
-  Resolution-11: HD 1080P
-  Link-11: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-Season: S02
 Episode: Episode 46-50
-  Resolution-12: HD 1080P
-  Link-12: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E46-50%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
+  Resolution-11: HD 1080P
+  Link-11: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E46-50%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -780,12 +772,6 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
 ================================================================================
 
 Movie-22
@@ -877,19 +863,9 @@ Episode: Episode 05-08
   Link-2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
-Episode: Episode 09-12
-  Resolution-3: HD 1080P
-  Link-3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-Season: S01
 Episode: Episode 13-16
-  Resolution-4: HD 1080P
-  Link-4: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 17
-  Resolution-5: HD 1080P
-  Link-5: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E17%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -993,17 +969,6 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-29
-Movie name: The Awakening
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbBehMLO6Ge7Tbk374dIBtUjO6P.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Awakening%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-30
 Show name: Ali Baba Aur 40 Bhoot
 Category: Disney Hotstar
 Year: 2026
@@ -1016,24 +981,7 @@ Episode: Episode 01-04
 
 ================================================================================
 
-Movie-31
-Movie name: Thudakkam
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-32
+Movie-30
 Movie name: Motu Patlu Ka Goa Dhamaal
 Category: Disney Hotstar
 Year: 2026
@@ -1044,7 +992,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-31
 Movie name: Chikoo Bunty: The Detective Bros
 Category: Disney Hotstar
 Year: 2026
@@ -1055,7 +1003,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-32
 Movie name: Mike & Nick & Nick & Alice
 Category: Disney Hotstar
 Year: 2026
@@ -1066,7 +1014,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-33
 Show name: The Madison
 Category: Disney Hotstar
 Year: 2026
@@ -1084,7 +1032,7 @@ Episode: Episode 05
 
 ================================================================================
 
-Movie-36
+Movie-34
 Show name: Dear X
 Category: Disney Hotstar
 Year: 2025
@@ -1107,7 +1055,7 @@ Episode: Episode 09-12
 
 ================================================================================
 
-Movie-37
+Movie-35
 Movie name: Junior
 Category: Disney Hotstar
 Year: 2025
@@ -1121,7 +1069,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
+Movie-36
 Movie name: Dog 51
 Category: Disney Hotstar
 Year: 2025
@@ -1132,7 +1080,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-39
+Movie-37
 Show name: MobLand
 Category: Disney Hotstar
 Year: 2025
@@ -1150,7 +1098,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-40
+Movie-38
 Movie name: Motu Patlu & The Madness Of Multiverse
 Category: Disney Hotstar
 Year: 2025
@@ -1161,7 +1109,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-41
+Movie-39
 Movie name: Match Fixing
 Category: Disney Hotstar
 Year: 2025
@@ -1172,7 +1120,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-42
+Movie-40
 Movie name: Zootopia 2
 Category: Disney Hotstar
 Year: 2025
@@ -1189,7 +1137,7 @@ STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-41
 Movie name: A Woman Called Mother
 Category: Disney Hotstar
 Year: 2025
@@ -1203,7 +1151,7 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-42
 Show name: A Shop For Killers
 Category: Disney Hotstar
 Year: 2024
@@ -1221,7 +1169,7 @@ Episode: Episode 05-08
 
 ================================================================================
 
-Movie-45
+Movie-43
 Movie name: Aayushmati Geeta Matric Pass
 Category: Disney Hotstar
 Year: 2024
@@ -1235,7 +1183,7 @@ STREAM Link 2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-46
+Movie-44
 Show name: Ayali
 Category: Disney Hotstar
 Year: 2023
@@ -1248,7 +1196,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-47
+Movie-45
 Movie name: Neru
 Category: Disney Hotstar
 Year: 2023
@@ -1262,7 +1210,7 @@ STREAM Link 2: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-48
+Movie-46
 Movie name: Govinda Naam Mera
 Category: Disney Hotstar
 Year: 2022
@@ -1273,7 +1221,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-49
+Movie-47
 Movie name: Cobra
 Category: Disney Hotstar
 Year: 2022
@@ -1284,7 +1232,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-50
+Movie-48
 Movie name: Shiddat
 Category: Disney Hotstar
 Year: 2021
@@ -1301,7 +1249,7 @@ STREAM Link 3: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-51
+Movie-49
 Show name: Code M
 Category: Disney Hotstar
 Year: 2020
@@ -1314,7 +1262,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-52
+Movie-50
 Movie name: Shiva The Tiny Men From Mountain
 Category: Disney Hotstar
 Year: 2019
@@ -1325,7 +1273,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-53
+Movie-51
 Show name: 24: India
 Category: Disney Hotstar
 Year: 2013
@@ -1348,7 +1296,7 @@ Episode: Episode 21-24
 
 ================================================================================
 
-Movie-54
+Movie-52
 Movie name: WALL·E
 Category: Disney Hotstar
 Year: 2008
@@ -1359,7 +1307,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-55
+Movie-53
 Movie name: Meet The Robinsons
 Category: Disney Hotstar
 Year: 2007
@@ -1370,7 +1318,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-56
+Movie-54
 Movie name: Me, Myself & Irene
 Category: Disney Hotstar
 Year: 2000
