@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-10-10T12:37:45.917607+00:00",
-      "next_retry_at": "2026-10-13T12:37:45.917630+00:00",
-      "attempt_count": 5
+      "last_attempt": "2026-10-13T21:19:08.024086+00:00",
+      "next_retry_at": "2026-10-16T21:19:08.024101+00:00",
+      "attempt_count": 6
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -7336,7 +7336,200 @@
       "last_attempt": "2026-10-13T16:04:05.652526+00:00",
       "next_retry_at": "2026-10-13T22:04:05.652529+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/one-night-only-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/one-night-only-2026-full-movie-download",
+      "movie": {
+        "name": "One Night Only",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkrK2U1n1cQMymG7sIJ2XbEZPi.jpg",
+        "source_url": "https://cinefreak.net/one-night-only-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20One%20Night%20Only%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T21:19:25.961557+00:00",
+      "last_attempt": "2026-10-13T21:19:25.961567+00:00",
+      "next_retry_at": "2026-10-14T03:19:25.961570+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/teenage-sex-and-death-at-camp-miasma-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/teenage-sex-and-death-at-camp-miasma-2026-full-movie-download",
+      "movie": {
+        "name": "Teenage Sex And Death At Camp Miasma",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+        "source_url": "https://cinefreak.net/teenage-sex-and-death-at-camp-miasma-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Teenage%20Sex%20and%20Death%20at%20Camp%20Miasma%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T21:19:25.961959+00:00",
+      "last_attempt": "2026-10-13T21:19:25.961966+00:00",
+      "next_retry_at": "2026-10-14T03:19:25.961968+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/squad-36-2025-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/squad-36-2025-full-movie-download",
+      "movie": {
+        "name": "Squad 36",
+        "category": "English Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfQi2JzENT5MNJhN1nkIZMNWm4M.jpg",
+        "source_url": "https://cinefreak.net/squad-36-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Squad%2036%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Squad%2036%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T21:19:25.962172+00:00",
+      "last_attempt": "2026-10-13T21:19:25.962177+00:00",
+      "next_retry_at": "2026-10-14T03:19:25.962179+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-blackout-2019-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-blackout-2019-full-movie-download",
+      "movie": {
+        "name": "The Blackout",
+        "category": "English Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/avl9MEQhtvokNnzoWepkmHBZ2ss.jpg",
+        "source_url": "https://cinefreak.net/the-blackout-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Blackout%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Blackout%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Blackout%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Blackout%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T21:19:25.962442+00:00",
+      "last_attempt": "2026-10-13T21:19:25.962448+00:00",
+      "next_retry_at": "2026-10-14T03:19:25.962455+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/our-house-2018-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/our-house-2018-full-movie-download",
+      "movie": {
+        "name": "Our House",
+        "category": "English Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1Qt0HtO4ZYY2qcgM42XUd8xgtA.jpg",
+        "source_url": "https://cinefreak.net/our-house-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Our%20House%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Our%20House%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T21:19:25.962603+00:00",
+      "last_attempt": "2026-10-13T21:19:25.962615+00:00",
+      "next_retry_at": "2026-10-14T03:19:25.962619+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/rise-of-the-planet-of-the-apes-2011-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/rise-of-the-planet-of-the-apes-2011-full-movie-download",
+      "movie": {
+        "name": "Rise Of The Planet Of The Apes",
+        "category": "English Movies",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+        "source_url": "https://cinefreak.net/rise-of-the-planet-of-the-apes-2011-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Rise%20Of%20The%20Planet%20Of%20The%20Apes%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rise%20of%20the%20Planet%20of%20the%20Apes%20%282011%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Rise%20Of%20The%20Planet%20Of%20The%20Apes%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rise%20of%20the%20Planet%20of%20the%20Apes%20%282011%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T21:19:25.962960+00:00",
+      "last_attempt": "2026-10-13T21:19:25.962966+00:00",
+      "next_retry_at": "2026-10-14T03:19:25.962968+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/rocky-v-1990-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/rocky-v-1990-full-movie-download",
+      "movie": {
+        "name": "Rocky V",
+        "category": "English Movies",
+        "year": "1990",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+        "source_url": "https://cinefreak.net/rocky-v-1990-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rocky%20V%20%281990%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rocky%20V%20%281990%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T21:19:25.963211+00:00",
+      "last_attempt": "2026-10-13T21:19:25.963216+00:00",
+      "next_retry_at": "2026-10-14T03:19:25.963218+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-13T16:04:05.675082+00:00"
+  "updated_at": "2026-10-13T21:19:25.985183+00:00"
 }
