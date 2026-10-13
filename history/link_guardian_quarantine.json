@@ -123,9 +123,9 @@
         "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
-      "last_attempt": "2026-10-09T22:42:29.981542+00:00",
-      "next_retry_at": "2026-10-12T22:42:29.981558+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-10-13T16:03:40.848297+00:00",
+      "next_retry_at": "2026-10-16T16:03:40.848314+00:00",
+      "attempt_count": 7
     },
     "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -7168,7 +7168,175 @@
       "last_attempt": "2026-10-13T06:51:09.041955+00:00",
       "next_retry_at": "2026-10-13T12:51:09.041957+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/fall-2-deadpoint-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/fall-2-deadpoint-2026-full-movie-download",
+      "movie": {
+        "name": "Fall 2: Deadpoint",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "source_url": "https://cinefreak.net/fall-2-deadpoint-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Fall%202%20%282026%29%20CAM%20%5BEnglish%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Fall%202%20%282026%29%20CAM%20%5BEnglish%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-13T16:04:05.650928+00:00",
+      "last_attempt": "2026-10-13T16:04:05.650949+00:00",
+      "next_retry_at": "2026-10-13T22:04:05.650954+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/ice-cream-man-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/ice-cream-man-2026-full-movie-download",
+      "movie": {
+        "name": "Ice Cream Man",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+        "source_url": "https://cinefreak.net/ice-cream-man-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ice%20Cream%20Man%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ice%20Cream%20Man%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T16:04:05.651290+00:00",
+      "last_attempt": "2026-10-13T16:04:05.651297+00:00",
+      "next_retry_at": "2026-10-13T22:04:05.651299+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/in-a-violent-nature-2024-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/in-a-violent-nature-2024-full-movie-download",
+      "movie": {
+        "name": "In A Violent Nature",
+        "category": "English Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+        "source_url": "https://cinefreak.net/in-a-violent-nature-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20a%20Violent%20Nature%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20a%20Violent%20Nature%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T16:04:05.651595+00:00",
+      "last_attempt": "2026-10-13T16:04:05.651601+00:00",
+      "next_retry_at": "2026-10-13T22:04:05.651604+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/killing-season-2013-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/killing-season-2013-full-movie-download",
+      "movie": {
+        "name": "Killing Season",
+        "category": "English Movies",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
+        "source_url": "https://cinefreak.net/killing-season-2013-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Killing%20Season%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Killing%20Season%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T16:04:05.651947+00:00",
+      "last_attempt": "2026-10-13T16:04:05.651953+00:00",
+      "next_retry_at": "2026-10-13T22:04:05.651955+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/heartbreakers-2001-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/heartbreakers-2001-full-movie-download",
+      "movie": {
+        "name": "Heartbreakers",
+        "category": "English Movies",
+        "year": "2001",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwvec0gRMSpLakcPuxe0RWScNv3.jpg",
+        "source_url": "https://cinefreak.net/heartbreakers-2001-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Heartbreakers%20%282001%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Heartbreakers%20%282001%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T16:04:05.652153+00:00",
+      "last_attempt": "2026-10-13T16:04:05.652158+00:00",
+      "next_retry_at": "2026-10-13T22:04:05.652160+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/mad-max-2-1981-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/mad-max-2-1981-full-movie-download",
+      "movie": {
+        "name": "Mad Max 2",
+        "category": "English Movies",
+        "year": "1981",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+        "source_url": "https://cinefreak.net/mad-max-2-1981-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T16:04:05.652359+00:00",
+      "last_attempt": "2026-10-13T16:04:05.652364+00:00",
+      "next_retry_at": "2026-10-13T22:04:05.652366+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/mad-max-1979-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/mad-max-1979-full-movie-download",
+      "movie": {
+        "name": "Mad Max",
+        "category": "English Movies",
+        "year": "1979",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+        "source_url": "https://cinefreak.net/mad-max-1979-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%20%281979%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%20%281979%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-13T16:04:05.652520+00:00",
+      "last_attempt": "2026-10-13T16:04:05.652526+00:00",
+      "next_retry_at": "2026-10-13T22:04:05.652529+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-13T06:51:09.058154+00:00"
+  "updated_at": "2026-10-13T16:04:05.675082+00:00"
 }

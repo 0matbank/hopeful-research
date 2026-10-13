@@ -228,12 +228,10 @@
     "name": "In The Grey",
     "category": "English Movies",
     "dead_links": [
-      "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
-      "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
-      "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-09T07:26:48.139885+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-13T16:03:47.411926+00:00",
+    "attempt_count": 2
   },
   "bangladubbed::chikoobuntythedetectivebros": {
     "name": "Chikoo Bunty: The Detective Bros",
@@ -2936,6 +2934,108 @@
       "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thudakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
     ],
     "last_attempt": "2026-10-13T06:51:08.924012+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::fall2deadpoint": {
+    "name": "Fall 2: Deadpoint",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Fall%202%20%282026%29%20CAM%20%5BEnglish%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:42.790557+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::icecreamman": {
+    "name": "Ice Cream Man",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ice%20Cream%20Man%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:45.372809+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::lastdays": {
+    "name": "Last Days",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Last%20Days%20%282025%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:49.303756+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::inaviolentnature": {
+    "name": "In A Violent Nature",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20a%20Violent%20Nature%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:51.303905+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::johnwickchapter4": {
+    "name": "John Wick: Chapter 4",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%204%20%282023%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%204%20%282023%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:53.285102+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::johnwickchapter3": {
+    "name": "John Wick: Chapter 3",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:55.297239+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::johnwickchapter2": {
+    "name": "John Wick: Chapter 2",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:57.264891+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::killingseason": {
+    "name": "Killing Season",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Killing%20Season%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:03:59.764027+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::heartbreakers": {
+    "name": "Heartbreakers",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Heartbreakers%20%282001%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:04:01.704566+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::madmax2": {
+    "name": "Mad Max 2",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:04:03.558836+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::madmax": {
+    "name": "Mad Max",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%20%281979%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-13T16:04:05.500424+00:00",
     "attempt_count": 1
   }
 }

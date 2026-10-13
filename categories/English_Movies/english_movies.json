@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 90,
-    "last_updated": "2026-10-13 | 06:50:56 (UTC)",
+    "total_movies": 83,
+    "last_updated": "2026-10-13 | 16:04:05 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -329,19 +329,6 @@
       ]
     },
     {
-      "name": "Fall 2: Deadpoint",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-      "source_url": "https://cinefreak.net/fall-2-deadpoint-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Fall%202%20%282026%29%20CAM%20%5BEnglish%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "The Love Hypothesis",
       "category": "English Movies",
       "year": "2026",
@@ -401,19 +388,6 @@
       ]
     },
     {
-      "name": "Ice Cream Man",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-      "source_url": "https://cinefreak.net/ice-cream-man-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ice%20Cream%20Man%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "In The Grey",
       "category": "English Movies",
       "year": "2026",
@@ -423,10 +397,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -530,10 +500,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Last%20Days%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Last%20Days%20%282025%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -610,19 +576,6 @@
       ]
     },
     {
-      "name": "In A Violent Nature",
-      "category": "English Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
-      "source_url": "https://cinefreak.net/in-a-violent-nature-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20a%20Violent%20Nature%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "John Wick: Chapter 4",
       "category": "English Movies",
       "year": "2023",
@@ -636,14 +589,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%204%20%282023%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%204%20%282023%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%204%20%282023%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -799,14 +744,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -884,14 +821,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -991,19 +920,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20White%20House%20Down%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Killing Season",
-      "category": "English Movies",
-      "year": "2013",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55HXx21PqRcOgAaOWFz4tGMrZh.jpg",
-      "source_url": "https://cinefreak.net/killing-season-2013-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Killing%20Season%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1142,19 +1058,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Italian%20Job%20%282003%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Heartbreakers",
-      "category": "English Movies",
-      "year": "2001",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwvec0gRMSpLakcPuxe0RWScNv3.jpg",
-      "source_url": "https://cinefreak.net/heartbreakers-2001-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Heartbreakers%20%282001%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1315,32 +1218,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Terminator%20%281984%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mad Max 2",
-      "category": "English Movies",
-      "year": "1981",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
-      "source_url": "https://cinefreak.net/mad-max-2-1981-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%202%20The%20Road%20Warrior%20%281981%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mad Max",
-      "category": "English Movies",
-      "year": "1979",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
-      "source_url": "https://cinefreak.net/mad-max-1979-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%20%281979%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
