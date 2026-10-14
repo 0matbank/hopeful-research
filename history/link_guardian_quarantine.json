@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-10-10T18:40:27.022339+00:00",
-      "next_retry_at": "2026-10-12T18:40:27.022355+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-10-14T01:16:37.733948+00:00",
+      "next_retry_at": "2026-10-17T01:16:37.733964+00:00",
+      "attempt_count": 5
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -7529,7 +7529,205 @@
       "last_attempt": "2026-10-13T21:19:25.963216+00:00",
       "next_retry_at": "2026-10-14T03:19:25.963218+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-end-of-oak-street-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-end-of-oak-street-2026-full-movie-download",
+      "movie": {
+        "name": "The End Of Oak Street",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "source_url": "https://cinefreak.net/the-end-of-oak-street-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20End%20of%20Oak%20Street%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T01:16:50.266019+00:00",
+      "last_attempt": "2026-10-14T01:16:50.266030+00:00",
+      "next_retry_at": "2026-10-14T07:16:50.266033+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-love-hypothesis-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-love-hypothesis-2026-full-movie-download",
+      "movie": {
+        "name": "The Love Hypothesis",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "source_url": "https://cinefreak.net/the-love-hypothesis-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Love%20Hypothesis%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T01:16:50.266421+00:00",
+      "last_attempt": "2026-10-14T01:16:50.266431+00:00",
+      "next_retry_at": "2026-10-14T07:16:50.266436+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-desert-child-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-desert-child-2026-full-movie-download",
+      "movie": {
+        "name": "The Desert Child",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/PODwO3sxLAMU9NyffIdYOzxYVW.jpg",
+        "source_url": "https://cinefreak.net/the-desert-child-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Desert%20Child%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Desert%20Child%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T01:16:50.266645+00:00",
+      "last_attempt": "2026-10-14T01:16:50.266651+00:00",
+      "next_retry_at": "2026-10-14T07:16:50.266654+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/this-tempting-madness-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/this-tempting-madness-2026-full-movie-download",
+      "movie": {
+        "name": "This Tempting Madness",
+        "category": "English Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eycVPsYXsLMRXgAPGqJTzKvnlzX.jpg",
+        "source_url": "https://cinefreak.net/this-tempting-madness-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20This%20Tempting%20Madness%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20This%20Tempting%20Madness%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T01:16:50.266811+00:00",
+      "last_attempt": "2026-10-14T01:16:50.266816+00:00",
+      "next_retry_at": "2026-10-14T07:16:50.266818+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-wedding-banquet-2025-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-wedding-banquet-2025-full-movie-download",
+      "movie": {
+        "name": "The Wedding Banquet",
+        "category": "English Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/48scEvAG0H4PBWTt86sJeazExpN.jpg",
+        "source_url": "https://cinefreak.net/the-wedding-banquet-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Wedding%20Banquet%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Wedding%20Banquet%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T01:16:50.267006+00:00",
+      "last_attempt": "2026-10-14T01:16:50.267011+00:00",
+      "next_retry_at": "2026-10-14T07:16:50.267013+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-italian-job-2003-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-italian-job-2003-full-movie-download",
+      "movie": {
+        "name": "The Italian Job",
+        "category": "English Movies",
+        "year": "2003",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+        "source_url": "https://cinefreak.net/the-italian-job-2003-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Italian%20Job%20%282003%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Italian%20Job%20%282003%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T01:16:50.267417+00:00",
+      "last_attempt": "2026-10-14T01:16:50.267423+00:00",
+      "next_retry_at": "2026-10-14T07:16:50.267425+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-terminator-1984-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-terminator-1984-full-movie-download",
+      "movie": {
+        "name": "The Terminator",
+        "category": "English Movies",
+        "year": "1984",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+        "source_url": "https://cinefreak.net/the-terminator-1984-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Terminator%20%281984%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Terminator%20%281984%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T01:16:50.267623+00:00",
+      "last_attempt": "2026-10-14T01:16:50.267628+00:00",
+      "next_retry_at": "2026-10-14T07:16:50.267630+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-13T21:19:25.985183+00:00"
+  "updated_at": "2026-10-14T01:16:50.288356+00:00"
 }
