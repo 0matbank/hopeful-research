@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 69,
-    "last_updated": "2026-10-14 | 01:16:50 (UTC)",
+    "total_movies": 66,
+    "last_updated": "2026-10-14 | 07:42:12 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -382,27 +382,6 @@
       ]
     },
     {
-      "name": "Wolf Man",
-      "category": "English Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
-      "source_url": "https://cinefreak.net/wolf-man-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "18+ Parthenope",
       "category": "English Movies",
       "year": "2024",
@@ -467,19 +446,6 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "White Elephant",
-      "category": "English Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG56H40Y1BuHSPoWtEgDJsSgDBZ.jpg",
-      "source_url": "https://cinefreak.net/white-elephant-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20White%20Elephant%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -717,19 +683,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "White House Down",
-      "category": "English Movies",
-      "year": "2013",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
-      "source_url": "https://cinefreak.net/white-house-down-2013-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20White%20House%20Down%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },

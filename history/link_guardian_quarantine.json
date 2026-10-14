@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-10-10T23:36:28.814637+00:00",
-      "next_retry_at": "2026-10-12T23:36:28.814649+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-10-14T07:42:07.644970+00:00",
+      "next_retry_at": "2026-10-17T07:42:07.644986+00:00",
+      "attempt_count": 5
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -7727,7 +7727,147 @@
       "last_attempt": "2026-10-14T01:16:50.267628+00:00",
       "next_retry_at": "2026-10-14T07:16:50.267630+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/wolf-man-2025-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/wolf-man-2025-full-movie-download",
+      "movie": {
+        "name": "Wolf Man",
+        "category": "English Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+        "source_url": "https://cinefreak.net/wolf-man-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T07:42:12.567658+00:00",
+      "last_attempt": "2026-10-14T07:42:12.567672+00:00",
+      "next_retry_at": "2026-10-14T13:42:12.567675+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/white-elephant-2022-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/white-elephant-2022-full-movie-download",
+      "movie": {
+        "name": "White Elephant",
+        "category": "English Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG56H40Y1BuHSPoWtEgDJsSgDBZ.jpg",
+        "source_url": "https://cinefreak.net/white-elephant-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20White%20Elephant%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20White%20Elephant%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T07:42:12.567922+00:00",
+      "last_attempt": "2026-10-14T07:42:12.567926+00:00",
+      "next_retry_at": "2026-10-14T13:42:12.567928+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/white-house-down-2013-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/white-house-down-2013-full-movie-download",
+      "movie": {
+        "name": "White House Down",
+        "category": "English Movies",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
+        "source_url": "https://cinefreak.net/white-house-down-2013-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20White%20House%20Down%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20White%20House%20Down%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T07:42:12.568188+00:00",
+      "last_attempt": "2026-10-14T07:42:12.568193+00:00",
+      "next_retry_at": "2026-10-14T13:42:12.568195+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/anbe-diana-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/anbe-diana-2026-full-movie-download",
+      "movie": {
+        "name": "Anbe Diana",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+        "source_url": "https://cinefreak.net/anbe-diana-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T07:42:22.374560+00:00",
+      "last_attempt": "2026-10-14T07:42:22.374572+00:00",
+      "next_retry_at": "2026-10-14T13:42:22.374575+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/anali-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/anali-2026-full-movie-download",
+      "movie": {
+        "name": "Anali",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg",
+        "source_url": "https://cinefreak.net/anali-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anali%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anali%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T07:42:22.374923+00:00",
+      "last_attempt": "2026-10-14T07:42:22.374928+00:00",
+      "next_retry_at": "2026-10-14T13:42:22.374931+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-14T01:16:50.288356+00:00"
+  "updated_at": "2026-10-14T07:42:22.399345+00:00"
 }

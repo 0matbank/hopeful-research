@@ -3203,5 +3203,92 @@
     ],
     "last_attempt": "2026-10-14T01:16:50.146003+00:00",
     "attempt_count": 1
+  },
+  "englishmovies::wolfman": {
+    "name": "Wolf Man",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Wolf%20Man%20%282025%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:09.785022+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::whiteelephant": {
+    "name": "White Elephant",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20White%20Elephant%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:11.428366+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::whitehousedown": {
+    "name": "White House Down",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20White%20House%20Down%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:12.463087+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::concity": {
+    "name": "Con City",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:14.821927+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::achyutaavataaram": {
+    "name": "Achyuta Avataaram",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:16.319933+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::chennailovestory": {
+    "name": "Chennai Love Story",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:17.820720+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::anbediana": {
+    "name": "Anbe Diana",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anbe%20Diana%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:19.230438+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::anali": {
+    "name": "Anali",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Anali%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:20.790645+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::balti": {
+    "name": "Balti",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-14T07:42:22.278378+00:00",
+    "attempt_count": 1
   }
 }
