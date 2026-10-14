@@ -243,9 +243,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chris%20Hemsworth%20A%20Road%20Trip%20to%20Remember%20%282025%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898608+00:00",
-      "last_attempt": "2026-10-11T12:56:37.447398+00:00",
-      "next_retry_at": "2026-10-12T00:56:37.447413+00:00",
-      "attempt_count": 2
+      "last_attempt": "2026-10-14T18:40:25.108735+00:00",
+      "next_retry_at": "2026-10-15T18:40:25.108751+00:00",
+      "attempt_count": 3
     },
     "disneyhotstar::https://cinefreak.net/expedition-amazon-2024-full-movie-download": {
       "category": "Disney Hotstar",
@@ -7969,7 +7969,80 @@
       "last_attempt": "2026-10-14T13:47:24.803976+00:00",
       "next_retry_at": "2026-10-14T19:47:24.803978+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/i-nobody-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/i-nobody-2026-full-movie-download",
+      "movie": {
+        "name": "I, Nobody",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+        "source_url": "https://cinefreak.net/i-nobody-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T18:40:39.295709+00:00",
+      "last_attempt": "2026-10-14T18:40:39.295719+00:00",
+      "next_retry_at": "2026-10-15T00:40:39.295721+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/jai-bhim-2021-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/jai-bhim-2021-full-movie-download",
+      "movie": {
+        "name": "Jai Bhim",
+        "category": "Hindi Dubbed Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NNiM9LrvBwAE46kYXiqAvFWS9m.jpg",
+        "source_url": "https://cinefreak.net/jai-bhim-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jai%20Bhim%20%282021%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Jai%20Bhim%20%282021%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Jai%20Bhim%20%282021%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jai%20Bhim%20%282021%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Jai%20Bhim%20%282021%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Jai%20Bhim%20%282021%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-14T18:40:39.296549+00:00",
+      "last_attempt": "2026-10-14T18:40:39.296556+00:00",
+      "next_retry_at": "2026-10-15T00:40:39.296558+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-14T13:47:24.829056+00:00"
+  "updated_at": "2026-10-14T18:40:39.321190+00:00"
 }
