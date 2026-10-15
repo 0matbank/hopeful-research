@@ -323,6 +323,66 @@
         "last_failed_at": "2026-09-16T02:06:39.930480+00:00",
         "retry_after_epoch": 1789567599,
         "retry_after": "2026-09-16T14:06:39.930480+00:00"
+      },
+      "https://cinefreak.net/kappi-squad-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160446+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160446+00:00"
+      },
+      "https://cinefreak.net/dhilluku-dhuddu-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160506+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160506+00:00"
+      },
+      "https://cinefreak.net/charukesi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160520+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160520+00:00"
+      },
+      "https://cinefreak.net/sattam-en-kaiyil-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160529+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160529+00:00"
+      },
+      "https://cinefreak.net/jailer-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160537+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160537+00:00"
+      },
+      "https://cinefreak.net/kabali-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160547+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160547+00:00"
+      },
+      "https://cinefreak.net/333-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160554+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160554+00:00"
+      },
+      "https://cinefreak.net/petta-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160562+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160562+00:00"
+      },
+      "https://cinefreak.net/vadam-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160573+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160573+00:00"
+      },
+      "https://cinefreak.net/embiran-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-15T15:53:27.160584+00:00",
+        "retry_after_epoch": 1792122807,
+        "retry_after": "2026-10-16T03:53:27.160584+00:00"
       }
     },
     "Malayalam Movies": {
