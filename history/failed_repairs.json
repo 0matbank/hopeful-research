@@ -3693,5 +3693,100 @@
     ],
     "last_attempt": "2026-10-15T11:36:04.216752+00:00",
     "attempt_count": 1
+  },
+  "hindidubbedmovies::uyir": {
+    "name": "Uyir",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:01.986074+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::srinivasamangapuram": {
+    "name": "Srinivasa Mangapuram",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:04.010354+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::toxicafairytaleforgrownups": {
+    "name": "Toxic: A Fairy Tale For Grown-ups",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HEVC%20HC-ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HC-ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:06.052757+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::vishwanathandsons": {
+    "name": "Vishwanath & Sons",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20&%20Sons%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:08.096652+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::theparadise": {
+    "name": "The Paradise",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Paradise%20%282026%29%20HDTC-V2%20%5BHindi-Telugu%5D%201080p%20HEVC.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Paradise%20%282026%29%20HDTC-V2%20%5BHindi-Telugu%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:10.402762+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::surrender": {
+    "name": "Surrender",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:12.461964+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::vidrohi": {
+    "name": "Vidrohi",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Vidrohi%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:14.433508+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::theghost": {
+    "name": "The Ghost",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:16.432252+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::tuckjagadish": {
+    "name": "Tuck Jagadish",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:18.423794+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::srirastusubhamastu": {
+    "name": "Srirastu Subhamastu",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srirastu%20Subhamastu%20%282016%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T17:06:20.548369+00:00",
+    "attempt_count": 1
   }
 }
