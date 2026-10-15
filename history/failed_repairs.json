@@ -3788,5 +3788,60 @@
     ],
     "last_attempt": "2026-10-15T17:06:20.548369+00:00",
     "attempt_count": 1
+  },
+  "hindimovies::babydodiedo": {
+    "name": "Baby Do Die Do",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T21:27:27.200223+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::alpha": {
+    "name": "Alpha",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T21:27:29.234264+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::awarapan2": {
+    "name": "Awarapan 2",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T21:27:31.277320+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::babitasinghreporting": {
+    "name": "Babita Singh Reporting",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T21:27:33.365672+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::dilerdaring": {
+    "name": "Diler Daring",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Diler%20Daring%20%282004%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T21:27:35.352867+00:00",
+    "attempt_count": 1
   }
 }

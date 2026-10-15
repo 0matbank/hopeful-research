@@ -243,9 +243,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chris%20Hemsworth%20A%20Road%20Trip%20to%20Remember%20%282025%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898608+00:00",
-      "last_attempt": "2026-10-14T18:40:25.108735+00:00",
-      "next_retry_at": "2026-10-15T18:40:25.108751+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-10-15T21:27:24.491493+00:00",
+      "next_retry_at": "2026-10-17T21:27:24.491509+00:00",
+      "attempt_count": 4
     },
     "disneyhotstar::https://cinefreak.net/expedition-amazon-2024-full-movie-download": {
       "category": "Disney Hotstar",
@@ -8544,7 +8544,177 @@
       "last_attempt": "2026-10-15T17:06:20.689903+00:00",
       "next_retry_at": "2026-10-15T23:06:20.689904+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/baby-do-die-do-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/baby-do-die-do-2026-full-movie-download",
+      "movie": {
+        "name": "Baby Do Die Do",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfqp6gMlvHODYnBXoogqRyIs0k.jpg",
+        "source_url": "https://cinefreak.net/baby-do-die-do-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Baby%20Do%20Die%20Do%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T21:27:35.498174+00:00",
+      "last_attempt": "2026-10-15T21:27:35.498188+00:00",
+      "next_retry_at": "2026-10-16T03:27:35.498190+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/alpha-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/alpha-2026-full-movie-download",
+      "movie": {
+        "name": "Alpha",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuLMioRauQacj4bRXRsJX9Oe5H6.jpg",
+        "source_url": "https://cinefreak.net/alpha-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T21:27:35.498428+00:00",
+      "last_attempt": "2026-10-15T21:27:35.498432+00:00",
+      "next_retry_at": "2026-10-16T03:27:35.498434+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/awarapan-2-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/awarapan-2-2026-full-movie-download",
+      "movie": {
+        "name": "Awarapan 2",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1rC9HMKvnKooIPVfNVN2Oukzx6.jpg",
+        "source_url": "https://cinefreak.net/awarapan-2-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Awarapan-2%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T21:27:35.498565+00:00",
+      "last_attempt": "2026-10-15T21:27:35.498568+00:00",
+      "next_retry_at": "2026-10-16T03:27:35.498569+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/babita-singh-reporting-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/babita-singh-reporting-2026-full-movie-download",
+      "movie": {
+        "name": "Babita Singh Reporting",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg",
+        "source_url": "https://cinefreak.net/babita-singh-reporting-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Babita%20Singh%20Reporting%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T21:27:35.498800+00:00",
+      "last_attempt": "2026-10-15T21:27:35.498805+00:00",
+      "next_retry_at": "2026-10-16T03:27:35.498806+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/anji-2004-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/anji-2004-full-movie-download",
+      "movie": {
+        "name": "Diler Daring",
+        "category": "Hindi Movies",
+        "year": "2004",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFJ3hsJHqm1fumMC9R0HCGKQX5Q.jpg",
+        "source_url": "https://cinefreak.net/anji-2004-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Diler%20Daring%20%282004%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Diler%20Daring%20%282004%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T21:27:35.499258+00:00",
+      "last_attempt": "2026-10-15T21:27:35.499261+00:00",
+      "next_retry_at": "2026-10-16T03:27:35.499263+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-15T17:06:20.707918+00:00"
+  "updated_at": "2026-10-15T21:27:35.517146+00:00"
 }
