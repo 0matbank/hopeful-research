@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 98,
-    "last_updated": "2026-10-15 | 04:46:42 (UTC)",
+    "total_movies": 92,
+    "last_updated": "2026-10-15 | 11:36:04 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -45,10 +45,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -234,19 +230,6 @@
       ]
     },
     {
-      "name": "Sing Geetham",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg",
-      "source_url": "https://cinefreak.net/sing-geetham-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Drishyam 3",
       "category": "Hindi Dubbed Movies",
       "year": "2026",
@@ -260,19 +243,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Fan%20Dub%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Razor",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/la5XLMTI7HpzEdrWAZe5vMtyGqt.jpg",
-      "source_url": "https://cinefreak.net/razor-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Razor%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -528,14 +498,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -693,23 +655,6 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Raakaasa",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg",
-      "source_url": "https://cinefreak.net/raakaasa-2026-full-movie-hq-dub-download",
-      "res_list": [
-        {
-          "resolution": "HQ 1080P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv"
         }
       ]
     },
@@ -1150,31 +1095,6 @@
       ]
     },
     {
-      "name": "Revolver Rita",
-      "category": "Hindi Dubbed Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aht5LuEzNQKHEWycCsO6mOJhn1U.jpg",
-      "source_url": "https://cinefreak.net/revolver-rita-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Christy",
       "category": "Hindi Dubbed Movies",
       "year": "2023",
@@ -1382,10 +1302,6 @@
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
         },
         {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        },
-        {
           "resolution": "HQ 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
         },
@@ -1548,23 +1464,6 @@
       ]
     },
     {
-      "name": "Raatchasi",
-      "category": "Hindi Dubbed Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwGChfkDcxljj4pgb53A7JonOqU.jpg",
-      "source_url": "https://cinefreak.net/raatchasi-2019-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Srirastu Subhamastu",
       "category": "Hindi Dubbed Movies",
       "year": "2016",
@@ -1626,19 +1525,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kushi%20%282001%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Prince No 1",
-      "category": "Hindi Dubbed Movies",
-      "year": "2000",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acfiuO2xCOKLWkl9muBRUOWKWok.jpg",
-      "source_url": "https://cinefreak.net/rajakumarudu-1999-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Prince%20No%201%20%282000%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
         }
       ]
     }

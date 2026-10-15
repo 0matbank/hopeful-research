@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-10-12T06:04:37.802651+00:00",
-      "next_retry_at": "2026-10-15T06:04:37.802675+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-10-15T11:35:48.736144+00:00",
+      "next_retry_at": "2026-10-18T11:35:48.736157+00:00",
+      "attempt_count": 10
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -8245,7 +8245,176 @@
       "last_attempt": "2026-10-15T04:46:42.118153+00:00",
       "next_retry_at": "2026-10-15T10:46:42.118154+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/sing-geetham-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/sing-geetham-2026-full-movie-download",
+      "movie": {
+        "name": "Sing Geetham",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg",
+        "source_url": "https://cinefreak.net/sing-geetham-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T11:36:04.334325+00:00",
+      "last_attempt": "2026-10-15T11:36:04.334339+00:00",
+      "next_retry_at": "2026-10-15T17:36:04.334342+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/razor-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/razor-2026-full-movie-download",
+      "movie": {
+        "name": "Razor",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/la5XLMTI7HpzEdrWAZe5vMtyGqt.jpg",
+        "source_url": "https://cinefreak.net/razor-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Razor%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Razor%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T11:36:04.334639+00:00",
+      "last_attempt": "2026-10-15T11:36:04.334648+00:00",
+      "next_retry_at": "2026-10-15T17:36:04.334650+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/raakaasa-2026-full-movie-hq-dub-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/raakaasa-2026-full-movie-hq-dub-download",
+      "movie": {
+        "name": "Raakaasa",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg",
+        "source_url": "https://cinefreak.net/raakaasa-2026-full-movie-hq-dub-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-15T11:36:04.335039+00:00",
+      "last_attempt": "2026-10-15T11:36:04.335046+00:00",
+      "next_retry_at": "2026-10-15T17:36:04.335048+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/revolver-rita-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/revolver-rita-2025-full-movie-download",
+      "movie": {
+        "name": "Revolver Rita",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aht5LuEzNQKHEWycCsO6mOJhn1U.jpg",
+        "source_url": "https://cinefreak.net/revolver-rita-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T11:36:04.335401+00:00",
+      "last_attempt": "2026-10-15T11:36:04.335407+00:00",
+      "next_retry_at": "2026-10-15T17:36:04.335409+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/raatchasi-2019-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/raatchasi-2019-full-movie-download",
+      "movie": {
+        "name": "Raatchasi",
+        "category": "Hindi Dubbed Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwGChfkDcxljj4pgb53A7JonOqU.jpg",
+        "source_url": "https://cinefreak.net/raatchasi-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T11:36:04.335735+00:00",
+      "last_attempt": "2026-10-15T11:36:04.335741+00:00",
+      "next_retry_at": "2026-10-15T17:36:04.335743+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/rajakumarudu-1999-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/rajakumarudu-1999-full-movie-download",
+      "movie": {
+        "name": "Prince No 1",
+        "category": "Hindi Dubbed Movies",
+        "year": "2000",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/acfiuO2xCOKLWkl9muBRUOWKWok.jpg",
+        "source_url": "https://cinefreak.net/rajakumarudu-1999-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Prince%20No%201%20%282000%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Prince%20No%201%20%282000%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T11:36:04.335941+00:00",
+      "last_attempt": "2026-10-15T11:36:04.335948+00:00",
+      "next_retry_at": "2026-10-15T17:36:04.335950+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-15T04:46:42.132890+00:00"
+  "updated_at": "2026-10-15T11:36:04.359432+00:00"
 }

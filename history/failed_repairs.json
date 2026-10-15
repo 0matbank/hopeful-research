@@ -3606,5 +3606,92 @@
     ],
     "last_attempt": "2026-10-15T04:46:41.930991+00:00",
     "attempt_count": 1
+  },
+  "hindidubbedmovies::raobahadur": {
+    "name": "Rao Bahadur",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:35:51.565086+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::singgeetham": {
+    "name": "Sing Geetham",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:35:53.647116+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::razor": {
+    "name": "Razor",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Razor%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:35:55.738379+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::pyaarpremakalyanam": {
+    "name": "Pyaar Prema Kalyanam",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:35:57.763305+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::raakaasa": {
+    "name": "Raakaasa",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raakaasa%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:35:58.656051+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::revolverrita": {
+    "name": "Revolver Rita",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Revolver%20Rita%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:36:00.554085+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::sitaramam": {
+    "name": "Sita Ramam",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:36:01.484443+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::raatchasi": {
+    "name": "Raatchasi",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Raatchasi%20%282019%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:36:03.334732+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::princeno1": {
+    "name": "Prince No 1",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Prince%20No%201%20%282000%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-15T11:36:04.216752+00:00",
+    "attempt_count": 1
   }
 }
