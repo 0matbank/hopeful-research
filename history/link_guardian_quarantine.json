@@ -291,9 +291,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Explorer%20Lake%20of%20Fire%20%282022%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898950+00:00",
-      "last_attempt": "2026-10-11T23:42:52.859068+00:00",
-      "next_retry_at": "2026-10-12T11:42:52.859142+00:00",
-      "attempt_count": 2
+      "last_attempt": "2026-10-15T04:46:22.593409+00:00",
+      "next_retry_at": "2026-10-16T04:46:22.593422+00:00",
+      "attempt_count": 3
     },
     "englishmovies::https://cinefreak.net/coma-2020-full-movie-download": {
       "category": "English Movies",
@@ -8134,7 +8134,118 @@
       "last_attempt": "2026-10-14T23:17:16.288079+00:00",
       "next_retry_at": "2026-10-15T05:17:16.288080+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/nagabandham-the-secret-treasure-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/nagabandham-the-secret-treasure-2026-full-movie-download",
+      "movie": {
+        "name": "Nagabandham: The Secret Treasure",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+        "source_url": "https://cinefreak.net/nagabandham-the-secret-treasure-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T04:46:42.117388+00:00",
+      "last_attempt": "2026-10-15T04:46:42.117403+00:00",
+      "next_retry_at": "2026-10-15T10:46:42.117405+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/newtons-3rd-law-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/newtons-3rd-law-2026-full-movie-download",
+      "movie": {
+        "name": "Newton's 3rd Law",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1TtmLR2ydmUZGnYXsThpZ99I2X.jpg",
+        "source_url": "https://cinefreak.net/newtons-3rd-law-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T04:46:42.117737+00:00",
+      "last_attempt": "2026-10-15T04:46:42.117739+00:00",
+      "next_retry_at": "2026-10-15T10:46:42.117741+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/oru-nodi-2024-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/oru-nodi-2024-full-movie-download",
+      "movie": {
+        "name": "Oru Nodi",
+        "category": "Hindi Dubbed Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcZl2itDpPLKvMrd8C2hNxifGMp.jpg",
+        "source_url": "https://cinefreak.net/oru-nodi-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oru%20Nodi%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oru%20Nodi%20%282024%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T04:46:42.117950+00:00",
+      "last_attempt": "2026-10-15T04:46:42.117951+00:00",
+      "next_retry_at": "2026-10-15T10:46:42.117953+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/pils-adventures-2021-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/pils-adventures-2021-full-movie-download",
+      "movie": {
+        "name": "Mars Needs Moms",
+        "category": "Hindi Dubbed Movies",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s460WnGrUOm2v18k39ZfjJF21MU.jpg",
+        "source_url": "https://cinefreak.net/pils-adventures-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mars%20Needs%20Moms%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mars%20Needs%20Moms%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-15T04:46:42.118151+00:00",
+      "last_attempt": "2026-10-15T04:46:42.118153+00:00",
+      "next_retry_at": "2026-10-15T10:46:42.118154+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-14T23:17:16.302790+00:00"
+  "updated_at": "2026-10-15T04:46:42.132890+00:00"
 }
