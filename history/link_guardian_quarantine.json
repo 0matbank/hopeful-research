@@ -45,9 +45,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-10-12T23:02:06.925247+00:00",
-      "next_retry_at": "2026-10-15T23:02:06.925280+00:00",
-      "attempt_count": 17
+      "last_attempt": "2026-10-16T00:27:06.407651+00:00",
+      "next_retry_at": "2026-10-19T00:27:06.407685+00:00",
+      "attempt_count": 18
     },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -8714,7 +8714,104 @@
       "last_attempt": "2026-10-15T21:27:35.499261+00:00",
       "next_retry_at": "2026-10-16T03:27:35.499263+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/bandar-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/bandar-2026-full-movie-download",
+      "movie": {
+        "name": "Bandar",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MZ0PJeqQIFeRZtJvJ3chAexiJp.jpg",
+        "source_url": "https://cinefreak.net/bandar-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T00:27:17.423169+00:00",
+      "last_attempt": "2026-10-16T00:27:17.423183+00:00",
+      "next_retry_at": "2026-10-16T06:27:17.423186+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/brahmastra-part-one-shiva-2022-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/brahmastra-part-one-shiva-2022-full-movie-download",
+      "movie": {
+        "name": "Brahmāstra Part One: Shiva",
+        "category": "Hindi Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x61qdvHIsr9U53FwoLVDQqAGur0.jpg",
+        "source_url": "https://cinefreak.net/brahmastra-part-one-shiva-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T00:27:17.423606+00:00",
+      "last_attempt": "2026-10-16T00:27:17.423610+00:00",
+      "next_retry_at": "2026-10-16T06:27:17.423612+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/bhaag-johnny-2015-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/bhaag-johnny-2015-full-movie-download",
+      "movie": {
+        "name": "Bhaag Johnny",
+        "category": "Hindi Movies",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vs5TYt6lEq88zBURWr7lydqCnL.jpg",
+        "source_url": "https://cinefreak.net/bhaag-johnny-2015-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhaag%20johnny%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhaag%20johnny%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-16T00:27:17.423807+00:00",
+      "last_attempt": "2026-10-16T00:27:17.423811+00:00",
+      "next_retry_at": "2026-10-16T06:27:17.423812+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-15T21:27:35.517146+00:00"
+  "updated_at": "2026-10-16T00:27:17.441394+00:00"
 }

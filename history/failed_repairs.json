@@ -3843,5 +3843,76 @@
     ],
     "last_attempt": "2026-10-15T21:27:35.352867+00:00",
     "attempt_count": 1
+  },
+  "hindimovies::dhamaal4": {
+    "name": "Dhamaal 4",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T00:27:08.712862+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::cocktail2": {
+    "name": "Cocktail 2",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T00:27:10.099720+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::bandar": {
+    "name": "Bandar",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T00:27:11.528263+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::bhoothbangla": {
+    "name": "Bhooth Bangla",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T00:27:12.828734+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::brahmastrapartoneshiva": {
+    "name": "Brahmāstra Part One: Shiva",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T00:27:14.399039+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::bhaagjohnny": {
+    "name": "Bhaag Johnny",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhaag%20johnny%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-16T00:27:15.820587+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::cocktail": {
+    "name": "Cocktail",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T00:27:17.226943+00:00",
+    "attempt_count": 1
   }
 }

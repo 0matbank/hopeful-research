@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 92,
-    "last_updated": "2026-10-15 | 21:27:35 (UTC)",
+    "total_movies": 89,
+    "last_updated": "2026-10-16 | 00:27:17 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -196,14 +196,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -386,14 +378,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -508,27 +492,6 @@
       ]
     },
     {
-      "name": "Bandar",
-      "category": "Hindi Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/MZ0PJeqQIFeRZtJvJ3chAexiJp.jpg",
-      "source_url": "https://cinefreak.net/bandar-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bandar%20%282026%29%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Haunted 3D: Ghosts Of The Past",
       "category": "Hindi Movies",
       "year": "2026",
@@ -555,14 +518,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -1185,31 +1140,6 @@
       ]
     },
     {
-      "name": "Brahmāstra Part One: Shiva",
-      "category": "Hindi Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x61qdvHIsr9U53FwoLVDQqAGur0.jpg",
-      "source_url": "https://cinefreak.net/brahmastra-part-one-shiva-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Brahmastra%20Part%20One%20Shiva%20%282022%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "420 IPC",
       "category": "Hindi Movies",
       "year": "2021",
@@ -1398,19 +1328,6 @@
       ]
     },
     {
-      "name": "Bhaag Johnny",
-      "category": "Hindi Movies",
-      "year": "2015",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Vs5TYt6lEq88zBURWr7lydqCnL.jpg",
-      "source_url": "https://cinefreak.net/bhaag-johnny-2015-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhaag%20johnny%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "Arjun: The Warrior Prince",
       "category": "Hindi Movies",
       "year": "2012",
@@ -1437,10 +1354,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
