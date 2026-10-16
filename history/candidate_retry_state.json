@@ -565,6 +565,66 @@
         "last_failed_at": "2026-09-17T15:52:14.061464+00:00",
         "retry_after_epoch": 1789703534,
         "retry_after": "2026-09-18T03:52:14.061464+00:00"
+      },
+      "https://cinefreak.net/aasha-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428806+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428806+00:00"
+      },
+      "https://cinefreak.net/khalifa-the-ruler-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428882+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428882+00:00"
+      },
+      "https://cinefreak.net/pradhama-drishtya-kuttakkar-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428899+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428899+00:00"
+      },
+      "https://cinefreak.net/eyes-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428909+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428909+00:00"
+      },
+      "https://cinefreak.net/monster-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428918+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428918+00:00"
+      },
+      "https://cinefreak.net/ustad-hotel-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428930+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428930+00:00"
+      },
+      "https://cinefreak.net/memories-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428939+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428939+00:00"
+      },
+      "https://cinefreak.net/thudakkam-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428947+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428947+00:00"
+      },
+      "https://cinefreak.net/thug-cr-143-24-2025-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428956+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428956+00:00"
+      },
+      "https://cinefreak.net/raveendra-nee-evide-2025-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-16T15:41:23.428964+00:00",
+        "retry_after_epoch": 1792208483,
+        "retry_after": "2026-10-17T03:41:23.428964+00:00"
       }
     },
     "Kannada Movies": {
