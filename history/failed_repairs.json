@@ -39,11 +39,10 @@
     "name": "Jogi",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
-      "https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Jogi%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-08-30T13:38:22.046452+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-16T13:18:20.160487+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::highvoltagerakshak": {
     "name": "High Voltage Rakshak",
@@ -4000,6 +3999,76 @@
       "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20%282025%29%20Raw%20&%20Uncut%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
     ],
     "last_attempt": "2026-10-16T07:15:14.740799+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::lastmanintower": {
+    "name": "Last Man In Tower",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Last%20Man%20in%20Tower%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-16T13:18:12.262936+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::krishnavatarampart1theheart": {
+    "name": "Krishnavataram Part 1: The Heart",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Krishnavataram%20Part%201%20The%20Heart%20%282026%29%20HDTC-V2%20%5BHindi%20Line%5D%201080p%20HEVC%20HC-ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Krishnavataram%20Part%201%20The%20Heart%20%282026%29%20HDTC-V2%20%5BHindi%20Line%5D%201080p%20HC-ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Krishnavataram%20Part%201%20The%20Heart%20%282026%29%20HDTC-V2%20%5BHindi%20Line%5D%20HQ%201080p%20HC-ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T13:18:14.318267+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::khufiya": {
+    "name": "Khufiya",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Khufiya%20%282023%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T13:18:16.320030+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::luststories2": {
+    "name": "Lust Stories 2",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%202%20%282023%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T13:18:18.268447+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::judaahokebhi": {
+    "name": "Judaa Hoke Bhi",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Judaa%20Hoke%20Bhi%20%282022%29%20HDRIP%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T13:18:22.126365+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::luststories": {
+    "name": "Lust Stories",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%20%282018%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T13:18:24.069633+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::jabharrymetsejal": {
+    "name": "Jab Harry Met Sejal",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Jab%20Harry%20Met%20Sejal%20%282017%29%20BluRay%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T13:18:27.136207+00:00",
     "attempt_count": 1
   }
 }
