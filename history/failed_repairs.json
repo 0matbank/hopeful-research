@@ -86,10 +86,11 @@
     "name": "Chef Chidambara",
     "category": "Kannada Movies",
     "dead_links": [
-      "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p.mkv"
     ],
-    "last_attempt": "2026-09-07T12:51:24.266644+00:00",
-    "attempt_count": 4
+    "last_attempt": "2026-10-16T21:15:08.770976+00:00",
+    "attempt_count": 5
   },
   "kannadamovies::hero": {
     "name": "Hero",
@@ -4148,6 +4149,91 @@
       "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oye%20lucky%20lucky%20oye%20%282008%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-16T18:06:55.129809+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::theindiastory": {
+    "name": "The India Story",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20India%20Story%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20India%20Story%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:00.862278+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::welcometothejungle": {
+    "name": "Welcome To The Jungle",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:02.310021+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::thevvaan": {
+    "name": "The Vvaan",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Vvaan%20Force%20of%20the%20Forrest%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:03.549317+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::iamgod": {
+    "name": "I Am God",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:05.822823+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::identity": {
+    "name": "Identity",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Identity%20%282025%29%20WEB-DL%20%5BHindi%5D%20UPLY%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:07.262117+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::kantara": {
+    "name": "Kantara",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kantara%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:10.266545+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::kgfchapter2": {
+    "name": "K.G.F: Chapter 2",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:11.793118+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::dia": {
+    "name": "Dia",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESubs.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:13.289025+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::kgfchapter1": {
+    "name": "K.G.F: Chapter 1",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%2060FPS%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-16T21:15:14.827523+00:00",
     "attempt_count": 1
   }
 }

@@ -219,9 +219,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898293+00:00",
-      "last_attempt": "2026-10-14T13:47:09.538553+00:00",
-      "next_retry_at": "2026-10-16T13:47:09.538566+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-10-16T21:14:58.710181+00:00",
+      "next_retry_at": "2026-10-19T21:14:58.710197+00:00",
+      "attempt_count": 5
     },
     "disneyhotstar::https://cinefreak.net/chris-hemsworth-a-road-trip-to-remember-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -9227,7 +9227,219 @@
       "last_attempt": "2026-10-16T18:06:55.530698+00:00",
       "next_retry_at": "2026-10-17T00:06:55.530699+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/the-india-story-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/the-india-story-2026-full-movie-download",
+      "movie": {
+        "name": "The India Story",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xb3hSeItlYp56KBZVBcwg3TJsBs.jpg",
+        "source_url": "https://cinefreak.net/the-india-story-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20India%20Story%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20India%20Story%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20India%20Story%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20India%20Story%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:03.683113+00:00",
+      "last_attempt": "2026-10-16T21:15:03.683125+00:00",
+      "next_retry_at": "2026-10-17T03:15:03.683128+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/the-vvaan-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/the-vvaan-2026-full-movie-download",
+      "movie": {
+        "name": "The Vvaan",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2k82zqPQyuBNZxeu5Fr4LWoKUY.jpg",
+        "source_url": "https://cinefreak.net/the-vvaan-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Vvaan%20Force%20of%20the%20Forrest%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20The%20Vvaan%20Force%20of%20the%20Forrest%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:03.683651+00:00",
+      "last_attempt": "2026-10-16T21:15:03.683658+00:00",
+      "next_retry_at": "2026-10-17T03:15:03.683661+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/identity-2025-web-dl-dual-audio-zee5-full-movie-download-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/identity-2025-web-dl-dual-audio-zee5-full-movie-download-cinefreak",
+      "movie": {
+        "name": "Identity",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS0b3YY5sd5WC0QKmrSojCeRGtX.jpg",
+        "source_url": "https://cinefreak.net/identity-2025-web-dl-dual-audio-zee5-full-movie-download-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Identity%20%282025%29%20WEB-DL%20%5BHindi%5D%20UPLY%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Identity%20%282025%29%20WEB-DL%20%5BHindi%5D%20UPLY%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:15.097280+00:00",
+      "last_attempt": "2026-10-16T21:15:15.097295+00:00",
+      "next_retry_at": "2026-10-17T03:15:15.097298+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/chef-chidambara-2024-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/chef-chidambara-2024-full-movie-download",
+      "movie": {
+        "name": "Chef Chidambara",
+        "category": "Kannada Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAqYULyRX4yTEXkoM9erpVyeKnh.jpg",
+        "source_url": "https://cinefreak.net/chef-chidambara-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Chef%20Chidambara%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:15.097630+00:00",
+      "last_attempt": "2026-10-16T21:15:15.097637+00:00",
+      "next_retry_at": "2026-10-17T03:15:15.097639+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/kantara-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/kantara-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Kantara",
+        "category": "Kannada Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
+        "source_url": "https://cinefreak.net/kantara-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kantara%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kantara%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:15.097846+00:00",
+      "last_attempt": "2026-10-16T21:15:15.097852+00:00",
+      "next_retry_at": "2026-10-17T03:15:15.097854+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/k-g-f-chapter-2-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/k-g-f-chapter-2-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "K.G.F: Chapter 2",
+        "category": "Kannada Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+        "source_url": "https://cinefreak.net/k-g-f-chapter-2-2022-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%202%20%282022%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:15.098030+00:00",
+      "last_attempt": "2026-10-16T21:15:15.098036+00:00",
+      "next_retry_at": "2026-10-17T03:15:15.098038+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/dia-2020-uncut-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/dia-2020-uncut-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Dia",
+        "category": "Kannada Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n038AswpNaZgIWfMEr5cxVAqcsB.jpg",
+        "source_url": "https://cinefreak.net/dia-2020-uncut-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESubs.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESubs.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:15.098192+00:00",
+      "last_attempt": "2026-10-16T21:15:15.098196+00:00",
+      "next_retry_at": "2026-10-17T03:15:15.098198+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/k-g-f-chapter-1-2018-hindi-dubbed-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/k-g-f-chapter-1-2018-hindi-dubbed-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "K.G.F: Chapter 1",
+        "category": "Kannada Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+        "source_url": "https://cinefreak.net/k-g-f-chapter-1-2018-hindi-dubbed-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%2060FPS%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%2060FPS%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20K.G.F%20Chapter%201%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T21:15:15.098340+00:00",
+      "last_attempt": "2026-10-16T21:15:15.098345+00:00",
+      "next_retry_at": "2026-10-17T03:15:15.098347+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-16T18:06:55.929156+00:00"
+  "updated_at": "2026-10-16T21:15:15.116050+00:00"
 }
