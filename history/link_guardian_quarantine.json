@@ -123,9 +123,9 @@
         "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
-      "last_attempt": "2026-10-13T16:03:40.848297+00:00",
-      "next_retry_at": "2026-10-16T16:03:40.848314+00:00",
-      "attempt_count": 7
+      "last_attempt": "2026-10-16T18:06:40.160226+00:00",
+      "next_retry_at": "2026-10-19T18:06:40.160243+00:00",
+      "attempt_count": 8
     },
     "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -9106,7 +9106,128 @@
       "last_attempt": "2026-10-16T13:18:27.329387+00:00",
       "next_retry_at": "2026-10-16T19:18:27.329388+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/mukhbir-the-story-of-a-spy-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/mukhbir-the-story-of-a-spy-2026-full-movie-download",
+      "movie": {
+        "name": "Mukhbir",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2gzeFVzkz6ZjvZCROyCSpDTE79.jpg",
+        "source_url": "https://cinefreak.net/mukhbir-the-story-of-a-spy-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mukhbir%20The%20Story%20of%20a%20Spy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mukhbir%20The%20Story%20of%20a%20Spy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T18:06:55.529731+00:00",
+      "last_attempt": "2026-10-16T18:06:55.529746+00:00",
+      "next_retry_at": "2026-10-17T00:06:55.529748+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/lust-stories-3-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/lust-stories-3-2026-full-movie-download",
+      "movie": {
+        "name": "Lust Stories 3",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+        "source_url": "https://cinefreak.net/lust-stories-3-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%203%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories%203%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lust%20Stories-3%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T18:06:55.530240+00:00",
+      "last_attempt": "2026-10-16T18:06:55.530246+00:00",
+      "next_retry_at": "2026-10-17T00:06:55.530248+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/nail-polish-2021-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/nail-polish-2021-full-movie-download",
+      "movie": {
+        "name": "Nail Polish",
+        "category": "Hindi Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcruMXQ2l8Gp69onHp2T3UtgMgW.jpg",
+        "source_url": "https://cinefreak.net/nail-polish-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nail%20Polish%20%282021%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nail%20Polish%20%282021%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T18:06:55.530472+00:00",
+      "last_attempt": "2026-10-16T18:06:55.530474+00:00",
+      "next_retry_at": "2026-10-17T00:06:55.530476+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/oye-lucky-lucky-oye-2008-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/oye-lucky-lucky-oye-2008-full-movie-download",
+      "movie": {
+        "name": "Oye Lucky! Lucky Oye!",
+        "category": "Hindi Movies",
+        "year": "2008",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtuw7H9ACOfs9BtRGF9okrr8yJH.jpg",
+        "source_url": "https://cinefreak.net/oye-lucky-lucky-oye-2008-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oye%20Lucky%20Lucky%20Oye%21%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Oye%20lucky%20lucky%20oye%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oye%20lucky%20lucky%20oye%20%282008%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oye%20Lucky%20Lucky%20Oye%21%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Oye%20lucky%20lucky%20oye%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oye%20lucky%20lucky%20oye%20%282008%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-16T18:06:55.530695+00:00",
+      "last_attempt": "2026-10-16T18:06:55.530698+00:00",
+      "next_retry_at": "2026-10-17T00:06:55.530699+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-16T13:18:27.350744+00:00"
+  "updated_at": "2026-10-16T18:06:55.929156+00:00"
 }
