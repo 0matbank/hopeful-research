@@ -4496,5 +4496,100 @@
     ],
     "last_attempt": "2026-10-17T12:14:18.847562+00:00",
     "attempt_count": 1
+  },
+  "malayalammovies::uyir": {
+    "name": "Uyir",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:29.979222+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::vaazhaii": {
+    "name": "Vaazha II",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:32.117960+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::oruduroohasaahacharyathil": {
+    "name": "Oru Durooha Saahacharyathil",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:33.904313+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::prathichaya": {
+    "name": "Prathichaya",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Prathichaya%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Prathichaya%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:35.766225+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::sarvammaya": {
+    "name": "Sarvam Maya",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sarvam%20Maya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sarvam%20Maya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sarvam%20Maya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:37.811002+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::odumkuthirachaadumkuthira": {
+    "name": "Odum Kuthira Chaadum Kuthira",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:39.706335+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::samara": {
+    "name": "Samara",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Samara%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:41.450797+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::romancham": {
+    "name": "Romancham",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20HEVC%20Esub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20Esub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:43.420788+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::rorschach": {
+    "name": "Rorschach",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Rorschach%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:45.369271+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::oppam": {
+    "name": "Oppam",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oppam%20%282016%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-17T15:41:47.284299+00:00",
+    "attempt_count": 1
   }
 }

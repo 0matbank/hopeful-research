@@ -291,9 +291,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Explorer%20Lake%20of%20Fire%20%282022%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898950+00:00",
-      "last_attempt": "2026-10-15T04:46:22.593409+00:00",
-      "next_retry_at": "2026-10-16T04:46:22.593422+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-10-17T15:41:27.555683+00:00",
+      "next_retry_at": "2026-10-19T15:41:27.555701+00:00",
+      "attempt_count": 4
     },
     "englishmovies::https://cinefreak.net/coma-2020-full-movie-download": {
       "category": "English Movies",
@@ -9806,7 +9806,166 @@
       "last_attempt": "2026-10-17T12:14:18.978429+00:00",
       "next_retry_at": "2026-10-17T18:14:18.978430+00:00",
       "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-download",
+      "movie": {
+        "name": "Oru Durooha Saahacharyathil",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4IZvI3w177lfEJxDj9OOYF1R7U.jpg",
+        "source_url": "https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20WEB-DL%20%5BMalayalam%5D%20NF%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T15:41:47.391617+00:00",
+      "last_attempt": "2026-10-17T15:41:47.391630+00:00",
+      "next_retry_at": "2026-10-17T21:41:47.391633+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/prathichaya-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/prathichaya-2026-full-movie-download",
+      "movie": {
+        "name": "Prathichaya",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o69YKFd5WSwX1f9PBG47QfcGzX4.jpg",
+        "source_url": "https://cinefreak.net/prathichaya-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Prathichaya%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Prathichaya%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Prathichaya%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Prathichaya%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T15:41:47.391918+00:00",
+      "last_attempt": "2026-10-17T15:41:47.391925+00:00",
+      "next_retry_at": "2026-10-17T21:41:47.391927+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/odum-kuthira-chaadum-kuthira-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/odum-kuthira-chaadum-kuthira-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Odum Kuthira Chaadum Kuthira",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBqBd1nLF367oMh7y72WpaNcasq.jpg",
+        "source_url": "https://cinefreak.net/odum-kuthira-chaadum-kuthira-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Odum%20Kuthira%20Chadum%20Kuthira%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T15:41:47.392192+00:00",
+      "last_attempt": "2026-10-17T15:41:47.392197+00:00",
+      "next_retry_at": "2026-10-17T21:41:47.392200+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/samara-2023-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/samara-2023-full-movie-download",
+      "movie": {
+        "name": "Samara",
+        "category": "Malayalam Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn1Ce6cYs2GoXUOFyg5ZrtZ2y2T.jpg",
+        "source_url": "https://cinefreak.net/samara-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Samara%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Samara%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T15:41:47.392364+00:00",
+      "last_attempt": "2026-10-17T15:41:47.392368+00:00",
+      "next_retry_at": "2026-10-17T21:41:47.392370+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/romancham-2023-web-dl-hindi-dubbed-480p-720p-1080p-2160p-full-movie-download-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/romancham-2023-web-dl-hindi-dubbed-480p-720p-1080p-2160p-full-movie-download-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Romancham",
+        "category": "Malayalam Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p8ux2AGYn3U2mEAbKmizAh6PL1.jpg",
+        "source_url": "https://cinefreak.net/romancham-2023-web-dl-hindi-dubbed-480p-720p-1080p-2160p-full-movie-download-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20HEVC%20Esub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20Esub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20HEVC%20Esub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Romancham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DPHS%201080p%20Esub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T15:41:47.392539+00:00",
+      "last_attempt": "2026-10-17T15:41:47.392545+00:00",
+      "next_retry_at": "2026-10-17T21:41:47.392547+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/oppam-2016-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/oppam-2016-full-movie-download",
+      "movie": {
+        "name": "Oppam",
+        "category": "Malayalam Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQaBBb5ShAaikL621nWFa4j37tS.jpg",
+        "source_url": "https://cinefreak.net/oppam-2016-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oppam%20%282016%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oppam%20%282016%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-17T15:41:47.392734+00:00",
+      "last_attempt": "2026-10-17T15:41:47.392739+00:00",
+      "next_retry_at": "2026-10-17T21:41:47.392741+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-17T12:14:18.990829+00:00"
+  "updated_at": "2026-10-17T15:41:47.409578+00:00"
 }
