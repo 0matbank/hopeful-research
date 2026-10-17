@@ -4654,5 +4654,68 @@
     ],
     "last_attempt": "2026-10-17T18:33:10.226227+00:00",
     "attempt_count": 1
+  },
+  "tamilmovies::gdn": {
+    "name": "G.D.N",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T22:23:40.220030+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::karuppu": {
+    "name": "Karuppu",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T22:23:41.908101+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::jananayagan": {
+    "name": "Jana Nayagan",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jana%20Nayagan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jana%20Nayagan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Jana%20Nayagan%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T22:23:43.747733+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::kara": {
+    "name": "Kara",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T22:23:45.639579+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::happyraj": {
+    "name": "Happy Raj",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Happy%20Raj%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Happy%20Raj%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Happy%20Raj%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Happy%20Raj%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T22:23:47.548525+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::likloveinsurancekompany": {
+    "name": "LIK: Love Insurance Kompany",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T22:23:49.374933+00:00",
+    "attempt_count": 1
   }
 }
