@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-10-14T07:42:07.644970+00:00",
-      "next_retry_at": "2026-10-17T07:42:07.644986+00:00",
-      "attempt_count": 5
+      "last_attempt": "2026-10-17T12:14:04.692163+00:00",
+      "next_retry_at": "2026-10-20T12:14:04.692179+00:00",
+      "attempt_count": 6
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -9685,7 +9685,128 @@
       "last_attempt": "2026-10-17T07:01:10.630567+00:00",
       "next_retry_at": "2026-10-17T13:01:10.630569+00:00",
       "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/i-nobody-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/i-nobody-2026-full-movie-download",
+      "movie": {
+        "name": "I, Nobody",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+        "source_url": "https://cinefreak.net/i-nobody-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T12:14:18.977838+00:00",
+      "last_attempt": "2026-10-17T12:14:18.977854+00:00",
+      "next_retry_at": "2026-10-17T18:14:18.977856+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/john-luther-2022-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/john-luther-2022-full-movie-download",
+      "movie": {
+        "name": "John Luther",
+        "category": "Malayalam Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJoQGHkdimCfYizm4e4onSAKa4U.jpg",
+        "source_url": "https://cinefreak.net/john-luther-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T12:14:18.978191+00:00",
+      "last_attempt": "2026-10-17T12:14:18.978194+00:00",
+      "next_retry_at": "2026-10-17T18:14:18.978195+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/kaduva-2022-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/kaduva-2022-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Kaduva",
+        "category": "Malayalam Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hCGn1wVS7yMlF9vcq6poZtZlYE.jpg",
+        "source_url": "https://cinefreak.net/kaduva-2022-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Kaduva%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Kaduva%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T12:14:18.978315+00:00",
+      "last_attempt": "2026-10-17T12:14:18.978319+00:00",
+      "next_retry_at": "2026-10-17T18:14:18.978320+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/kumbalangi-nights-2019-hindi-dubbed-hindi-hq-dubbed-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/kumbalangi-nights-2019-hindi-dubbed-hindi-hq-dubbed-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Kumbalangi Nights",
+        "category": "Malayalam Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ3RvIirE2C7gdBKvPRaoQ3iCo2.jpg",
+        "source_url": "https://cinefreak.net/kumbalangi-nights-2019-hindi-dubbed-hindi-hq-dubbed-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kumbalangi%20Nights%20%282019%29%20WEBRip%20%5BMalayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kumbalangi%20Nights%20%282019%29%20WEBRip%20%5BMalayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T12:14:18.978427+00:00",
+      "last_attempt": "2026-10-17T12:14:18.978429+00:00",
+      "next_retry_at": "2026-10-17T18:14:18.978430+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-17T07:01:10.649565+00:00"
+  "updated_at": "2026-10-17T12:14:18.990829+00:00"
 }

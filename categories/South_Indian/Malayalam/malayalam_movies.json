@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 44,
-    "last_updated": "2026-10-17 | 07:01:10 (UTC)",
+    "total_movies": 40,
+    "last_updated": "2026-10-17 | 12:14:18 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -88,20 +88,12 @@
       "source_url": "https://cinefreak.net/mollywood-times-2026-full-movie-download",
       "res_list": [
         {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         },
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -115,18 +107,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLV%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -216,31 +196,6 @@
         {
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "I, Nobody",
-      "category": "Malayalam Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
-      "source_url": "https://cinefreak.net/i-nobody-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -605,27 +560,6 @@
       ]
     },
     {
-      "name": "John Luther",
-      "category": "Malayalam Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJoQGHkdimCfYizm4e4onSAKa4U.jpg",
-      "source_url": "https://cinefreak.net/john-luther-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Kaapa",
       "category": "Malayalam Movies",
       "year": "2022",
@@ -635,10 +569,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -660,19 +590,6 @@
       ]
     },
     {
-      "name": "Kaduva",
-      "category": "Malayalam Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hCGn1wVS7yMlF9vcq6poZtZlYE.jpg",
-      "source_url": "https://cinefreak.net/kaduva-2022-hindi-dubbed-hindi-malayalam-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Kaduva%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Churuli",
       "category": "Malayalam Movies",
       "year": "2021",
@@ -682,19 +599,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Churuli%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Kumbalangi Nights",
-      "category": "Malayalam Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJ3RvIirE2C7gdBKvPRaoQ3iCo2.jpg",
-      "source_url": "https://cinefreak.net/kumbalangi-nights-2019-hindi-dubbed-hindi-hq-dubbed-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kumbalangi%20Nights%20%282019%29%20WEBRip%20%5BMalayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },

@@ -4425,5 +4425,76 @@
     ],
     "last_attempt": "2026-10-17T07:01:10.466436+00:00",
     "attempt_count": 1
+  },
+  "malayalammovies::mollywoodtimes": {
+    "name": "Mollywood Times",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T12:14:07.090080+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::karakkam": {
+    "name": "Karakkam",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLV%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLV%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T12:14:08.957614+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::inobody": {
+    "name": "I, Nobody",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20I%20Nobody%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T12:14:10.848431+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::johnluther": {
+    "name": "John Luther",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20John%20Luther%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T12:14:12.873600+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::kaapa": {
+    "name": "Kaapa",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kaapa%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T12:14:14.844239+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::kaduva": {
+    "name": "Kaduva",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.NET%20-%20Kaduva%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T12:14:16.830714+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::kumbalanginights": {
+    "name": "Kumbalangi Nights",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Kumbalangi%20Nights%20%282019%29%20WEBRip%20%5BMalayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T12:14:18.847562+00:00",
+    "attempt_count": 1
   }
 }
