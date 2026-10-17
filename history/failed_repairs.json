@@ -4314,5 +4314,116 @@
     ],
     "last_attempt": "2026-10-17T00:32:25.783912+00:00",
     "attempt_count": 1
+  },
+  "malayalammovies::balan": {
+    "name": "Balan",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:00:51.862319+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::dose": {
+    "name": "Dose",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:00:53.679757+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::athiradi": {
+    "name": "Athiradi",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Athiradi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:00:55.473359+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::dridam": {
+    "name": "Dridam",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:00:56.709698+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::bharathanatyam2mohiniyattam": {
+    "name": "Bharathanatyam 2 Mohiniyattam",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:00:58.513745+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::chathapachatheringofrowdies": {
+    "name": "Chatha Pacha: The Ring Of Rowdies",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chatha%20Pacha%20The%20Ring%20of%20Rowdies%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:01:00.248051+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::babygirl": {
+    "name": "Baby Girl",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Girl%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:01:01.959476+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::bethlehemkudumbaunit": {
+    "name": "Bethlehem Kudumba Unit",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bethlehem%20Kudumba%20Unit%20%282026%29%20HDTC%20%5BMalayalam%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:01:03.366950+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::balti": {
+    "name": "Balti",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:01:05.361416+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::hridayapoorvam": {
+    "name": "Hridayapoorvam",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Hridayapoorvam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:01:07.170311+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::arm": {
+    "name": "A.R.M",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20A.R.M%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:01:08.916091+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::heaven": {
+    "name": "Heaven",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Heaven%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-17T07:01:10.466436+00:00",
+    "attempt_count": 1
   }
 }

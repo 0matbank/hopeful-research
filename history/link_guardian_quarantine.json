@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-10-14T01:16:37.733948+00:00",
-      "next_retry_at": "2026-10-17T01:16:37.733964+00:00",
-      "attempt_count": 5
+      "last_attempt": "2026-10-17T07:00:49.412317+00:00",
+      "next_retry_at": "2026-10-20T07:00:49.412329+00:00",
+      "attempt_count": 6
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -9560,7 +9560,132 @@
       "last_attempt": "2026-10-17T00:32:25.904861+00:00",
       "next_retry_at": "2026-10-17T06:32:25.904863+00:00",
       "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/dose-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/dose-2026-full-movie-download",
+      "movie": {
+        "name": "Dose",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg",
+        "source_url": "https://cinefreak.net/dose-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Dose%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T07:01:10.629557+00:00",
+      "last_attempt": "2026-10-17T07:01:10.629571+00:00",
+      "next_retry_at": "2026-10-17T13:01:10.629574+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/bharathanatyam-2-mohiniyattam-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/bharathanatyam-2-mohiniyattam-2026-full-movie-download",
+      "movie": {
+        "name": "Bharathanatyam 2 Mohiniyattam",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxz8X9FK3aOE9AtKnwp8ZZQDob.jpg",
+        "source_url": "https://cinefreak.net/bharathanatyam-2-mohiniyattam-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Bharathanatyam%202%20Mohiniyattam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T07:01:10.630045+00:00",
+      "last_attempt": "2026-10-17T07:01:10.630052+00:00",
+      "next_retry_at": "2026-10-17T13:01:10.630054+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/chatha-pacha-the-ring-of-rowdies-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/chatha-pacha-the-ring-of-rowdies-2026-full-movie-download",
+      "movie": {
+        "name": "Chatha Pacha: The Ring Of Rowdies",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a41fqMDWRcZcDqidGcq10xmRoh.jpg",
+        "source_url": "https://cinefreak.net/chatha-pacha-the-ring-of-rowdies-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chatha%20Pacha%20The%20Ring%20of%20Rowdies%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chatha%20Pacha%20The%20Ring%20of%20Rowdies%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T07:01:10.630257+00:00",
+      "last_attempt": "2026-10-17T07:01:10.630263+00:00",
+      "next_retry_at": "2026-10-17T13:01:10.630265+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/baby-girl-2026-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/baby-girl-2026-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Baby Girl",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEyEFVdlmUdapDl77704aR8o59D.jpg",
+        "source_url": "https://cinefreak.net/baby-girl-2026-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Girl%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Baby%20Girl%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-17T07:01:10.630421+00:00",
+      "last_attempt": "2026-10-17T07:01:10.630426+00:00",
+      "next_retry_at": "2026-10-17T13:01:10.630428+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/bethlehem-kudumba-unit-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/bethlehem-kudumba-unit-2026-full-movie-download",
+      "movie": {
+        "name": "Bethlehem Kudumba Unit",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+        "source_url": "https://cinefreak.net/bethlehem-kudumba-unit-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bethlehem%20Kudumba%20Unit%20%282026%29%20HDTC%20%5BMalayalam%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bethlehem%20Kudumba%20Unit%20%282026%29%20HDTC%20%5BMalayalam%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-17T07:01:10.630562+00:00",
+      "last_attempt": "2026-10-17T07:01:10.630567+00:00",
+      "next_retry_at": "2026-10-17T13:01:10.630569+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-17T00:32:25.921947+00:00"
+  "updated_at": "2026-10-17T07:01:10.649565+00:00"
 }
