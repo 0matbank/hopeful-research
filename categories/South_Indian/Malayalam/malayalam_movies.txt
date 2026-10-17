@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Malayalam Movies
 TOTAL MOVIES: 40
-LAST UPDATED: 2026-10-17 | 12:14:18 (UTC)
+LAST UPDATED: 2026-10-17 | 14:33:18 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
