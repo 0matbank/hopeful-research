@@ -4875,5 +4875,92 @@
     ],
     "last_attempt": "2026-10-18T11:13:28.738548+00:00",
     "attempt_count": 1
+  },
+  "telugumovies::isakapatnam": {
+    "name": "Isakapatnam",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Isakapatnam%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:35.171964+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::lenin": {
+    "name": "Lenin",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:37.476890+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::koreankanakaraju": {
+    "name": "Korean Kanakaraju",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:39.710604+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::kjq": {
+    "name": "KJQ",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Kjq%20King%20Jackie%20Queen%20%282026%29%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:42.161408+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::irumudi": {
+    "name": "Irumudi",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:44.379205+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::couplefriendly": {
+    "name": "Couple Friendly",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Couple%20Friendly%20%282026%29%20WEB-DL%20%5BTelugu%5D%201080p%20MSub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:46.560794+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::karmakhya": {
+    "name": "Karmakhya",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Karmakhya%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:48.940882+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::junior": {
+    "name": "Junior",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:51.177479+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::drinkersai": {
+    "name": "Drinker Sai",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T15:55:53.490268+00:00",
+    "attempt_count": 1
   }
 }

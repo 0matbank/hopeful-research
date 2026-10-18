@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-10-15T11:35:48.736144+00:00",
-      "next_retry_at": "2026-10-18T11:35:48.736157+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-10-18T15:55:32.229654+00:00",
+      "next_retry_at": "2026-10-21T15:55:32.229668+00:00",
+      "attempt_count": 11
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -10366,7 +10366,172 @@
       "last_attempt": "2026-10-18T11:13:28.846823+00:00",
       "next_retry_at": "2026-10-18T17:13:28.846825+00:00",
       "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/isakapatnam-2026-full-series-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/isakapatnam-2026-full-series-download",
+      "movie": {
+        "name": "Isakapatnam",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/faxMiOXMzGdDppUuAjZEnkZOXKg.jpg",
+        "source_url": "https://cinefreak.net/isakapatnam-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Isakapatnam%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Isakapatnam%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T15:55:53.634322+00:00",
+      "last_attempt": "2026-10-18T15:55:53.634335+00:00",
+      "next_retry_at": "2026-10-18T21:55:53.634337+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/kjq-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/kjq-2026-full-movie-download",
+      "movie": {
+        "name": "KJQ",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9be5MRYOUFE3SOAbmh3U481N3fb.jpg",
+        "source_url": "https://cinefreak.net/kjq-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Kjq%20King%20Jackie%20Queen%20%282026%29%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Kjq%20King%20Jackie%20Queen%20%282026%29%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T15:55:53.634661+00:00",
+      "last_attempt": "2026-10-18T15:55:53.634665+00:00",
+      "next_retry_at": "2026-10-18T21:55:53.634667+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/irumudi-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/irumudi-2026-full-movie-download",
+      "movie": {
+        "name": "Irumudi",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0huHbMUwEkp0ETChWLOD8MriNr.jpg",
+        "source_url": "https://cinefreak.net/irumudi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Irumudi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T15:55:53.634834+00:00",
+      "last_attempt": "2026-10-18T15:55:53.634840+00:00",
+      "next_retry_at": "2026-10-18T21:55:53.634843+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/couple-friendly-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/couple-friendly-2026-full-movie-download",
+      "movie": {
+        "name": "Couple Friendly",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/03/Couple-Friendly-2026.webp",
+        "source_url": "https://cinefreak.net/couple-friendly-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Couple%20Friendly%20%282026%29%20WEB-DL%20%5BTelugu%5D%201080p%20MSub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Couple%20Friendly%20%282026%29%20WEB-DL%20%5BTelugu%5D%201080p%20MSub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T15:55:53.635017+00:00",
+      "last_attempt": "2026-10-18T15:55:53.635023+00:00",
+      "next_retry_at": "2026-10-18T21:55:53.635026+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/karmakhya-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/karmakhya-2026-full-movie-download",
+      "movie": {
+        "name": "Karmakhya",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGVN0bh4xQtJIHiXFy2JyWVOiMd.jpg",
+        "source_url": "https://cinefreak.net/karmakhya-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Karmakhya%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Karmakhya%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T15:55:53.635138+00:00",
+      "last_attempt": "2026-10-18T15:55:53.635141+00:00",
+      "next_retry_at": "2026-10-18T21:55:53.635143+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/drinker-sai-2024-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/drinker-sai-2024-full-movie-download",
+      "movie": {
+        "name": "Drinker Sai",
+        "category": "Telugu Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ7CtrA5631A5VunLtBAt2SbGLZ.jpg",
+        "source_url": "https://cinefreak.net/drinker-sai-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Drinker%20Sai%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T15:55:53.635275+00:00",
+      "last_attempt": "2026-10-18T15:55:53.635277+00:00",
+      "next_retry_at": "2026-10-18T21:55:53.635279+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-18T11:13:28.864462+00:00"
+  "updated_at": "2026-10-18T15:55:53.649624+00:00"
 }
