@@ -340,9 +340,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Pompeii%20Out%20of%20Time%20with%20Tom%20Hiddleston%20%282026%29%20S01%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T11:41:02.562150+00:00",
-      "last_attempt": "2026-09-11T11:41:02.562164+00:00",
-      "next_retry_at": "2026-09-11T17:41:02.562166+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-10-18T04:39:42.571353+00:00",
+      "next_retry_at": "2026-10-18T16:39:42.571371+00:00",
+      "attempt_count": 2
     },
     "disneyhotstar::https://cinefreak.net/mark-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -10111,7 +10111,214 @@
       "last_attempt": "2026-10-17T22:23:49.635495+00:00",
       "next_retry_at": "2026-10-18T04:23:49.635497+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/sattendru-maarudhu-vaanilai-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/sattendru-maarudhu-vaanilai-2026-full-movie-download",
+      "movie": {
+        "name": "Sattendru Maarudhu Vaanilai",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHwiypD3b2Ey9CkisGtrkieFHIh.jpg",
+        "source_url": "https://cinefreak.net/sattendru-maarudhu-vaanilai-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sattendru%20Maarudhu%20Vaanilai%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sattendru%20Maarudhu%20Vaanilai%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.708210+00:00",
+      "last_attempt": "2026-10-18T04:40:00.708234+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.708236+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/sardar-2-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/sardar-2-2026-full-movie-download",
+      "movie": {
+        "name": "Sardar 2",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+        "source_url": "https://cinefreak.net/sardar-2-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sardar-2%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sardar-2%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.708521+00:00",
+      "last_attempt": "2026-10-18T04:40:00.708529+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.708532+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/surrender-2025-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/surrender-2025-full-movie-download",
+      "movie": {
+        "name": "Surrender",
+        "category": "Tamil Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4RBmd46UWfTRudGkYOnvFLbtX3.jpg",
+        "source_url": "https://cinefreak.net/surrender-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.708762+00:00",
+      "last_attempt": "2026-10-18T04:40:00.708768+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.708770+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/ten-hours-2025-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/ten-hours-2025-full-movie-download",
+      "movie": {
+        "name": "Ten Hours",
+        "category": "Tamil Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpy3tsUxCo2nQ1g2iLKiOEmZZaW.jpg",
+        "source_url": "https://cinefreak.net/ten-hours-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Ten%20Hours%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Ten%20Hours%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.708890+00:00",
+      "last_attempt": "2026-10-18T04:40:00.708894+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.708895+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/viduthalai-part-i-2023-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/viduthalai-part-i-2023-full-movie-download",
+      "movie": {
+        "name": "Viduthalai: Part I",
+        "category": "Tamil Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTxPji8PY3PL0SK9e4mkt2laJKg.jpg",
+        "source_url": "https://cinefreak.net/viduthalai-part-i-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.709028+00:00",
+      "last_attempt": "2026-10-18T04:40:00.709031+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.709033+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/rangoli-2023-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/rangoli-2023-full-movie-download",
+      "movie": {
+        "name": "Rangoli",
+        "category": "Tamil Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGkbrUo20knzN57sSicrf81r4q4.jpg",
+        "source_url": "https://cinefreak.net/rangoli-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rangoli%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rangoli%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.709127+00:00",
+      "last_attempt": "2026-10-18T04:40:00.709129+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.709131+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/mersal-2017-hindi-dubbed-hindi-dubbed-tamil-uncut-true-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/mersal-2017-hindi-dubbed-hindi-dubbed-tamil-uncut-true-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Mersal",
+        "category": "Tamil Movies",
+        "year": "2017",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/02/Mersal-2017.jpg",
+        "source_url": "https://cinefreak.net/mersal-2017-hindi-dubbed-hindi-dubbed-tamil-uncut-true-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.709242+00:00",
+      "last_attempt": "2026-10-18T04:40:00.709245+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.709247+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/naan-mahaan-alla-2010-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/naan-mahaan-alla-2010-full-movie-download",
+      "movie": {
+        "name": "Naan Mahaan Alla",
+        "category": "Tamil Movies",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U8gswKuolWFjis7cGhx8DwRxYX.jpg",
+        "source_url": "https://cinefreak.net/naan-mahaan-alla-2010-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Naan%20Mahaan%20Alla%20%282010%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Naan%20Mahaan%20Alla%20%282010%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T04:40:00.709339+00:00",
+      "last_attempt": "2026-10-18T04:40:00.709342+00:00",
+      "next_retry_at": "2026-10-18T10:40:00.709343+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-17T22:23:49.652980+00:00"
+  "updated_at": "2026-10-18T04:40:00.724238+00:00"
 }

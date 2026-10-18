@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Tamil Movies",
-    "total_movies": 29,
-    "last_updated": "2026-10-17 | 22:23:49 (UTC)",
+    "total_movies": 21,
+    "last_updated": "2026-10-18 | 04:40:00 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -282,27 +282,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Sattendru Maarudhu Vaanilai",
-      "category": "Tamil Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHwiypD3b2Ey9CkisGtrkieFHIh.jpg",
-      "source_url": "https://cinefreak.net/sattendru-maarudhu-vaanilai-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sattendru%20Maarudhu%20Vaanilai%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -361,10 +340,6 @@
       "source_url": "https://cinefreak.net/youth-2026-full-movie-download",
       "res_list": [
         {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Youth%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20HEVC%20ESub.mkv"
-        },
-        {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Youth%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv"
         },
@@ -388,19 +363,6 @@
       ]
     },
     {
-      "name": "Sardar 2",
-      "category": "Tamil Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
-      "source_url": "https://cinefreak.net/sardar-2-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sardar-2%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "Mahasenha",
       "category": "Tamil Movies",
       "year": "2025",
@@ -410,32 +372,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mahasenha%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Surrender",
-      "category": "Tamil Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4RBmd46UWfTRudGkYOnvFLbtX3.jpg",
-      "source_url": "https://cinefreak.net/surrender-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Surrender%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Ten Hours",
-      "category": "Tamil Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpy3tsUxCo2nQ1g2iLKiOEmZZaW.jpg",
-      "source_url": "https://cinefreak.net/ten-hours-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Ten%20Hours%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -479,36 +415,6 @@
       ]
     },
     {
-      "name": "Viduthalai: Part I",
-      "category": "Tamil Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTxPji8PY3PL0SK9e4mkt2laJKg.jpg",
-      "source_url": "https://cinefreak.net/viduthalai-part-i-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Viduthalai%20Part%201%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Rangoli",
-      "category": "Tamil Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGkbrUo20knzN57sSicrf81r4q4.jpg",
-      "source_url": "https://cinefreak.net/rangoli-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Rangoli%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "FIR",
       "category": "Tamil Movies",
       "year": "2022",
@@ -529,33 +435,8 @@
       "source_url": "https://cinefreak.net/psycho-2020-full-movie-download",
       "res_list": [
         {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Psycho%20%282020%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Psycho%20%282020%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mersal",
-      "category": "Tamil Movies",
-      "year": "2017",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/02/Mersal-2017.jpg",
-      "source_url": "https://cinefreak.net/mersal-2017-hindi-dubbed-hindi-dubbed-tamil-uncut-true-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/%20CINEFREAK.TOP%20-%20Mersal%20%282017%29%20TRUE%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -569,19 +450,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Paayum%20Puli%20%282015%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Naan Mahaan Alla",
-      "category": "Tamil Movies",
-      "year": "2010",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U8gswKuolWFjis7cGhx8DwRxYX.jpg",
-      "source_url": "https://cinefreak.net/naan-mahaan-alla-2010-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Naan%20Mahaan%20Alla%20%282010%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     }
