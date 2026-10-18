@@ -21,9 +21,9 @@
         "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.757409+00:00",
-      "last_attempt": "2026-10-15T17:05:59.341672+00:00",
-      "next_retry_at": "2026-10-18T17:05:59.341688+00:00",
-      "attempt_count": 18
+      "last_attempt": "2026-10-18T18:40:51.139192+00:00",
+      "next_retry_at": "2026-10-21T18:40:51.139209+00:00",
+      "attempt_count": 19
     },
     "kannadamovies::https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -10531,7 +10531,152 @@
       "last_attempt": "2026-10-18T15:55:53.635277+00:00",
       "next_retry_at": "2026-10-18T21:55:53.635279+00:00",
       "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/nagabandham-the-secret-treasure-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/nagabandham-the-secret-treasure-2026-full-movie-download",
+      "movie": {
+        "name": "Nagabandham: The Secret Treasure",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+        "source_url": "https://cinefreak.net/nagabandham-the-secret-treasure-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Nagabandham%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T18:41:11.227559+00:00",
+      "last_attempt": "2026-10-18T18:41:11.227590+00:00",
+      "next_retry_at": "2026-10-19T00:41:11.227594+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/razor-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/razor-2026-full-movie-download",
+      "movie": {
+        "name": "Razor",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/la5XLMTI7HpzEdrWAZe5vMtyGqt.jpg",
+        "source_url": "https://cinefreak.net/razor-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Razor%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Razor%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T18:41:11.227850+00:00",
+      "last_attempt": "2026-10-18T18:41:11.227856+00:00",
+      "next_retry_at": "2026-10-19T00:41:11.227858+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/newtons-3rd-law-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/newtons-3rd-law-2026-full-movie-download",
+      "movie": {
+        "name": "Newton's 3rd Law",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1TtmLR2ydmUZGnYXsThpZ99I2X.jpg",
+        "source_url": "https://cinefreak.net/newtons-3rd-law-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Newtons%203rd%20Law%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T18:41:11.228131+00:00",
+      "last_attempt": "2026-10-18T18:41:11.228137+00:00",
+      "next_retry_at": "2026-10-19T00:41:11.228139+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/mazaka-2025-web-dl-telugu-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/mazaka-2025-web-dl-telugu-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Mazaka",
+        "category": "Telugu Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjQux36LtV5PfF4a0wgmp71Eo6p.jpg",
+        "source_url": "https://cinefreak.net/mazaka-2025-web-dl-telugu-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mazaka%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mazaka%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T18:41:11.228358+00:00",
+      "last_attempt": "2026-10-18T18:41:11.228363+00:00",
+      "next_retry_at": "2026-10-19T00:41:11.228365+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/ninu-veedani-needanu-nene-2019-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/ninu-veedani-needanu-nene-2019-full-movie-download",
+      "movie": {
+        "name": "Ninu Veedani Needanu Nene",
+        "category": "Telugu Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPx3qv1Cu2DcClPyd2pRAlX7w3l.jpg",
+        "source_url": "https://cinefreak.net/ninu-veedani-needanu-nene-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ninu%20Veedani%20Needanu%20Nene%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ninu%20Veedani%20Needanu%20Nene%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ninu%20Veedani%20Needanu%20Nene%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Ninu%20Veedani%20Needanu%20Nene%20%282019%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-18T18:41:11.228574+00:00",
+      "last_attempt": "2026-10-18T18:41:11.228579+00:00",
+      "next_retry_at": "2026-10-19T00:41:11.228581+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-18T15:55:53.649624+00:00"
+  "updated_at": "2026-10-18T18:41:11.244661+00:00"
 }
