@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
-TOTAL MOVIES: 31
-LAST UPDATED: 2026-10-18 | 18:41:11 (UTC)
+TOTAL MOVIES: 27
+LAST UPDATED: 2026-10-18 | 22:28:14 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -64,20 +64,6 @@ Episode: Episode 73-76
 ================================================================================
 
 Movie-2
-Movie name: Sing Geetham
-Category: Telugu Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UVWJ0zkPzuUlKHs7ZaTfQ2GLpk.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-3
 Show name: Super Subbu
 Category: Telugu Movies
 Year: 2026
@@ -90,7 +76,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-4
+Movie-3
 Movie name: Mareechika
 Category: Telugu Movies
 Year: 2026
@@ -104,7 +90,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-5
+Movie-4
 Movie name: M4M
 Category: Telugu Movies
 Year: 2026
@@ -115,7 +101,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
+Movie-5
 Movie name: Raakaasa
 Category: Telugu Movies
 Year: 2026
@@ -126,7 +112,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
+Movie-6
 Movie name: Srinivasa Mangapuram
 Category: Telugu Movies
 Year: 2026
@@ -138,15 +124,9 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
 ================================================================================
 
-Movie-8
+Movie-7
 Movie name: Lenin
 Category: Telugu Movies
 Year: 2026
@@ -160,7 +140,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-8
 Show name: Part-Timers
 Category: Telugu Movies
 Year: 2026
@@ -178,7 +158,7 @@ Episode: Episode 09-12
 
 ================================================================================
 
-Movie-10
+Movie-9
 Movie name: Chennai Love Story
 Category: Telugu Movies
 Year: 2026
@@ -195,7 +175,7 @@ STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
+Movie-10
 Movie name: Korean Kanakaraju
 Category: Telugu Movies
 Year: 2026
@@ -209,7 +189,7 @@ STREAM Link 2: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-12
+Movie-11
 Movie name: Pallaburusu
 Category: Telugu Movies
 Year: 2026
@@ -220,7 +200,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-12
 Movie name: Ustaad Bhagat Singh
 Category: Telugu Movies
 Year: 2026
@@ -237,7 +217,7 @@ STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-13
 Movie name: Mrithyunjay
 Category: Telugu Movies
 Year: 2026
@@ -248,7 +228,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-15
+Movie-14
 Movie name: Junior
 Category: Telugu Movies
 Year: 2025
@@ -262,7 +242,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-15
 Movie name: Arjun S/O Vyjayanthi
 Category: Telugu Movies
 Year: 2025
@@ -276,7 +256,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-16
 Movie name: Mowgli
 Category: Telugu Movies
 Year: 2025
@@ -287,7 +267,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-17
 Movie name: CSI Sanatan
 Category: Telugu Movies
 Year: 2023
@@ -298,7 +278,7 @@ STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-18
 Movie name: The Ghost
 Category: Telugu Movies
 Year: 2022
@@ -310,35 +290,9 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
 ================================================================================
 
-Movie-20
-Movie name: Sita Ramam
-Category: Telugu Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1O94ZBzsQXJihtVkrsStRLyUDR.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
-
-RESOLUTION 4: 4K 2160P HEVC
-STREAM Link 4: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-21
+Movie-19
 Movie name: Kotha Kothaga
 Category: Telugu Movies
 Year: 2022
@@ -349,7 +303,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-20
 Movie name: Swathi Muthyam
 Category: Telugu Movies
 Year: 2022
@@ -363,24 +317,18 @@ STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-21
 Movie name: Tuck Jagadish
 Category: Telugu Movies
 Year: 2021
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3N0BvNtplnvK1kyqP4dQREUCn5.jpg
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 1: HQ 1080P
+STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-24
+Movie-22
 Movie name: Thellavarithe Guruvaram
 Category: Telugu Movies
 Year: 2021
@@ -394,18 +342,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
-Movie name: Red
-Category: Telugu Movies
-Year: 2021
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cEEDAHhMGtoWfYXJxelVMRwLu0.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Red%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-26
+Movie-23
 Movie name: Bheeshma
 Category: Telugu Movies
 Year: 2020
@@ -416,21 +353,18 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
+Movie-24
 Movie name: Spyder
 Category: Telugu Movies
 Year: 2017
 Poster: https://cinefreak.net/wp-content/uploads/2026/06/Spyder-2017.webp
 
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+RESOLUTION 1: HD 1080P
+STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-28
+Movie-25
 Movie name: DJ: Duvvada Jagannadham
 Category: Telugu Movies
 Year: 2017
@@ -441,7 +375,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
+Movie-26
 Movie name: Arjun Reddy
 Category: Telugu Movies
 Year: 2017
@@ -452,18 +386,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
-Movie name: Rebel
-Category: Telugu Movies
-Year: 2012
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwD0qvuk75C0a3uI7WT04BbZb2j.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Return%20of%20Rebel%20%282012%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-31
+Movie-27
 Movie name: Brindavanam
 Category: Telugu Movies
 Year: 2010

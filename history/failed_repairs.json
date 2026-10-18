@@ -5041,5 +5041,84 @@
     ],
     "last_attempt": "2026-10-18T18:41:10.964351+00:00",
     "attempt_count": 1
+  },
+  "telugumovies::singgeetham": {
+    "name": "Sing Geetham",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sing%20Geetam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:04.889027+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::srinivasamangapuram": {
+    "name": "Srinivasa Mangapuram",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:05.977202+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::theghost": {
+    "name": "The Ghost",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:07.531910+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::sitaramam": {
+    "name": "Sita Ramam",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:08.508446+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::tuckjagadish": {
+    "name": "Tuck Jagadish",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:10.176092+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::red": {
+    "name": "Red",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Red%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:11.666784+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::spyder": {
+    "name": "Spyder",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:13.265469+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::rebel": {
+    "name": "Rebel",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Return%20of%20Rebel%20%282012%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-18T22:28:14.751408+00:00",
+    "attempt_count": 1
   }
 }
