@@ -5454,5 +5454,116 @@
     ],
     "last_attempt": "2026-10-19T19:59:47.291427+00:00",
     "attempt_count": 1
+  },
+  "englishmovies::thebay": {
+    "name": "The Bay",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Bay%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:45:49.741405+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::tomandjerryshivermewhiskers": {
+    "name": "Tom And Jerry: Shiver Me Whiskers",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tom%20and%20Jerry%20Shiver%20Me%20Whiskers%20%282006%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:45:51.005950+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::savingprivateryan": {
+    "name": "Saving Private Ryan",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saving%20Private%20Ryan%20%281998%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:45:52.532963+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::robocop": {
+    "name": "RoboCop",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20RoboCop%20%281987%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:45:54.321326+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::peddi": {
+    "name": "Peddi",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:45:56.417319+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::euphoria": {
+    "name": "Euphoria",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:45:58.179848+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::idhayammurali": {
+    "name": "Idhayam Murali",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Idhayam%20Murali%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:45:59.564085+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::mangopachcha": {
+    "name": "Mango Pachcha",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mango%20Pachcha%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:46:01.027040+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::mensionhousemallesh": {
+    "name": "Mension House Mallesh",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mension%20House%20Mallesh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:46:02.650782+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::maruthinagarpolicestation": {
+    "name": "Maruthi Nagar Police Station",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:46:04.277833+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::csisanatan": {
+    "name": "CSI Sanatan",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:46:05.723332+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::porthozhil": {
+    "name": "Por Thozhil",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC.mkv"
+    ],
+    "last_attempt": "2026-10-19T23:46:07.174220+00:00",
+    "attempt_count": 1
   }
 }

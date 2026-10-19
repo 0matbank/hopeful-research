@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 58,
-    "last_updated": "2026-10-19 | 19:59:47 (UTC)",
+    "total_movies": 54,
+    "last_updated": "2026-10-19 | 23:45:54 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -111,19 +111,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Bay",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-      "source_url": "https://cinefreak.net/the-bay-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Bay%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -676,19 +663,6 @@
       ]
     },
     {
-      "name": "Tom And Jerry: Shiver Me Whiskers",
-      "category": "English Movies",
-      "year": "2006",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kJT2PQXBdLvT7jimzgxQFWXPBK.jpg",
-      "source_url": "https://cinefreak.net/tom-and-jerry-shiver-me-whiskers-2006-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tom%20and%20Jerry%20Shiver%20Me%20Whiskers%20%282006%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Hitch",
       "category": "English Movies",
       "year": "2005",
@@ -715,19 +689,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Saving Private Ryan",
-      "category": "English Movies",
-      "year": "1998",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
-      "source_url": "https://cinefreak.net/saving-private-ryan-1998-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saving%20Private%20Ryan%20%281998%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -780,19 +741,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Robotrix%20%281991%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "RoboCop",
-      "category": "English Movies",
-      "year": "1987",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
-      "source_url": "https://cinefreak.net/robocop-1987-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20RoboCop%20%281987%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },

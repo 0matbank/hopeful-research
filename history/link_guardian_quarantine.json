@@ -219,9 +219,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898293+00:00",
-      "last_attempt": "2026-10-16T21:14:58.710181+00:00",
-      "next_retry_at": "2026-10-19T21:14:58.710197+00:00",
-      "attempt_count": 5
+      "last_attempt": "2026-10-19T23:45:47.469221+00:00",
+      "next_retry_at": "2026-10-22T23:45:47.469234+00:00",
+      "attempt_count": 6
     },
     "disneyhotstar::https://cinefreak.net/chris-hemsworth-a-road-trip-to-remember-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -11482,7 +11482,175 @@
       "last_attempt": "2026-10-19T19:59:47.509234+00:00",
       "next_retry_at": "2026-10-20T01:59:47.509240+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-bay-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-bay-2026-full-movie-download",
+      "movie": {
+        "name": "The Bay",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+        "source_url": "https://cinefreak.net/the-bay-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Bay%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Bay%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T23:45:54.409494+00:00",
+      "last_attempt": "2026-10-19T23:45:54.409507+00:00",
+      "next_retry_at": "2026-10-20T05:45:54.409509+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/tom-and-jerry-shiver-me-whiskers-2006-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/tom-and-jerry-shiver-me-whiskers-2006-full-movie-download",
+      "movie": {
+        "name": "Tom And Jerry: Shiver Me Whiskers",
+        "category": "English Movies",
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kJT2PQXBdLvT7jimzgxQFWXPBK.jpg",
+        "source_url": "https://cinefreak.net/tom-and-jerry-shiver-me-whiskers-2006-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tom%20and%20Jerry%20Shiver%20Me%20Whiskers%20%282006%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tom%20and%20Jerry%20Shiver%20Me%20Whiskers%20%282006%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T23:45:54.410055+00:00",
+      "last_attempt": "2026-10-19T23:45:54.410062+00:00",
+      "next_retry_at": "2026-10-20T05:45:54.410064+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/saving-private-ryan-1998-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/saving-private-ryan-1998-full-movie-download",
+      "movie": {
+        "name": "Saving Private Ryan",
+        "category": "English Movies",
+        "year": "1998",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+        "source_url": "https://cinefreak.net/saving-private-ryan-1998-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saving%20Private%20Ryan%20%281998%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Saving%20Private%20Ryan%20%281998%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T23:45:54.410383+00:00",
+      "last_attempt": "2026-10-19T23:45:54.410398+00:00",
+      "next_retry_at": "2026-10-20T05:45:54.410403+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/robocop-1987-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/robocop-1987-full-movie-download",
+      "movie": {
+        "name": "RoboCop",
+        "category": "English Movies",
+        "year": "1987",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+        "source_url": "https://cinefreak.net/robocop-1987-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20RoboCop%20%281987%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20RoboCop%20%281987%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T23:45:54.410772+00:00",
+      "last_attempt": "2026-10-19T23:45:54.410781+00:00",
+      "next_retry_at": "2026-10-20T05:45:54.410784+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/mension-house-mallesh-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/mension-house-mallesh-2026-full-movie-download",
+      "movie": {
+        "name": "Mension House Mallesh",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogAiSE22WPT98qD0W1vfibkqKPS.jpg",
+        "source_url": "https://cinefreak.net/mension-house-mallesh-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mension%20House%20Mallesh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mension%20House%20Mallesh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T23:46:07.397313+00:00",
+      "last_attempt": "2026-10-19T23:46:07.397331+00:00",
+      "next_retry_at": "2026-10-20T05:46:07.397335+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download",
+      "movie": {
+        "name": "Maruthi Nagar Police Station",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg",
+        "source_url": "https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T23:46:07.397777+00:00",
+      "last_attempt": "2026-10-19T23:46:07.397785+00:00",
+      "next_retry_at": "2026-10-20T05:46:07.397787+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/csi-sanatan-2023-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/csi-sanatan-2023-full-movie-download",
+      "movie": {
+        "name": "CSI Sanatan",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg",
+        "source_url": "https://cinefreak.net/csi-sanatan-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T23:46:07.397972+00:00",
+      "last_attempt": "2026-10-19T23:46:07.397978+00:00",
+      "next_retry_at": "2026-10-20T05:46:07.397980+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-19T19:59:47.526776+00:00"
+  "updated_at": "2026-10-19T23:46:07.587238+00:00"
 }
