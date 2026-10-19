@@ -845,64 +845,64 @@
         "retry_after": "2026-10-19T15:00:10.683470+00:00"
       },
       "https://cinefreak.net/paru-parvathy-2025-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-04T15:21:00.193286+00:00",
-        "retry_after_epoch": 1788578460,
-        "retry_after": "2026-09-05T03:21:00.193286+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644688+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644688+00:00"
       },
       "https://cinefreak.net/vaamana-2025-web-dl-hindi-org-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-04T15:21:00.193314+00:00",
-        "retry_after_epoch": 1788578460,
-        "retry_after": "2026-09-05T03:21:00.193314+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644737+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644737+00:00"
       },
       "https://cinefreak.net/ayyana-mane-2025-season-1-web-dl-hindi-dubbed-zee5-web-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-04T15:21:00.377262+00:00",
-        "retry_after_epoch": 1788578460,
-        "retry_after": "2026-09-05T03:21:00.377262+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644748+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644748+00:00"
       },
       "https://cinefreak.net/mithya-2024-web-dl-kannada-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-04T15:21:00.377536+00:00",
-        "retry_after_epoch": 1788578460,
-        "retry_after": "2026-09-05T03:21:00.377536+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644754+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644754+00:00"
       },
       "https://cinefreak.net/kotee-2024-uncut-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-18T01:56:54.647184+00:00",
-        "retry_after_epoch": 1789739814,
-        "retry_after": "2026-09-18T13:56:54.647184+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644760+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644760+00:00"
       },
       "https://cinefreak.net/garadi-2023-web-dl-hindi-dubbed-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-18T01:56:54.647217+00:00",
-        "retry_after_epoch": 1789739814,
-        "retry_after": "2026-09-18T13:56:54.647217+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644765+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644765+00:00"
       },
       "https://cinefreak.net/choo-mantar-2025-web-dl-kannada-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-18T01:56:54.647227+00:00",
-        "retry_after_epoch": 1789739814,
-        "retry_after": "2026-09-18T13:56:54.647227+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644771+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644771+00:00"
       },
       "https://cinefreak.net/royal-2025-web-dl-kannada-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-18T01:56:54.647234+00:00",
-        "retry_after_epoch": 1789739814,
-        "retry_after": "2026-09-18T13:56:54.647234+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644776+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644776+00:00"
       },
       "https://cinefreak.net/maa-nanna-superhero-2024-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-18T01:56:57.081267+00:00",
-        "retry_after_epoch": 1789739817,
-        "retry_after": "2026-09-18T13:56:57.081267+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644781+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644781+00:00"
       },
       "https://cinefreak.net/rathnan-prapancha-2021-web-dl-hindi-dubbed-full-movie-download-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-18T15:24:47.219877+00:00",
-        "retry_after_epoch": 1789788287,
-        "retry_after": "2026-09-19T03:24:47.219877+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-19T02:07:23.644786+00:00",
+        "retry_after_epoch": 1792462043,
+        "retry_after": "2026-10-20T02:07:23.644786+00:00"
       },
       "https://cinefreak.net/case-of-kondana-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
         "failure_count": 1,
