@@ -301,10 +301,10 @@
     "name": "Dimlight",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Dimlight%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dimlight%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-10T20:59:53.236219+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-19T04:47:26.608352+00:00",
+    "attempt_count": 2
   },
   "banglamovies::aranyarprachinprobad": {
     "name": "Aranyar Prachin Probad",
@@ -2337,12 +2337,10 @@
     "name": "Undekhi",
     "category": "Bangla Dubbed",
     "dead_links": [
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E06%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E07%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E01-05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-10T18:40:53.867350+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-19T04:47:36.916170+00:00",
+    "attempt_count": 2
   },
   "banglamovies::meu": {
     "name": "Meu",
@@ -5119,6 +5117,123 @@
       "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Return%20of%20Rebel%20%282012%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-18T22:28:14.751408+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::chokro2": {
+    "name": "Chokro 2",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E01-07%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:18.199381+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::bonolotaexpress": {
+    "name": "Bonolota Express",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20RAW%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:20.141702+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::aajoardhangini": {
+    "name": "Aajo Ardhangini",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Aajo%20Ardhangini%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:21.945424+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::bahurup": {
+    "name": "Bahurup",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bohurup%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:23.773567+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::cidsquad": {
+    "name": "CID Squad",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E04%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:29.209338+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::thesecretoftheshiledars": {
+    "name": "The Secret Of The Shiledars",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20of%20the%20Shiledars%20%282025%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:31.062253+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::dirilisertugrulseason1": {
+    "name": "Dirilis Ertugrul (Season 1",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dirilis%20Ertugrul%20%282025%29%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%20Toffee%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:32.791285+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::ayali": {
+    "name": "Ayali",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ayali%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:34.654010+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::brodaddy": {
+    "name": "Bro Daddy",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bro%20Daddy%20%282022%29%20WEB-DL%20%5BHQ%20Bengali-Hindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:39.146716+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::ray": {
+    "name": "Ray",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ray%20%282021%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20NF%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:41.026137+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::adithyavarma": {
+    "name": "Adithya Varma",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Adithya%20Varma%20%282019%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:42.823538+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::badgenius": {
+    "name": "Bad Genius",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bad%20Genius%20%282017%29%20WEB-DL%20%5BBengali%20ORG%5D%20Bongo%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:44.525120+00:00",
+    "attempt_count": 1
+  },
+  "bangladubbed::manvswild": {
+    "name": "Man Vs. Wild",
+    "category": "Bangla Dubbed",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Man%20vs%20Wild%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T04:47:46.321680+00:00",
     "attempt_count": 1
   }
 }
