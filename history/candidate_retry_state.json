@@ -1031,6 +1031,66 @@
         "last_failed_at": "2026-09-20T02:06:20.182031+00:00",
         "retry_after_epoch": 1789913180,
         "retry_after": "2026-09-20T14:06:20.182031+00:00"
+      },
+      "https://cinefreak.net/ranabaali-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899478+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899478+00:00"
+      },
+      "https://cinefreak.net/berserk-of-gluttony-2023-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899530+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899530+00:00"
+      },
+      "https://cinefreak.net/tsukimichi-moonlit-fantasy-2021-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899543+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899543+00:00"
+      },
+      "https://cinefreak.net/son-of-satyamurthy-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899553+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899553+00:00"
+      },
+      "https://cinefreak.net/maremma-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899568+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899568+00:00"
+      },
+      "https://cinefreak.net/least-eligible-bachelor-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899578+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899578+00:00"
+      },
+      "https://cinefreak.net/vadala-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899590+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899590+00:00"
+      },
+      "https://cinefreak.net/crazy-fellow-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899622+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899622+00:00"
+      },
+      "https://cinefreak.net/paradha-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899632+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899632+00:00"
+      },
+      "https://cinefreak.net/mahendragiri-varahi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-19T17:52:42.899641+00:00",
+        "retry_after_epoch": 1792475562,
+        "retry_after": "2026-10-20T05:52:42.899641+00:00"
       }
     },
     "Hindi Dubbed Movies": {
