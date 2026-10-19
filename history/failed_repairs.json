@@ -5343,5 +5343,116 @@
     ],
     "last_attempt": "2026-10-19T13:25:43.062456+00:00",
     "attempt_count": 1
+  },
+  "englishmovies::backrooms": {
+    "name": "Backrooms",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20DV%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:25.766219+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::pawpatrolthedino": {
+    "name": "PAW Patrol: The Dino Movie",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:27.609992+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::drawntogether": {
+    "name": "Drawn Together",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:29.799990+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::residentevil": {
+    "name": "Resident Evil",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%201080p%20HC-ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:31.758475+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::gold": {
+    "name": "Gold",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:33.741138+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::pokemondetectivepikachu": {
+    "name": "Pokémon Detective Pikachu",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Pokemon%20Detective%20Pikachu%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:35.617804+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::dawnoftheplanetoftheapes": {
+    "name": "Dawn Of The Planet Of The Apes",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:37.569246+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::anonymous": {
+    "name": "Anonymous",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anonymous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:39.462446+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::blitz": {
+    "name": "Blitz",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Blitz%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:41.535279+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::donniebrasco": {
+    "name": "Donnie Brasco",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Donnie%20Brasco%20%281997%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:43.445903+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::captainron": {
+    "name": "Captain Ron",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Captain%20Ron%20%281992%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:45.308751+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::madmaxbeyondthunderdome": {
+    "name": "Mad Max Beyond Thunderdome",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%203%20Beyond%20Thunderdome%20%281985%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T19:59:47.291427+00:00",
+    "attempt_count": 1
   }
 }

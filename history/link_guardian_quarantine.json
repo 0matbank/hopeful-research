@@ -123,9 +123,9 @@
         "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
-      "last_attempt": "2026-10-16T18:06:40.160226+00:00",
-      "next_retry_at": "2026-10-19T18:06:40.160243+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-10-19T19:59:23.170073+00:00",
+      "next_retry_at": "2026-10-22T19:59:23.170092+00:00",
+      "attempt_count": 9
     },
     "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -11285,7 +11285,204 @@
       "last_attempt": "2026-10-19T13:25:43.252225+00:00",
       "next_retry_at": "2026-10-19T19:25:43.252227+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/resident-evil-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/resident-evil-2026-full-movie-download",
+      "movie": {
+        "name": "Resident Evil",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "source_url": "https://cinefreak.net/resident-evil-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%201080p%20HC-ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%201080p%20HC-ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.507912+00:00",
+      "last_attempt": "2026-10-19T19:59:47.507928+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.507930+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/pokemon-detective-pikachu-2019-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/pokemon-detective-pikachu-2019-full-movie-download",
+      "movie": {
+        "name": "Pokémon Detective Pikachu",
+        "category": "English Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+        "source_url": "https://cinefreak.net/pokemon-detective-pikachu-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Pokemon%20Detective%20Pikachu%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Pokemon%20Detective%20Pikachu%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.508311+00:00",
+      "last_attempt": "2026-10-19T19:59:47.508316+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.508319+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/dawn-of-the-planet-of-the-apes-2014-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/dawn-of-the-planet-of-the-apes-2014-full-movie-download",
+      "movie": {
+        "name": "Dawn Of The Planet Of The Apes",
+        "category": "English Movies",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+        "source_url": "https://cinefreak.net/dawn-of-the-planet-of-the-apes-2014-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.508519+00:00",
+      "last_attempt": "2026-10-19T19:59:47.508523+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.508525+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/anonymous-2011-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/anonymous-2011-full-movie-download",
+      "movie": {
+        "name": "Anonymous",
+        "category": "English Movies",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRjdFP0kqCPaDKeXgQtsb7how6e.jpg",
+        "source_url": "https://cinefreak.net/anonymous-2011-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anonymous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anonymous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.508656+00:00",
+      "last_attempt": "2026-10-19T19:59:47.508659+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.508661+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/blitz-2011-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/blitz-2011-full-movie-download",
+      "movie": {
+        "name": "Blitz",
+        "category": "English Movies",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg",
+        "source_url": "https://cinefreak.net/blitz-2011-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Blitz%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Blitz%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.508773+00:00",
+      "last_attempt": "2026-10-19T19:59:47.508776+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.508778+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/donnie-brasco-1997-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/donnie-brasco-1997-full-movie-download",
+      "movie": {
+        "name": "Donnie Brasco",
+        "category": "English Movies",
+        "year": "1997",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+        "source_url": "https://cinefreak.net/donnie-brasco-1997-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Donnie%20Brasco%20%281997%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Donnie%20Brasco%20%281997%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.508933+00:00",
+      "last_attempt": "2026-10-19T19:59:47.508936+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.508938+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/captain-ron-1992-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/captain-ron-1992-full-movie-download",
+      "movie": {
+        "name": "Captain Ron",
+        "category": "English Movies",
+        "year": "1992",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/otnKFXvqFH2swlrNf2sNiXpnIsR.jpg",
+        "source_url": "https://cinefreak.net/captain-ron-1992-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Captain%20Ron%20%281992%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Captain%20Ron%20%281992%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.509060+00:00",
+      "last_attempt": "2026-10-19T19:59:47.509063+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.509064+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/mad-max-beyond-thunderdome-1985-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/mad-max-beyond-thunderdome-1985-full-movie-download",
+      "movie": {
+        "name": "Mad Max Beyond Thunderdome",
+        "category": "English Movies",
+        "year": "1985",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg",
+        "source_url": "https://cinefreak.net/mad-max-beyond-thunderdome-1985-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%203%20Beyond%20Thunderdome%20%281985%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%203%20Beyond%20Thunderdome%20%281985%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-19T19:59:47.509229+00:00",
+      "last_attempt": "2026-10-19T19:59:47.509234+00:00",
+      "next_retry_at": "2026-10-20T01:59:47.509240+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-19T13:25:43.270373+00:00"
+  "updated_at": "2026-10-19T19:59:47.526776+00:00"
 }

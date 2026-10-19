@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 66,
-    "last_updated": "2026-10-14 | 07:42:12 (UTC)",
+    "total_movies": 58,
+    "last_updated": "2026-10-19 | 19:59:47 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -111,14 +111,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20DV%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -162,14 +154,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -191,10 +175,6 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -301,23 +281,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Resident Evil",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "source_url": "https://cinefreak.net/resident-evil-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%201080p%20HC-ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Resident%20Evil%20%282026%29%20HDTC%20%5BHindi-English%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
         }
       ]
     },
@@ -442,10 +405,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -524,19 +483,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Pokémon Detective Pikachu",
-      "category": "English Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
-      "source_url": "https://cinefreak.net/pokemon-detective-pikachu-2019-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Pokemon%20Detective%20Pikachu%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -657,19 +603,6 @@
       ]
     },
     {
-      "name": "Dawn Of The Planet Of The Apes",
-      "category": "English Movies",
-      "year": "2014",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
-      "source_url": "https://cinefreak.net/dawn-of-the-planet-of-the-apes-2014-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Dawn%20of%20the%20Planet%20of%20the%20Apes%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "RED 2",
       "category": "English Movies",
       "year": "2013",
@@ -683,32 +616,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Anonymous",
-      "category": "English Movies",
-      "year": "2011",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRjdFP0kqCPaDKeXgQtsb7how6e.jpg",
-      "source_url": "https://cinefreak.net/anonymous-2011-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Anonymous%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Blitz",
-      "category": "English Movies",
-      "year": "2011",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg",
-      "source_url": "https://cinefreak.net/blitz-2011-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Blitz%20%282011%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -825,19 +732,6 @@
       ]
     },
     {
-      "name": "Donnie Brasco",
-      "category": "English Movies",
-      "year": "1997",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
-      "source_url": "https://cinefreak.net/donnie-brasco-1997-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Donnie%20Brasco%20%281997%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Higher Learning",
       "category": "English Movies",
       "year": "1995",
@@ -877,19 +771,6 @@
       ]
     },
     {
-      "name": "Captain Ron",
-      "category": "English Movies",
-      "year": "1992",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/otnKFXvqFH2swlrNf2sNiXpnIsR.jpg",
-      "source_url": "https://cinefreak.net/captain-ron-1992-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Captain%20Ron%20%281992%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Robotrix",
       "category": "English Movies",
       "year": "1991",
@@ -912,19 +793,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20RoboCop%20%281987%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mad Max Beyond Thunderdome",
-      "category": "English Movies",
-      "year": "1985",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg",
-      "source_url": "https://cinefreak.net/mad-max-beyond-thunderdome-1985-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mad%20Max%203%20Beyond%20Thunderdome%20%281985%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
