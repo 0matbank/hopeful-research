@@ -19,10 +19,10 @@
     "name": "Swastik Sanket",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-07T00:03:01.699089+00:00",
-    "attempt_count": 5
+    "last_attempt": "2026-10-19T13:25:24.467096+00:00",
+    "attempt_count": 6
   },
   "hindimovies::dugdug": {
     "name": "Dug Dug",
@@ -180,11 +180,10 @@
     "name": "A Woman Called Mother",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%201080p%20ESub.mkv",
-      "https://pub-4db7677f03d64d29b96ddea65e4f5893.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%20HQ%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-07T00:09:17.336625+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-19T13:25:39.251185+00:00",
+    "attempt_count": 2
   },
   "tamilmovies::raatchasi": {
     "name": "Raatchasi",
@@ -5234,6 +5233,115 @@
       "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Man%20vs%20Wild%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-19T04:47:46.321680+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::katukutuburo": {
+    "name": "Katukutu Buro",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Katukutu%20Buro%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Katukutu%20Buro%20%282026%29%20WEB-DL%20%5BBengali%5D%204K-2160p%20AV1%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:19.123743+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::tagar": {
+    "name": "Tagar",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tagar%20%282025%29%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:20.839934+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::raas": {
+    "name": "Raas",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Raas%20%282025%29%20HDTV%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:22.634715+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::fidaa": {
+    "name": "Fidaa",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Fidaa%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:26.212880+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::golmaal": {
+    "name": "Golmaal",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Golmaal%20%282017%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:27.976900+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::posto": {
+    "name": "Posto",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Posto%20%282017%29%20WEB-DL%20%5BBengali%5D%20AMZN%20HQ%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:29.783612+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::tavvai": {
+    "name": "Tavvai",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:32.164836+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::thaaikizhavi": {
+    "name": "Thaai Kizhavi",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Thaai%20Kizhavi%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:33.878710+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::motupatlukagoadhamaal": {
+    "name": "Motu Patlu Ka Goa Dhamaal",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20Ka%20Goa%20Dhamaal%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:35.584490+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::zootopia2": {
+    "name": "Zootopia 2",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:37.440964+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::ayali": {
+    "name": "Ayali",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ayali%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:41.189321+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::cobra": {
+    "name": "Cobra",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cobra%20%282022%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-19T13:25:43.062456+00:00",
     "attempt_count": 1
   }
 }
