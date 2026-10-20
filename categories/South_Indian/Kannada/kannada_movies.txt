@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
-TOTAL MOVIES: 32
-LAST UPDATED: 2026-10-19 | 02:07:23 (UTC)
+TOTAL MOVIES: 28
+LAST UPDATED: 2026-10-20 | 11:44:57 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -100,9 +100,6 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
-
 ================================================================================
 
 Movie-9
@@ -189,9 +186,6 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
-
 ================================================================================
 
 Movie-16
@@ -245,20 +239,6 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 ================================================================================
 
 Movie-20
-Movie name: GST
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOzf9I1cXNN6MPeNQ7H35NAMNeh.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-21
 Movie name: Vidaamuyarchi
 Category: Kannada Movies
 Year: 2025
@@ -269,18 +249,7 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 
 ================================================================================
 
-Movie-22
-Movie name: Sankranthiki Vasthunam
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiib7DYfZo8Tl6EVDoMVYFJAUD.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20Sankranthiki%20Vasthunam%20%282025%29%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20ZEE5%201080p%20Esub.mkv
-
-================================================================================
-
-Movie-23
+Movie-21
 Movie name: Usiru
 Category: Kannada Movies
 Year: 2025
@@ -289,12 +258,9 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGFn6qJWI4VsJQhrVQsNtTES
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
 
-RESOLUTION 2: 4K 2160P HEVC
-STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
 ================================================================================
 
-Movie-24
+Movie-22
 Movie name: Bhairathi Ranagal
 Category: Kannada Movies
 Year: 2024
@@ -303,37 +269,9 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSfKNoycKKSSkcvFbyekwcju
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
-
 ================================================================================
 
-Movie-25
-Movie name: Martin
-Category: Kannada Movies
-Year: 2024
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYe2ZjUhb4Kje0BpWE6kN34u2hv.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20Martin%20%282024%29%20AMZN%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-26
-Movie name: Kaalapatthar
-Category: Kannada Movies
-Year: 2024
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTELAAH02Xv8BNXa6n2uBo853pR.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Kaalapatthar%20%282024%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-27
+Movie-23
 Movie name: Gurudev Hoysala
 Category: Kannada Movies
 Year: 2023
@@ -344,7 +282,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-28
+Movie-24
 Movie name: Love Mocktail 2
 Category: Kannada Movies
 Year: 2022
@@ -358,7 +296,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
+Movie-25
 Movie name: Thiruchitrambalam
 Category: Kannada Movies
 Year: 2022
@@ -369,7 +307,7 @@ STREAM Link 1: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.NET
 
 ================================================================================
 
-Movie-30
+Movie-26
 Movie name: Inspector Vikram
 Category: Kannada Movies
 Year: 2021
@@ -380,7 +318,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-31
+Movie-27
 Movie name: Aa Karaala Ratri
 Category: Kannada Movies
 Year: 2018
@@ -391,7 +329,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
+Movie-28
 Show name: Healer
 Category: Kannada Movies
 Year: 2014

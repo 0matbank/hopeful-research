@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 69,
-    "last_updated": "2026-10-20 | 04:56:41 (UTC)",
+    "total_movies": 68,
+    "last_updated": "2026-10-20 | 11:44:37 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -248,10 +248,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -507,19 +503,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Maa%20Behen%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Vibe",
-      "category": "Hindi Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
-      "source_url": "https://cinefreak.net/vibe-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20ViBE%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
         }
       ]
     },

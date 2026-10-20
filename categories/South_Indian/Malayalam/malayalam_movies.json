@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 33,
-    "last_updated": "2026-10-17 | 18:33:10 (UTC)",
+    "total_movies": 30,
+    "last_updated": "2026-10-20 | 11:44:43 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -41,21 +41,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Balan%20The%20Boy%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Cousins And Kalyanams",
-      "category": "Malayalam Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEfHZNS071Qa0ycrUhySEjRdXXB.jpg",
-      "source_url": "https://cinefreak.net/cousins-and-kalyanams-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 17-20",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
@@ -304,19 +289,6 @@
       ]
     },
     {
-      "name": "Avihitham",
-      "category": "Malayalam Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPHdHjoUK2Hft5XpyYQ4s7XqxrE.jpg",
-      "source_url": "https://cinefreak.net/avihitham-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Aabhyanthara Kuttavaali",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -456,19 +428,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Rorschach%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Churuli",
-      "category": "Malayalam Movies",
-      "year": "2021",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSjykY5ZuVWHK0C7k4CXZ5566No.jpg",
-      "source_url": "https://cinefreak.net/churuli-2021-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Churuli%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },

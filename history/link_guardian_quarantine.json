@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-10-17T07:00:49.412317+00:00",
-      "next_retry_at": "2026-10-20T07:00:49.412329+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-10-20T11:44:32.715662+00:00",
+      "next_retry_at": "2026-10-23T11:44:32.715693+00:00",
+      "attempt_count": 7
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -11823,7 +11823,206 @@
       "last_attempt": "2026-10-20T04:56:49.294004+00:00",
       "next_retry_at": "2026-10-20T10:56:49.294005+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/vibe-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/vibe-2026-full-movie-download",
+      "movie": {
+        "name": "Vibe",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+        "source_url": "https://cinefreak.net/vibe-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20ViBE%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20ViBE%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:37.076377+00:00",
+      "last_attempt": "2026-10-20T11:44:37.076391+00:00",
+      "next_retry_at": "2026-10-20T17:44:37.076393+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/cousins-and-kalyanams-2026-full-series-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/cousins-and-kalyanams-2026-full-series-download",
+      "movie": {
+        "name": "Cousins And Kalyanams",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEfHZNS071Qa0ycrUhySEjRdXXB.jpg",
+        "source_url": "https://cinefreak.net/cousins-and-kalyanams-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 17-20",
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:43.100828+00:00",
+      "last_attempt": "2026-10-20T11:44:43.100839+00:00",
+      "next_retry_at": "2026-10-20T17:44:43.100842+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/avihitham-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/avihitham-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Avihitham",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPHdHjoUK2Hft5XpyYQ4s7XqxrE.jpg",
+        "source_url": "https://cinefreak.net/avihitham-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Avihitham%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:43.101123+00:00",
+      "last_attempt": "2026-10-20T11:44:43.101126+00:00",
+      "next_retry_at": "2026-10-20T17:44:43.101128+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/churuli-2021-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/churuli-2021-full-movie-download",
+      "movie": {
+        "name": "Churuli",
+        "category": "Malayalam Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSjykY5ZuVWHK0C7k4CXZ5566No.jpg",
+        "source_url": "https://cinefreak.net/churuli-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Churuli%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Churuli%20%282021%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:43.101351+00:00",
+      "last_attempt": "2026-10-20T11:44:43.101358+00:00",
+      "next_retry_at": "2026-10-20T17:44:43.101360+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "GST",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOzf9I1cXNN6MPeNQ7H35NAMNeh.jpg",
+        "source_url": "https://cinefreak.net/gst-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20GST%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:57.715525+00:00",
+      "last_attempt": "2026-10-20T11:44:57.715538+00:00",
+      "next_retry_at": "2026-10-20T17:44:57.715540+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/sankranthiki-vasthunam-2025-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/sankranthiki-vasthunam-2025-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Sankranthiki Vasthunam",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiib7DYfZo8Tl6EVDoMVYFJAUD.jpg",
+        "source_url": "https://cinefreak.net/sankranthiki-vasthunam-2025-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20Sankranthiki%20Vasthunam%20%282025%29%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20ZEE5%201080p%20Esub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20Sankranthiki%20Vasthunam%20%282025%29%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20ZEE5%201080p%20Esub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:57.715752+00:00",
+      "last_attempt": "2026-10-20T11:44:57.715756+00:00",
+      "next_retry_at": "2026-10-20T17:44:57.715757+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/martin-2024-amazon-web-dl-hindi-dubbed-full-movie-download-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/martin-2024-amazon-web-dl-hindi-dubbed-full-movie-download-cinefreak",
+      "movie": {
+        "name": "Martin",
+        "category": "Kannada Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYe2ZjUhb4Kje0BpWE6kN34u2hv.jpg",
+        "source_url": "https://cinefreak.net/martin-2024-amazon-web-dl-hindi-dubbed-full-movie-download-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20Martin%20%282024%29%20AMZN%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20Martin%20%282024%29%20AMZN%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:57.715879+00:00",
+      "last_attempt": "2026-10-20T11:44:57.715881+00:00",
+      "next_retry_at": "2026-10-20T17:44:57.715883+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Kaalapatthar",
+        "category": "Kannada Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTELAAH02Xv8BNXa6n2uBo853pR.jpg",
+        "source_url": "https://cinefreak.net/kaalapatthar-2024-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Kaalapatthar%20%282024%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Kaalapatthar%20%282024%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T11:44:57.715971+00:00",
+      "last_attempt": "2026-10-20T11:44:57.715974+00:00",
+      "next_retry_at": "2026-10-20T17:44:57.715975+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-20T04:56:49.304550+00:00"
+  "updated_at": "2026-10-20T11:44:57.729133+00:00"
 }
