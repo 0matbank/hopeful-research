@@ -3,32 +3,6 @@
   "suspects": {},
   "source_gaps": {},
   "repair_queue": {
-    "hindimovies::https://cinefreak.net/fever-2016-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/fever-2016-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-09-11T16:32:11.181703+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-09-22T11:52:32.569107+00:00"
-    },
-    "hindidubbedmovies::https://cinefreak.net/my-mowgli-boy-2019-full-series-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/my-mowgli-boy-2019-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-09-11T16:32:11.181703+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-09-20T22:39:15.269311+00:00"
-    },
     "malayalammovies::https://cinefreak.net/vishnu-vinyasam-2026-full-movie-download": {
       "category": "Malayalam Movies",
       "source_url": "https://cinefreak.net/vishnu-vinyasam-2026-full-movie-download",
@@ -38,22 +12,9 @@
         "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20Vishnu%20Vinyasam%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-09-22T17:01:12.881331+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-07T08:45:20.679833+00:00"
-    },
-    "malayalammovies::https://cinefreak.net/eko-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak": {
-      "category": "Malayalam Movies",
-      "source_url": "https://cinefreak.net/eko-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Eko%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-09-22T17:01:12.881331+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-10-06T21:01:40.794033+00:00"
     },
     "telugumovies::https://cinefreak.net/dj-duvvada-jagannadham-2017-full-movie-download": {
       "category": "Telugu Movies",
@@ -64,7 +25,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20DJ-Duvvada%20Jagannadham%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-09-22T17:01:12.881331+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-09T00:25:55.971698+00:00"
     },
@@ -86,7 +47,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E97-100%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-09-22T17:01:12.881331+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-08T13:36:32.662446+00:00"
     },
@@ -99,7 +60,7 @@
         "https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP%20-%20FIR%20%282022%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-09-22T17:01:12.881331+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-07T17:27:41.409266+00:00"
     },
@@ -112,7 +73,7 @@
         "https://pub-b46c0bac8899493fabc3b5c3f80da519.r2.dev/CINEFREAK.TOP%20-%20Paayum%20Puli%20%282015%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-09-22T17:01:12.881331+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-08T06:11:55.352714+00:00"
     },
@@ -136,7 +97,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E38%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-10T12:38:04.581509+00:00"
     },
@@ -149,7 +110,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Hunkkaar%20The%20Roar%20%5BS01E04-06%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-10T05:58:36.434344+00:00"
     },
@@ -162,7 +123,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-14T01:16:50.282302+00:00"
     },
@@ -175,7 +136,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Darkest%20Minds%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-13T21:19:25.979077+00:00"
     },
@@ -188,7 +149,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-11T18:58:05.887052+00:00"
     },
@@ -205,7 +166,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-11T12:56:46.760548+00:00"
     },
@@ -218,7 +179,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-11T23:43:03.795229+00:00"
     },
@@ -231,7 +192,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E16%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-12T06:04:45.795606+00:00"
     },
@@ -248,7 +209,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20Uri%20%5BS01E12%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-11T05:53:11.385629+00:00"
     },
@@ -261,7 +222,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-14T07:42:22.393207+00:00"
     },
@@ -274,7 +235,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jana%20Nayagan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-14T18:40:39.315459+00:00"
     },
@@ -287,7 +248,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20&%20Sons%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-15T17:06:20.702943+00:00"
     },
@@ -302,7 +263,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Modha%20Rathri%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-14T23:17:16.298950+00:00"
     },
@@ -317,7 +278,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sita%20Ramam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-15T11:36:04.353589+00:00"
     },
@@ -330,7 +291,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gopala%20Gopala%20%282014%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-14T13:47:24.823062+00:00"
     },
@@ -343,7 +304,7 @@
         "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-17T15:41:47.404350+00:00"
     },
@@ -356,7 +317,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Hridayapoorvam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-17T07:01:10.644276+00:00"
     },
@@ -374,7 +335,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-17T18:33:10.515271+00:00"
     },
@@ -387,7 +348,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Youth%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-18T04:40:00.719641+00:00"
     },
@@ -400,7 +361,7 @@
         "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-18T11:13:28.859790+00:00"
     },
@@ -413,7 +374,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tuck%20Jagadish%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-18T22:28:14.936301+00:00"
     },
@@ -427,7 +388,7 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
       ],
       "discovered_at": "2026-10-06T15:15:41.465146+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-17T00:32:25.916666+00:00"
     },
@@ -440,154 +401,10 @@
         "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
+      "last_seen": "2026-10-20T21:40:56.473954+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-19T13:25:43.265643+00:00"
-    },
-    "malayalammovies::https://cinefreak.net/patriot-2026-full-movie-download": {
-      "category": "Malayalam Movies",
-      "source_url": "https://cinefreak.net/patriot-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "malayalammovies::https://cinefreak.net/sambhavam-adhyayam-onnu-2026-full-movie-download": {
-      "category": "Malayalam Movies",
-      "source_url": "https://cinefreak.net/sambhavam-adhyayam-onnu-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sambavam%20Adhyayam%20Onnu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "malayalammovies::https://cinefreak.net/maine-pyar-kiya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-      "category": "Malayalam Movies",
-      "source_url": "https://cinefreak.net/maine-pyar-kiya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maine%20Pyar%20Kiya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "malayalammovies::https://cinefreak.net/vaazha-2024-full-movie-download": {
-      "category": "Malayalam Movies",
-      "source_url": "https://cinefreak.net/vaazha-2024-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "tamilmovies::https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download": {
-      "category": "Tamil Movies",
-      "source_url": "https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "tamilmovies::https://cinefreak.net/mandaadi-2026-full-movie-download": {
-      "category": "Tamil Movies",
-      "source_url": "https://cinefreak.net/mandaadi-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mandaadi%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/csi-sanatan-2023-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/csi-sanatan-2023-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/super-subbu-2026-full-series-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/super-subbu-2026-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Super%20Subbu%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/ustaad-bhagat-singh-2026-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/ustaad-bhagat-singh-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/mowgli-2025-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/mowgli-2025-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mowgli%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/swathi-muthyam-2022-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/swathi-muthyam-2022-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
-        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-07T17:27:27.744547+00:00",
-      "last_seen": "2026-10-20T11:44:30.098482+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
     }
   },
-  "updated_at": "2026-10-20T11:44:57.725416+00:00"
+  "updated_at": "2026-10-20T21:41:27.748024+00:00"
 }

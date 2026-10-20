@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 30,
-    "last_updated": "2026-10-20 | 11:44:43 (UTC)",
+    "total_movies": 27,
+    "last_updated": "2026-10-20 | 21:41:18 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -135,10 +135,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -203,10 +199,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Sambavam%20Adhyayam%20Onnu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sambavam%20Adhyayam%20Onnu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -263,19 +255,6 @@
       ]
     },
     {
-      "name": "Eko",
-      "category": "Malayalam Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwTRcagd2QZ36JuFQnWBbXs40YM.jpg",
-      "source_url": "https://cinefreak.net/eko-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Eko%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Dominic And The Ladies' Purse",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -302,19 +281,6 @@
       ]
     },
     {
-      "name": "Maine Pyar Kiya",
-      "category": "Malayalam Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eU8iygSmd7gY6K3TGVx2w3SPFh.jpg",
-      "source_url": "https://cinefreak.net/maine-pyar-kiya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maine%20Pyar%20Kiya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Hridayapoorvam",
       "category": "Malayalam Movies",
       "year": "2025",
@@ -324,19 +290,6 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Hridayapoorvam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Vaazha",
-      "category": "Malayalam Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SFL0Z5x4FQTNYoDCp6SbbyydQm.jpg",
-      "source_url": "https://cinefreak.net/vaazha-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },

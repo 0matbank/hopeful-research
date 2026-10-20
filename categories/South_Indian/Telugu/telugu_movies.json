@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 27,
-    "last_updated": "2026-10-20 | 15:56:38 (UTC)",
+    "total_movies": 23,
+    "last_updated": "2026-10-20 | 21:41:27 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -72,20 +72,6 @@
           "episode": "Episode 73-76",
           "resolution": "HD 1080P",
           "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Super Subbu",
-      "category": "Telugu Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
-      "source_url": "https://cinefreak.net/super-subbu-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Super%20Subbu%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -252,10 +238,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -307,32 +289,6 @@
       ]
     },
     {
-      "name": "Mowgli",
-      "category": "Telugu Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWUvV7hEHUrIm5GyoIVWAukzKDX.jpg",
-      "source_url": "https://cinefreak.net/mowgli-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mowgli%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "CSI Sanatan",
-      "category": "Telugu Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg",
-      "source_url": "https://cinefreak.net/csi-sanatan-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "The Ghost",
       "category": "Telugu Movies",
       "year": "2022",
@@ -359,23 +315,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Swathi Muthyam",
-      "category": "Telugu Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mR8pmOhp4zYwwFadX8TLX5goH64.jpg",
-      "source_url": "https://cinefreak.net/swathi-muthyam-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },

@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Movies
-TOTAL MOVIES: 68
-LAST UPDATED: 2026-10-20 | 11:44:37 (UTC)
+TOTAL MOVIES: 67
+LAST UPDATED: 2026-10-20 | 21:41:01 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -715,17 +715,6 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-56
-Movie name: Fever
-Category: Hindi Movies
-Year: 2016
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQAlVN4rgMpkFKJLdkRndG6Mi6N.jpg
-
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-57
 Movie name: Sanam Re
 Category: Hindi Movies
 Year: 2016
@@ -739,7 +728,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-58
+Movie-57
 Movie name: M.S. Dhoni: The Untold Story
 Category: Hindi Movies
 Year: 2016
@@ -750,7 +739,7 @@ STREAM Link 1: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-59
+Movie-58
 Movie name: Badlapur
 Category: Hindi Movies
 Year: 2015
@@ -761,7 +750,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-60
+Movie-59
 Movie name: Arjun: The Warrior Prince
 Category: Hindi Movies
 Year: 2012
@@ -772,7 +761,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-61
+Movie-60
 Movie name: Cocktail
 Category: Hindi Movies
 Year: 2012
@@ -786,7 +775,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-62
+Movie-61
 Movie name: Saheb Biwi Aur Gangster
 Category: Hindi Movies
 Year: 2011
@@ -797,7 +786,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-63
+Movie-62
 Movie name: Udaan
 Category: Hindi Movies
 Year: 2010
@@ -808,7 +797,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-64
+Movie-63
 Movie name: A Wednesday!
 Category: Hindi Movies
 Year: 2008
@@ -819,7 +808,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-65
+Movie-64
 Movie name: Awarapan
 Category: Hindi Movies
 Year: 2007
@@ -833,7 +822,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-66
+Movie-65
 Movie name: Malamaal Weekly
 Category: Hindi Movies
 Year: 2006
@@ -844,7 +833,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-67
+Movie-66
 Movie name: Aashiq
 Category: Hindi Movies
 Year: 2001
@@ -855,7 +844,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-68
+Movie-67
 Movie name: Ghar Dwaar
 Category: Hindi Movies
 Year: 1985

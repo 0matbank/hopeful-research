@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-10-17T12:14:04.692163+00:00",
-      "next_retry_at": "2026-10-20T12:14:04.692179+00:00",
-      "attempt_count": 6
+      "last_attempt": "2026-10-20T21:40:58.979730+00:00",
+      "next_retry_at": "2026-10-23T21:40:58.979744+00:00",
+      "attempt_count": 7
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -12022,7 +12022,279 @@
       "last_attempt": "2026-10-20T11:44:57.715974+00:00",
       "next_retry_at": "2026-10-20T17:44:57.715975+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/fever-2016-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/fever-2016-full-movie-download",
+      "movie": {
+        "name": "Fever",
+        "category": "Hindi Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQAlVN4rgMpkFKJLdkRndG6Mi6N.jpg",
+        "source_url": "https://cinefreak.net/fever-2016-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:01.266316+00:00",
+      "last_attempt": "2026-10-20T21:41:01.266331+00:00",
+      "next_retry_at": "2026-10-21T03:41:01.266333+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/my-mowgli-boy-2019-full-series-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/my-mowgli-boy-2019-full-series-download",
+      "movie": {
+        "name": "My Mowgli Boy",
+        "category": "Hindi Dubbed Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNeZ2WdCrMBLf9Ghh6fbFwWhfeA.jpg",
+        "source_url": "https://cinefreak.net/my-mowgli-boy-2019-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 06-10",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:03.902899+00:00",
+      "last_attempt": "2026-10-20T21:41:03.902913+00:00",
+      "next_retry_at": "2026-10-21T03:41:03.902916+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/mandaadi-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/mandaadi-2026-full-movie-download",
+      "movie": {
+        "name": "Mandaadi",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
+        "source_url": "https://cinefreak.net/mandaadi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mandaadi%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mandaadi%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:08.355221+00:00",
+      "last_attempt": "2026-10-20T21:41:08.355233+00:00",
+      "next_retry_at": "2026-10-21T03:41:08.355235+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download",
+      "movie": {
+        "name": "Maruthi Nagar Police Station",
+        "category": "Tamil Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg",
+        "source_url": "https://cinefreak.net/maruthi-nagar-police-station-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:08.355440+00:00",
+      "last_attempt": "2026-10-20T21:41:08.355443+00:00",
+      "next_retry_at": "2026-10-21T03:41:08.355445+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/eko-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/eko-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Eko",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwTRcagd2QZ36JuFQnWBbXs40YM.jpg",
+        "source_url": "https://cinefreak.net/eko-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-netflix-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Eko%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Eko%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:18.187205+00:00",
+      "last_attempt": "2026-10-20T21:41:18.187220+00:00",
+      "next_retry_at": "2026-10-21T03:41:18.187222+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/maine-pyar-kiya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/maine-pyar-kiya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Maine Pyar Kiya",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eU8iygSmd7gY6K3TGVx2w3SPFh.jpg",
+        "source_url": "https://cinefreak.net/maine-pyar-kiya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maine%20Pyar%20Kiya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maine%20Pyar%20Kiya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:18.187470+00:00",
+      "last_attempt": "2026-10-20T21:41:18.187474+00:00",
+      "next_retry_at": "2026-10-21T03:41:18.187476+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/vaazha-2024-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/vaazha-2024-full-movie-download",
+      "movie": {
+        "name": "Vaazha",
+        "category": "Malayalam Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SFL0Z5x4FQTNYoDCp6SbbyydQm.jpg",
+        "source_url": "https://cinefreak.net/vaazha-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:18.187588+00:00",
+      "last_attempt": "2026-10-20T21:41:18.187591+00:00",
+      "next_retry_at": "2026-10-21T03:41:18.187592+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/super-subbu-2026-full-series-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/super-subbu-2026-full-series-download",
+      "movie": {
+        "name": "Super Subbu",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
+        "source_url": "https://cinefreak.net/super-subbu-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Super%20Subbu%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Super%20Subbu%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:27.738221+00:00",
+      "last_attempt": "2026-10-20T21:41:27.738234+00:00",
+      "next_retry_at": "2026-10-21T03:41:27.738236+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/mowgli-2025-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/mowgli-2025-full-movie-download",
+      "movie": {
+        "name": "Mowgli",
+        "category": "Telugu Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWUvV7hEHUrIm5GyoIVWAukzKDX.jpg",
+        "source_url": "https://cinefreak.net/mowgli-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mowgli%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mowgli%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:27.738540+00:00",
+      "last_attempt": "2026-10-20T21:41:27.738543+00:00",
+      "next_retry_at": "2026-10-21T03:41:27.738545+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/csi-sanatan-2023-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/csi-sanatan-2023-full-movie-download",
+      "movie": {
+        "name": "CSI Sanatan",
+        "category": "Telugu Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yscCuJsNYDh2vHc6VrASnZcbaDw.jpg",
+        "source_url": "https://cinefreak.net/csi-sanatan-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:27.738654+00:00",
+      "last_attempt": "2026-10-20T21:41:27.738657+00:00",
+      "next_retry_at": "2026-10-21T03:41:27.738659+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/swathi-muthyam-2022-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/swathi-muthyam-2022-full-movie-download",
+      "movie": {
+        "name": "Swathi Muthyam",
+        "category": "Telugu Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mR8pmOhp4zYwwFadX8TLX5goH64.jpg",
+        "source_url": "https://cinefreak.net/swathi-muthyam-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-20T21:41:27.738865+00:00",
+      "last_attempt": "2026-10-20T21:41:27.738869+00:00",
+      "next_retry_at": "2026-10-21T03:41:27.738871+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-20T11:44:57.729133+00:00"
+  "updated_at": "2026-10-20T21:41:27.751747+00:00"
 }

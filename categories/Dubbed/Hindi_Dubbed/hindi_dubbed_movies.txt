@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
-TOTAL MOVIES: 81
-LAST UPDATED: 2026-10-20 | 04:56:49 (UTC)
+TOTAL MOVIES: 80
+LAST UPDATED: 2026-10-20 | 21:41:03 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -1049,19 +1049,6 @@ STREAM Link 2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-79
-Show name: My Mowgli Boy
-Category: Hindi Dubbed Movies
-Year: 2019
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNeZ2WdCrMBLf9Ghh6fbFwWhfeA.jpg
-
-Season: S01
-Episode: Episode 06-10
-  Resolution-1: HD 1080P
-  Link-1: https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-80
 Movie name: Gopala Gopala
 Category: Hindi Dubbed Movies
 Year: 2014
@@ -1072,7 +1059,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-81
+Movie-80
 Movie name: Khushi
 Category: Hindi Dubbed Movies
 Year: 2001

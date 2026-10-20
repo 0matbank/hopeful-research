@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Tamil Movies
-TOTAL MOVIES: 21
-LAST UPDATED: 2026-10-18 | 04:40:00 (UTC)
+TOTAL MOVIES: 19
+LAST UPDATED: 2026-10-20 | 21:41:08 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -292,17 +292,6 @@ STREAM Link 2: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-14
-Movie name: Mandaadi
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mandaadi%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv
-
-================================================================================
-
-Movie-15
 Movie name: Mahasenha
 Category: Tamil Movies
 Year: 2025
@@ -313,7 +302,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-15
 Movie name: Theeyavar Kulaigal Nadunga
 Category: Tamil Movies
 Year: 2025
@@ -324,18 +313,7 @@ STREAM Link 1: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
-Movie name: Maruthi Nagar Police Station
-Category: Tamil Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-18
+Movie-16
 Movie name: Agilan
 Category: Tamil Movies
 Year: 2023
@@ -346,7 +324,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
+Movie-17
 Movie name: FIR
 Category: Tamil Movies
 Year: 2022
@@ -357,7 +335,7 @@ STREAM Link 1: https://pub-cfa1d79184634674924711ad81c15a6a.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
+Movie-18
 Movie name: Psycho
 Category: Tamil Movies
 Year: 2020
@@ -368,7 +346,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
+Movie-19
 Movie name: Paayum Puli
 Category: Tamil Movies
 Year: 2015

@@ -697,11 +697,10 @@
     "name": "My Mowgli Boy",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv",
-      "https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E21-25%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20My%20Mowgli%20Boy%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-20T22:39:15.081127+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-20T21:41:03.760217+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::ohbaby": {
     "name": "Oh! Baby",
@@ -716,10 +715,10 @@
     "name": "Fever",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      "https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Fever%20%282016%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-09-22T11:51:33.431462+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-20T21:41:01.153517+00:00",
+    "attempt_count": 2
   },
   "hindimovies::rajashivaji": {
     "name": "Raja Shivaji",
@@ -1122,11 +1121,10 @@
     "name": "Eko",
     "category": "Malayalam Movies",
     "dead_links": [
-      "https://pub-a5059f27f57649849e5b9fb1f4eb293e.r2.dev/CINEFREAK.TOP%20-%20Eko%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20HEVC%20ESub.mkv",
-      "https://pub-6bb3468756364249afc4adc1d4372135.r2.dev/CINEFREAK.TOP%20-%20Eko%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%201080p%20ESub.mkv"
+      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Eko%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20NF%20HQ%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-06T21:01:39.539761+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-20T21:41:14.315965+00:00",
+    "attempt_count": 2
   },
   "malayalammovies::diesirae": {
     "name": "Dies Irae",
@@ -5736,6 +5734,106 @@
       "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.NET%20-%20Martin%20%282024%29%20AMZN%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-20T11:44:55.861748+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::mandaadi": {
+    "name": "Mandaadi",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mandaadi%20%282026%29%20HDTC%20%5BTamil%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:06.416973+00:00",
+    "attempt_count": 1
+  },
+  "tamilmovies::maruthinagarpolicestation": {
+    "name": "Maruthi Nagar Police Station",
+    "category": "Tamil Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maruthi%20Nagar%20Police%20Station%20%282023%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:08.253051+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::patriot": {
+    "name": "Patriot",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:10.604074+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::sambhavamadhyayamonnu": {
+    "name": "Sambhavam Adhyayam Onnu",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sambavam%20Adhyayam%20Onnu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:12.466036+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::mainepyarkiya": {
+    "name": "Maine Pyar Kiya",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Maine%20Pyar%20Kiya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:16.202746+00:00",
+    "attempt_count": 1
+  },
+  "malayalammovies::vaazha": {
+    "name": "Vaazha",
+    "category": "Malayalam Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:18.054153+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::supersubbu": {
+    "name": "Super Subbu",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Super%20Subbu%20%282026%29%20S01%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:20.521667+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::ustaadbhagatsingh": {
+    "name": "Ustaad Bhagat Singh",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:22.277096+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::mowgli": {
+    "name": "Mowgli",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mowgli%20%282025%29%20WEB-DL%20%5BTelugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:23.980887+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::csisanatan": {
+    "name": "CSI Sanatan",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20CSI%20Sanatan%20%282023%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:25.792276+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::swathimuthyam": {
+    "name": "Swathi Muthyam",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Swathi%20Mutyam%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T21:41:27.590432+00:00",
     "attempt_count": 1
   }
 }
