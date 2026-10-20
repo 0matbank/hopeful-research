@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Dubbed Movies
-TOTAL MOVIES: 84
-LAST UPDATED: 2026-10-19 | 23:46:07 (UTC)
+TOTAL MOVIES: 81
+LAST UPDATED: 2026-10-20 | 04:56:49 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -490,9 +490,6 @@ STREAM Link 1: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
-RESOLUTION 3: 4K 2160P HEVC
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
 ================================================================================
 
 Movie-36
@@ -666,9 +663,6 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 RESOLUTION 2: HD 1080P
 STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -963,17 +957,6 @@ STREAM Link 3: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-72
-Movie name: Zhao Zilong God Of Spear
-Category: Hindi Dubbed Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLppgrMSXQbCdLPWMHoCdwIL6fy.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20God%20Of%20Spear%20%282022%29%20WEB-DL%20%5BHindi-Chinese%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-73
 Movie name: Yaanai
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -987,7 +970,7 @@ STREAM Link 2: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-74
+Movie-73
 Movie name: Hero
 Category: Hindi Dubbed Movies
 Year: 2022
@@ -1001,7 +984,7 @@ STREAM Link 2: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-75
+Movie-74
 Movie name: Garuda Gamana Vrishabha Vahana
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1015,7 +998,7 @@ STREAM Link 2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-76
+Movie-75
 Movie name: SR Kalyanamandapam
 Category: Hindi Dubbed Movies
 Year: 2021
@@ -1026,7 +1009,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-77
+Movie-76
 Movie name: Naan Sirithal
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1040,7 +1023,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-78
+Movie-77
 Movie name: Big Brother
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1051,7 +1034,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-79
+Movie-78
 Movie name: Mafia
 Category: Hindi Dubbed Movies
 Year: 2020
@@ -1065,7 +1048,7 @@ STREAM Link 2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-80
+Movie-79
 Show name: My Mowgli Boy
 Category: Hindi Dubbed Movies
 Year: 2019
@@ -1078,7 +1061,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-81
+Movie-80
 Movie name: Gopala Gopala
 Category: Hindi Dubbed Movies
 Year: 2014
@@ -1089,29 +1072,7 @@ STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-82
-Movie name: Vishwaroopam
-Category: Hindi Dubbed Movies
-Year: 2013
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6j0ie6qImOH0ndS7uaZb4879PwC.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vishwaroopam%20%282013%29%20BluRay%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-83
-Movie name: Pudhupettai
-Category: Hindi Dubbed Movies
-Year: 2006
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/etW6tRiYL11J9UFQMl6ipja9PvC.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-84
+Movie-81
 Movie name: Khushi
 Category: Hindi Dubbed Movies
 Year: 2001

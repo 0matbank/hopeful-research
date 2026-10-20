@@ -5565,5 +5565,116 @@
     ],
     "last_attempt": "2026-10-19T23:46:07.174220+00:00",
     "attempt_count": 1
+  },
+  "hindimovies::governor": {
+    "name": "Governor",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Governor%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:32.989378+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::chandmeradil": {
+    "name": "Chand Mera Dil",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Chand%20Mera%20Dil%20%282026%29%20WEB-DL%20%5BHindi%5D%20ATV%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:34.344571+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::mainvaapasaaunga": {
+    "name": "Main Vaapas Aaunga",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Main%20Vaapas%20Aaunga%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Main%20Vaapas%20Aaunga%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:35.711689+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::haunted3dghostsofthepast": {
+    "name": "Haunted 3D: Ghosts Of The Past",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Haunted%203D%20Echoes%20of%20the%20Past%20%282026%29%20HDTC%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:37.263938+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::daayra": {
+    "name": "Daayra",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Daayra%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Daayra%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:38.923781+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::system": {
+    "name": "System",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:40.465743+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::taraandakashlovebeyondrealms": {
+    "name": "Tara And Akash: Love Beyond Realms",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tara%20and%20Akash%20Love%20Beyond%20Realms%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:41.862709+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::unmadham": {
+    "name": "Unmadham",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:43.723131+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::royal": {
+    "name": "Royal",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:45.268341+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::zhaozilonggodofspear": {
+    "name": "Zhao Zilong God Of Spear",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20God%20Of%20Spear%20%282022%29%20WEB-DL%20%5BHindi-Chinese%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:46.807604+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::vishwaroopam": {
+    "name": "Vishwaroopam",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vishwaroopam%20%282013%29%20BluRay%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:47.984179+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::pudhupettai": {
+    "name": "Pudhupettai",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-20T04:56:49.196976+00:00",
+    "attempt_count": 1
   }
 }

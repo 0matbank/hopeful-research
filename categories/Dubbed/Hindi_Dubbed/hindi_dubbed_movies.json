@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 84,
-    "last_updated": "2026-10-19 | 23:46:07 (UTC)",
+    "total_movies": 81,
+    "last_updated": "2026-10-20 | 04:56:49 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -594,10 +594,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -807,10 +803,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1162,19 +1154,6 @@
       ]
     },
     {
-      "name": "Zhao Zilong God Of Spear",
-      "category": "Hindi Dubbed Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLppgrMSXQbCdLPWMHoCdwIL6fy.jpg",
-      "source_url": "https://cinefreak.net/zhao-zilong-god-of-spear-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20God%20Of%20Spear%20%282022%29%20WEB-DL%20%5BHindi-Chinese%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Yaanai",
       "category": "Hindi Dubbed Movies",
       "year": "2022",
@@ -1310,32 +1289,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gopala%20Gopala%20%282014%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Vishwaroopam",
-      "category": "Hindi Dubbed Movies",
-      "year": "2013",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6j0ie6qImOH0ndS7uaZb4879PwC.jpg",
-      "source_url": "https://cinefreak.net/vishwaroopam-2013-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Vishwaroopam%20%282013%29%20BluRay%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Pudhupettai",
-      "category": "Hindi Dubbed Movies",
-      "year": "2006",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etW6tRiYL11J9UFQMl6ipja9PvC.jpg",
-      "source_url": "https://cinefreak.net/pudhupettai-2006-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Pudhupettai%20%282006%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
         }
       ]
     },
