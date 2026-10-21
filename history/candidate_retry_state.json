@@ -1401,6 +1401,66 @@
         "last_failed_at": "2026-10-21T02:17:07.494438+00:00",
         "retry_after_epoch": 1792592227,
         "retry_after": "2026-10-21T14:17:07.494438+00:00"
+      },
+      "https://cinefreak.net/jeena-dil-se-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980164+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980164+00:00"
+      },
+      "https://cinefreak.net/here-now-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980208+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980208+00:00"
+      },
+      "https://cinefreak.net/moving-2023-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980220+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980220+00:00"
+      },
+      "https://cinefreak.net/out-of-love-2019-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980228+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980228+00:00"
+      },
+      "https://cinefreak.net/vishwaguru-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980234+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980234+00:00"
+      },
+      "https://cinefreak.net/paatki-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980242+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980242+00:00"
+      },
+      "https://cinefreak.net/bethlehem-kudumba-unit-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980248+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980248+00:00"
+      },
+      "https://cinefreak.net/ultorath-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980254+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980254+00:00"
+      },
+      "https://cinefreak.net/hunkkaar-the-roar-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980261+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980261+00:00"
+      },
+      "https://cinefreak.net/memories-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T16:13:34.980267+00:00",
+        "retry_after_epoch": 1792642414,
+        "retry_after": "2026-10-22T04:13:34.980267+00:00"
       }
     },
     "English Movies": {
