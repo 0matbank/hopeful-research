@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
 TOTAL MOVIES: 51
-LAST UPDATED: 2026-10-21 | 16:13:34 (UTC)
+LAST UPDATED: 2026-10-21 | 23:25:07 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -692,16 +692,6 @@ Episode: Episode 08
   Resolution-5: HD 1080P
   Link-5: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
-Season: S01
-Episode: Episode 09
-  Resolution-6: HD 1080P
-  Link-6: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E09%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 12
-  Resolution-7: HD 1080P
-  Link-7: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20Uri%20%5BS01E12%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
 ================================================================================
 
 Movie-21
@@ -1058,9 +1048,6 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU3
 
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: 4K 2160P HEVC
-STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv
 
 ================================================================================
 
