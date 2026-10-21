@@ -1341,6 +1341,66 @@
         "last_failed_at": "2026-09-22T02:12:04.534698+00:00",
         "retry_after_epoch": 1790086324,
         "retry_after": "2026-09-22T14:12:04.534698+00:00"
+      },
+      "https://cinefreak.net/mtv-roadies-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494360+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494360+00:00"
+      },
+      "https://cinefreak.net/colony-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494399+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494399+00:00"
+      },
+      "https://cinefreak.net/zip-wire-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494408+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494408+00:00"
+      },
+      "https://cinefreak.net/visionquest-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494413+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494413+00:00"
+      },
+      "https://cinefreak.net/koffee-with-karan-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494417+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494417+00:00"
+      },
+      "https://cinefreak.net/son-of-satyamurthy-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494422+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494422+00:00"
+      },
+      "https://cinefreak.net/vijaynagarer-hirey-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494427+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494427+00:00"
+      },
+      "https://cinefreak.net/you-me-tuscany-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494431+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494431+00:00"
+      },
+      "https://cinefreak.net/bombay-velvet-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494435+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494435+00:00"
+      },
+      "https://cinefreak.net/ustad-hotel-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-21T02:17:07.494438+00:00",
+        "retry_after_epoch": 1792592227,
+        "retry_after": "2026-10-21T14:17:07.494438+00:00"
       }
     },
     "English Movies": {
