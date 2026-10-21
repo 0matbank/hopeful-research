@@ -315,9 +315,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T11:30:43.757304+00:00",
-      "last_attempt": "2026-10-18T11:13:21.298953+00:00",
-      "next_retry_at": "2026-10-19T11:13:21.298967+00:00",
-      "attempt_count": 3
+      "last_attempt": "2026-10-21T13:52:06.146670+00:00",
+      "next_retry_at": "2026-10-23T13:52:06.146688+00:00",
+      "attempt_count": 4
     },
     "disneyhotstar::https://cinefreak.net/pompeii-out-of-time-with-tom-hiddleston-2026-full-series-download": {
       "category": "Disney Hotstar",
@@ -12505,7 +12505,103 @@
       "last_attempt": "2026-10-21T00:40:29.184528+00:00",
       "next_retry_at": "2026-10-21T06:40:29.184533+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/toy-story-5-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/toy-story-5-2026-full-movie-download",
+      "movie": {
+        "name": "Toy Story 5",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "source_url": "https://cinefreak.net/toy-story-5-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-21T13:52:10.735764+00:00",
+      "last_attempt": "2026-10-21T13:52:10.735785+00:00",
+      "next_retry_at": "2026-10-21T19:52:10.735788+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-darkest-minds-2018-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-darkest-minds-2018-full-movie-download",
+      "movie": {
+        "name": "The Darkest Minds",
+        "category": "English Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
+        "source_url": "https://cinefreak.net/the-darkest-minds-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Darkest%20Minds%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Darkest%20Minds%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-21T13:52:10.736273+00:00",
+      "last_attempt": "2026-10-21T13:52:10.736283+00:00",
+      "next_retry_at": "2026-10-21T19:52:10.736285+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/jana-nayagan-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/jana-nayagan-2026-full-movie-download",
+      "movie": {
+        "name": "Jana Nayagan",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+        "source_url": "https://cinefreak.net/jana-nayagan-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jana%20Nayagan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jana%20Nayagan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-21T13:52:18.381519+00:00",
+      "last_attempt": "2026-10-21T13:52:18.381533+00:00",
+      "next_retry_at": "2026-10-21T19:52:18.381535+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/gopala-gopala-2015-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/gopala-gopala-2015-full-movie-download",
+      "movie": {
+        "name": "Gopala Gopala",
+        "category": "Hindi Dubbed Movies",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDPXdJIuMQNo1kzdWyQUjKzxl4i.jpg",
+        "source_url": "https://cinefreak.net/gopala-gopala-2015-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gopala%20Gopala%20%282014%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gopala%20Gopala%20%282014%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC.mkv"
+      ],
+      "quarantined_at": "2026-10-21T13:52:18.382144+00:00",
+      "last_attempt": "2026-10-21T13:52:18.382150+00:00",
+      "next_retry_at": "2026-10-21T19:52:18.382152+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-21T07:43:53.440922+00:00"
+  "updated_at": "2026-10-21T13:52:25.828176+00:00"
 }

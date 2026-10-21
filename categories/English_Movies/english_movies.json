@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 54,
-    "last_updated": "2026-10-19 | 23:45:54 (UTC)",
+    "total_movies": 52,
+    "last_updated": "2026-10-21 | 13:52:10 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -246,19 +246,6 @@
       ]
     },
     {
-      "name": "Toy Story 5",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-      "source_url": "https://cinefreak.net/toy-story-5-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%205%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "In The Grey",
       "category": "English Movies",
       "year": "2026",
@@ -487,19 +474,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Darkest Minds",
-      "category": "English Movies",
-      "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
-      "source_url": "https://cinefreak.net/the-darkest-minds-2018-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Darkest%20Minds%20%282018%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
         }
       ]
     },

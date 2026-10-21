@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Disney Hotstar",
     "total_movies": 51,
-    "last_updated": "2026-10-21 | 07:43:53 (UTC)",
+    "last_updated": "2026-10-21 | 13:52:25 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -443,12 +443,6 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 53-56",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 57-60",
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
@@ -485,18 +479,6 @@
           "episode": "Episode 09-12",
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 25-28",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 33-36",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
@@ -539,24 +521,6 @@
           "episode": "Episode 73-76",
           "resolution": "HD 1080P",
           "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 77-80",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 81-84",
-          "resolution": "HD 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E81-84%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 85-88",
-          "resolution": "HD 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E85-88%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -738,10 +702,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -820,12 +780,6 @@
           "episode": "Episode 12",
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E12%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 16",
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E16%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         },
         {
           "season": "S15",

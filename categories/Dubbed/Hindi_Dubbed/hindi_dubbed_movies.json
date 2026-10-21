@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 80,
-    "last_updated": "2026-10-20 | 21:41:03 (UTC)",
+    "total_movies": 78,
+    "last_updated": "2026-10-21 | 13:52:18 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -151,10 +151,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Con%20City%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -491,19 +487,6 @@
       ]
     },
     {
-      "name": "Jana Nayagan",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
-      "source_url": "https://cinefreak.net/jana-nayagan-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Jana%20Nayagan%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Chennai Love Story",
       "category": "Hindi Dubbed Movies",
       "year": "2026",
@@ -746,16 +729,8 @@
       "source_url": "https://cinefreak.net/modha-rathri-2026-full-movie-download",
       "res_list": [
         {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Modha%20Rathri%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
           "resolution": "HD 1080P",
           "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Modha%20Rathri%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Modha%20Rathri%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -1261,19 +1236,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Gopala Gopala",
-      "category": "Hindi Dubbed Movies",
-      "year": "2014",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDPXdJIuMQNo1kzdWyQUjKzxl4i.jpg",
-      "source_url": "https://cinefreak.net/gopala-gopala-2015-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Gopala%20Gopala%20%282014%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC.mkv"
         }
       ]
     },

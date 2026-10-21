@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
 TOTAL MOVIES: 51
-LAST UPDATED: 2026-10-21 | 07:43:53 (UTC)
+LAST UPDATED: 2026-10-21 | 13:52:25 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -370,19 +370,14 @@ Episode: Episode 49-52
   Link-7: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
-Episode: Episode 53-56
-  Resolution-8: HD 1080P
-  Link-8: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
 Episode: Episode 57-60
-  Resolution-9: HD 1080P
-  Link-9: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-8: HD 1080P
+  Link-8: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 61-64
-  Resolution-10: HD 1080P
-  Link-10: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-9: HD 1080P
+  Link-9: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -408,64 +403,39 @@ Episode: Episode 09-12
   Link-3: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
-Episode: Episode 25-28
-  Resolution-4: HD 1080P
-  Link-4: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 33-36
-  Resolution-5: HD 1080P
-  Link-5: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
 Episode: Episode 45-48
-  Resolution-6: HD 1080P
-  Link-6: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-4: HD 1080P
+  Link-4: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 49-52
-  Resolution-7: HD 1080P
-  Link-7: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-5: HD 1080P
+  Link-5: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 53-56
-  Resolution-8: HD 1080P
-  Link-8: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-6: HD 1080P
+  Link-6: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 57-60
-  Resolution-9: HD 1080P
-  Link-9: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-7: HD 1080P
+  Link-7: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 61-64
-  Resolution-10: HD 1080P
-  Link-10: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-8: HD 1080P
+  Link-8: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 65-68
-  Resolution-11: HD 1080P
-  Link-11: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
+  Resolution-9: HD 1080P
+  Link-9: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 73-76
-  Resolution-12: HD 1080P
-  Link-12: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 77-80
-  Resolution-13: HD 1080P
-  Link-13: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 81-84
-  Resolution-14: HD 1080P
-  Link-14: https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E81-84%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 85-88
-  Resolution-15: HD 1080P
-  Link-15: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E85-88%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+  Resolution-10: HD 1080P
+  Link-10: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -618,9 +588,6 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjtWQ2CL1mpmMNwuU5HeS4Iu
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20DS4K%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: 4K 2160P HEVC
-STREAM Link 2: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv
-
 ================================================================================
 
 Movie-18
@@ -688,14 +655,9 @@ Episode: Episode 12
   Link-8: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E12%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv
 
 Season: S15
-Episode: Episode 16
-  Resolution-9: HD 1080P
-  Link-9: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E16%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv
-
-Season: S15
 Episode: Episode 18
-  Resolution-10: HD 1080P
-  Link-10: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E18%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv
+  Resolution-9: HD 1080P
+  Link-9: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E18%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv
 
 ================================================================================
 
