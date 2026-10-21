@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
 TOTAL MOVIES: 39
-LAST UPDATED: 2026-10-21 | 00:40:17 (UTC)
+LAST UPDATED: 2026-10-21 | 07:43:51 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -87,104 +87,44 @@ Episode: Episode 15
   Link-15: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E15%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
-Episode: Episode 16
-  Resolution-16: HD 1080P
-  Link-16: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E16%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 17
-  Resolution-17: HD 1080P
-  Link-17: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E17%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 19
-  Resolution-18: HD 1080P
-  Link-18: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E19%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 20
-  Resolution-19: HD 1080P
-  Link-19: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E20%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 21
-  Resolution-20: HD 1080P
-  Link-20: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E21%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 22
-  Resolution-21: HD 1080P
-  Link-21: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E22%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
 Episode: Episode 23
-  Resolution-22: HD 1080P
-  Link-22: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E23%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-16: HD 1080P
+  Link-16: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E23%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 24
-  Resolution-23: HD 1080P
-  Link-23: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E24%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-17: HD 1080P
+  Link-17: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E24%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 25
-  Resolution-24: HD 1080P
-  Link-24: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E25%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-18: HD 1080P
+  Link-18: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E25%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 26
-  Resolution-25: HD 1080P
-  Link-25: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E26%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-19: HD 1080P
+  Link-19: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E26%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 27
-  Resolution-26: HD 1080P
-  Link-26: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E27%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-20: HD 1080P
+  Link-20: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E27%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 28
-  Resolution-27: HD 1080P
-  Link-27: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E28%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-21: HD 1080P
+  Link-21: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E28%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 29
-  Resolution-28: HD 1080P
-  Link-28: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E29%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
+  Resolution-22: HD 1080P
+  Link-22: https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E29%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 Season: S01
 Episode: Episode 30
-  Resolution-29: HD 1080P
-  Link-29: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E30%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 31
-  Resolution-30: HD 1080P
-  Link-30: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E31%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 33
-  Resolution-31: HD 1080P
-  Link-31: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E33%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-Season: S01
-Episode: Episode 36
-  Resolution-32: HD 1080P
-  Link-32: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E36%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 38
-  Resolution-33: HD 1080P
-  Link-33: https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E38%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 39
-  Resolution-34: HD 1080P
-  Link-34: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E39%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 41
-  Resolution-35: HD 1080P
-  Link-35: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E41%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
+  Resolution-23: HD 1080P
+  Link-23: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E30%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
 
 ================================================================================
 
