@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 26,
-    "last_updated": "2026-10-21 | 00:40:26 (UTC)",
+    "total_movies": 25,
+    "last_updated": "2026-10-21 | 18:41:53 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -165,10 +165,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -264,19 +260,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4"
-        }
-      ]
-    },
-    {
-      "name": "Hridayapoorvam",
-      "category": "Malayalam Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6M2odS1RqGEUPKirIvB1VZ9i6Y.jpg",
-      "source_url": "https://cinefreak.net/hridayapoorvam-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-jhs-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Hridayapoorvam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv"
         }
       ]
     },

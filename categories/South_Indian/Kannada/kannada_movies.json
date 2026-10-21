@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 28,
-    "last_updated": "2026-10-20 | 11:44:57 (UTC)",
+    "total_movies": 27,
+    "last_updated": "2026-10-21 | 18:41:54 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -85,23 +85,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Toxic: A Fairy Tale For Grown-ups",
-      "category": "Kannada Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBE52IVDp6Pf6RWTSUOx6bX5kl.jpg",
-      "source_url": "https://cinefreak.net/toxic-a-fairy-tale-for-grown-ups-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%201080p%20HC-ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Toxic%20%282026%29%20HDTC-V2%20%5BHindi%20LiNE%5D%20HQ-Rip%201080p%20HC-ESub.mkv"
         }
       ]
     },
