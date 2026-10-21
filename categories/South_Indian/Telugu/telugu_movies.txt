@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Telugu Movies
-TOTAL MOVIES: 23
-LAST UPDATED: 2026-10-20 | 21:41:27 (UTC)
+TOTAL MOVIES: 22
+LAST UPDATED: 2026-10-21 | 00:40:29 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -313,17 +313,6 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-21
-Movie name: DJ: Duvvada Jagannadham
-Category: Telugu Movies
-Year: 2017
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/okq2Q1f2alXGWQMLsCi4wXoAXt4.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20DJ-Duvvada%20Jagannadham%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-22
 Movie name: Arjun Reddy
 Category: Telugu Movies
 Year: 2017
@@ -334,7 +323,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-22
 Movie name: Brindavanam
 Category: Telugu Movies
 Year: 2010
