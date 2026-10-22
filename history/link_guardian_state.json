@@ -1,7 +1,32 @@
 {
   "version": 3,
-  "suspects": {},
+  "suspects": {
+    "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20The%20Great%20Grand%20Superhero%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv": {
+      "failure_count": 1,
+      "last_reason": "timeouterror",
+      "last_checked": "2026-10-22T04:55:34.267720+00:00",
+      "categories": [
+        "Hindi Movies"
+      ]
+    },
+    "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Article%2015%20%282019%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv": {
+      "failure_count": 1,
+      "last_reason": "timeouterror",
+      "last_checked": "2026-10-22T04:55:34.267740+00:00",
+      "categories": [
+        "Hindi Movies"
+      ]
+    },
+    "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Daredevil%20Born%20Again%20%5BS02E02%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv": {
+      "failure_count": 1,
+      "last_reason": "timeouterror",
+      "last_checked": "2026-10-22T04:55:34.267745+00:00",
+      "categories": [
+        "Disney Hotstar"
+      ]
+    }
+  },
   "source_gaps": {},
   "repair_queue": {},
-  "updated_at": "2026-10-21T23:25:07.058555+00:00"
+  "updated_at": "2026-10-22T04:55:36.836356+00:00"
 }
