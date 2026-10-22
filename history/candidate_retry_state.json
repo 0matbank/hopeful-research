@@ -1361,10 +1361,10 @@
         "retry_after": "2026-10-21T14:17:07.494408+00:00"
       },
       "https://cinefreak.net/visionquest-2026-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-21T02:17:07.494413+00:00",
-        "retry_after_epoch": 1792592227,
-        "retry_after": "2026-10-21T14:17:07.494413+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-22T02:11:16.657227+00:00",
+        "retry_after_epoch": 1792721476,
+        "retry_after": "2026-10-23T02:11:16.657227+00:00"
       },
       "https://cinefreak.net/koffee-with-karan-2026-full-series-download": {
         "failure_count": 1,
@@ -1461,6 +1461,60 @@
         "last_failed_at": "2026-10-21T16:13:34.980267+00:00",
         "retry_after_epoch": 1792642414,
         "retry_after": "2026-10-22T04:13:34.980267+00:00"
+      },
+      "https://cinefreak.net/the-india-story-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657112+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657112+00:00"
+      },
+      "https://cinefreak.net/malikappuram-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657177+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657177+00:00"
+      },
+      "https://cinefreak.net/run-baby-run-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657186+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657186+00:00"
+      },
+      "https://cinefreak.net/the-secret-of-the-shiledars-2025-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657192+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657192+00:00"
+      },
+      "https://cinefreak.net/vaazha-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657199+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657199+00:00"
+      },
+      "https://cinefreak.net/prathichaya-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657205+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657205+00:00"
+      },
+      "https://cinefreak.net/blind-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657210+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657210+00:00"
+      },
+      "https://cinefreak.net/aa-okkati-adakku-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657217+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657217+00:00"
+      },
+      "https://cinefreak.net/the-rajasaab-2026-hindi-dubbed-hindi-telugu-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-22T02:11:16.657222+00:00",
+        "retry_after_epoch": 1792678276,
+        "retry_after": "2026-10-22T14:11:16.657222+00:00"
       }
     },
     "English Movies": {
