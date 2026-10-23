@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-10-20T04:56:31.121189+00:00",
-      "next_retry_at": "2026-10-23T04:56:31.121203+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-10-23T07:36:16.554439+00:00",
+      "next_retry_at": "2026-10-26T07:36:16.554457+00:00",
+      "attempt_count": 9
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -12738,5 +12738,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-23T00:43:01.645248+00:00"
+  "updated_at": "2026-10-23T07:36:16.601495+00:00"
 }
