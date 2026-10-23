@@ -315,9 +315,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Coma%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T11:30:43.757304+00:00",
-      "last_attempt": "2026-10-21T13:52:06.146670+00:00",
-      "next_retry_at": "2026-10-23T13:52:06.146688+00:00",
-      "attempt_count": 4
+      "last_attempt": "2026-10-23T18:24:42.104404+00:00",
+      "next_retry_at": "2026-10-26T18:24:42.104423+00:00",
+      "attempt_count": 5
     },
     "disneyhotstar::https://cinefreak.net/pompeii-out-of-time-with-tom-hiddleston-2026-full-series-download": {
       "category": "Disney Hotstar",
@@ -12738,5 +12738,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-23T13:30:20.982397+00:00"
+  "updated_at": "2026-10-23T18:24:42.165367+00:00"
 }
