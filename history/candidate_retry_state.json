@@ -279,6 +279,66 @@
         "last_failed_at": "2026-10-22T16:11:43.605452+00:00",
         "retry_after_epoch": 1792728703,
         "retry_after": "2026-10-23T04:11:43.605452+00:00"
+      },
+      "https://cinefreak.net/alaap-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036054+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036054+00:00"
+      },
+      "https://cinefreak.net/banku-babu-2014-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036096+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036096+00:00"
+      },
+      "https://cinefreak.net/bidhatar-khela-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036104+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036104+00:00"
+      },
+      "https://cinefreak.net/dashami-2012-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036111+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036111+00:00"
+      },
+      "https://cinefreak.net/bapi-bari-jaa-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036116+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036116+00:00"
+      },
+      "https://cinefreak.net/amar-bodyguard-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036122+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036122+00:00"
+      },
+      "https://cinefreak.net/villain-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036126+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036126+00:00"
+      },
+      "https://cinefreak.net/rupkotha-noy-2013-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036132+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036132+00:00"
+      },
+      "https://cinefreak.net/mrinaler-chithi-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036137+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036137+00:00"
+      },
+      "https://cinefreak.net/aalo-2017-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-23T02:41:50.036142+00:00",
+        "retry_after_epoch": 1792766510,
+        "retry_after": "2026-10-23T14:41:50.036142+00:00"
       }
     },
     "Tamil Movies": {
