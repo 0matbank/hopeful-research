@@ -2693,20 +2693,10 @@
     "name": "Lanterns",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv",
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E03%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv",
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv",
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E07%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E06%5D%20WEB-DL%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-12T15:34:02.291866+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:55.761950+00:00",
+    "attempt_count": 2
   },
   "disneyhotstar::resort": {
     "name": "Resort",
@@ -2743,20 +2733,19 @@
     "name": "Star Wars: The Mandalorian And Grogu",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+      "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20iMAX%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-12T23:02:14.413922+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:54.675687+00:00",
+    "attempt_count": 2
   },
   "disneyhotstar::neru": {
     "name": "Neru",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-12T23:02:16.006269+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:57.319853+00:00",
+    "attempt_count": 2
   },
   "disneyhotstar::startrekstrangenewworlds": {
     "name": "Star Trek: Strange New Worlds",
@@ -2854,11 +2843,10 @@
     "name": "The Court",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E17%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20The%20Court%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-13T06:51:04.948534+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:52.930130+00:00",
+    "attempt_count": 2
   },
   "disneyhotstar::theawakening": {
     "name": "The Awakening",
@@ -3016,11 +3004,10 @@
     "name": "18+ Parthenope",
     "category": "English Movies",
     "dead_links": [
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Parthenope%20%282024%29%20BluRay%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Parthenope%20%282024%29%20BluRay%20%5BHindi-English%5D%204K-2160p%20HDR%20HEVC%20ESub.mkv"
+      "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Parthenope%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-13T21:19:16.376558+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:39.677290+00:00",
+    "attempt_count": 2
   },
   "englishmovies::theblackout": {
     "name": "The Blackout",
@@ -3339,12 +3326,10 @@
     "name": "Habeebi",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Habeebi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Habeebi%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Habeebi%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20DV%20HDR%20HEVC%20ESub.mkv"
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Habeebi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-14T18:40:34.339474+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:47.760466+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::heaven": {
     "name": "Heaven",
@@ -3359,10 +3344,11 @@
     "name": "Hero",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-14T18:40:37.210063+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:50.723163+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::jaibhim": {
     "name": "Jai Bhim",
@@ -5476,10 +5462,10 @@
     "name": "Mango Pachcha",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mango%20Pachcha%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Mango%20Pachcha%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-19T23:46:01.027040+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:46.653652+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::mensionhousemallesh": {
     "name": "Mension House Mallesh",
@@ -5512,10 +5498,10 @@
     "name": "Por Thozhil",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC.mkv"
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-19T23:46:07.174220+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-24T18:49:49.223379+00:00",
+    "attempt_count": 2
   },
   "hindimovies::governor": {
     "name": "Governor",
@@ -5817,6 +5803,51 @@
       "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Oggatonama%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-24T16:00:53.111240+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::thegirlintheriver": {
+    "name": "The Girl In The River",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20The%20Girl%20In%20The%20River%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-24T18:49:38.493839+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::chinnachinnaaasai": {
+    "name": "Chinna Chinna Aasai",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-24T18:49:41.492210+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::doubleoccupancy": {
+    "name": "Double Occupancy",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-24T18:49:42.951299+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::dc": {
+    "name": "DC",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Line-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-24T18:49:44.191441+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::nilakanta": {
+    "name": "Nilakanta",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Nilakanta%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC.mkv"
+    ],
+    "last_attempt": "2026-10-24T18:49:45.690386+00:00",
     "attempt_count": 1
   }
 }
