@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 67,
-    "last_updated": "2026-10-20 | 21:41:01 (UTC)",
+    "total_movies": 65,
+    "last_updated": "2026-10-24 | 22:32:26 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -158,10 +158,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -341,19 +337,6 @@
       ]
     },
     {
-      "name": "Ohh My Dog",
-      "category": "Hindi Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg",
-      "source_url": "https://cinefreak.net/ohh-my-dog-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Ohh%20My%20Dog%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Main Vaapas Aaunga",
       "category": "Hindi Movies",
       "year": "2026",
@@ -482,10 +465,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -599,10 +578,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Love%20in%20Vietnam%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Love%20in%20Vietnam%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -788,10 +763,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Angrezi%20Medium%20%282020%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Angrezi%20Medium%20%282020%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -833,10 +804,6 @@
       "source_url": "https://cinefreak.net/meri-pyaari-bindu-2017-full-movie-download",
       "res_list": [
         {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Meri%20Pyaari%20Bindu%20%282017%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Meri%20Pyaari%20Bindu%20%282017%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
@@ -863,25 +830,8 @@
       "source_url": "https://cinefreak.net/sanam-re-2016-full-movie-download",
       "res_list": [
         {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Sanam%20Re%20%282016%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sanam%20Re%20%282016%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "M.S. Dhoni: The Untold Story",
-      "category": "Hindi Movies",
-      "year": "2016",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg",
-      "source_url": "https://cinefreak.net/m-s-dhoni-the-untold-story-2016-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20M.S.%20Dhoni%20The%20Untold%20Story%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

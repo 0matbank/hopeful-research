@@ -3,163 +3,6 @@
   "suspects": {},
   "source_gaps": {},
   "repair_queue": {
-    "hindimovies::https://cinefreak.net/dhamaal-4-2026-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/dhamaal-4-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindimovies::https://cinefreak.net/ohh-my-dog-2026-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/ohh-my-dog-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Ohh%20My%20Dog%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindimovies::https://cinefreak.net/tula-pahta-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/tula-pahta-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindimovies::https://cinefreak.net/love-in-vietnam-2025-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/love-in-vietnam-2025-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Love%20in%20Vietnam%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindimovies::https://cinefreak.net/meri-pyaari-bindu-2017-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/meri-pyaari-bindu-2017-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Meri%20Pyaari%20Bindu%20%282017%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindimovies::https://cinefreak.net/angrezi-medium-2020-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/angrezi-medium-2020-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Angrezi%20Medium%20%282020%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindimovies::https://cinefreak.net/sanam-re-2016-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/sanam-re-2016-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Sanam%20Re%20%282016%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindimovies::https://cinefreak.net/m-s-dhoni-the-untold-story-2016-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/m-s-dhoni-the-untold-story-2016-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20M.S.%20Dhoni%20The%20Untold%20Story%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindidubbedmovies::https://cinefreak.net/vishwanath-sons-2026-full-movie-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/vishwanath-sons-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20and%20Sons%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindidubbedmovies::https://cinefreak.net/prince-of-mollywood-2026-full-series-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/prince-of-mollywood-2026-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Prince%20of%20Mollywood%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindidubbedmovies::https://cinefreak.net/the-paradise-2026-full-movie-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/the-paradise-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20The%20Paradise%20%282026%29%20HDTC-V2%20%5BHindi-Telugu%5D%20HQ-Rip%201080p.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "hindidubbedmovies::https://cinefreak.net/yaanai-2022-full-movie-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/yaanai-2022-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv",
-        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
     "tamilmovies::https://cinefreak.net/brothers-and-sisters-2026-full-series-download": {
       "category": "Tamil Movies",
       "source_url": "https://cinefreak.net/brothers-and-sisters-2026-full-series-download",
@@ -169,7 +12,7 @@
         "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
+      "last_seen": "2026-10-24T22:32:09.092111+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -182,7 +25,7 @@
         "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20AMZN%204K-2160p%20SDR%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
+      "last_seen": "2026-10-24T22:32:09.092111+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -195,7 +38,7 @@
         "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E18%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
       ],
       "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
+      "last_seen": "2026-10-24T22:32:09.092111+00:00",
       "attempt_count": 1,
       "last_attempt": "2026-10-24T16:01:09.478927+00:00"
     },
@@ -208,21 +51,7 @@
         "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "kannadamovies::https://cinefreak.net/healer-2014-full-series-download": {
-      "category": "Kannada Movies",
-      "source_url": "https://cinefreak.net/healer-2014-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv",
-        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E16-20%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
+      "last_seen": "2026-10-24T22:32:09.092111+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -235,7 +64,7 @@
         "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.NET%20-%20Thiruchitrambalam%20%282022%29%20AMZN%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20HQ%201080p%20Esub.mkv"
       ],
       "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
+      "last_seen": "2026-10-24T22:32:09.092111+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -248,7 +77,7 @@
         "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
+      "last_seen": "2026-10-24T22:32:09.092111+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     },
@@ -261,10 +90,10 @@
         "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Thellavarithe%20Guruvaram%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
       ],
       "discovered_at": "2026-10-24T16:00:44.819510+00:00",
-      "last_seen": "2026-10-24T18:49:33.734552+00:00",
+      "last_seen": "2026-10-24T22:32:09.092111+00:00",
       "attempt_count": 0,
       "last_attempt": ""
     }
   },
-  "updated_at": "2026-10-24T18:49:57.432372+00:00"
+  "updated_at": "2026-10-24T22:32:36.715497+00:00"
 }

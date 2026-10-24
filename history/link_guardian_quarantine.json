@@ -364,9 +364,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Mark%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T11:41:02.562549+00:00",
-      "last_attempt": "2026-09-11T11:41:02.562555+00:00",
-      "next_retry_at": "2026-09-11T17:41:02.562558+00:00",
-      "attempt_count": 1
+      "last_attempt": "2026-10-24T22:32:11.862399+00:00",
+      "next_retry_at": "2026-10-25T10:32:11.862417+00:00",
+      "attempt_count": 2
     },
     "disneyhotstar::https://cinefreak.net/wild-life-2023-full-movie-download": {
       "category": "Disney Hotstar",
@@ -12957,7 +12957,108 @@
       "last_attempt": "2026-10-24T18:49:50.822339+00:00",
       "next_retry_at": "2026-10-25T00:49:50.822343+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/ohh-my-dog-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/ohh-my-dog-2026-full-movie-download",
+      "movie": {
+        "name": "Ohh My Dog",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg",
+        "source_url": "https://cinefreak.net/ohh-my-dog-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Ohh%20My%20Dog%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Ohh%20My%20Dog%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-24T22:32:26.426177+00:00",
+      "last_attempt": "2026-10-24T22:32:26.426198+00:00",
+      "next_retry_at": "2026-10-25T04:32:26.426204+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/m-s-dhoni-the-untold-story-2016-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/m-s-dhoni-the-untold-story-2016-full-movie-download",
+      "movie": {
+        "name": "M.S. Dhoni: The Untold Story",
+        "category": "Hindi Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg",
+        "source_url": "https://cinefreak.net/m-s-dhoni-the-untold-story-2016-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20M.S.%20Dhoni%20The%20Untold%20Story%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20M.S.%20Dhoni%20The%20Untold%20Story%20%282016%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-24T22:32:26.426815+00:00",
+      "last_attempt": "2026-10-24T22:32:26.426822+00:00",
+      "next_retry_at": "2026-10-25T04:32:26.426824+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/the-paradise-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/the-paradise-2026-full-movie-download",
+      "movie": {
+        "name": "The Paradise",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/original/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+        "source_url": "https://cinefreak.net/the-paradise-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20The%20Paradise%20%282026%29%20HDTC-V2%20%5BHindi-Telugu%5D%20HQ-Rip%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20The%20Paradise%20%282026%29%20HDTC-V2%20%5BHindi-Telugu%5D%20HQ-Rip%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-24T22:32:34.221892+00:00",
+      "last_attempt": "2026-10-24T22:32:34.221904+00:00",
+      "next_retry_at": "2026-10-25T04:32:34.221907+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/yaanai-2022-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/yaanai-2022-full-movie-download",
+      "movie": {
+        "name": "Yaanai",
+        "category": "Hindi Dubbed Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gfK7CTnhoFcxRVNk04bUHQjq3AJ.jpg",
+        "source_url": "https://cinefreak.net/yaanai-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Yaanai%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-24T22:32:34.222408+00:00",
+      "last_attempt": "2026-10-24T22:32:34.222417+00:00",
+      "next_retry_at": "2026-10-25T04:32:34.222419+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-24T18:49:57.437825+00:00"
+  "updated_at": "2026-10-24T22:32:36.719920+00:00"
 }
