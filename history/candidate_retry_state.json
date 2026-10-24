@@ -1745,6 +1745,66 @@
         "last_failed_at": "2026-09-24T16:04:44.555974+00:00",
         "retry_after_epoch": 1790309084,
         "retry_after": "2026-09-25T04:04:44.555974+00:00"
+      },
+      "https://cinefreak.net/midway-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076115+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076115+00:00"
+      },
+      "https://cinefreak.net/zathura-a-space-adventure-2005-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076161+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076161+00:00"
+      },
+      "https://cinefreak.net/lurker-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076172+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076172+00:00"
+      },
+      "https://cinefreak.net/the-sex-trip-2017-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076180+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076180+00:00"
+      },
+      "https://cinefreak.net/the-kissing-booth-3-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076188+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076188+00:00"
+      },
+      "https://cinefreak.net/the-kissing-booth-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076199+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076199+00:00"
+      },
+      "https://cinefreak.net/american-wedding-2003-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076208+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076208+00:00"
+      },
+      "https://cinefreak.net/american-pie-2-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076216+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076216+00:00"
+      },
+      "https://cinefreak.net/king-arthur-legend-of-the-sword-2017-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076226+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076226+00:00"
+      },
+      "https://cinefreak.net/phenomenon-1996-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T02:16:05.076237+00:00",
+        "retry_after_epoch": 1792851365,
+        "retry_after": "2026-10-24T14:16:05.076237+00:00"
       }
     },
     "Hindi Movies": {
