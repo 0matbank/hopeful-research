@@ -1805,6 +1805,66 @@
         "last_failed_at": "2026-10-24T02:16:05.076237+00:00",
         "retry_after_epoch": 1792851365,
         "retry_after": "2026-10-24T14:16:05.076237+00:00"
+      },
+      "https://cinefreak.net/fractured-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.775844+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.775844+00:00"
+      },
+      "https://cinefreak.net/a-farewell-to-ozark-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777292+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777292+00:00"
+      },
+      "https://cinefreak.net/past-lives-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777309+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777309+00:00"
+      },
+      "https://cinefreak.net/clayface-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777317+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777317+00:00"
+      },
+      "https://cinefreak.net/road-house-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777324+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777324+00:00"
+      },
+      "https://cinefreak.net/surviving-hurricane-otis-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777331+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777331+00:00"
+      },
+      "https://cinefreak.net/hostel-part-ii-2007-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777337+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777337+00:00"
+      },
+      "https://cinefreak.net/hostel-2006-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777344+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777344+00:00"
+      },
+      "https://cinefreak.net/salt-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777350+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777350+00:00"
+      },
+      "https://cinefreak.net/sex-drive-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-24T14:58:52.777356+00:00",
+        "retry_after_epoch": 1792897132,
+        "retry_after": "2026-10-25T02:58:52.777356+00:00"
       }
     },
     "Hindi Movies": {
