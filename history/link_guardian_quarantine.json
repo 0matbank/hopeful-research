@@ -340,9 +340,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Pompeii%20Out%20of%20Time%20with%20Tom%20Hiddleston%20%282026%29%20S01%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T11:41:02.562150+00:00",
-      "last_attempt": "2026-10-18T04:39:42.571353+00:00",
-      "next_retry_at": "2026-10-18T16:39:42.571371+00:00",
-      "attempt_count": 2
+      "last_attempt": "2026-10-24T16:00:47.719302+00:00",
+      "next_retry_at": "2026-10-25T16:00:47.719337+00:00",
+      "attempt_count": 3
     },
     "disneyhotstar::https://cinefreak.net/mark-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -12736,7 +12736,103 @@
       "last_attempt": "2026-10-21T23:25:02.922246+00:00",
       "next_retry_at": "2026-10-22T05:25:02.922249+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/puratawn-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/puratawn-2025-full-movie-download",
+      "movie": {
+        "name": "Puratawn",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGV1JYHGhHwlYNUrtlA3nPiFSb7.jpg",
+        "source_url": "https://cinefreak.net/puratawn-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Puratawn%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Puratawn%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-24T16:00:53.252293+00:00",
+      "last_attempt": "2026-10-24T16:00:53.252304+00:00",
+      "next_retry_at": "2026-10-24T22:00:53.252306+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/swastik-sanket-2022-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/swastik-sanket-2022-full-movie-download",
+      "movie": {
+        "name": "Swastik Sanket",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfzwhP34dkyvwxyeFNj7LtGGkkN.jpg",
+        "source_url": "https://cinefreak.net/swastik-sanket-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-24T16:00:53.252538+00:00",
+      "last_attempt": "2026-10-24T16:00:53.252541+00:00",
+      "next_retry_at": "2026-10-24T22:00:53.252542+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/oggatonama-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/oggatonama-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Oggatonama",
+        "category": "Bangla Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DFim5QJrz5w87saNckRLJea7Fg.jpg",
+        "source_url": "https://cinefreak.net/oggatonama-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Oggatonama%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Oggatonama%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-24T16:00:53.252673+00:00",
+      "last_attempt": "2026-10-24T16:00:53.252675+00:00",
+      "next_retry_at": "2026-10-24T22:00:53.252677+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/a-woman-called-mother-2025-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/a-woman-called-mother-2025-full-movie-download",
+      "movie": {
+        "name": "A Woman Called Mother",
+        "category": "Disney Hotstar",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojWSVt7O92ZLtEUyQs8u5pRI40b.jpg",
+        "source_url": "https://cinefreak.net/a-woman-called-mother-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20A%20Woman%20Called%20Mother%20%282025%29%20WEB-DL%20%5BHindi-Indonesian%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-24T16:01:09.468298+00:00",
+      "last_attempt": "2026-10-24T16:01:09.468310+00:00",
+      "next_retry_at": "2026-10-24T22:01:09.468311+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-24T11:08:37.818505+00:00"
+  "updated_at": "2026-10-24T16:01:09.484891+00:00"
 }

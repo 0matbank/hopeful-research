@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 57,
-    "last_updated": "2026-10-23 | 16:03:20 (UTC)",
+    "total_movies": 54,
+    "last_updated": "2026-10-24 | 16:00:53 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -467,19 +467,6 @@
       ]
     },
     {
-      "name": "Puratawn",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGV1JYHGhHwlYNUrtlA3nPiFSb7.jpg",
-      "source_url": "https://cinefreak.net/puratawn-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Puratawn%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Grihapravesh",
       "category": "Bangla Movies",
       "year": "2025",
@@ -610,19 +597,6 @@
       ]
     },
     {
-      "name": "Swastik Sanket",
-      "category": "Bangla Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfzwhP34dkyvwxyeFNj7LtGGkkN.jpg",
-      "source_url": "https://cinefreak.net/swastik-sanket-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Swastik%20Sanket%20%282022%29%20WEB-DL%20%5BBengali%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Abar Bochhor Koori Pore",
       "category": "Bangla Movies",
       "year": "2022",
@@ -684,19 +658,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Oggatonama",
-      "category": "Bangla Movies",
-      "year": "2016",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DFim5QJrz5w87saNckRLJea7Fg.jpg",
-      "source_url": "https://cinefreak.net/oggatonama-2016-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Oggatonama%20%282016%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
