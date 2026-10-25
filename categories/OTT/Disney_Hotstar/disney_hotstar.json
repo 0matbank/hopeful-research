@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Disney Hotstar",
     "total_movies": 50,
-    "last_updated": "2026-10-24 | 18:49:57 (UTC)",
+    "last_updated": "2026-10-25 | 04:47:56 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -750,12 +750,6 @@
           "episode": "Episode 12",
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E12%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        },
-        {
-          "season": "S15",
-          "episode": "Episode 18",
-          "resolution": "HD 1080P",
-          "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E18%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         }
       ]
     },

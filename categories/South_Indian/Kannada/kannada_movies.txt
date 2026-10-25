@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
-TOTAL MOVIES: 27
-LAST UPDATED: 2026-10-24 | 22:32:36 (UTC)
+TOTAL MOVIES: 25
+LAST UPDATED: 2026-10-25 | 04:47:50 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -236,17 +236,6 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 ================================================================================
 
 Movie-20
-Movie name: Usiru
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-21
 Movie name: Bhairathi Ranagal
 Category: Kannada Movies
 Year: 2024
@@ -257,7 +246,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-21
 Movie name: Gurudev Hoysala
 Category: Kannada Movies
 Year: 2023
@@ -268,7 +257,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-22
 Movie name: Love Mocktail 2
 Category: Kannada Movies
 Year: 2022
@@ -282,18 +271,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-24
-Movie name: Thiruchitrambalam
-Category: Kannada Movies
-Year: 2022
-Poster: https://m.media-amazon.com/images/M/MV5BYWQ5ZGU0ZmYtY2U0Yy00MjExLThkNzgtYzI1NzBkMzBhOTBkXkEyXkFqcGc@._V1_.jpg
-
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.NET%20-%20Thiruchitrambalam%20%282022%29%20AMZN%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20HQ%201080p%20Esub.mkv
-
-================================================================================
-
-Movie-25
+Movie-23
 Movie name: Inspector Vikram
 Category: Kannada Movies
 Year: 2021
@@ -304,7 +282,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
+Movie-24
 Movie name: Aa Karaala Ratri
 Category: Kannada Movies
 Year: 2018
@@ -315,7 +293,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
+Movie-25
 Show name: Healer
 Category: Kannada Movies
 Year: 2014

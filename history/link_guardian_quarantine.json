@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-10-21T23:24:56.058444+00:00",
-      "next_retry_at": "2026-10-24T23:24:56.058462+00:00",
-      "attempt_count": 12
+      "last_attempt": "2026-10-25T04:47:42.147591+00:00",
+      "next_retry_at": "2026-10-28T04:47:42.147607+00:00",
+      "attempt_count": 13
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -13058,7 +13058,55 @@
       "last_attempt": "2026-10-24T22:32:34.222417+00:00",
       "next_retry_at": "2026-10-25T04:32:34.222419+00:00",
       "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/usiru-2025-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/usiru-2025-full-movie-download",
+      "movie": {
+        "name": "Usiru",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGFn6qJWI4VsJQhrVQsNtTESGZj.jpg",
+        "source_url": "https://cinefreak.net/usiru-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Usiru%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-25T04:47:50.403008+00:00",
+      "last_attempt": "2026-10-25T04:47:50.403021+00:00",
+      "next_retry_at": "2026-10-25T10:47:50.403024+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/thiruchitrambalam-2022-amzn-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/thiruchitrambalam-2022-amzn-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Thiruchitrambalam",
+        "category": "Kannada Movies",
+        "year": "2022",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWQ5ZGU0ZmYtY2U0Yy00MjExLThkNzgtYzI1NzBkMzBhOTBkXkEyXkFqcGc@._V1_.jpg",
+        "source_url": "https://cinefreak.net/thiruchitrambalam-2022-amzn-web-dl-multi-audio-480p-720p-1080p-full-movie-download-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.NET%20-%20Thiruchitrambalam%20%282022%29%20AMZN%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20HQ%201080p%20Esub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.NET%20-%20Thiruchitrambalam%20%282022%29%20AMZN%20WEB-DL%20%5BHIN-TAM-TEL-MAL-KAN%5D%20HQ%201080p%20Esub.mkv"
+      ],
+      "quarantined_at": "2026-10-25T04:47:50.403263+00:00",
+      "last_attempt": "2026-10-25T04:47:50.403292+00:00",
+      "next_retry_at": "2026-10-25T10:47:50.403295+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-24T22:32:36.719920+00:00"
+  "updated_at": "2026-10-25T04:47:56.568521+00:00"
 }
