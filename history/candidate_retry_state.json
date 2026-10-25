@@ -1865,6 +1865,66 @@
         "last_failed_at": "2026-10-24T14:58:52.777356+00:00",
         "retry_after_epoch": 1792897132,
         "retry_after": "2026-10-25T02:58:52.777356+00:00"
+      },
+      "https://cinefreak.net/ranma1-2-2024-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.129966+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.129966+00:00"
+      },
+      "https://cinefreak.net/eurotrip-2004-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130021+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130021+00:00"
+      },
+      "https://cinefreak.net/murder-on-the-orient-express-2017-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130037+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130037+00:00"
+      },
+      "https://cinefreak.net/deathgasm-ii-goremageddon-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130048+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130048+00:00"
+      },
+      "https://cinefreak.net/the-kite-runner-2007-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130057+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130057+00:00"
+      },
+      "https://cinefreak.net/the-possession-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130070+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130070+00:00"
+      },
+      "https://cinefreak.net/gone-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130079+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130079+00:00"
+      },
+      "https://cinefreak.net/a-love-other-than-yours-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130088+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130088+00:00"
+      },
+      "https://cinefreak.net/american-pie-1999-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130097+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130097+00:00"
+      },
+      "https://cinefreak.net/antrum-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T02:01:37.130105+00:00",
+        "retry_after_epoch": 1792936897,
+        "retry_after": "2026-10-25T14:01:37.130105+00:00"
       }
     },
     "Hindi Movies": {
