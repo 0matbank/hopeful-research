@@ -45,9 +45,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-10-22T04:55:36.793232+00:00",
-      "next_retry_at": "2026-10-25T04:55:36.793248+00:00",
-      "attempt_count": 20
+      "last_attempt": "2026-10-25T11:37:56.382344+00:00",
+      "next_retry_at": "2026-10-28T11:37:56.382360+00:00",
+      "attempt_count": 21
     },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -13108,5 +13108,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-25T04:47:56.568521+00:00"
+  "updated_at": "2026-10-25T11:37:56.430542+00:00"
 }
