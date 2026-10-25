@@ -2047,6 +2047,66 @@
         "last_failed_at": "2026-09-26T15:17:51.809741+00:00",
         "retry_after_epoch": 1790479071,
         "retry_after": "2026-09-27T03:17:51.809741+00:00"
+      },
+      "https://cinefreak.net/a-love-other-than-yours-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892467+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892467+00:00"
+      },
+      "https://cinefreak.net/tu-hai-meri-kiran-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892521+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892521+00:00"
+      },
+      "https://cinefreak.net/tum-mere-ho-2026-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892539+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892539+00:00"
+      },
+      "https://cinefreak.net/doosra-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892552+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892552+00:00"
+      },
+      "https://cinefreak.net/pehla-pyaar-doosri-baar-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892564+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892564+00:00"
+      },
+      "https://cinefreak.net/udta-teer-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892576+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892576+00:00"
+      },
+      "https://cinefreak.net/gajab-raat-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892585+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892585+00:00"
+      },
+      "https://cinefreak.net/sumo-didi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892592+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892592+00:00"
+      },
+      "https://cinefreak.net/enthiran-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892600+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892600+00:00"
+      },
+      "https://cinefreak.net/jeena-dil-se-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-25T15:10:21.892608+00:00",
+        "retry_after_epoch": 1792984221,
+        "retry_after": "2026-10-26T03:10:21.892608+00:00"
       }
     }
   }

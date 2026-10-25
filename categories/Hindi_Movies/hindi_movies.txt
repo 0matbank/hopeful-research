@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Movies
 TOTAL MOVIES: 65
-LAST UPDATED: 2026-10-24 | 22:32:26 (UTC)
+LAST UPDATED: 2026-10-25 | 15:10:21 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
