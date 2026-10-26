@@ -2107,6 +2107,66 @@
         "last_failed_at": "2026-10-25T15:10:21.892608+00:00",
         "retry_after_epoch": 1792984221,
         "retry_after": "2026-10-26T03:10:21.892608+00:00"
+      },
+      "https://cinefreak.net/the-shallows-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058198+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058198+00:00"
+      },
+      "https://cinefreak.net/nri-wives-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058268+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058268+00:00"
+      },
+      "https://cinefreak.net/maamannan-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058300+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058300+00:00"
+      },
+      "https://cinefreak.net/waqt-2005-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058309+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058309+00:00"
+      },
+      "https://cinefreak.net/bhouri-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058316+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058316+00:00"
+      },
+      "https://cinefreak.net/aryabhatt-ka-zero-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058324+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058324+00:00"
+      },
+      "https://cinefreak.net/prahaar-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058331+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058331+00:00"
+      },
+      "https://cinefreak.net/nayyi-navelli-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058338+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058338+00:00"
+      },
+      "https://cinefreak.net/jakes-corner-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058345+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058345+00:00"
+      },
+      "https://cinefreak.net/road-to-sangam-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T02:03:13.058354+00:00",
+        "retry_after_epoch": 1793023393,
+        "retry_after": "2026-10-26T14:03:13.058354+00:00"
       }
     }
   }
