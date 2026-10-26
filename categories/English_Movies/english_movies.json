@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 51,
-    "last_updated": "2026-10-25 | 02:01:37 (UTC)",
+    "total_movies": 49,
+    "last_updated": "2026-10-26 | 15:15:00 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -214,21 +214,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Come%20With%20Me%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "A Tale Of Two Cities",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
-      "source_url": "https://cinefreak.net/a-tale-of-two-cities-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20A%20Tale%20of%20Two%20Cities%20%5BS01E01%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -607,19 +592,6 @@
       ]
     },
     {
-      "name": "The Break-Up",
-      "category": "English Movies",
-      "year": "2006",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghCLIPRZNAndBoIZJ8f7lN5Mlly.jpg",
-      "source_url": "https://cinefreak.net/the-break-up-2006-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20The%20Break%20Up%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Hitch",
       "category": "English Movies",
       "year": "2005",
@@ -642,10 +614,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },

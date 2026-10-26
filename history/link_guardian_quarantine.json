@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-10-23T13:30:20.932137+00:00",
-      "next_retry_at": "2026-10-26T13:30:20.932151+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-10-26T15:14:54.871954+00:00",
+      "next_retry_at": "2026-10-29T15:14:54.871969+00:00",
+      "attempt_count": 9
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -13106,7 +13106,129 @@
       "last_attempt": "2026-10-25T04:47:50.403292+00:00",
       "next_retry_at": "2026-10-25T10:47:50.403295+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/a-tale-of-two-cities-2026-full-series-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/a-tale-of-two-cities-2026-full-series-download",
+      "movie": {
+        "name": "A Tale Of Two Cities",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+        "source_url": "https://cinefreak.net/a-tale-of-two-cities-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20A%20Tale%20of%20Two%20Cities%20%5BS01E01%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20A%20Tale%20of%20Two%20Cities%20%5BS01E01%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-26T15:15:00.409114+00:00",
+      "last_attempt": "2026-10-26T15:15:00.409130+00:00",
+      "next_retry_at": "2026-10-26T21:15:00.409132+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-break-up-2006-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-break-up-2006-full-movie-download",
+      "movie": {
+        "name": "The Break-Up",
+        "category": "English Movies",
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghCLIPRZNAndBoIZJ8f7lN5Mlly.jpg",
+        "source_url": "https://cinefreak.net/the-break-up-2006-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20The%20Break%20Up%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20The%20Break%20Up%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-26T15:15:00.409489+00:00",
+      "last_attempt": "2026-10-26T15:15:00.409493+00:00",
+      "next_retry_at": "2026-10-26T21:15:00.409495+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/dhamaal-4-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/dhamaal-4-2026-full-movie-download",
+      "movie": {
+        "name": "Dhamaal 4",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+        "source_url": "https://cinefreak.net/dhamaal-4-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-26T15:15:04.542199+00:00",
+      "last_attempt": "2026-10-26T15:15:04.542217+00:00",
+      "next_retry_at": "2026-10-26T21:15:04.542219+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/angrezi-medium-2020-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/angrezi-medium-2020-full-movie-download",
+      "movie": {
+        "name": "Angrezi Medium",
+        "category": "Hindi Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hT41Fi3NAqkPpNkWt7imaOtxGDP.jpg",
+        "source_url": "https://cinefreak.net/angrezi-medium-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Angrezi%20Medium%20%282020%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Angrezi%20Medium%20%282020%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-26T15:15:04.542685+00:00",
+      "last_attempt": "2026-10-26T15:15:04.542690+00:00",
+      "next_retry_at": "2026-10-26T21:15:04.542692+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/dcp-shankar-the-destroyer-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/dcp-shankar-the-destroyer-full-movie-download",
+      "movie": {
+        "name": "DCP Shankar",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/owTGigIkRTcrbDLenLfaH2vhoqa.jpg",
+        "source_url": "https://cinefreak.net/dcp-shankar-the-destroyer-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20DCP%20Shankar%20The%20Destroyer%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20DCP%20Shankar%20The%20Destroyer%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-26T15:15:08.525827+00:00",
+      "last_attempt": "2026-10-26T15:15:08.525845+00:00",
+      "next_retry_at": "2026-10-26T21:15:08.525847+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-26T07:51:28.863170+00:00"
+  "updated_at": "2026-10-26T15:15:17.408187+00:00"
 }

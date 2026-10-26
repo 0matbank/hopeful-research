@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Kannada Movies
 TOTAL MOVIES: 25
-LAST UPDATED: 2026-10-25 | 04:47:50 (UTC)
+LAST UPDATED: 2026-10-26 | 15:15:10 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -303,11 +303,6 @@ Season: S01
 Episode: Episode 06-10
   Resolution-1: HD 1080P
   Link-1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 11-15
-  Resolution-2: HD 1080P
-  Link-2: https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E11-15%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
