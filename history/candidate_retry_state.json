@@ -2167,6 +2167,66 @@
         "last_failed_at": "2026-10-26T02:03:13.058354+00:00",
         "retry_after_epoch": 1793023393,
         "retry_after": "2026-10-26T14:03:13.058354+00:00"
+      },
+      "https://cinefreak.net/wazir-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.579978+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.579978+00:00"
+      },
+      "https://cinefreak.net/pk-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580026+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580026+00:00"
+      },
+      "https://cinefreak.net/jeet-ki-zid-2026-hindi-web-dl-480p-720p-1080p-4k-2160p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580039+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580039+00:00"
+      },
+      "https://cinefreak.net/the-secret-of-devkaali-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580050+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580050+00:00"
+      },
+      "https://cinefreak.net/zero-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580062+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580062+00:00"
+      },
+      "https://cinefreak.net/tumbbad-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580071+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580071+00:00"
+      },
+      "https://cinefreak.net/tracao-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580078+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580078+00:00"
+      },
+      "https://cinefreak.net/the-taking-of-tiger-mountain-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580090+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580090+00:00"
+      },
+      "https://cinefreak.net/the-kill-list-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580097+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580097+00:00"
+      },
+      "https://cinefreak.net/the-broken-crown-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-26T18:11:50.580104+00:00",
+        "retry_after_epoch": 1793081510,
+        "retry_after": "2026-10-27T06:11:50.580104+00:00"
       }
     }
   }
