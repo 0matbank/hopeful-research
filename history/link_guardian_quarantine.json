@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-10-23T23:11:46.028651+00:00",
-      "next_retry_at": "2026-10-26T23:11:46.028669+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-10-27T01:30:47.663835+00:00",
+      "next_retry_at": "2026-10-30T01:30:47.663851+00:00",
+      "attempt_count": 9
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -13230,5 +13230,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-26T21:03:23.750779+00:00"
+  "updated_at": "2026-10-27T01:30:47.701614+00:00"
 }
