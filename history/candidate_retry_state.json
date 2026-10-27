@@ -1483,6 +1483,66 @@
         "last_failed_at": "2026-10-27T02:40:37.295007+00:00",
         "retry_after_epoch": 1793112037,
         "retry_after": "2026-10-27T14:40:37.295007+00:00"
+      },
+      "https://cinefreak.net/jigris-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214310+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214310+00:00"
+      },
+      "https://cinefreak.net/hitler-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214356+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214356+00:00"
+      },
+      "https://cinefreak.net/cocoons-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214367+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214367+00:00"
+      },
+      "https://cinefreak.net/super-hit-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214374+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214374+00:00"
+      },
+      "https://cinefreak.net/salute-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214381+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214381+00:00"
+      },
+      "https://cinefreak.net/pani-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214388+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214388+00:00"
+      },
+      "https://cinefreak.net/antakshari-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214395+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214395+00:00"
+      },
+      "https://cinefreak.net/dhuruvangal-pathinaaru-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214402+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214402+00:00"
+      },
+      "https://cinefreak.net/2073-2024-full-movie-download-2": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214409+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214409+00:00"
+      },
+      "https://cinefreak.net/paruthiveeran-2007-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-27T16:59:19.214415+00:00",
+        "retry_after_epoch": 1793163559,
+        "retry_after": "2026-10-28T04:59:19.214415+00:00"
       }
     },
     "Disney Hotstar": {
