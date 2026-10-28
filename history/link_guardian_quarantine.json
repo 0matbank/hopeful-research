@@ -45,9 +45,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-10-25T11:37:56.382344+00:00",
-      "next_retry_at": "2026-10-28T11:37:56.382360+00:00",
-      "attempt_count": 21
+      "last_attempt": "2026-10-28T16:41:33.535599+00:00",
+      "next_retry_at": "2026-10-31T16:41:33.535622+00:00",
+      "attempt_count": 22
     },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -13228,7 +13228,104 @@
       "last_attempt": "2026-10-26T15:15:08.525845+00:00",
       "next_retry_at": "2026-10-26T21:15:08.525847+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/declassified-operation-sindoor-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/declassified-operation-sindoor-2026-full-series-download",
+      "movie": {
+        "name": "Declassified: Operation Sindoor",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/original/w7eJIMCc4DRWM2o5HleNmy8ezKw.jpg",
+        "source_url": "https://cinefreak.net/declassified-operation-sindoor-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Declassified%20Operation%20Sindoor%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Declassified%20Operation%20Sindoor%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-28T16:41:47.661039+00:00",
+      "last_attempt": "2026-10-28T16:41:47.661058+00:00",
+      "next_retry_at": "2026-10-28T22:41:47.661063+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/mana-shankaravaraprasad-garu-2026-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/mana-shankaravaraprasad-garu-2026-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Mana ShankaraVaraPrasad Garu",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/02/Mana-Shankara-Vara-Prasad-Garu.webp",
+        "source_url": "https://cinefreak.net/mana-shankaravaraprasad-garu-2026-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mana%20Shankara%20Vara%20Prasad%20Garu%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20ZEE5%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mana%20Shankara%20Vara%20Prasad%20Garu%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%20ZEE5%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-28T16:41:47.661460+00:00",
+      "last_attempt": "2026-10-28T16:41:47.661468+00:00",
+      "next_retry_at": "2026-10-28T22:41:47.661471+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/antony-2023-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/antony-2023-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Antony",
+        "category": "Bangla Dubbed",
+        "year": "2023",
+        "poster": "https://cinefreak.net/wp-content/uploads/2025/12/antony.webp",
+        "source_url": "https://cinefreak.net/antony-2023-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Antony%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20AMZN%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Antony%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20AMZN%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-28T16:41:47.661725+00:00",
+      "last_attempt": "2026-10-28T16:41:47.661730+00:00",
+      "next_retry_at": "2026-10-28T22:41:47.661732+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/k-g-f-chapter-1-2018-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/k-g-f-chapter-1-2018-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "K.G.F: Chapter 1",
+        "category": "Bangla Dubbed",
+        "year": "2018",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/02/kgf-1.webp",
+        "source_url": "https://cinefreak.net/k-g-f-chapter-1-2018-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20KGF%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20KGF%20%282018%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-28T16:41:47.661875+00:00",
+      "last_attempt": "2026-10-28T16:41:47.661879+00:00",
+      "next_retry_at": "2026-10-28T22:41:47.661880+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-28T08:38:08.815006+00:00"
+  "updated_at": "2026-10-28T16:41:47.679589+00:00"
 }
