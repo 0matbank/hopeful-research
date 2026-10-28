@@ -1543,6 +1543,66 @@
         "last_failed_at": "2026-10-27T16:59:19.214415+00:00",
         "retry_after_epoch": 1793163559,
         "retry_after": "2026-10-28T04:59:19.214415+00:00"
+      },
+      "https://cinefreak.net/ante-sundaraniki-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189767+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189767+00:00"
+      },
+      "https://cinefreak.net/pattas-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189816+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189816+00:00"
+      },
+      "https://cinefreak.net/meesaya-murukku-2017-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189830+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189830+00:00"
+      },
+      "https://cinefreak.net/aasha-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189840+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189840+00:00"
+      },
+      "https://cinefreak.net/jailer-2-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189848+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189848+00:00"
+      },
+      "https://cinefreak.net/the-secret-of-devkaali-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189856+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189856+00:00"
+      },
+      "https://cinefreak.net/enna-vilai-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189864+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189864+00:00"
+      },
+      "https://cinefreak.net/student-no-1-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189871+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189871+00:00"
+      },
+      "https://cinefreak.net/son-of-satyamurthy-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189879+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189879+00:00"
+      },
+      "https://cinefreak.net/dhilluku-dhuddu-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-28T02:49:40.189887+00:00",
+        "retry_after_epoch": 1793198980,
+        "retry_after": "2026-10-28T14:49:40.189887+00:00"
       }
     },
     "Disney Hotstar": {
