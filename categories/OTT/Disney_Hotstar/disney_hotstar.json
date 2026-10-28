@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Disney Hotstar",
     "total_movies": 50,
-    "last_updated": "2026-10-26 | 15:15:17 (UTC)",
+    "last_updated": "2026-10-28 | 22:39:42 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -762,27 +762,9 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 02",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E02%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 03",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E03%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 07",
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

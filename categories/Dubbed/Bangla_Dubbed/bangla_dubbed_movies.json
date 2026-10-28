@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Bangla Dubbed",
     "total_movies": 35,
-    "last_updated": "2026-10-28 | 17:31:30 (UTC)",
+    "last_updated": "2026-10-28 | 22:39:40 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -189,12 +189,6 @@
       "res_list": [
         {
           "season": "S01",
-          "episode": "Episode 01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20The%20Legend%20Of%20Karna%20%5BS01E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 02",
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Legend%20Of%20Karna%20%5BS01E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
@@ -307,12 +301,6 @@
           "episode": "Episode 05",
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S04",
-          "episode": "Episode 08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

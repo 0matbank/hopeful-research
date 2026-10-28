@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
 TOTAL MOVIES: 50
-LAST UPDATED: 2026-10-26 | 15:15:17 (UTC)
+LAST UPDATED: 2026-10-28 | 22:39:42 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -638,24 +638,9 @@ Episode: Episode 01
   Link-1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E01%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 Season: S01
-Episode: Episode 02
-  Resolution-2: HD 1080P
-  Link-2: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E02%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 03
-  Resolution-3: HD 1080P
-  Link-3: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E03%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-Season: S01
 Episode: Episode 07
-  Resolution-4: HD 1080P
-  Link-4: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 08
-  Resolution-5: HD 1080P
-  Link-5: https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 
