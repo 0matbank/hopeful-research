@@ -129,64 +129,64 @@
         "retry_after": "2026-09-15T05:32:03.828537+00:00"
       },
       "https://cinefreak.net/mr-gentlemen-2009-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818219+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818219+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133799+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133799+00:00"
       },
       "https://cinefreak.net/hridoy-jure-2026-bengali-dubbed-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818265+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818265+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133814+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133814+00:00"
       },
       "https://cinefreak.net/rajkonna-2026-bengali-dubbed-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818276+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818276+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133825+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133825+00:00"
       },
       "https://cinefreak.net/prakton-2026-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818340+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818340+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133859+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133859+00:00"
       },
       "https://cinefreak.net/suhashini-2026-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818351+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818351+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133873+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133873+00:00"
       },
       "https://cinefreak.net/varam-2026-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818360+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818360+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133749+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133749+00:00"
       },
       "https://cinefreak.net/rocket-boys-2022-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818369+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818369+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133885+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133885+00:00"
       },
       "https://cinefreak.net/lost-ladies-2024-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818377+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818377+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133896+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133896+00:00"
       },
       "https://cinefreak.net/deiva-thirumagal-2011-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818385+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818385+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133905+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133905+00:00"
       },
       "https://cinefreak.net/out-of-love-2019-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-28T17:31:30.818394+00:00",
-        "retry_after_epoch": 1793251890,
-        "retry_after": "2026-10-29T05:31:30.818394+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-29T17:43:02.133915+00:00",
+        "retry_after_epoch": 1793382182,
+        "retry_after": "2026-10-30T17:43:02.133915+00:00"
       },
       "https://cinefreak.net/jl50-2020-full-series-download": {
         "failure_count": 1,
