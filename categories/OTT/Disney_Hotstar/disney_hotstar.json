@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Disney Hotstar",
     "total_movies": 50,
-    "last_updated": "2026-10-28 | 22:39:42 (UTC)",
+    "last_updated": "2026-10-29 | 05:54:14 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -59,12 +59,6 @@
         },
         {
           "season": "S03",
-          "episode": "Episode 02",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S03",
           "episode": "Episode 03",
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E03%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
@@ -80,12 +74,6 @@
           "episode": "Episode 05",
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S03",
-          "episode": "Episode 06",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E06%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         },
         {
           "season": "S03",
@@ -275,18 +263,6 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 61-64",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 65-68",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 69-72",
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E69-72%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
@@ -336,12 +312,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEfHZNS071Qa0ycrUhySEjRdXXB.jpg",
       "source_url": "https://cinefreak.net/cousins-and-kalyanams-2026-full-series-download",
       "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Cousins%20&%C2%A0Kalyanams%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
-        },
         {
           "season": "S01",
           "episode": "Episode 05-08",
@@ -431,12 +401,6 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 49-52",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 57-60",
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
@@ -461,12 +425,6 @@
           "episode": "Episode 05-08",
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 09-12",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
@@ -534,10 +492,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg",
       "source_url": "https://cinefreak.net/maa-inti-bangaram-2026-full-movie-download",
       "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        },
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
@@ -611,10 +565,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
         }
       ]
     },
@@ -658,10 +608,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
       "source_url": "https://cinefreak.net/one-two-cha-cha-chaa-2026-full-movie-download",
       "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20One%20Two%20Cha%20Cha%20Chaa%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
-        },
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20One%20Two%20Cha%20Cha%20Chaa%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv"
@@ -844,12 +790,6 @@
           "episode": "Episode 11",
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E11%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 12",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E12%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
         }
       ]
     },
@@ -1043,12 +983,6 @@
       "res_list": [
         {
           "season": "S01",
-          "episode": "Episode 01-04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 05-08",
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
@@ -1068,10 +1002,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWak2wkhTmWFnR8GODZvE1xyBaJ.jpg",
       "source_url": "https://cinefreak.net/junior-2025-full-movie-download",
       "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        },
         {
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
@@ -1182,10 +1112,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20HEVC.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p.mkv"
         }
       ]
     },
@@ -1270,12 +1196,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab46GZYGn63DbswgIKMepgj4yZP.jpg",
       "source_url": "https://cinefreak.net/24-india-2013-full-series-download",
       "res_list": [
-        {
-          "season": "S02",
-          "episode": "Episode 09-12",
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E09-12%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
-        },
         {
           "season": "S02",
           "episode": "Episode 17-20",

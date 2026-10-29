@@ -123,9 +123,9 @@
         "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
-      "last_attempt": "2026-10-26T00:25:47.177428+00:00",
-      "next_retry_at": "2026-10-29T00:25:47.177446+00:00",
-      "attempt_count": 11
+      "last_attempt": "2026-10-29T05:53:52.398772+00:00",
+      "next_retry_at": "2026-11-01T05:53:52.398789+00:00",
+      "attempt_count": 12
     },
     "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -13471,5 +13471,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-28T22:39:42.507804+00:00"
+  "updated_at": "2026-10-29T05:54:14.914892+00:00"
 }
