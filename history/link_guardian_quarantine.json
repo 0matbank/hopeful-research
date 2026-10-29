@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-10-26T15:14:54.871954+00:00",
-      "next_retry_at": "2026-10-29T15:14:54.871969+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-10-29T23:58:40.306491+00:00",
+      "next_retry_at": "2026-11-01T23:58:40.306506+00:00",
+      "attempt_count": 10
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -13685,7 +13685,79 @@
       "last_attempt": "2026-10-29T13:08:53.500716+00:00",
       "next_retry_at": "2026-10-29T19:08:53.500717+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/dulhaniya-le-aaeegi-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/dulhaniya-le-aaeegi-2026-full-movie-download",
+      "movie": {
+        "name": "Dulhaniya Le Aaeegi",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQBgp1eYyQVs4nKtd8lrLva2JcQ.jpg",
+        "source_url": "https://cinefreak.net/dulhaniya-le-aaeegi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dulhaniya%20Le%20Aaeegi%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dulhaniya%20Le%20Aaeegi%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-10-29T23:58:57.561890+00:00",
+      "last_attempt": "2026-10-29T23:58:57.561904+00:00",
+      "next_retry_at": "2026-10-30T05:58:57.561906+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/jumper-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/jumper-full-movie-download",
+      "movie": {
+        "name": "Jumper",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fU3qcASpxP6DdU5aNi0MYKajalr.jpg",
+        "source_url": "https://cinefreak.net/jumper-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Jumper%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Jumper%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T23:58:57.562288+00:00",
+      "last_attempt": "2026-10-29T23:58:57.562293+00:00",
+      "next_retry_at": "2026-10-30T05:58:57.562295+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/ishq-e-nadaan-2023-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/ishq-e-nadaan-2023-full-movie-download",
+      "movie": {
+        "name": "Ishq-e-Nadaan",
+        "category": "Hindi Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mXKx1rAilqmObNTHbQkmMIIahh.jpg",
+        "source_url": "https://cinefreak.net/ishq-e-nadaan-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Ishq-e-Nadaan%20%282023%29%20HD-Rip%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Ishq-e-Nadaan%20%282023%29%20HD-Rip%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T23:58:57.562579+00:00",
+      "last_attempt": "2026-10-29T23:58:57.562584+00:00",
+      "next_retry_at": "2026-10-30T05:58:57.562585+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-29T13:09:02.368069+00:00"
+  "updated_at": "2026-10-29T23:59:07.840036+00:00"
 }
