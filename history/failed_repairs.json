@@ -2831,11 +2831,10 @@
     "name": "Welcome To The Jungle",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-13T06:51:03.012122+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-29T13:09:02.263813+00:00",
+    "attempt_count": 2
   },
   "disneyhotstar::thecourt": {
     "name": "The Court",
@@ -3242,11 +3241,10 @@
     "name": "G.D.N",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20HQ%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-14T13:47:16.607998+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-29T13:08:55.555934+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::godarigattupaina": {
     "name": "Godari Gattupaina",
@@ -6095,6 +6093,123 @@
       "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E09-12%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-29T05:54:14.735159+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::dontsaygoodluck": {
+    "name": "Don't Say Good Luck",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:39.943133+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::vampiresofthevelvetlounge": {
+    "name": "Vampires Of The Velvet Lounge",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Vampires%20Of%20The%20Velvet%20Lounge%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:41.568017+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::splashcity": {
+    "name": "Splash City",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Splash%20City%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:43.009541+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::alieninvasionriseofthephoenix": {
+    "name": "Alien Invasion : Rise Of The Phoenix",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Alien%20Invasion%20Rise%20of%20the%20Phoenix%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:44.582971+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::hesallthat": {
+    "name": "He's All That",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Hes%20All%20That%20%282021%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:45.810160+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::sputnik": {
+    "name": "Sputnik",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sputnik%20%282020%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:47.527709+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::needforspeed": {
+    "name": "Need For Speed",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:48.852654+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::deadlyvirtueslovehonourobey": {
+    "name": "Deadly Virtues: Love. Honour. Obey.",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Deadly%20Virtues%20Love%20Honour%20Obey%20%282014%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:50.511628+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::higherlearning": {
+    "name": "Higher Learning",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:51.963352+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::robotrix": {
+    "name": "Robotrix",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Robotrix%20%281991%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:53.288789+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::honeymoonexpress": {
+    "name": "Honeymoon Express",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Honeymoon%20Express%20%282024%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:57.201256+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::christy": {
+    "name": "Christy",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:58.688363+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::garudagamanavrishabhavahana": {
+    "name": "Garuda Gamana Vrishabha Vahana",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Garuda%20Gamana%20Vrishabha%20Vahana%20%282021%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-10-29T13:08:59.980722+00:00",
     "attempt_count": 1
   }
 }

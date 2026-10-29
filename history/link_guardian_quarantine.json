@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-10-26T07:51:28.813925+00:00",
-      "next_retry_at": "2026-10-29T07:51:28.813944+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-10-29T13:08:37.633053+00:00",
+      "next_retry_at": "2026-11-01T13:08:37.633072+00:00",
+      "attempt_count": 11
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -13469,7 +13469,223 @@
       "last_attempt": "2026-10-28T22:39:36.508360+00:00",
       "next_retry_at": "2026-10-29T04:39:36.508361+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/dont-say-good-luck-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/dont-say-good-luck-2026-full-movie-download",
+      "movie": {
+        "name": "Don't Say Good Luck",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3NNwo7kImaJS7fL6YlBsJx0i6R.jpg",
+        "source_url": "https://cinefreak.net/dont-say-good-luck-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Dont%20Say%20Good%20Luck%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.499203+00:00",
+      "last_attempt": "2026-10-29T13:08:53.499219+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.499222+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/vampires-of-the-velvet-lounge-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/vampires-of-the-velvet-lounge-2026-full-movie-download",
+      "movie": {
+        "name": "Vampires Of The Velvet Lounge",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uJcIW0PL4vNZvk0z6kwWdOqLv6.jpg",
+        "source_url": "https://cinefreak.net/vampires-of-the-velvet-lounge-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Vampires%20Of%20The%20Velvet%20Lounge%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Vampires%20Of%20The%20Velvet%20Lounge%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.499475+00:00",
+      "last_attempt": "2026-10-29T13:08:53.499479+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.499481+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/splash-city-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/splash-city-2026-full-movie-download",
+      "movie": {
+        "name": "Splash City",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOdwaXV1w3vvTn1s7FTvqBQIDp.jpg",
+        "source_url": "https://cinefreak.net/splash-city-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Splash%20City%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Splash%20City%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.499698+00:00",
+      "last_attempt": "2026-10-29T13:08:53.499703+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.499705+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/alien-invasion-rise-of-the-phoenix-2025-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/alien-invasion-rise-of-the-phoenix-2025-full-movie-download",
+      "movie": {
+        "name": "Alien Invasion : Rise Of The Phoenix",
+        "category": "English Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQydQDc5lBOUBvft8PuOUQ7r4NY.jpg",
+        "source_url": "https://cinefreak.net/alien-invasion-rise-of-the-phoenix-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Alien%20Invasion%20Rise%20of%20the%20Phoenix%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Alien%20Invasion%20Rise%20of%20the%20Phoenix%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.499869+00:00",
+      "last_attempt": "2026-10-29T13:08:53.499872+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.499873+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/hes-all-that-2021-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/hes-all-that-2021-full-movie-download",
+      "movie": {
+        "name": "He's All That",
+        "category": "English Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg",
+        "source_url": "https://cinefreak.net/hes-all-that-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Hes%20All%20That%20%282021%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Hes%20All%20That%20%282021%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.500029+00:00",
+      "last_attempt": "2026-10-29T13:08:53.500032+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.500034+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/sputnik-2020-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/sputnik-2020-full-movie-download",
+      "movie": {
+        "name": "Sputnik",
+        "category": "English Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAUzmhP54bE1vPXaY7FbuZREJlR.jpg",
+        "source_url": "https://cinefreak.net/sputnik-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sputnik%20%282020%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Sputnik%20%282020%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.500159+00:00",
+      "last_attempt": "2026-10-29T13:08:53.500162+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.500164+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/deadly-virtues-love-honour-obey-2014-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/deadly-virtues-love-honour-obey-2014-full-movie-download",
+      "movie": {
+        "name": "Deadly Virtues: Love. Honour. Obey.",
+        "category": "English Movies",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uCkeMxYv7WNqko2oMWt7IuvV5G.jpg",
+        "source_url": "https://cinefreak.net/deadly-virtues-love-honour-obey-2014-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Deadly%20Virtues%20Love%20Honour%20Obey%20%282014%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Deadly%20Virtues%20Love%20Honour%20Obey%20%282014%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.500337+00:00",
+      "last_attempt": "2026-10-29T13:08:53.500340+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.500342+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/higher-learning-1995-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/higher-learning-1995-full-movie-download",
+      "movie": {
+        "name": "Higher Learning",
+        "category": "English Movies",
+        "year": "1995",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuud1Blsdwo1KQRdz5UVwjlLAWQ.jpg",
+        "source_url": "https://cinefreak.net/higher-learning-1995-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Higher%20Learning%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.500490+00:00",
+      "last_attempt": "2026-10-29T13:08:53.500493+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.500495+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/robotrix-1991-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/robotrix-1991-full-movie-download",
+      "movie": {
+        "name": "Robotrix",
+        "category": "English Movies",
+        "year": "1991",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ikwwNbk7GVorndt8lUyzaqIWpu.jpg",
+        "source_url": "https://cinefreak.net/robotrix-1991-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Robotrix%20%281991%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Robotrix%20%281991%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-29T13:08:53.500710+00:00",
+      "last_attempt": "2026-10-29T13:08:53.500716+00:00",
+      "next_retry_at": "2026-10-29T19:08:53.500717+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-29T05:54:14.914892+00:00"
+  "updated_at": "2026-10-29T13:09:02.368069+00:00"
 }
