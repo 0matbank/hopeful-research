@@ -695,6 +695,66 @@
         "last_failed_at": "2026-10-16T01:57:23.789212+00:00",
         "retry_after_epoch": 1792159043,
         "retry_after": "2026-10-16T13:57:23.789212+00:00"
+      },
+      "https://cinefreak.net/the-dark-heaven-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340353+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340353+00:00"
+      },
+      "https://cinefreak.net/sigma-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340401+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340401+00:00"
+      },
+      "https://cinefreak.net/immortal-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340415+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340415+00:00"
+      },
+      "https://cinefreak.net/baththa-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340425+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340425+00:00"
+      },
+      "https://cinefreak.net/dorothy-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340434+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340434+00:00"
+      },
+      "https://cinefreak.net/jetlee-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340444+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340444+00:00"
+      },
+      "https://cinefreak.net/berserk-of-gluttony-2023-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340456+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340456+00:00"
+      },
+      "https://cinefreak.net/tsukimichi-moonlit-fantasy-2021-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340464+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340464+00:00"
+      },
+      "https://cinefreak.net/vishwaroopam-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340474+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340474+00:00"
+      },
+      "https://cinefreak.net/habeebi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T03:15:29.340482+00:00",
+        "retry_after_epoch": 1793373329,
+        "retry_after": "2026-10-30T15:15:29.340482+00:00"
       }
     },
     "Malayalam Movies": {
