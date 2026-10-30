@@ -219,9 +219,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898293+00:00",
-      "last_attempt": "2026-10-26T21:03:23.705722+00:00",
-      "next_retry_at": "2026-10-29T21:03:23.705744+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-10-30T13:02:13.193150+00:00",
+      "next_retry_at": "2026-11-02T13:02:13.193164+00:00",
+      "attempt_count": 9
     },
     "disneyhotstar::https://cinefreak.net/chris-hemsworth-a-road-trip-to-remember-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -13853,7 +13853,79 @@
       "last_attempt": "2026-10-30T05:55:07.206562+00:00",
       "next_retry_at": "2026-10-30T11:55:07.206564+00:00",
       "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/korean-kanakaraju-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/korean-kanakaraju-2026-full-movie-download",
+      "movie": {
+        "name": "Korean Kanakaraju",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl35nsSE0zDvIrvFewLtM748SBf.jpg",
+        "source_url": "https://cinefreak.net/korean-kanakaraju-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-30T13:02:19.350849+00:00",
+      "last_attempt": "2026-10-30T13:02:19.350860+00:00",
+      "next_retry_at": "2026-10-30T19:02:19.350863+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/mrithyunjay-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/mrithyunjay-2026-full-movie-download",
+      "movie": {
+        "name": "Mrithyunjay",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+        "source_url": "https://cinefreak.net/mrithyunjay-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-30T13:02:19.351084+00:00",
+      "last_attempt": "2026-10-30T13:02:19.351089+00:00",
+      "next_retry_at": "2026-10-30T19:02:19.351091+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/kotha-kothaga-2022-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/kotha-kothaga-2022-full-movie-download",
+      "movie": {
+        "name": "Kotha Kothaga",
+        "category": "Telugu Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nw7eV7hsqCA2DsBD6XidPmDHNgw.jpg",
+        "source_url": "https://cinefreak.net/kotha-kothaga-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-30T13:02:19.351264+00:00",
+      "last_attempt": "2026-10-30T13:02:19.351269+00:00",
+      "next_retry_at": "2026-10-30T19:02:19.351271+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-30T05:55:10.663147+00:00"
+  "updated_at": "2026-10-30T13:02:21.954582+00:00"
 }

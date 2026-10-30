@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Telugu Movies",
-    "total_movies": 21,
-    "last_updated": "2026-10-30 | 05:55:10 (UTC)",
+    "total_movies": 18,
+    "last_updated": "2026-10-30 | 13:02:19 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -173,19 +173,6 @@
       ]
     },
     {
-      "name": "Korean Kanakaraju",
-      "category": "Telugu Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl35nsSE0zDvIrvFewLtM748SBf.jpg",
-      "source_url": "https://cinefreak.net/korean-kanakaraju-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Pallaburusu",
       "category": "Telugu Movies",
       "year": "2026",
@@ -212,19 +199,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Ustaad%20Bhagat%20Singh%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%20NF%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Mrithyunjay",
-      "category": "Telugu Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
-      "source_url": "https://cinefreak.net/mrithyunjay-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -272,19 +246,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Kotha Kothaga",
-      "category": "Telugu Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nw7eV7hsqCA2DsBD6XidPmDHNgw.jpg",
-      "source_url": "https://cinefreak.net/kotha-kothaga-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     },

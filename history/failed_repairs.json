@@ -2701,11 +2701,11 @@
     "name": "Resort",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E81-84%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-29T05:53:56.425025+00:00",
-    "attempt_count": 2
+    "last_attempt": "2026-10-30T13:02:21.823287+00:00",
+    "attempt_count": 3
   },
   "disneyhotstar::perfectcrown": {
     "name": "Perfect Crown",
@@ -4804,10 +4804,10 @@
     "name": "Korean Kanakaraju",
     "category": "Telugu Movies",
     "dead_links": [
-      "https://pub-10da0f41c8ea4953ac9ba4a3ec208325.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-26T15:15:14.311434+00:00",
-    "attempt_count": 2
+    "last_attempt": "2026-10-30T13:02:15.744797+00:00",
+    "attempt_count": 3
   },
   "telugumovies::kjq": {
     "name": "KJQ",
@@ -4920,10 +4920,10 @@
     "name": "Mrithyunjay",
     "category": "Telugu Movies",
     "dead_links": [
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-18T18:41:06.371408+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-10-30T13:02:17.590325+00:00",
+    "attempt_count": 2
   },
   "telugumovies::mazaka": {
     "name": "Mazaka",
@@ -6320,6 +6320,15 @@
       "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20BRAT%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-10-30T05:55:05.653157+00:00",
+    "attempt_count": 1
+  },
+  "telugumovies::kothakothaga": {
+    "name": "Kotha Kothaga",
+    "category": "Telugu Movies",
+    "dead_links": [
+      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-10-30T13:02:19.230616+00:00",
     "attempt_count": 1
   }
 }

@@ -2,60 +2,6 @@
   "version": 3,
   "suspects": {},
   "source_gaps": {},
-  "repair_queue": {
-    "disneyhotstar::https://cinefreak.net/resort-2026-full-series-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/resort-2026-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E73-76%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E81-84%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-28T16:41:29.827729+00:00",
-      "last_seen": "2026-10-30T05:54:42.765967+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-10-29T05:54:14.909969+00:00"
-    },
-    "telugumovies::https://cinefreak.net/korean-kanakaraju-2026-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/korean-kanakaraju-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Korean%20Kanakaraju%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-28T16:41:29.827729+00:00",
-      "last_seen": "2026-10-30T05:54:42.765967+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/mrithyunjay-2026-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/mrithyunjay-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Mrithyunjay%20%282026%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-28T16:41:29.827729+00:00",
-      "last_seen": "2026-10-30T05:54:42.765967+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    },
-    "telugumovies::https://cinefreak.net/kotha-kothaga-2022-full-movie-download": {
-      "category": "Telugu Movies",
-      "source_url": "https://cinefreak.net/kotha-kothaga-2022-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Kotha%20Kothaga%20%282022%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-10-28T16:41:29.827729+00:00",
-      "last_seen": "2026-10-30T05:54:42.765967+00:00",
-      "attempt_count": 0,
-      "last_attempt": ""
-    }
-  },
-  "updated_at": "2026-10-30T05:55:10.658730+00:00"
+  "repair_queue": {},
+  "updated_at": "2026-10-30T13:02:21.950374+00:00"
 }
