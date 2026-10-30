@@ -755,6 +755,66 @@
         "last_failed_at": "2026-10-30T03:15:29.340482+00:00",
         "retry_after_epoch": 1793373329,
         "retry_after": "2026-10-30T15:15:29.340482+00:00"
+      },
+      "https://cinefreak.net/modha-rathri-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828218+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828218+00:00"
+      },
+      "https://cinefreak.net/blue-star-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828265+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828265+00:00"
+      },
+      "https://cinefreak.net/kappal-2014-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828276+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828276+00:00"
+      },
+      "https://cinefreak.net/mafia-2020-hindi-dubbed-hindi-tamil-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828285+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828285+00:00"
+      },
+      "https://cinefreak.net/mankatha-2011-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828292+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828292+00:00"
+      },
+      "https://cinefreak.net/yuddham-sei-2011-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828300+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828300+00:00"
+      },
+      "https://cinefreak.net/bigil-2019-hindi-dubbed-hindi-tamil-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828306+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828306+00:00"
+      },
+      "https://cinefreak.net/mahaan-2022-hindi-dubbed-hindi-tamil-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828312+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828312+00:00"
+      },
+      "https://cinefreak.net/vaa-vaathiyaar-2026-hindi-dubbed-hindi-tamil-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828319+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828319+00:00"
+      },
+      "https://cinefreak.net/sirai-2025-tamil-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-30T17:21:56.828326+00:00",
+        "retry_after_epoch": 1793424116,
+        "retry_after": "2026-10-31T05:21:56.828326+00:00"
       }
     },
     "Malayalam Movies": {
