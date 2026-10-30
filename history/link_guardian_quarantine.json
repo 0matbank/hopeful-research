@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-10-27T01:30:47.663835+00:00",
-      "next_retry_at": "2026-10-30T01:30:47.663851+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-10-30T05:54:45.605326+00:00",
+      "next_retry_at": "2026-11-02T05:54:45.605347+00:00",
+      "attempt_count": 10
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -13757,7 +13757,103 @@
       "last_attempt": "2026-10-29T23:58:57.562584+00:00",
       "next_retry_at": "2026-10-30T05:58:57.562585+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/theeyavar-kulaigal-nadunga-2025-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/theeyavar-kulaigal-nadunga-2025-full-movie-download",
+      "movie": {
+        "name": "Theeyavar Kulaigal Nadunga",
+        "category": "Tamil Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAQ0I4EZUmg7dEyTwxYZi1dYB8Y.jpg",
+        "source_url": "https://cinefreak.net/theeyavar-kulaigal-nadunga-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Theeyavar%20Kulai%20Nadunga%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Theeyavar%20Kulai%20Nadunga%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-30T05:54:52.532988+00:00",
+      "last_attempt": "2026-10-30T05:54:52.533001+00:00",
+      "next_retry_at": "2026-10-30T11:54:52.533004+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/drishyam-3-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/drishyam-3-2026-full-movie-download",
+      "movie": {
+        "name": "Drishyam 3",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSBVjFjxvG94ypIi13Mdomz4j52.jpg",
+        "source_url": "https://cinefreak.net/drishyam-3-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Drishyam%203%20%282026%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-30T05:55:00.727302+00:00",
+      "last_attempt": "2026-10-30T05:55:00.727320+00:00",
+      "next_retry_at": "2026-10-30T11:55:00.727323+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/valathu-vashathe-kallan-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/valathu-vashathe-kallan-2026-full-movie-download",
+      "movie": {
+        "name": "Valathu Vashathe Kallan",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uACEmeokX7MRgxzj8n427OcN8HK.jpg",
+        "source_url": "https://cinefreak.net/valathu-vashathe-kallan-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Valathu%20Vashathe%20Kallan%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20AMZN%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Valathu%20Vashathe%20Kallan%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20AMZN%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-30T05:55:00.727620+00:00",
+      "last_attempt": "2026-10-30T05:55:00.727627+00:00",
+      "next_retry_at": "2026-10-30T11:55:00.727629+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/kd-the-devil-2026-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/kd-the-devil-2026-full-movie-download",
+      "movie": {
+        "name": "KD – The Devil",
+        "category": "Kannada Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+        "source_url": "https://cinefreak.net/kd-the-devil-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20KD%20The%20Devil%20%282026%29%20WEB-DL%20%5BKannada%5D%20ZEE5%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20KD%20The%20Devil%20%282026%29%20WEB-DL%20%5BKannada%5D%20ZEE5%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-10-30T05:55:07.206547+00:00",
+      "last_attempt": "2026-10-30T05:55:07.206562+00:00",
+      "next_retry_at": "2026-10-30T11:55:07.206564+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-10-29T23:59:07.840036+00:00"
+  "updated_at": "2026-10-30T05:55:10.663147+00:00"
 }
