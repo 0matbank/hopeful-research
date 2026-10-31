@@ -697,10 +697,10 @@
         "retry_after": "2026-10-16T13:57:23.789212+00:00"
       },
       "https://cinefreak.net/the-dark-heaven-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-30T03:15:29.340353+00:00",
-        "retry_after_epoch": 1793373329,
-        "retry_after": "2026-10-30T15:15:29.340353+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-31T02:59:03.620879+00:00",
+        "retry_after_epoch": 1793501943,
+        "retry_after": "2026-11-01T02:59:03.620879+00:00"
       },
       "https://cinefreak.net/sigma-2026-full-movie-download": {
         "failure_count": 1,
@@ -709,28 +709,28 @@
         "retry_after": "2026-10-30T15:15:29.340401+00:00"
       },
       "https://cinefreak.net/immortal-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-30T03:15:29.340415+00:00",
-        "retry_after_epoch": 1793373329,
-        "retry_after": "2026-10-30T15:15:29.340415+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-31T02:59:03.620892+00:00",
+        "retry_after_epoch": 1793501943,
+        "retry_after": "2026-11-01T02:59:03.620892+00:00"
       },
       "https://cinefreak.net/baththa-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-30T03:15:29.340425+00:00",
-        "retry_after_epoch": 1793373329,
-        "retry_after": "2026-10-30T15:15:29.340425+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-31T02:59:03.620903+00:00",
+        "retry_after_epoch": 1793501943,
+        "retry_after": "2026-11-01T02:59:03.620903+00:00"
       },
       "https://cinefreak.net/dorothy-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-30T03:15:29.340434+00:00",
-        "retry_after_epoch": 1793373329,
-        "retry_after": "2026-10-30T15:15:29.340434+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-31T02:59:03.620914+00:00",
+        "retry_after_epoch": 1793501943,
+        "retry_after": "2026-11-01T02:59:03.620914+00:00"
       },
       "https://cinefreak.net/jetlee-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-30T03:15:29.340444+00:00",
-        "retry_after_epoch": 1793373329,
-        "retry_after": "2026-10-30T15:15:29.340444+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-10-31T02:59:03.620924+00:00",
+        "retry_after_epoch": 1793501943,
+        "retry_after": "2026-11-01T02:59:03.620924+00:00"
       },
       "https://cinefreak.net/berserk-of-gluttony-2023-full-series-download": {
         "failure_count": 1,
@@ -815,6 +815,36 @@
         "last_failed_at": "2026-10-30T17:21:56.828326+00:00",
         "retry_after_epoch": 1793424116,
         "retry_after": "2026-10-31T05:21:56.828326+00:00"
+      },
+      "https://cinefreak.net/yaadhum-ariyaan-2025-hindi-dubbed-hindi-tamil-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-31T02:59:03.620773+00:00",
+        "retry_after_epoch": 1793458743,
+        "retry_after": "2026-10-31T14:59:03.620773+00:00"
+      },
+      "https://cinefreak.net/asvins-2023-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-31T02:59:03.620828+00:00",
+        "retry_after_epoch": 1793458743,
+        "retry_after": "2026-10-31T14:59:03.620828+00:00"
+      },
+      "https://cinefreak.net/sevappi-2024-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-31T02:59:03.620845+00:00",
+        "retry_after_epoch": 1793458743,
+        "retry_after": "2026-10-31T14:59:03.620845+00:00"
+      },
+      "https://cinefreak.net/rajini-gaang-2025-hindi-dubbed-hindi-tamil-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-31T02:59:03.620856+00:00",
+        "retry_after_epoch": 1793458743,
+        "retry_after": "2026-10-31T14:59:03.620856+00:00"
+      },
+      "https://cinefreak.net/junga-2018-hindi-dubbed-hindi-tamil-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-10-31T02:59:03.620867+00:00",
+        "retry_after_epoch": 1793458743,
+        "retry_after": "2026-10-31T14:59:03.620867+00:00"
       }
     },
     "Malayalam Movies": {
