@@ -969,10 +969,10 @@
         "retry_after": "2026-09-18T03:52:14.061464+00:00"
       },
       "https://cinefreak.net/aasha-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-16T15:41:23.428806+00:00",
-        "retry_after_epoch": 1792208483,
-        "retry_after": "2026-10-17T03:41:23.428806+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-01T02:54:06.245289+00:00",
+        "retry_after_epoch": 1793588046,
+        "retry_after": "2026-11-02T02:54:06.245289+00:00"
       },
       "https://cinefreak.net/khalifa-the-ruler-2026-full-movie-download": {
         "failure_count": 1,
@@ -1207,6 +1207,60 @@
         "last_failed_at": "2026-10-31T16:26:12.661402+00:00",
         "retry_after_epoch": 1793507172,
         "retry_after": "2026-11-01T04:26:12.661402+00:00"
+      },
+      "https://cinefreak.net/meow-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245166+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245166+00:00"
+      },
+      "https://cinefreak.net/bheemante-vazhi-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245207+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245207+00:00"
+      },
+      "https://cinefreak.net/dheeran-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245220+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245220+00:00"
+      },
+      "https://cinefreak.net/o-baby-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245230+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245230+00:00"
+      },
+      "https://cinefreak.net/salute-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245239+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245239+00:00"
+      },
+      "https://cinefreak.net/pani-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245248+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245248+00:00"
+      },
+      "https://cinefreak.net/ayyappanum-koshiyum-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245261+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245261+00:00"
+      },
+      "https://cinefreak.net/jetlee-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245269+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245269+00:00"
+      },
+      "https://cinefreak.net/bro-daddy-2022-hq-bengali-hindi-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-01T02:54:06.245277+00:00",
+        "retry_after_epoch": 1793544846,
+        "retry_after": "2026-11-01T14:54:06.245277+00:00"
       }
     },
     "Kannada Movies": {
