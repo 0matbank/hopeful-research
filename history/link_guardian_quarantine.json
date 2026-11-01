@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-10-29T13:08:37.633053+00:00",
-      "next_retry_at": "2026-11-01T13:08:37.633072+00:00",
-      "attempt_count": 11
+      "last_attempt": "2026-11-01T13:31:37.037607+00:00",
+      "next_retry_at": "2026-11-04T13:31:37.037623+00:00",
+      "attempt_count": 12
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -13925,7 +13925,299 @@
       "last_attempt": "2026-10-30T13:02:19.351269+00:00",
       "next_retry_at": "2026-10-30T19:02:19.351271+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/master-2026-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/master-2026-full-movie-download",
+      "movie": {
+        "name": "Master",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Master-2026.webp",
+        "source_url": "https://cinefreak.net/master-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Master%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Master%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.094362+00:00",
+      "last_attempt": "2026-11-01T13:31:57.094373+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.094375+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/emergency-room-2025-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/emergency-room-2025-full-series-download",
+      "movie": {
+        "name": "Emergency Room",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP37X9Qm0i8F3UucC6buI0MsI5z.jpg",
+        "source_url": "https://cinefreak.net/emergency-room-2025-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-03",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Emergency%20Room%20%5BS01E01-03%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Emergency%20Room%20%5BS01E01-03%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.094623+00:00",
+      "last_attempt": "2026-11-01T13:31:57.094630+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.094633+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/kaalidas-2-2026-bengali-hq-studio-dubbedfull-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/kaalidas-2-2026-bengali-hq-studio-dubbedfull-movie-download",
+      "movie": {
+        "name": "Kaalidas 2",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Kaalidas-2-bangla.webp",
+        "source_url": "https://cinefreak.net/kaalidas-2-2026-bengali-hq-studio-dubbedfull-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.094794+00:00",
+      "last_attempt": "2026-11-01T13:31:57.094800+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.094802+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/inspector-avinash-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/inspector-avinash-2026-full-series-download",
+      "movie": {
+        "name": "Inspector Avinash",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCeCMul8edU1PZTb7x4ijgvKcXF.jpg",
+        "source_url": "https://cinefreak.net/inspector-avinash-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Avinash%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Avinash%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.094944+00:00",
+      "last_attempt": "2026-11-01T13:31:57.094949+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.094951+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/chikoo-bunty-the-detective-bros-2026-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/chikoo-bunty-the-detective-bros-2026-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Chikoo Bunty: The Detective Bros",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Chikoo-Bunty-2026.webp",
+        "source_url": "https://cinefreak.net/chikoo-bunty-the-detective-bros-2026-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.095153+00:00",
+      "last_attempt": "2026-11-01T13:31:57.095159+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.095161+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/lockdown-2026-bengali-hq-studio-dubbedfull-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/lockdown-2026-bengali-hq-studio-dubbedfull-movie-download",
+      "movie": {
+        "name": "Lockdown",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Lockdown-bangla.webp",
+        "source_url": "https://cinefreak.net/lockdown-2026-bengali-hq-studio-dubbedfull-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Lockdown%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Lockdown%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.095302+00:00",
+      "last_attempt": "2026-11-01T13:31:57.095306+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.095308+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/chikoo-aur-bunty-siblings-not-allowed-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/chikoo-aur-bunty-siblings-not-allowed-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Chikoo Aur Bunty Siblings Not Allowed",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://i.postimg.cc/yYDWgHQf/Screenshot-1.jpg",
+        "source_url": "https://cinefreak.net/chikoo-aur-bunty-siblings-not-allowed-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20aur%20Bunty%20Siblings%20Not%20allowed%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20aur%20Bunty%20Siblings%20Not%20allowed%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.095454+00:00",
+      "last_attempt": "2026-11-01T13:31:57.095459+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.095461+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/date-with-saie-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/date-with-saie-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Date With Saie",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg",
+        "source_url": "https://cinefreak.net/date-with-saie-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.095660+00:00",
+      "last_attempt": "2026-11-01T13:31:57.095667+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.095669+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/maadeva-2025-full-movie-download-2": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
+      "movie": {
+        "name": "Maadeva",
+        "category": "Bangla Dubbed",
+        "year": "2025",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Maadeva-2025.webp",
+        "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download-2",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.095820+00:00",
+      "last_attempt": "2026-11-01T13:31:57.095825+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.095827+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/aliya-basu-gayab-hai-2024-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/aliya-basu-gayab-hai-2024-full-movie-download",
+      "movie": {
+        "name": "Aliya Basu Gayab Hai",
+        "category": "Bangla Dubbed",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVEEJlh4CA8IZIPZrosc9ZWLhI5.jpg",
+        "source_url": "https://cinefreak.net/aliya-basu-gayab-hai-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.095963+00:00",
+      "last_attempt": "2026-11-01T13:31:57.095967+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.095969+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/bloody-daddy-2023-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/bloody-daddy-2023-full-movie-download",
+      "movie": {
+        "name": "Bloody Daddy",
+        "category": "Bangla Dubbed",
+        "year": "2023",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.04.48-PM.webp",
+        "source_url": "https://cinefreak.net/bloody-daddy-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.096107+00:00",
+      "last_attempt": "2026-11-01T13:31:57.096112+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.096114+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/kaithi-2019-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/kaithi-2019-full-movie-download",
+      "movie": {
+        "name": "Kaithi",
+        "category": "Bangla Dubbed",
+        "year": "2019",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/02/Kaithi-2019.webp",
+        "source_url": "https://cinefreak.net/kaithi-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Kaithi%20%282019%29%20WEBRip%20%5BBengali%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Kaithi%20%282019%29%20WEBRip%20%5BBengali%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-01T13:31:57.096258+00:00",
+      "last_attempt": "2026-11-01T13:31:57.096262+00:00",
+      "next_retry_at": "2026-11-01T19:31:57.096264+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-01T06:13:51.367244+00:00"
+  "updated_at": "2026-11-01T13:31:57.114354+00:00"
 }

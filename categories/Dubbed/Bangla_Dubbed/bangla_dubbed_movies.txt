@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Dubbed
-TOTAL MOVIES: 35
-LAST UPDATED: 2026-10-29 | 17:43:02 (UTC)
+TOTAL MOVIES: 23
+LAST UPDATED: 2026-11-01 | 13:31:57 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -195,52 +195,13 @@ Year: 2026
 Poster: https://cinefreak.net/wp-content/uploads/2026/05/CID-Squad-2026.webp
 
 Season: S01
-Episode: Episode 01
-  Resolution-1: HD 1080P
-  Link-1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E01%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
-
-Season: S01
-Episode: Episode 02
-  Resolution-2: HD 1080P
-  Link-2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E02%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
-
-Season: S01
 Episode: Episode 03
-  Resolution-3: HD 1080P
-  Link-3: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E03%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
-
-Season: S01
-Episode: Episode 05
-  Resolution-4: HD 1080P
-  Link-4: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E05%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
+  Resolution-1: HD 1080P
+  Link-1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E03%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv
 
 ================================================================================
 
 Movie-7
-Movie name: Master
-Category: Bangla Dubbed
-Year: 2026
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Master-2026.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Master%20%282026%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p.mkv
-
-================================================================================
-
-Movie-8
-Show name: Emergency Room
-Category: Bangla Dubbed
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fP37X9Qm0i8F3UucC6buI0MsI5z.jpg
-
-Season: S01
-Episode: Episode 01-03
-  Resolution-1: HD 1080P
-  Link-1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Emergency%20Room%20%5BS01E01-03%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv
-
-================================================================================
-
-Movie-9
 Show name: Undekhi
 Category: Bangla Dubbed
 Year: 2026
@@ -258,31 +219,7 @@ Episode: Episode 05
 
 ================================================================================
 
-Movie-10
-Movie name: Kaalidas 2
-Category: Bangla Dubbed
-Year: 2026
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Kaalidas-2-bangla.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Kaalidas%202%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv
-
-================================================================================
-
-Movie-11
-Show name: Inspector Avinash
-Category: Bangla Dubbed
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCeCMul8edU1PZTb7x4ijgvKcXF.jpg
-
-Season: S01
-Episode: Episode 01-05
-  Resolution-1: HD 1080P
-  Link-1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Avinash%20%5BS01E01-05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-12
+Movie-8
 Movie name: Oru Durooha Saahacharyathil
 Category: Bangla Dubbed
 Year: 2026
@@ -293,7 +230,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-9
 Show name: Sangamarmar
 Category: Bangla Dubbed
 Year: 2026
@@ -311,7 +248,7 @@ Episode: Episode 46-47
 
 ================================================================================
 
-Movie-14
+Movie-10
 Show name: Muthu Engira Kaattaan
 Category: Bangla Dubbed
 Year: 2026
@@ -384,7 +321,7 @@ Episode: Episode 10
 
 ================================================================================
 
-Movie-15
+Movie-11
 Show name: Chiraiya
 Category: Bangla Dubbed
 Year: 2026
@@ -397,7 +334,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-16
+Movie-12
 Show name: Secret Stories: Roslin
 Category: Bangla Dubbed
 Year: 2026
@@ -410,7 +347,7 @@ Episode: Episode 04-06
 
 ================================================================================
 
-Movie-17
+Movie-13
 Show name: The Revolutionaries
 Category: Bangla Dubbed
 Year: 2026
@@ -428,29 +365,7 @@ Episode: Episode 05-08
 
 ================================================================================
 
-Movie-18
-Movie name: Chikoo Bunty: The Detective Bros
-Category: Bangla Dubbed
-Year: 2026
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Chikoo-Bunty-2026.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
-
-================================================================================
-
-Movie-19
-Movie name: Lockdown
-Category: Bangla Dubbed
-Year: 2026
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Lockdown-bangla.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Lockdown%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv
-
-================================================================================
-
-Movie-20
+Movie-14
 Movie name: Motu Patlu & The Case Of Project X
 Category: Bangla Dubbed
 Year: 2025
@@ -461,18 +376,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
-Movie name: Chikoo Aur Bunty Siblings Not Allowed
-Category: Bangla Dubbed
-Year: 2025
-Poster: https://i.postimg.cc/yYDWgHQf/Screenshot-1.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20aur%20Bunty%20Siblings%20Not%20allowed%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
-
-================================================================================
-
-Movie-22
+Movie-15
 Movie name: Motu Patlu Vs The Ghost House
 Category: Bangla Dubbed
 Year: 2025
@@ -483,7 +387,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-16
 Movie name: Others
 Category: Bangla Dubbed
 Year: 2025
@@ -497,18 +401,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-24
-Movie name: Date With Saie
-Category: Bangla Dubbed
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9VjMlxYcBEdzKHkYggH2GbZBR.jpg
-
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Date%20with%20Saie%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-25
+Movie-17
 Movie name: Motu Patlu & The Madness Of Multiverse
 Category: Bangla Dubbed
 Year: 2025
@@ -519,29 +412,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
-Movie name: Maadeva
-Category: Bangla Dubbed
-Year: 2025
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Maadeva-2025.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv
-
-================================================================================
-
-Movie-27
-Movie name: Aliya Basu Gayab Hai
-Category: Bangla Dubbed
-Year: 2024
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVEEJlh4CA8IZIPZrosc9ZWLhI5.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-28
+Movie-18
 Movie name: Voyal
 Category: Bangla Dubbed
 Year: 2024
@@ -552,18 +423,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
-Movie name: Bloody Daddy
-Category: Bangla Dubbed
-Year: 2023
-Poster: https://cinefreak.net/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.04.48-PM.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-30
+Movie-19
 Show name: Undekhi
 Category: Bangla Dubbed
 Year: 2022
@@ -576,7 +436,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-31
+Movie-20
 Movie name: Bhediya
 Category: Bangla Dubbed
 Year: 2022
@@ -587,18 +447,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
-Movie name: Kaithi
-Category: Bangla Dubbed
-Year: 2019
-Poster: https://cinefreak.net/wp-content/uploads/2026/02/Kaithi-2019.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Kaithi%20%282019%29%20WEBRip%20%5BBengali%20ORG%5D%201080p.mkv
-
-================================================================================
-
-Movie-33
+Movie-21
 Movie name: The Amazing Spider-Man 2
 Category: Bangla Dubbed
 Year: 2014
@@ -609,7 +458,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-22
 Movie name: The Amazing Spider-Man
 Category: Bangla Dubbed
 Year: 2012
@@ -620,7 +469,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-23
 Movie name: Spider-Man
 Category: Bangla Dubbed
 Year: 2002
