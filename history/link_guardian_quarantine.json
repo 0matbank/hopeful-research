@@ -171,9 +171,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Ami%20Shubhash%20Bolchi%20%282011%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T21:01:05.463726+00:00",
-      "last_attempt": "2026-10-29T23:58:40.306491+00:00",
-      "next_retry_at": "2026-11-01T23:58:40.306506+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-11-02T06:14:20.306757+00:00",
+      "next_retry_at": "2026-11-05T06:14:20.306780+00:00",
+      "attempt_count": 11
     },
     "bangladubbed::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -14367,7 +14367,147 @@
       "last_attempt": "2026-11-01T23:39:40.156795+00:00",
       "next_retry_at": "2026-11-02T05:39:40.156799+00:00",
       "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/the-legend-of-karna-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/the-legend-of-karna-2026-full-series-download",
+      "movie": {
+        "name": "The Legend Of Karna",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzVP9rqT2YH2nTx3l3csmmU9B1q.jpg",
+        "source_url": "https://cinefreak.net/the-legend-of-karna-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 02",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Legend%20Of%20Karna%20%5BS01E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Legend%20Of%20Karna%20%5BS01E02%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T06:14:30.315815+00:00",
+      "last_attempt": "2026-11-02T06:14:30.315837+00:00",
+      "next_retry_at": "2026-11-02T12:14:30.315839+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/sangamarmar-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/sangamarmar-2026-full-series-download",
+      "movie": {
+        "name": "Sangamarmar",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQRFVM5MJsnNBUQgRP31aWwy1Qx.jpg",
+        "source_url": "https://cinefreak.net/sangamarmar-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 42-45",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 46-47",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E46-47%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E42-45%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sangamarmar%20%5BS01E46-47%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T06:14:30.316086+00:00",
+      "last_attempt": "2026-11-02T06:14:30.316095+00:00",
+      "next_retry_at": "2026-11-02T12:14:30.316097+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/the-revolutionaries-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/the-revolutionaries-2026-full-series-download",
+      "movie": {
+        "name": "The Revolutionaries",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oikzZ6QgHsTjZ2JqkmKH1NRS9A.jpg",
+        "source_url": "https://cinefreak.net/the-revolutionaries-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 05-08",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Revolutionaries%20%5BS01E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T06:14:30.316278+00:00",
+      "last_attempt": "2026-11-02T06:14:30.316282+00:00",
+      "next_retry_at": "2026-11-02T12:14:30.316283+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/the-amazing-spider-man-2012-bengali-dubbed-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/the-amazing-spider-man-2012-bengali-dubbed-full-movie-download",
+      "movie": {
+        "name": "The Amazing Spider-Man",
+        "category": "Bangla Dubbed",
+        "year": "2012",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2012.jpg",
+        "source_url": "https://cinefreak.net/the-amazing-spider-man-2012-bengali-dubbed-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T06:14:30.316429+00:00",
+      "last_attempt": "2026-11-02T06:14:30.316433+00:00",
+      "next_retry_at": "2026-11-02T12:14:30.316435+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/spider-man-2002-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/spider-man-2002-full-movie-download",
+      "movie": {
+        "name": "Spider-Man",
+        "category": "Bangla Dubbed",
+        "year": "2002",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Spider-Man-2002-.jpg",
+        "source_url": "https://cinefreak.net/spider-man-2002-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T06:14:30.316545+00:00",
+      "last_attempt": "2026-11-02T06:14:30.316547+00:00",
+      "next_retry_at": "2026-11-02T12:14:30.316548+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-01T23:39:40.174923+00:00"
+  "updated_at": "2026-11-02T06:14:30.329442+00:00"
 }
