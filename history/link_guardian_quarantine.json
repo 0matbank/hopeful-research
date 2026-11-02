@@ -219,9 +219,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898293+00:00",
-      "last_attempt": "2026-10-30T13:02:13.193150+00:00",
-      "next_retry_at": "2026-11-02T13:02:13.193164+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-11-02T23:36:05.060115+00:00",
+      "next_retry_at": "2026-11-05T23:36:05.060131+00:00",
+      "attempt_count": 10
     },
     "disneyhotstar::https://cinefreak.net/chris-hemsworth-a-road-trip-to-remember-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -14811,7 +14811,367 @@
       "last_attempt": "2026-11-02T16:07:59.904516+00:00",
       "next_retry_at": "2026-11-02T22:07:59.904519+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/jackpot-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/jackpot-2026-full-movie-download",
+      "movie": {
+        "name": "Jackpot",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/03/jacpot.webp",
+        "source_url": "https://cinefreak.net/jackpot-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Jackpot%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Jackpot%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.585096+00:00",
+      "last_attempt": "2026-11-02T23:36:32.585109+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.585112+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/paint-on-dry-leaf-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/paint-on-dry-leaf-2026-full-movie-download",
+      "movie": {
+        "name": "Paint On Dry Leaf",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFy21ycvhX18Fy61zmOWS9inju4.jpg",
+        "source_url": "https://cinefreak.net/paint-on-dry-leaf-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20%20Paint%20on%20Dry%20Leaf%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20%20Paint%20on%20Dry%20Leaf%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.585418+00:00",
+      "last_attempt": "2026-11-02T23:36:32.585426+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.585428+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/malik-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/malik-2026-full-movie-download",
+      "movie": {
+        "name": "Malik",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFMSGCTLJ4n4GdXv5Jw2Qz4Z78v.jpg",
+        "source_url": "https://cinefreak.net/malik-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20%20Malik%20%282026%29%20WEB-DL%20%5BBengali%5D%20Utshob%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20%20Malik%20%282026%29%20WEB-DL%20%5BBengali%5D%20Utshob%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.585614+00:00",
+      "last_attempt": "2026-11-02T23:36:32.585620+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.585622+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/nibba-nibbi-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/nibba-nibbi-2026-full-movie-download",
+      "movie": {
+        "name": "Nibba Nibbi",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Mbi8MAvBYYTUtxYFCmVDdsq1Pv.jpg",
+        "source_url": "https://cinefreak.net/nibba-nibbi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Nibba%20Nibbi%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Nibba%20Nibbi%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.585783+00:00",
+      "last_attempt": "2026-11-02T23:36:32.585788+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.585790+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/prince-once-upon-a-time-in-dhaka-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/prince-once-upon-a-time-in-dhaka-2026-full-movie-download",
+      "movie": {
+        "name": "Prince: Once Upon A Time In Dhaka",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Prince.webp",
+        "source_url": "https://cinefreak.net/prince-once-upon-a-time-in-dhaka-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.585975+00:00",
+      "last_attempt": "2026-11-02T23:36:32.585980+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.585982+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/rakkhosh-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/rakkhosh-2026-full-movie-download",
+      "movie": {
+        "name": "Rakkhosh",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Rakkhosh-2026.webp",
+        "source_url": "https://cinefreak.net/rakkhosh-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.586134+00:00",
+      "last_attempt": "2026-11-02T23:36:32.586139+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.586141+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/faisha-gesi-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/faisha-gesi-2026-full-movie-download",
+      "movie": {
+        "name": "Faisha Gesi",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n98fbXRyNdTMrapcLAJ29cwQ74n.jpg",
+        "source_url": "https://cinefreak.net/faisha-gesi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Faisha%20Gesi%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Faisha%20Gesi%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.586352+00:00",
+      "last_attempt": "2026-11-02T23:36:32.586357+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.586359+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/ekshathe-alada-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/ekshathe-alada-2026-full-movie-download",
+      "movie": {
+        "name": "Ekshathe Alada",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8yTY1o45qdQWZoKofRBTfCyb3o.jpg",
+        "source_url": "https://cinefreak.net/ekshathe-alada-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Ekshathe%20Alada%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Ekshathe%20Alada%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.586513+00:00",
+      "last_attempt": "2026-11-02T23:36:32.586518+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.586520+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-bengali-dubbed-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-bengali-dubbed-download",
+      "movie": {
+        "name": "Oru Durooha Saahacharyathil",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Oru-Durooha-Saahacharyathil-2026.webp",
+        "source_url": "https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-bengali-dubbed-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.586686+00:00",
+      "last_attempt": "2026-11-02T23:36:32.586690+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.586692+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/phutaniganjer-mahesh-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/phutaniganjer-mahesh-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Phutaniganjer Mahesh",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezqTX0oQtRlJD30zj9twWPEBR7t.jpg",
+        "source_url": "https://cinefreak.net/phutaniganjer-mahesh-2026-bengali-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Phutaniganjer%20Mahesh%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Phutaniganjer%20Mahesh%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.586842+00:00",
+      "last_attempt": "2026-11-02T23:36:32.586846+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.586848+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/proshnouttor-2026-bengali-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/proshnouttor-2026-bengali-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Proshnouttor",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Proshnouttor.jpg",
+        "source_url": "https://cinefreak.net/proshnouttor-2026-bengali-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Proshnouttor%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Proshnouttor%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.587008+00:00",
+      "last_attempt": "2026-11-02T23:36:32.587013+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.587015+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/oporichito-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/oporichito-2025-full-movie-download",
+      "movie": {
+        "name": "Oporichito",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iH4jPTdBkZ3cUfFTP8UDN6O1wjE.jpg",
+        "source_url": "https://cinefreak.net/oporichito-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Oporichito%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Oporichito%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.587174+00:00",
+      "last_attempt": "2026-11-02T23:36:32.587179+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.587181+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/kakababur-protyaborton-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/kakababur-protyaborton-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Kakababur Protyaborton",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4UL1SqkFUMK3Kgx0cCNHUrswqb.jpg",
+        "source_url": "https://cinefreak.net/kakababur-protyaborton-2022-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-hoichoi-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.587497+00:00",
+      "last_attempt": "2026-11-02T23:36:32.587503+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.587505+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/ley-chakka-2010-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/ley-chakka-2010-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Ley Chakka",
+        "category": "Bangla Movies",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/18x58WzI2b48HKtpZ9ysyXdam9b.jpg",
+        "source_url": "https://cinefreak.net/ley-chakka-2010-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.587720+00:00",
+      "last_attempt": "2026-11-02T23:36:32.587725+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.587727+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/hothat-brishti-1998-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/hothat-brishti-1998-full-movie-download",
+      "movie": {
+        "name": "Hothat Brishti",
+        "category": "Bangla Movies",
+        "year": "1998",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHKfeC8FZ2PTbCXGYWyVXy0JPL.jpg",
+        "source_url": "https://cinefreak.net/hothat-brishti-1998-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Hothat%20Brishti%20%281998%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Hothat%20Brishti%20%281998%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T23:36:32.587907+00:00",
+      "last_attempt": "2026-11-02T23:36:32.587912+00:00",
+      "next_retry_at": "2026-11-03T05:36:32.587913+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-02T16:07:59.920072+00:00"
+  "updated_at": "2026-11-02T23:36:32.605919+00:00"
 }

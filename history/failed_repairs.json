@@ -2346,10 +2346,10 @@
     "name": "Oporichito",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Oporichito%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Oporichito%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-10T23:36:32.658752+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-02T23:36:27.380524+00:00",
+    "attempt_count": 2
   },
   "banglamovies::omimangshito": {
     "name": "Omimangshito",
@@ -2419,10 +2419,10 @@
     "name": "Ley Chakka",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%20HQ%201080p.mkv"
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Le%20Chakka%20%282010%29%20WEB-DL%20%5BBengali%5D%20JHS%201080p.mkv"
     ],
-    "last_attempt": "2026-10-10T23:36:48.583331+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-02T23:36:30.708580+00:00",
+    "attempt_count": 2
   },
   "banglamovies::premamar": {
     "name": "Prem Amar",
@@ -6037,10 +6037,10 @@
     "name": "Nibba Nibbi",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Nibba%20Nibbi%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Nibba%20Nibbi%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-28T22:39:25.081483+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-02T23:36:12.941204+00:00",
+    "attempt_count": 2
   },
   "banglamovies::narichoritrobejayjotil": {
     "name": "Nari Choritro Bejay Jotil",
@@ -6537,6 +6537,114 @@
       "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aborto%20%282013%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-02T16:07:55.996166+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::jackpot": {
+    "name": "Jackpot",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Jackpot%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:07.616974+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::paintondryleaf": {
+    "name": "Paint On Dry Leaf",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20%20Paint%20on%20Dry%20Leaf%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:09.422858+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::malik": {
+    "name": "Malik",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20%20Malik%20%282026%29%20WEB-DL%20%5BBengali%5D%20Utshob%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:11.242726+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::princeonceuponatimeindhaka": {
+    "name": "Prince: Once Upon A Time In Dhaka",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:14.892208+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::rakkhosh": {
+    "name": "Rakkhosh",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:16.916902+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::faishagesi": {
+    "name": "Faisha Gesi",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Faisha%20Gesi%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:18.674443+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::ekshathealada": {
+    "name": "Ekshathe Alada",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Ekshathe%20Alada%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:20.553014+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::oruduroohasaahacharyathil": {
+    "name": "Oru Durooha Saahacharyathil",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20WEB-DL%20%5BBengali%20Fan%20Dub%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:22.246269+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::phutaniganjermahesh": {
+    "name": "Phutaniganjer Mahesh",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Phutaniganjer%20Mahesh%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:23.888119+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::proshnouttor": {
+    "name": "Proshnouttor",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Proshnouttor%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:25.618892+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::kakababurprotyaborton": {
+    "name": "Kakababur Protyaborton",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:29.054442+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::hothatbrishti": {
+    "name": "Hothat Brishti",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Hothat%20Brishti%20%281998%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-02T23:36:32.418104+00:00",
     "attempt_count": 1
   }
 }
