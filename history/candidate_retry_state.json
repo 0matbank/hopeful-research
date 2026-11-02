@@ -1265,16 +1265,16 @@
     },
     "Kannada Movies": {
       "https://cinefreak.net/mark-2025-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 3,
-        "last_failed_at": "2026-10-18T01:50:42.352885+00:00",
-        "retry_after_epoch": 1792547442,
-        "retry_after": "2026-10-21T01:50:42.352885+00:00"
+        "failure_count": 4,
+        "last_failed_at": "2026-11-02T03:01:02.233968+00:00",
+        "retry_after_epoch": 1794193262,
+        "retry_after": "2026-11-09T03:01:02.233968+00:00"
       },
       "https://cinefreak.net/kavacha-2019-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 3,
-        "last_failed_at": "2026-10-18T01:50:42.352891+00:00",
-        "retry_after_epoch": 1792547442,
-        "retry_after": "2026-10-21T01:50:42.352891+00:00"
+        "failure_count": 4,
+        "last_failed_at": "2026-11-02T03:01:02.233975+00:00",
+        "retry_after_epoch": 1794193262,
+        "retry_after": "2026-11-09T03:01:02.233975+00:00"
       },
       "https://cinefreak.net/shivaji-surathkal-the-case-of-ranagiri-rahasya-2020-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
         "failure_count": 3,
@@ -1427,16 +1427,52 @@
         "retry_after": "2026-09-19T03:24:47.219910+00:00"
       },
       "https://cinefreak.net/rony-the-ruler-2024-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-10-18T15:00:10.683386+00:00",
-        "retry_after_epoch": 1792422010,
-        "retry_after": "2026-10-19T15:00:10.683386+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-02T03:01:02.233953+00:00",
+        "retry_after_epoch": 1793847662,
+        "retry_after": "2026-11-05T03:01:02.233953+00:00"
       },
       "https://cinefreak.net/bad-manners-2023-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-10-18T15:00:10.683431+00:00",
-        "retry_after_epoch": 1792422010,
-        "retry_after": "2026-10-19T15:00:10.683431+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-02T03:01:02.233961+00:00",
+        "retry_after_epoch": 1793847662,
+        "retry_after": "2026-11-05T03:01:02.233961+00:00"
+      },
+      "https://cinefreak.net/udaala-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-02T03:01:02.233870+00:00",
+        "retry_after_epoch": 1793631662,
+        "retry_after": "2026-11-02T15:01:02.233870+00:00"
+      },
+      "https://cinefreak.net/ayyana-mane-2025-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-02T03:01:02.233915+00:00",
+        "retry_after_epoch": 1793631662,
+        "retry_after": "2026-11-02T15:01:02.233915+00:00"
+      },
+      "https://cinefreak.net/murphy-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-02T03:01:02.233925+00:00",
+        "retry_after_epoch": 1793631662,
+        "retry_after": "2026-11-02T15:01:02.233925+00:00"
+      },
+      "https://cinefreak.net/super-hit-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-02T03:01:02.233933+00:00",
+        "retry_after_epoch": 1793631662,
+        "retry_after": "2026-11-02T15:01:02.233933+00:00"
+      },
+      "https://cinefreak.net/jetlee-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-02T03:01:02.233939+00:00",
+        "retry_after_epoch": 1793631662,
+        "retry_after": "2026-11-02T15:01:02.233939+00:00"
+      },
+      "https://cinefreak.net/mango-pachcha-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-02T03:01:02.233947+00:00",
+        "retry_after_epoch": 1793631662,
+        "retry_after": "2026-11-02T15:01:02.233947+00:00"
       }
     },
     "Telugu Movies": {
