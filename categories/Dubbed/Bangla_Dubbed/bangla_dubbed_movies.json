@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 12,
-    "last_updated": "2026-11-02 | 06:14:30 (UTC)",
+    "total_movies": 10,
+    "last_updated": "2026-11-02 | 16:07:59 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -95,27 +95,6 @@
       ]
     },
     {
-      "name": "Undekhi",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqOS5Q3REGqmb9O1RrJWlWfBbSD.jpg",
-      "source_url": "https://cinefreak.net/undekhi-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S04",
-          "episode": "Episode 01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S04",
-          "episode": "Episode 05",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Muthu Engira Kaattaan",
       "category": "Bangla Dubbed",
       "year": "2026",
@@ -169,21 +148,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Voyal%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Undekhi",
-      "category": "Bangla Dubbed",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/enb1Ylom4P5ovmDznPeKwEloxO3.jpg",
-      "source_url": "https://cinefreak.net/undekhi-2020-full-series-download",
-      "res_list": [
-        {
-          "season": "S02",
-          "episode": "Episode 06-10",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

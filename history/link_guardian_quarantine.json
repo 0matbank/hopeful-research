@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-10-30T05:54:45.605326+00:00",
-      "next_retry_at": "2026-11-02T05:54:45.605347+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-11-02T16:07:37.570905+00:00",
+      "next_retry_at": "2026-11-05T16:07:37.570921+00:00",
+      "attempt_count": 11
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -14507,7 +14507,311 @@
       "last_attempt": "2026-11-02T06:14:30.316547+00:00",
       "next_retry_at": "2026-11-02T12:14:30.316548+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bhanupriya-bhooter-hotel-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bhanupriya-bhooter-hotel-2026-full-movie-download",
+      "movie": {
+        "name": "Bhanupriya Bhooter Hotel",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Bhanupriya-Bhooter-Hotel.webp",
+        "source_url": "https://cinefreak.net/bhanupriya-bhooter-hotel-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bhanupriya%20Bhooter%20Hotel%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bhanupriya%20Bhooter%20Hotel%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.159640+00:00",
+      "last_attempt": "2026-11-02T16:07:56.159654+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.159656+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/cha-garam-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/cha-garam-2026-full-movie-download",
+      "movie": {
+        "name": "Cha Garam",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Cha-Garam-2026.webp",
+        "source_url": "https://cinefreak.net/cha-garam-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.159898+00:00",
+      "last_attempt": "2026-11-02T16:07:56.159904+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.159906+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bonolota-express-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bonolota-express-2026-full-movie-download",
+      "movie": {
+        "name": "Bonolota Express",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Bonolota-Express-2026-v2.webp",
+        "source_url": "https://cinefreak.net/bonolota-express-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20HoiChoi%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20HoiChoi%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.160212+00:00",
+      "last_attempt": "2026-11-02T16:07:56.160219+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.160221+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bibi-payra-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bibi-payra-2026-full-movie-download",
+      "movie": {
+        "name": "Bibi Payra",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1HafVAujBlpahAILY96SbhbsVq.jpg",
+        "source_url": "https://cinefreak.net/bibi-payra-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "4K 2160P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.160452+00:00",
+      "last_attempt": "2026-11-02T16:07:56.160457+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.160459+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/chandrabindoo-2025-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/chandrabindoo-2025-full-movie-download",
+      "movie": {
+        "name": "Chandrabindoo",
+        "category": "Bangla Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuUKcB5nnKCqsUqFUiAqTfbebf7.jpg",
+        "source_url": "https://cinefreak.net/chandrabindoo-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.160674+00:00",
+      "last_attempt": "2026-11-02T16:07:56.160679+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.160681+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/aliya-basu-gayab-hai-2024-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/aliya-basu-gayab-hai-2024-full-movie-download",
+      "movie": {
+        "name": "Aliya Basu Gayab Hai",
+        "category": "Bangla Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVEEJlh4CA8IZIPZrosc9ZWLhI5.jpg",
+        "source_url": "https://cinefreak.net/aliya-basu-gayab-hai-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.160874+00:00",
+      "last_attempt": "2026-11-02T16:07:56.160879+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.160880+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Aranyar Prachin Probad",
+        "category": "Bangla Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pusGs1xtqN6du26hC0fFavF22Qy.jpg",
+        "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.161053+00:00",
+      "last_attempt": "2026-11-02T16:07:56.161058+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.161059+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bloody-daddy-2023-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bloody-daddy-2023-full-movie-download",
+      "movie": {
+        "name": "Bloody Daddy",
+        "category": "Bangla Movies",
+        "year": "2023",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.04.48-PM.webp",
+        "source_url": "https://cinefreak.net/bloody-daddy-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.161204+00:00",
+      "last_attempt": "2026-11-02T16:07:56.161209+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.161211+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/cat-sticks-2019-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/cat-sticks-2019-full-movie-download",
+      "movie": {
+        "name": "Cat Sticks",
+        "category": "Bangla Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDj7ksttGh97KNIqKeZVQ0eu0k.jpg",
+        "source_url": "https://cinefreak.net/cat-sticks-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cat%20Sticks%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cat%20Sticks%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.161376+00:00",
+      "last_attempt": "2026-11-02T16:07:56.161381+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.161383+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/aborto-2013-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/aborto-2013-full-movie-download",
+      "movie": {
+        "name": "Aborto",
+        "category": "Bangla Movies",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCIHLjTP8NUZZUUs5VSZHoU7N8c.jpg",
+        "source_url": "https://cinefreak.net/aborto-2013-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aborto%20%282013%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aborto%20%282013%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:56.161602+00:00",
+      "last_attempt": "2026-11-02T16:07:56.161607+00:00",
+      "next_retry_at": "2026-11-02T22:07:56.161609+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/undekhi-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/undekhi-2026-full-series-download",
+      "movie": {
+        "name": "Undekhi",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqOS5Q3REGqmb9O1RrJWlWfBbSD.jpg",
+        "source_url": "https://cinefreak.net/undekhi-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S04",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S04",
+            "episode": "Episode 05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E01%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS04E05%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:59.904271+00:00",
+      "last_attempt": "2026-11-02T16:07:59.904282+00:00",
+      "next_retry_at": "2026-11-02T22:07:59.904284+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/undekhi-2020-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/undekhi-2020-full-series-download",
+      "movie": {
+        "name": "Undekhi",
+        "category": "Bangla Dubbed",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/enb1Ylom4P5ovmDznPeKwEloxO3.jpg",
+        "source_url": "https://cinefreak.net/undekhi-2020-full-series-download",
+        "res_list": [
+          {
+            "season": "S02",
+            "episode": "Episode 06-10",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Undekhi%20%5BS02E06-10%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-02T16:07:59.904511+00:00",
+      "last_attempt": "2026-11-02T16:07:59.904516+00:00",
+      "next_retry_at": "2026-11-02T22:07:59.904519+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-02T06:14:30.329442+00:00"
+  "updated_at": "2026-11-02T16:07:59.920072+00:00"
 }

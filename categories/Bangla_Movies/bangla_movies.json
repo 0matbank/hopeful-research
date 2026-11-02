@@ -1,37 +1,11 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 48,
-    "last_updated": "2026-10-28 | 22:39:36 (UTC)",
+    "total_movies": 38,
+    "last_updated": "2026-11-02 | 16:07:56 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
-    {
-      "name": "Bhanupriya Bhooter Hotel",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Bhanupriya-Bhooter-Hotel.webp",
-      "source_url": "https://cinefreak.net/bhanupriya-bhooter-hotel-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bhanupriya%20Bhooter%20Hotel%20%282026%29%20WEB-DL%20%5BBengali%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Cha Garam",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Cha-Garam-2026.webp",
-      "source_url": "https://cinefreak.net/cha-garam-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cha%20Gorom%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
-        }
-      ]
-    },
     {
       "name": "Chokro 2",
       "category": "Bangla Movies",
@@ -50,12 +24,6 @@
           "episode": "Episode 05",
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E05%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
-        },
-        {
-          "season": "S02",
-          "episode": "Episode 06",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chokro%20%5BS02E06%5D%20WEB-DL%20%5BBengali%5D%20iScreen%201080p.mkv"
         },
         {
           "season": "S02",
@@ -166,23 +134,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lifeline%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bonolota Express",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Bonolota-Express-2026-v2.webp",
-      "source_url": "https://cinefreak.net/bonolota-express-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20HoiChoi%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20HEVC%20ESub.mkv"
         }
       ]
     },
@@ -317,19 +268,6 @@
       ]
     },
     {
-      "name": "Bibi Payra",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1HafVAujBlpahAILY96SbhbsVq.jpg",
-      "source_url": "https://cinefreak.net/bibi-payra-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "4K 2160P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bibi%20Payra%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20AV1%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Saralakkho Holmes",
       "category": "Bangla Movies",
       "year": "2025",
@@ -339,19 +277,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Saralakkha%20Holmes%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Chandrabindoo",
-      "category": "Bangla Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuUKcB5nnKCqsUqFUiAqTfbebf7.jpg",
-      "source_url": "https://cinefreak.net/chandrabindoo-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chandrabindoo%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -438,45 +363,6 @@
       ]
     },
     {
-      "name": "Aliya Basu Gayab Hai",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVEEJlh4CA8IZIPZrosc9ZWLhI5.jpg",
-      "source_url": "https://cinefreak.net/aliya-basu-gayab-hai-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Aranyar Prachin Probad",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pusGs1xtqN6du26hC0fFavF22Qy.jpg",
-      "source_url": "https://cinefreak.net/aranyar-prachin-probad-2024-bengali-web-dl-480p-720p-1080p-full-movie-download-watch-online-zee5-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Aranyar%20Prachin%20Probad%20%282024%29%20WEB-DL%20%5BBengali%5D%20ZEE5%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bloody Daddy",
-      "category": "Bangla Movies",
-      "year": "2023",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Screenshot-2026-04-17-at-10.04.48-PM.webp",
-      "source_url": "https://cinefreak.net/bloody-daddy-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bloody%20Daddy%20%282023%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Unish20",
       "category": "Bangla Movies",
       "year": "2023",
@@ -512,19 +398,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kakababur%20Protyaborton%20%282022%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Cat Sticks",
-      "category": "Bangla Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDj7ksttGh97KNIqKeZVQ0eu0k.jpg",
-      "source_url": "https://cinefreak.net/cat-sticks-2019-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cat%20Sticks%20%282019%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -577,19 +450,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Aborto",
-      "category": "Bangla Movies",
-      "year": "2013",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCIHLjTP8NUZZUUs5VSZHoU7N8c.jpg",
-      "source_url": "https://cinefreak.net/aborto-2013-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aborto%20%282013%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
         }
       ]
     },
