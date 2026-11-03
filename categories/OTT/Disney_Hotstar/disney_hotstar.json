@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 50,
-    "last_updated": "2026-11-03 | 06:54:09 (UTC)",
+    "total_movies": 45,
+    "last_updated": "2026-11-03 | 16:18:55 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -13,10 +13,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
       "source_url": "https://cinefreak.net/beast-2026-full-movie-download",
       "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Beast%20%282026%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Beast%20%282026%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
@@ -392,63 +388,6 @@
           "episode": "Episode 57-60",
           "resolution": "HD 1080P",
           "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Batchmates",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04GVavxTuTWCNrtbllGrQiRvbp.jpg",
-      "source_url": "https://cinefreak.net/batchmates-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 05-08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 45-48",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 49-52",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 53-56",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 57-60",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 61-64",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 65-68",
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
@@ -891,21 +830,6 @@
       ]
     },
     {
-      "name": "Ali Baba Aur 40 Bhoot",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/umD3yw6SFybqXc8jW2l1AOyaUKC.jpg",
-      "source_url": "https://cinefreak.net/ali-baba-aur-40-bhoot-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Ali%20Baba%20aur%2040%20Bhoot%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Chikoo Bunty: The Detective Bros",
       "category": "Disney Hotstar",
       "year": "2026",
@@ -1060,40 +984,6 @@
       ]
     },
     {
-      "name": "A Shop For Killers",
-      "category": "Disney Hotstar",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-      "source_url": "https://cinefreak.net/a-shop-for-killers-2024-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-04",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E01-04%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 05-08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Aayushmati Geeta Matric Pass",
-      "category": "Disney Hotstar",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/snUfealex5cEPtJCZOLHQhtnxrQ.jpg",
-      "source_url": "https://cinefreak.net/aayushmati-geeta-matric-pass-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20HEVC.mkv"
-        }
-      ]
-    },
-    {
       "name": "Neru",
       "category": "Disney Hotstar",
       "year": "2023",
@@ -1164,27 +1054,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "24: India",
-      "category": "Disney Hotstar",
-      "year": "2013",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab46GZYGn63DbswgIKMepgj4yZP.jpg",
-      "source_url": "https://cinefreak.net/24-india-2013-full-series-download",
-      "res_list": [
-        {
-          "season": "S02",
-          "episode": "Episode 17-20",
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E17-20%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S02",
-          "episode": "Episode 21-24",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%2024%20India%20%5BS02E21-24%5D%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
