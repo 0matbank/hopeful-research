@@ -2576,19 +2576,30 @@
     "name": "Brothers And Sisters",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-29T05:53:59.870616+00:00",
-    "attempt_count": 4
+    "last_attempt": "2026-11-03T23:27:18.179409+00:00",
+    "attempt_count": 5
   },
   "disneyhotstar::biggboss": {
     "name": "Bigg Boss",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E12%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E05%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv",
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E06%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv",
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E07%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv",
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E09%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv",
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E10%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv",
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E11%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv"
     ],
-    "last_attempt": "2026-10-29T05:54:08.009199+00:00",
-    "attempt_count": 3
+    "last_attempt": "2026-11-03T23:27:21.861087+00:00",
+    "attempt_count": 4
   },
   "disneyhotstar::cousinsandkalyanams": {
     "name": "Cousins And Kalyanams",
@@ -6778,6 +6789,24 @@
       "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20A%20Shop%20for%20Killers%20%5BS01E05-08%5D%20WEB-DL%20%5BEnglish-Korean%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-03T16:18:51.941129+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::chinnachinnaaasai": {
+    "name": "Chinna Chinna Aasai",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T23:27:20.013098+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::chikoobuntythedetectivebros": {
+    "name": "Chikoo Bunty: The Detective Bros",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-03T23:27:23.746871+00:00",
     "attempt_count": 1
   }
 }

@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 45
-LAST UPDATED: 2026-11-03 | 16:18:55 (UTC)
+TOTAL MOVIES: 42
+LAST UPDATED: 2026-11-03 | 23:27:23 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -286,49 +286,6 @@ Episode: Episode 57-60
 ================================================================================
 
 Movie-7
-Show name: Brothers And Sisters
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUmJyNe5UT301KwVWrxctpP2sqU.jpg
-
-Season: S01
-Episode: Episode 01-04
-  Resolution-1: HD 1080P
-  Link-1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 29-32
-  Resolution-2: HD 1080P
-  Link-2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 33-36
-  Resolution-3: HD 1080P
-  Link-3: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 37-40
-  Resolution-4: HD 1080P
-  Link-4: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 41-44
-  Resolution-5: HD 1080P
-  Link-5: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 45-48
-  Resolution-6: HD 1080P
-  Link-6: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 57-60
-  Resolution-7: HD 1080P
-  Link-7: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-8
 Movie name: Chinna Chinna Aasai
 Category: Disney Hotstar
 Year: 2026
@@ -337,15 +294,12 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxO
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-9
+Movie-8
 Movie name: Maa Inti Bangaram
 Category: Disney Hotstar
 Year: 2026
@@ -356,7 +310,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-9
 Show name: Dutton Ranch
 Category: Disney Hotstar
 Year: 2026
@@ -379,7 +333,7 @@ Episode: Episode 04
 
 ================================================================================
 
-Movie-11
+Movie-10
 Movie name: Mollywood Times
 Category: Disney Hotstar
 Year: 2026
@@ -393,7 +347,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-12
+Movie-11
 Movie name: Tavvai
 Category: Disney Hotstar
 Year: 2026
@@ -404,7 +358,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-12
 Movie name: Dridam
 Category: Disney Hotstar
 Year: 2026
@@ -415,7 +369,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-13
 Show name: Euphoria
 Category: Disney Hotstar
 Year: 2026
@@ -443,7 +397,7 @@ Episode: Episode 08
 
 ================================================================================
 
-Movie-15
+Movie-14
 Movie name: One Two Cha Cha Chaa
 Category: Disney Hotstar
 Year: 2026
@@ -454,7 +408,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-15
 Movie name: Hoppers
 Category: Disney Hotstar
 Year: 2026
@@ -465,7 +419,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-16
 Show name: Part-Timers
 Category: Disney Hotstar
 Year: 2026
@@ -478,7 +432,7 @@ Episode: Episode 09-12
 
 ================================================================================
 
-Movie-18
+Movie-17
 Show name: Khatron Ke Khiladi
 Category: Disney Hotstar
 Year: 2026
@@ -521,7 +475,7 @@ Episode: Episode 12
 
 ================================================================================
 
-Movie-19
+Movie-18
 Show name: 108 Base Hospital Uri
 Category: Disney Hotstar
 Year: 2026
@@ -534,7 +488,7 @@ Episode: Episode 07
 
 ================================================================================
 
-Movie-20
+Movie-19
 Movie name: Welcome To The Jungle
 Category: Disney Hotstar
 Year: 2026
@@ -545,7 +499,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
+Movie-20
 Movie name: Sathi Leelavathi
 Category: Disney Hotstar
 Year: 2026
@@ -559,45 +513,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
-Show name: Bigg Boss
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2zF4NDPU0xTPKb5wrOhsFdYARR.jpg
-
-Season: S01
-Episode: Episode 05
-  Resolution-1: HD 1080P
-  Link-1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E05%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 06
-  Resolution-2: HD 1080P
-  Link-2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E06%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 07
-  Resolution-3: HD 1080P
-  Link-3: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E07%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 09
-  Resolution-4: HD 1080P
-  Link-4: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E09%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 10
-  Resolution-5: HD 1080P
-  Link-5: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E10%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-Season: S01
-Episode: Episode 11
-  Resolution-6: HD 1080P
-  Link-6: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bigg%20Boss%20%5BS01E11%5D%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-================================================================================
-
-Movie-23
+Movie-21
 Show name: The Court
 Category: Disney Hotstar
 Year: 2026
@@ -610,7 +526,7 @@ Episode: Episode 05-08
 
 ================================================================================
 
-Movie-24
+Movie-22
 Movie name: Star Wars: The Mandalorian And Grogu
 Category: Disney Hotstar
 Year: 2026
@@ -621,7 +537,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
+Movie-23
 Show name: Lanterns
 Category: Disney Hotstar
 Year: 2026
@@ -639,7 +555,7 @@ Episode: Episode 04
 
 ================================================================================
 
-Movie-26
+Movie-24
 Show name: Daredevil: Born Again
 Category: Disney Hotstar
 Year: 2026
@@ -687,7 +603,7 @@ Episode: Episode 08
 
 ================================================================================
 
-Movie-27
+Movie-25
 Movie name: Thaai Kizhavi
 Category: Disney Hotstar
 Year: 2026
@@ -698,18 +614,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-28
-Movie name: Chikoo Bunty: The Detective Bros
-Category: Disney Hotstar
-Year: 2026
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Chikoo-Bunty-2026.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Chikoo%20Bunty%20The%20Detective%20Bros%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
-
-================================================================================
-
-Movie-29
+Movie-26
 Movie name: Mike & Nick & Nick & Alice
 Category: Disney Hotstar
 Year: 2026
@@ -720,7 +625,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
+Movie-27
 Show name: The Madison
 Category: Disney Hotstar
 Year: 2026
@@ -738,7 +643,7 @@ Episode: Episode 05
 
 ================================================================================
 
-Movie-31
+Movie-28
 Show name: Dear X
 Category: Disney Hotstar
 Year: 2025
@@ -756,7 +661,7 @@ Episode: Episode 09-12
 
 ================================================================================
 
-Movie-32
+Movie-29
 Movie name: Junior
 Category: Disney Hotstar
 Year: 2025
@@ -767,7 +672,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-33
+Movie-30
 Movie name: Dog 51
 Category: Disney Hotstar
 Year: 2025
@@ -778,7 +683,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-31
 Show name: MobLand
 Category: Disney Hotstar
 Year: 2025
@@ -796,7 +701,7 @@ Episode: Episode 06-10
 
 ================================================================================
 
-Movie-35
+Movie-32
 Movie name: Motu Patlu & The Madness Of Multiverse
 Category: Disney Hotstar
 Year: 2025
@@ -807,7 +712,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
+Movie-33
 Movie name: Match Fixing
 Category: Disney Hotstar
 Year: 2025
@@ -818,7 +723,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-34
 Movie name: Zootopia 2
 Category: Disney Hotstar
 Year: 2025
@@ -829,7 +734,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
+Movie-35
 Movie name: Neru
 Category: Disney Hotstar
 Year: 2023
@@ -840,7 +745,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-39
+Movie-36
 Movie name: Govinda Naam Mera
 Category: Disney Hotstar
 Year: 2022
@@ -851,7 +756,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-40
+Movie-37
 Movie name: Shiddat
 Category: Disney Hotstar
 Year: 2021
@@ -868,7 +773,7 @@ STREAM Link 3: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-41
+Movie-38
 Show name: Code M
 Category: Disney Hotstar
 Year: 2020
@@ -881,7 +786,7 @@ Episode: N/A
 
 ================================================================================
 
-Movie-42
+Movie-39
 Movie name: Shiva The Tiny Men From Mountain
 Category: Disney Hotstar
 Year: 2019
@@ -892,7 +797,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-43
+Movie-40
 Movie name: WALL·E
 Category: Disney Hotstar
 Year: 2008
@@ -903,7 +808,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-44
+Movie-41
 Movie name: Meet The Robinsons
 Category: Disney Hotstar
 Year: 2007
@@ -914,7 +819,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-45
+Movie-42
 Movie name: Me, Myself & Irene
 Category: Disney Hotstar
 Year: 2000
