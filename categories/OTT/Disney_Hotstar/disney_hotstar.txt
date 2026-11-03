@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
 TOTAL MOVIES: 50
-LAST UPDATED: 2026-10-30 | 13:02:21 (UTC)
+LAST UPDATED: 2026-11-03 | 06:54:09 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -579,14 +579,9 @@ Year: 2026
 Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2zF4NDPU0xTPKb5wrOhsFdYARR.jpg
 
 Season: S01
-Episode: Episode 01
-  Resolution-1: HD 1080P
-  Link-1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E01%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-Season: S01
 Episode: Episode 07
-  Resolution-2: HD 1080P
-  Link-2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
+  Resolution-1: HD 1080P
+  Link-1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 
 ================================================================================
 

@@ -2446,10 +2446,10 @@
     "name": "Saptadingar Guptodhon",
     "category": "Bangla Movies",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20AV1%20ESub.mkv"
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Saptadingar%20Guptodhon%20%282026%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-28T22:39:26.805580+00:00",
-    "attempt_count": 2
+    "last_attempt": "2026-11-03T06:53:42.507507+00:00",
+    "attempt_count": 3
   },
   "banglamovies::theuniversityofchankharpul": {
     "name": "The University Of Chankharpul",
@@ -2512,12 +2512,10 @@
     "name": "108 Base Hospital Uri",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E02%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E03%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E08%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E01%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-28T22:39:42.392723+00:00",
-    "attempt_count": 4
+    "last_attempt": "2026-11-03T06:54:09.738308+00:00",
+    "attempt_count": 5
   },
   "disneyhotstar::batchmates": {
     "name": "Batchmates",
@@ -6645,6 +6643,115 @@
       "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Hothat%20Brishti%20%281998%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
     ],
     "last_attempt": "2026-11-02T23:36:32.418104+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::roid": {
+    "name": "Roid",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Roid%20%282026%29%20HDTC%20%5BBengali%20LiNE%5D%201080p%20HC-ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:44.538073+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::sulabhcomplex": {
+    "name": "Sulabh Complex",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sulabh%20Complex%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:46.648943+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::ultorath": {
+    "name": "Ultorath",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ultorath%20%282026%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:48.624344+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::vijaynagarerhirey": {
+    "name": "Vijaynagar'er Hirey",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Vijaynagar%27er%20Hirey%20%282026%29%20HDTC%20%5BBengali%5D%201080p%20HC-ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:50.844190+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::saralakkhoholmes": {
+    "name": "Saralakkho Holmes",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Saralakkha%20Holmes%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:52.600694+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::rannabaati": {
+    "name": "Ranna Baati",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ranna%20Baati%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv",
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Ranna%20Baati%20%282025%29%20WEB-DL%20%5BBengali%5D%20HC%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:54.763354+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::sadagolap": {
+    "name": "Sada Golap",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sada%20Golap%20%282025%29%20WEB-DL%20%5BBengali%5D%20Fridaay%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:56.746334+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::unish20": {
+    "name": "Unish20",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Unish20%20%282023%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:53:58.735490+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::shikari": {
+    "name": "Shikari",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Shikari%20%282016%29%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:54:00.855835+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::theamazingspiderman": {
+    "name": "The Amazing Spider-Man",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%20%282012%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:54:02.995461+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::sanskar": {
+    "name": "Sanskar",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Sanskar%20%282011%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:54:05.000079+00:00",
+    "attempt_count": 1
+  },
+  "banglamovies::spiderman": {
+    "name": "Spider-Man",
+    "category": "Bangla Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spider-Man%20%282002%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-03T06:54:07.112206+00:00",
     "attempt_count": 1
   }
 }

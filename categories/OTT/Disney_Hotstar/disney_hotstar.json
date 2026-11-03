@@ -2,7 +2,7 @@
   "category_info": {
     "category_name": "Disney Hotstar",
     "total_movies": 50,
-    "last_updated": "2026-10-30 | 13:02:21 (UTC)",
+    "last_updated": "2026-11-03 | 06:54:09 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -688,12 +688,6 @@
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2zF4NDPU0xTPKb5wrOhsFdYARR.jpg",
       "source_url": "https://cinefreak.net/108-base-hospital-uri-2026-full-series-download",
       "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E01%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
         {
           "season": "S01",
           "episode": "Episode 07",
