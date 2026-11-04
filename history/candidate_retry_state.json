@@ -1765,46 +1765,46 @@
         "retry_after": "2026-10-21T03:56:38.069340+00:00"
       },
       "https://cinefreak.net/anakapalli-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-03T18:45:09.754103+00:00",
-        "retry_after_epoch": 1793774709,
-        "retry_after": "2026-11-04T06:45:09.754103+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-04T19:09:04.326240+00:00",
+        "retry_after_epoch": 1793905744,
+        "retry_after": "2026-11-05T19:09:04.326240+00:00"
       },
       "https://cinefreak.net/aadarsha-kutumbam-house-no-47-ak47-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-03T18:45:09.754142+00:00",
-        "retry_after_epoch": 1793774709,
-        "retry_after": "2026-11-04T06:45:09.754142+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-04T19:09:04.326250+00:00",
+        "retry_after_epoch": 1793905744,
+        "retry_after": "2026-11-05T19:09:04.326250+00:00"
       },
       "https://cinefreak.net/prasanna-vadanam-2024-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-03T18:45:09.754150+00:00",
-        "retry_after_epoch": 1793774709,
-        "retry_after": "2026-11-04T06:45:09.754150+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-04T19:09:04.326260+00:00",
+        "retry_after_epoch": 1793905744,
+        "retry_after": "2026-11-05T19:09:04.326260+00:00"
       },
       "https://cinefreak.net/si-yugandhar-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-03T18:45:09.754156+00:00",
-        "retry_after_epoch": 1793774709,
-        "retry_after": "2026-11-04T06:45:09.754156+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-04T19:09:04.326270+00:00",
+        "retry_after_epoch": 1793905744,
+        "retry_after": "2026-11-05T19:09:04.326270+00:00"
       },
       "https://cinefreak.net/dont-trouble-the-trouble-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-03T18:45:09.754161+00:00",
-        "retry_after_epoch": 1793774709,
-        "retry_after": "2026-11-04T06:45:09.754161+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-04T19:09:04.326279+00:00",
+        "retry_after_epoch": 1793905744,
+        "retry_after": "2026-11-05T19:09:04.326279+00:00"
       },
       "https://cinefreak.net/sigma-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-03T18:45:09.754167+00:00",
-        "retry_after_epoch": 1793774709,
-        "retry_after": "2026-11-04T06:45:09.754167+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-04T19:09:04.326287+00:00",
+        "retry_after_epoch": 1793905744,
+        "retry_after": "2026-11-05T19:09:04.326287+00:00"
       },
       "https://cinefreak.net/comrade-kalyan-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-03T18:45:09.754171+00:00",
-        "retry_after_epoch": 1793774709,
-        "retry_after": "2026-11-04T06:45:09.754171+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-04T19:09:04.326296+00:00",
+        "retry_after_epoch": 1793905744,
+        "retry_after": "2026-11-05T19:09:04.326296+00:00"
       },
       "https://cinefreak.net/varam-2026-full-series-download": {
         "failure_count": 1,
@@ -1883,6 +1883,24 @@
         "last_failed_at": "2026-11-04T03:39:28.570911+00:00",
         "retry_after_epoch": 1793806768,
         "retry_after": "2026-11-04T15:39:28.570911+00:00"
+      },
+      "https://cinefreak.net/businessman-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T19:09:04.326167+00:00",
+        "retry_after_epoch": 1793862544,
+        "retry_after": "2026-11-05T07:09:04.326167+00:00"
+      },
+      "https://cinefreak.net/athadu-2005-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T19:09:04.326216+00:00",
+        "retry_after_epoch": 1793862544,
+        "retry_after": "2026-11-05T07:09:04.326216+00:00"
+      },
+      "https://cinefreak.net/the-mongoose-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T19:09:04.326230+00:00",
+        "retry_after_epoch": 1793862544,
+        "retry_after": "2026-11-05T07:09:04.326230+00:00"
       }
     },
     "Hindi Dubbed Movies": {
