@@ -123,9 +123,9 @@
         "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
-      "last_attempt": "2026-11-01T06:13:51.314370+00:00",
-      "next_retry_at": "2026-11-04T06:13:51.314419+00:00",
-      "attempt_count": 13
+      "last_attempt": "2026-11-04T16:22:15.790111+00:00",
+      "next_retry_at": "2026-11-07T16:22:15.790128+00:00",
+      "attempt_count": 14
     },
     "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -15925,7 +15925,199 @@
       "last_attempt": "2026-11-04T06:31:18.326710+00:00",
       "next_retry_at": "2026-11-04T12:31:18.326714+00:00",
       "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/dutton-ranch-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/dutton-ranch-2026-full-series-download",
+      "movie": {
+        "name": "Dutton Ranch",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+        "source_url": "https://cinefreak.net/dutton-ranch-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 02",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dutton%20Ranch%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T16:22:27.775210+00:00",
+      "last_attempt": "2026-11-04T16:22:27.775230+00:00",
+      "next_retry_at": "2026-11-04T22:22:27.775235+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/dridam-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/dridam-2026-full-movie-download",
+      "movie": {
+        "name": "Dridam",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JqWaizfeplMDEZGuJAZZUO4Xtp.jpg",
+        "source_url": "https://cinefreak.net/dridam-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dridam%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T16:22:27.775589+00:00",
+      "last_attempt": "2026-11-04T16:22:27.775595+00:00",
+      "next_retry_at": "2026-11-04T22:22:27.775598+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/euphoria-2019-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/euphoria-2019-full-series-download",
+      "movie": {
+        "name": "Euphoria",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+        "source_url": "https://cinefreak.net/euphoria-2019-full-series-download",
+        "res_list": [
+          {
+            "season": "S03",
+            "episode": "Episode 04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E04%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S03",
+            "episode": "Episode 06",
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E06%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S03",
+            "episode": "Episode 07",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E07%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S03",
+            "episode": "Episode 08",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E08%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E04%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E06%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E07%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Euphoria%20%5BS03E08%5D%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T16:22:27.775780+00:00",
+      "last_attempt": "2026-11-04T16:22:27.775786+00:00",
+      "next_retry_at": "2026-11-04T22:22:27.775788+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/hoppers-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/hoppers-2026-full-movie-download",
+      "movie": {
+        "name": "Hoppers",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "source_url": "https://cinefreak.net/hoppers-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Hoppers%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T16:22:27.775946+00:00",
+      "last_attempt": "2026-11-04T16:22:27.775951+00:00",
+      "next_retry_at": "2026-11-04T22:22:27.775952+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/dear-x-2025-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/dear-x-2025-full-series-download",
+      "movie": {
+        "name": "Dear X",
+        "category": "Disney Hotstar",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbFg7Ve5BYLPxtEXW9dn4pHPLdx.jpg",
+        "source_url": "https://cinefreak.net/dear-x-2025-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 05-08",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 09-12",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Dear%20X%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Korean%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T16:22:27.776194+00:00",
+      "last_attempt": "2026-11-04T16:22:27.776199+00:00",
+      "next_retry_at": "2026-11-04T22:22:27.776201+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/govinda-naam-mera-2022-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/govinda-naam-mera-2022-full-movie-download",
+      "movie": {
+        "name": "Govinda Naam Mera",
+        "category": "Disney Hotstar",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c93pb87QTyMIdzV6ufUZSQfVMFi.jpg",
+        "source_url": "https://cinefreak.net/govinda-naam-mera-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Govinda%20Naam%20Mera%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Govinda%20Naam%20Mera%20%282022%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T16:22:27.776438+00:00",
+      "last_attempt": "2026-11-04T16:22:27.776444+00:00",
+      "next_retry_at": "2026-11-04T22:22:27.776446+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-04T06:31:18.370625+00:00"
+  "updated_at": "2026-11-04T16:22:27.796620+00:00"
 }
