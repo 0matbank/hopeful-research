@@ -1823,6 +1823,66 @@
         "last_failed_at": "2026-11-03T18:45:09.754185+00:00",
         "retry_after_epoch": 1793774709,
         "retry_after": "2026-11-04T06:45:09.754185+00:00"
+      },
+      "https://cinefreak.net/sye-raa-narasimha-reddy-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570817+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570817+00:00"
+      },
+      "https://cinefreak.net/goodachari-2-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570859+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570859+00:00"
+      },
+      "https://cinefreak.net/goodachari-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570870+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570870+00:00"
+      },
+      "https://cinefreak.net/ishq-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570876+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570876+00:00"
+      },
+      "https://cinefreak.net/418-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570882+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570882+00:00"
+      },
+      "https://cinefreak.net/cocoons-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570888+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570888+00:00"
+      },
+      "https://cinefreak.net/the-paradise-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570896+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570896+00:00"
+      },
+      "https://cinefreak.net/jetlee-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570901+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570901+00:00"
+      },
+      "https://cinefreak.net/nilakanta-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570906+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570906+00:00"
+      },
+      "https://cinefreak.net/vishnu-vinyasam-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-04T03:39:28.570911+00:00",
+        "retry_after_epoch": 1793806768,
+        "retry_after": "2026-11-04T15:39:28.570911+00:00"
       }
     },
     "Hindi Dubbed Movies": {
