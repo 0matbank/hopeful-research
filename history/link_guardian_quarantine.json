@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-11-01T13:31:37.037607+00:00",
-      "next_retry_at": "2026-11-04T13:31:37.037623+00:00",
-      "attempt_count": 12
+      "last_attempt": "2026-11-04T23:43:45.772989+00:00",
+      "next_retry_at": "2026-11-07T23:43:45.773007+00:00",
+      "attempt_count": 13
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -16117,7 +16117,252 @@
       "last_attempt": "2026-11-04T16:22:27.776444+00:00",
       "next_retry_at": "2026-11-04T22:22:27.776446+00:00",
       "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/maa-inti-bangaram-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/maa-inti-bangaram-2026-full-movie-download",
+      "movie": {
+        "name": "Maa Inti Bangaram",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg",
+        "source_url": "https://cinefreak.net/maa-inti-bangaram-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.333397+00:00",
+      "last_attempt": "2026-11-04T23:44:00.333413+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.333448+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/khatron-ke-khiladi-2008-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/khatron-ke-khiladi-2008-full-series-download",
+      "movie": {
+        "name": "Khatron Ke Khiladi",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHXlvY8SRHmGyipgBxaTbfgEeIy.jpg",
+        "source_url": "https://cinefreak.net/khatron-ke-khiladi-2008-full-series-download",
+        "res_list": [
+          {
+            "season": "S15",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E01%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          },
+          {
+            "season": "S15",
+            "episode": "Episode 02",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E02%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          },
+          {
+            "season": "S15",
+            "episode": "Episode 03",
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E03%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          },
+          {
+            "season": "S15",
+            "episode": "Episode 04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E04%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          },
+          {
+            "season": "S15",
+            "episode": "Episode 05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          },
+          {
+            "season": "S15",
+            "episode": "Episode 06",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E06%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          },
+          {
+            "season": "S15",
+            "episode": "Episode 12",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E12%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E01%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E02%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E03%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E04%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E05%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E06%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Khatron%20Ke%20Khiladi%20%5BS15E12%5D%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.333772+00:00",
+      "last_attempt": "2026-11-04T23:44:00.333778+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.333780+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/lanterns-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/lanterns-2026-full-series-download",
+      "movie": {
+        "name": "Lanterns",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbBehMLO6Ge7Tbk374dIBtUjO6P.jpg",
+        "source_url": "https://cinefreak.net/lanterns-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Lanterns%20%5BS01E04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.333987+00:00",
+      "last_attempt": "2026-11-04T23:44:00.333992+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.333994+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/mike-nick-nick-alice-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/mike-nick-nick-alice-2026-full-movie-download",
+      "movie": {
+        "name": "Mike & Nick & Nick & Alice",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+        "source_url": "https://cinefreak.net/mike-nick-nick-alice-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Mike%20&%20Nick%20&%20Nick%20&%20Alice%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Mike%20&%20Nick%20&%20Nick%20&%20Alice%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.334156+00:00",
+      "last_attempt": "2026-11-04T23:44:00.334160+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.334163+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/junior-2025-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/junior-2025-full-movie-download",
+      "movie": {
+        "name": "Junior",
+        "category": "Disney Hotstar",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWak2wkhTmWFnR8GODZvE1xyBaJ.jpg",
+        "source_url": "https://cinefreak.net/junior-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.334311+00:00",
+      "last_attempt": "2026-11-04T23:44:00.334317+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.334319+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/match-fixing-the-nation-at-stake-2025-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/match-fixing-the-nation-at-stake-2025-full-movie-download",
+      "movie": {
+        "name": "Match Fixing",
+        "category": "Disney Hotstar",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/szmEGYLFC7caihW0qrOoWgcMn5c.jpg",
+        "source_url": "https://cinefreak.net/match-fixing-the-nation-at-stake-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Match%20Fixing%20%282025%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Match%20Fixing%20%282025%29%20WEB-DL%20%5BHindi%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.334521+00:00",
+      "last_attempt": "2026-11-04T23:44:00.334527+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.334529+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/meet-the-robinsons-2007-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/meet-the-robinsons-2007-full-movie-download",
+      "movie": {
+        "name": "Meet The Robinsons",
+        "category": "Disney Hotstar",
+        "year": "2007",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/naya0zF4kT401Sx15AtwB9vpcJr.jpg",
+        "source_url": "https://cinefreak.net/meet-the-robinsons-2007-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Meet%20the%20Robinsons%20%282007%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Meet%20the%20Robinsons%20%282007%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.334726+00:00",
+      "last_attempt": "2026-11-04T23:44:00.334730+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.334733+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/me-myself-irene-2000-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/me-myself-irene-2000-full-movie-download",
+      "movie": {
+        "name": "Me, Myself & Irene",
+        "category": "Disney Hotstar",
+        "year": "2000",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg",
+        "source_url": "https://cinefreak.net/me-myself-irene-2000-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Me%20Myself%20and%20Irene%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Me%20Myself%20and%20Irene%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-04T23:44:00.334869+00:00",
+      "last_attempt": "2026-11-04T23:44:00.334874+00:00",
+      "next_retry_at": "2026-11-05T05:44:00.334875+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-04T16:22:27.796620+00:00"
+  "updated_at": "2026-11-04T23:44:00.352311+00:00"
 }
