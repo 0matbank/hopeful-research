@@ -2385,6 +2385,66 @@
         "last_failed_at": "2026-10-22T02:11:16.657222+00:00",
         "retry_after_epoch": 1792678276,
         "retry_after": "2026-10-22T14:11:16.657222+00:00"
+      },
+      "https://cinefreak.net/the-falcon-and-the-winter-soldier-2021-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263584+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263584+00:00"
+      },
+      "https://cinefreak.net/life-hill-gayi-2024-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263632+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263632+00:00"
+      },
+      "https://cinefreak.net/aankh-micholi-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263642+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263642+00:00"
+      },
+      "https://cinefreak.net/all-that-we-never-were-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263648+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263648+00:00"
+      },
+      "https://cinefreak.net/kappi-squad-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263653+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263653+00:00"
+      },
+      "https://cinefreak.net/annayum-rasoolum-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263658+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263658+00:00"
+      },
+      "https://cinefreak.net/bloody-flower-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263662+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263662+00:00"
+      },
+      "https://cinefreak.net/the-shallows-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263667+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263667+00:00"
+      },
+      "https://cinefreak.net/avengers-infinity-war-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263672+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263672+00:00"
+      },
+      "https://cinefreak.net/avengers-age-of-ultron-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T03:58:08.263681+00:00",
+        "retry_after_epoch": 1793894288,
+        "retry_after": "2026-11-05T15:58:08.263681+00:00"
       }
     },
     "English Movies": {
