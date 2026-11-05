@@ -219,9 +219,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898293+00:00",
-      "last_attempt": "2026-11-02T23:36:05.060115+00:00",
-      "next_retry_at": "2026-11-05T23:36:05.060131+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-11-05T23:41:08.263326+00:00",
+      "next_retry_at": "2026-11-08T23:41:08.263346+00:00",
+      "attempt_count": 11
     },
     "disneyhotstar::https://cinefreak.net/chris-hemsworth-a-road-trip-to-remember-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -16659,7 +16659,286 @@
       "last_attempt": "2026-11-05T16:30:58.831022+00:00",
       "next_retry_at": "2026-11-05T22:30:58.831023+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/all-night-wrong-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/all-night-wrong-2026-full-movie-download",
+      "movie": {
+        "name": "All Night Wrong",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg",
+        "source_url": "https://cinefreak.net/all-night-wrong-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20All%20Night%20Wrong%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20All%20Night%20Wrong%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:24.777826+00:00",
+      "last_attempt": "2026-11-05T23:41:24.777842+00:00",
+      "next_retry_at": "2026-11-06T05:41:24.777846+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/backrooms-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/backrooms-2026-full-movie-download",
+      "movie": {
+        "name": "Backrooms",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "source_url": "https://cinefreak.net/backrooms-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:24.778174+00:00",
+      "last_attempt": "2026-11-05T23:41:24.778183+00:00",
+      "next_retry_at": "2026-11-06T05:41:24.778186+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/dark-hollow-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/dark-hollow-2026-full-movie-download",
+      "movie": {
+        "name": "Dark Hollow",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s9IVDZetaGc8isbjslCZggsNSX.jpg",
+        "source_url": "https://cinefreak.net/dark-hollow-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Dark%20Hollow%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Dark%20Hollow%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:24.778482+00:00",
+      "last_attempt": "2026-11-05T23:41:24.778489+00:00",
+      "next_retry_at": "2026-11-06T05:41:24.778492+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/come-with-me-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/come-with-me-2026-full-movie-download",
+      "movie": {
+        "name": "Come With Me",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg",
+        "source_url": "https://cinefreak.net/come-with-me-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Come%20With%20Me%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Come%20With%20Me%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:24.778675+00:00",
+      "last_attempt": "2026-11-05T23:41:24.778680+00:00",
+      "next_retry_at": "2026-11-06T05:41:24.778683+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/barbarian-2022-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/barbarian-2022-full-movie-download",
+      "movie": {
+        "name": "Barbarian",
+        "category": "English Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+        "source_url": "https://cinefreak.net/barbarian-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Barbarian%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Barbarian%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:24.778923+00:00",
+      "last_attempt": "2026-11-05T23:41:24.778930+00:00",
+      "next_retry_at": "2026-11-06T05:41:24.778933+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/casino-jack-2010-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/casino-jack-2010-full-movie-download",
+      "movie": {
+        "name": "Casino Jack",
+        "category": "English Movies",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dpicp6VEtCSj39XBG5mnbe5TQ9.jpg",
+        "source_url": "https://cinefreak.net/casino-jack-2010-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Casino%20Jack%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Casino%20Jack%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:24.779234+00:00",
+      "last_attempt": "2026-11-05T23:41:24.779241+00:00",
+      "next_retry_at": "2026-11-06T05:41:24.779244+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/clueless-1995-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/clueless-1995-full-movie-download",
+      "movie": {
+        "name": "Clueless",
+        "category": "English Movies",
+        "year": "1995",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+        "source_url": "https://cinefreak.net/clueless-1995-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Clueless%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Clueless%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:24.779495+00:00",
+      "last_attempt": "2026-11-05T23:41:24.779501+00:00",
+      "next_retry_at": "2026-11-06T05:41:24.779505+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/uyir-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/uyir-2026-full-movie-download",
+      "movie": {
+        "name": "Uyir",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
+        "source_url": "https://cinefreak.net/uyir-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:33.200879+00:00",
+      "last_attempt": "2026-11-05T23:41:33.200892+00:00",
+      "next_retry_at": "2026-11-06T05:41:33.200894+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/welcome-to-the-jungle-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/welcome-to-the-jungle-2026-full-movie-download",
+      "movie": {
+        "name": "Welcome To The Jungle",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+        "source_url": "https://cinefreak.net/welcome-to-the-jungle-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:33.201310+00:00",
+      "last_attempt": "2026-11-05T23:41:33.201326+00:00",
+      "next_retry_at": "2026-11-06T05:41:33.201330+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/zootopia-2-2025-dual-audio-hindi-english-bluray-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/zootopia-2-2025-dual-audio-hindi-english-bluray-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Zootopia 2",
+        "category": "Disney Hotstar",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "source_url": "https://cinefreak.net/zootopia-2-2025-dual-audio-hindi-english-bluray-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:33.201502+00:00",
+      "last_attempt": "2026-11-05T23:41:33.201506+00:00",
+      "next_retry_at": "2026-11-06T05:41:33.201508+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/wall%c2%b7e-2008-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/wall%c2%b7e-2008-full-movie-download",
+      "movie": {
+        "name": "WALL·E",
+        "category": "Disney Hotstar",
+        "year": "2008",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg",
+        "source_url": "https://cinefreak.net/wall%c2%b7e-2008-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20WALL-E%20%282008%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20WALL-E%20%282008%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-05T23:41:33.201628+00:00",
+      "last_attempt": "2026-11-05T23:41:33.201632+00:00",
+      "next_retry_at": "2026-11-06T05:41:33.201633+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-05T16:30:58.846191+00:00"
+  "updated_at": "2026-11-05T23:41:33.215934+00:00"
 }

@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 15
-LAST UPDATED: 2026-11-05 | 19:10:26 (UTC)
+TOTAL MOVIES: 11
+LAST UPDATED: 2026-11-05 | 23:41:33 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -17,23 +17,6 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-2
-Movie name: Uyir
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-3
 Show name: House Of The Dragon
 Category: Disney Hotstar
 Year: 2026
@@ -56,7 +39,7 @@ Episode: Episode 07
 
 ================================================================================
 
-Movie-4
+Movie-3
 Show name: Thukra Ke Mera Pyaar
 Category: Disney Hotstar
 Year: 2026
@@ -84,7 +67,7 @@ Episode: Episode 38-41
 
 ================================================================================
 
-Movie-5
+Movie-4
 Show name: Resort
 Category: Disney Hotstar
 Year: 2026
@@ -157,7 +140,7 @@ Episode: Episode 93-96
 
 ================================================================================
 
-Movie-6
+Movie-5
 Movie name: Chinna Chinna Aasai
 Category: Disney Hotstar
 Year: 2026
@@ -171,7 +154,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
+Movie-6
 Movie name: Tavvai
 Category: Disney Hotstar
 Year: 2026
@@ -182,7 +165,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-7
 Show name: 108 Base Hospital Uri
 Category: Disney Hotstar
 Year: 2026
@@ -195,18 +178,7 @@ Episode: Episode 07
 
 ================================================================================
 
-Movie-9
-Movie name: Welcome To The Jungle
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-10
+Movie-8
 Show name: Daredevil: Born Again
 Category: Disney Hotstar
 Year: 2026
@@ -219,7 +191,7 @@ Episode: Episode 08
 
 ================================================================================
 
-Movie-11
+Movie-9
 Show name: The Madison
 Category: Disney Hotstar
 Year: 2026
@@ -237,7 +209,7 @@ Episode: Episode 05
 
 ================================================================================
 
-Movie-12
+Movie-10
 Movie name: Dog 51
 Category: Disney Hotstar
 Year: 2025
@@ -248,18 +220,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
-Movie name: Zootopia 2
-Category: Disney Hotstar
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-14
+Movie-11
 Movie name: Shiva The Tiny Men From Mountain
 Category: Disney Hotstar
 Year: 2019
@@ -267,17 +228,6 @@ Poster: https://cinefreak.net/wp-content/uploads/2026/05/Shiva-The-Tiny-Men-From
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
-
-================================================================================
-
-Movie-15
-Movie name: WALL·E
-Category: Disney Hotstar
-Year: 2008
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20WALL-E%20%282008%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 ================================================================================
 

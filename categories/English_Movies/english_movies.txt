@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: English Movies
-TOTAL MOVIES: 40
-LAST UPDATED: 2026-10-29 | 13:08:53 (UTC)
+TOTAL MOVIES: 33
+LAST UPDATED: 2026-11-05 | 23:41:24 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -39,17 +39,6 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-4
-Movie name: All Night Wrong
-Category: English Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9BflrDHZSQVFxyZJE0mTOdhqpH.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20All%20Night%20Wrong%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-5
 Movie name: My Best Friend, His Girlfriend And Me
 Category: English Movies
 Year: 2026
@@ -60,21 +49,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
-Movie name: Backrooms
-Category: English Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Backrooms%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-7
+Movie-5
 Movie name: The Bad Boy And Me 2
 Category: English Movies
 Year: 2026
@@ -85,7 +60,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-6
 Movie name: PAW Patrol: The Dino Movie
 Category: English Movies
 Year: 2026
@@ -99,7 +74,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-7
 Movie name: Drawn Together
 Category: English Movies
 Year: 2026
@@ -108,15 +83,12 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rpvddXbaQPOi0fB2HKWbZ3u
 RESOLUTION 1: HEVC 1080P
 STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv
 
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-RESOLUTION 3: HQ 1080P
-STREAM Link 3: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
+RESOLUTION 2: HQ 1080P
+STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv
 
 ================================================================================
 
-Movie-10
+Movie-8
 Movie name: Moana
 Category: English Movies
 Year: 2026
@@ -127,29 +99,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
-Movie name: Dark Hollow
-Category: English Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s9IVDZetaGc8isbjslCZggsNSX.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Dark%20Hollow%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-12
-Movie name: Come With Me
-Category: English Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQR5xUZrdVaLscJlk4mFcy8DrXJ.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Come%20With%20Me%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-13
+Movie-9
 Movie name: In The Grey
 Category: English Movies
 Year: 2026
@@ -160,7 +110,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-10
 Movie name: Stand Your Ground
 Category: English Movies
 Year: 2025
@@ -174,7 +124,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-15
+Movie-11
 Movie name: Last Days
 Category: English Movies
 Year: 2025
@@ -188,7 +138,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-12
 Movie name: President Down
 Category: English Movies
 Year: 2025
@@ -199,7 +149,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
+Movie-13
 Movie name: 18+ Parthenope
 Category: English Movies
 Year: 2024
@@ -210,7 +160,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-14
 Movie name: John Wick: Chapter 4
 Category: English Movies
 Year: 2023
@@ -224,18 +174,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-19
-Movie name: Barbarian
-Category: English Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Barbarian%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-20
+Movie-15
 Movie name: Gold
 Category: English Movies
 Year: 2022
@@ -249,7 +188,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-21
+Movie-16
 Movie name: Fatale
 Category: English Movies
 Year: 2020
@@ -260,7 +199,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-22
+Movie-17
 Movie name: The Invisible Man
 Category: English Movies
 Year: 2020
@@ -271,7 +210,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
+Movie-18
 Movie name: Toy Story 4
 Category: English Movies
 Year: 2019
@@ -282,7 +221,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-24
+Movie-19
 Movie name: The Secret Life Of Pets 2
 Category: English Movies
 Year: 2019
@@ -293,7 +232,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
+Movie-20
 Movie name: John Wick: Chapter 3
 Category: English Movies
 Year: 2019
@@ -307,7 +246,7 @@ STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
+Movie-21
 Movie name: Stronger
 Category: English Movies
 Year: 2017
@@ -318,7 +257,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-27
+Movie-22
 Movie name: John Wick: Chapter 2
 Category: English Movies
 Year: 2017
@@ -332,7 +271,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-28
+Movie-23
 Movie name: Lady Bloodfight
 Category: English Movies
 Year: 2016
@@ -343,7 +282,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-29
+Movie-24
 Movie name: Need For Speed
 Category: English Movies
 Year: 2014
@@ -354,7 +293,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-30
+Movie-25
 Movie name: Monster Beach
 Category: English Movies
 Year: 2014
@@ -365,7 +304,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-31
+Movie-26
 Movie name: RED 2
 Category: English Movies
 Year: 2013
@@ -379,18 +318,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-32
-Movie name: Casino Jack
-Category: English Movies
-Year: 2010
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Dpicp6VEtCSj39XBG5mnbe5TQ9.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Casino%20Jack%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-33
+Movie-27
 Movie name: RED
 Category: English Movies
 Year: 2010
@@ -404,7 +332,7 @@ STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-34
+Movie-28
 Movie name: The Prestige
 Category: English Movies
 Year: 2006
@@ -415,7 +343,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-35
+Movie-29
 Movie name: Hitch
 Category: English Movies
 Year: 2005
@@ -426,7 +354,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-36
+Movie-30
 Movie name: Reindeer Games
 Category: English Movies
 Year: 2000
@@ -437,7 +365,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-37
+Movie-31
 Movie name: Toy Story
 Category: English Movies
 Year: 1995
@@ -448,18 +376,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-38
-Movie name: Clueless
-Category: English Movies
-Year: 1995
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Clueless%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-39
+Movie-32
 Movie name: Rabid
 Category: English Movies
 Year: 1977
@@ -473,7 +390,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-40
+Movie-33
 Movie name: The Sound Of Music
 Category: English Movies
 Year: 1965
