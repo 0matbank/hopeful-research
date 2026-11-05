@@ -2445,6 +2445,66 @@
         "last_failed_at": "2026-11-05T03:58:08.263681+00:00",
         "retry_after_epoch": 1793894288,
         "retry_after": "2026-11-05T15:58:08.263681+00:00"
+      },
+      "https://cinefreak.net/baymax-2022-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658720+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658720+00:00"
+      },
+      "https://cinefreak.net/the-worst-of-evil-2023-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658768+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658768+00:00"
+      },
+      "https://cinefreak.net/cerita-lila-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658777+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658777+00:00"
+      },
+      "https://cinefreak.net/nilakanta-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658783+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658783+00:00"
+      },
+      "https://cinefreak.net/mango-pachcha-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658788+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658788+00:00"
+      },
+      "https://cinefreak.net/motu-patlu-the-case-of-project-x-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658793+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658793+00:00"
+      },
+      "https://cinefreak.net/chikoo-aur-bunty-siblings-not-allowed-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658798+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658798+00:00"
+      },
+      "https://cinefreak.net/motu-patlu-vs-the-ghost-house-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658803+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658803+00:00"
+      },
+      "https://cinefreak.net/inspector-avinash-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658808+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658808+00:00"
+      },
+      "https://cinefreak.net/sangamarmar-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-05T19:10:26.658813+00:00",
+        "retry_after_epoch": 1793949026,
+        "retry_after": "2026-11-06T07:10:26.658813+00:00"
       }
     },
     "English Movies": {
