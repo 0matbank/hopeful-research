@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 26,
-    "last_updated": "2026-11-05 | 03:58:08 (UTC)",
+    "total_movies": 20,
+    "last_updated": "2026-11-05 | 06:54:24 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -163,45 +163,15 @@
         },
         {
           "season": "S01",
-          "episode": "Episode 09-12",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 13-16",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 17-20",
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
-          "episode": "Episode 21-24",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
           "episode": "Episode 25-28",
           "resolution": "HD 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 29-32",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 33-36",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
@@ -214,18 +184,6 @@
           "episode": "Episode 41-44",
           "resolution": "HD 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 45-48",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 49-52",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
         },
         {
           "season": "S01",
@@ -289,23 +247,6 @@
       ]
     },
     {
-      "name": "Mollywood Times",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
-      "source_url": "https://cinefreak.net/mollywood-times-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Tavvai",
       "category": "Disney Hotstar",
       "year": "2026",
@@ -315,34 +256,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "One Two Cha Cha Chaa",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
-      "source_url": "https://cinefreak.net/one-two-cha-cha-chaa-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20One%20Two%20Cha%20Cha%20Chaa%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Part-Timers",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9afI4ZAcSmPBAcRvDew3FxmjqJy.jpg",
-      "source_url": "https://cinefreak.net/part-timers-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 09-12",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
@@ -482,40 +395,6 @@
       ]
     },
     {
-      "name": "MobLand",
-      "category": "Disney Hotstar",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
-      "source_url": "https://cinefreak.net/mobland-2025-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 01-05",
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 06-10",
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Motu Patlu & The Madness Of Multiverse",
-      "category": "Disney Hotstar",
-      "year": "2025",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Madness-Of-Multiverse-2025.jpg",
-      "source_url": "https://cinefreak.net/motu-patlu-the-madness-of-multiverse-2025-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "Zootopia 2",
       "category": "Disney Hotstar",
       "year": "2025",
@@ -525,19 +404,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Zootopia%202%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Neru",
-      "category": "Disney Hotstar",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM0KzatdBj1AebrMaRLbiKuYcLU.jpg",
-      "source_url": "https://cinefreak.net/neru-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
         }
       ]
     },

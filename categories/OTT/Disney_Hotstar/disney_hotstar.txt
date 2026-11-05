@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 26
-LAST UPDATED: 2026-11-05 | 03:58:08 (UTC)
+TOTAL MOVIES: 20
+LAST UPDATED: 2026-11-05 | 06:54:24 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -136,94 +136,59 @@ Episode: Episode 05-08
   Link-2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
-Episode: Episode 09-12
-  Resolution-3: HD 1080P
-  Link-3: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 13-16
-  Resolution-4: HD 1080P
-  Link-4: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
 Episode: Episode 17-20
-  Resolution-5: HD 1080P
-  Link-5: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 21-24
-  Resolution-6: HD 1080P
-  Link-6: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E21-24%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 25-28
-  Resolution-7: HD 1080P
-  Link-7: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 29-32
-  Resolution-8: HD 1080P
-  Link-8: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 33-36
-  Resolution-9: HD 1080P
-  Link-9: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-4: HD 1080P
+  Link-4: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E25-28%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 37-40
-  Resolution-10: HD 1080P
-  Link-10: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-5: HD 1080P
+  Link-5: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 41-44
-  Resolution-11: HD 1080P
-  Link-11: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 45-48
-  Resolution-12: HD 1080P
-  Link-12: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 49-52
-  Resolution-13: HD 1080P
-  Link-13: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-6: HD 1080P
+  Link-6: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 53-56
-  Resolution-14: HD 1080P
-  Link-14: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-7: HD 1080P
+  Link-7: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 57-60
-  Resolution-15: HD 1080P
-  Link-15: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-8: HD 1080P
+  Link-8: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 69-72
-  Resolution-16: HD 1080P
-  Link-16: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E69-72%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-9: HD 1080P
+  Link-9: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E69-72%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 77-80
-  Resolution-17: HD 1080P
-  Link-17: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-10: HD 1080P
+  Link-10: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E77-80%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 85-88
-  Resolution-18: HD 1080P
-  Link-18: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E85-88%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-11: HD 1080P
+  Link-11: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E85-88%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 89-92
-  Resolution-19: HD 1080P
-  Link-19: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E89-92%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-12: HD 1080P
+  Link-12: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E89-92%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 93-96
-  Resolution-20: HD 1080P
-  Link-20: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E93-96%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-13: HD 1080P
+  Link-13: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E93-96%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -242,20 +207,6 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-7
-Movie name: Mollywood Times
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
-
-RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-8
 Movie name: Tavvai
 Category: Disney Hotstar
 Year: 2026
@@ -266,31 +217,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
-Movie name: One Two Cha Cha Chaa
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20One%20Two%20Cha%20Cha%20Chaa%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-10
-Show name: Part-Timers
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9afI4ZAcSmPBAcRvDew3FxmjqJy.jpg
-
-Season: S01
-Episode: Episode 09-12
-  Resolution-1: HD 1080P
-  Link-1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Part-Timers%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-11
+Movie-8
 Show name: 108 Base Hospital Uri
 Category: Disney Hotstar
 Year: 2026
@@ -303,7 +230,7 @@ Episode: Episode 07
 
 ================================================================================
 
-Movie-12
+Movie-9
 Movie name: Welcome To The Jungle
 Category: Disney Hotstar
 Year: 2026
@@ -314,7 +241,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-10
 Movie name: Sathi Leelavathi
 Category: Disney Hotstar
 Year: 2026
@@ -328,7 +255,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
+Movie-11
 Show name: The Court
 Category: Disney Hotstar
 Year: 2026
@@ -341,7 +268,7 @@ Episode: Episode 05-08
 
 ================================================================================
 
-Movie-15
+Movie-12
 Movie name: Star Wars: The Mandalorian And Grogu
 Category: Disney Hotstar
 Year: 2026
@@ -352,7 +279,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
+Movie-13
 Show name: Daredevil: Born Again
 Category: Disney Hotstar
 Year: 2026
@@ -365,7 +292,7 @@ Episode: Episode 08
 
 ================================================================================
 
-Movie-17
+Movie-14
 Movie name: Thaai Kizhavi
 Category: Disney Hotstar
 Year: 2026
@@ -376,7 +303,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-15
 Show name: The Madison
 Category: Disney Hotstar
 Year: 2026
@@ -394,7 +321,7 @@ Episode: Episode 05
 
 ================================================================================
 
-Movie-19
+Movie-16
 Movie name: Dog 51
 Category: Disney Hotstar
 Year: 2025
@@ -405,36 +332,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-20
-Show name: MobLand
-Category: Disney Hotstar
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg
-
-Season: S01
-Episode: Episode 01-05
-  Resolution-1: HD 1080P
-  Link-1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E01-05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 06-10
-  Resolution-2: HD 1080P
-  Link-2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20MobLand%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-21
-Movie name: Motu Patlu & The Madness Of Multiverse
-Category: Disney Hotstar
-Year: 2025
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Motu-Patlu-The-Madness-Of-Multiverse-2025.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20&%20The%20Madness%20Of%20Multiverse%20%282025%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
-
-================================================================================
-
-Movie-22
+Movie-17
 Movie name: Zootopia 2
 Category: Disney Hotstar
 Year: 2025
@@ -445,18 +343,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-23
-Movie name: Neru
-Category: Disney Hotstar
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM0KzatdBj1AebrMaRLbiKuYcLU.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Neru%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-24
+Movie-18
 Movie name: Shiddat
 Category: Disney Hotstar
 Year: 2021
@@ -473,7 +360,7 @@ STREAM Link 3: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-25
+Movie-19
 Movie name: Shiva The Tiny Men From Mountain
 Category: Disney Hotstar
 Year: 2019
@@ -484,7 +371,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-26
+Movie-20
 Movie name: WALL·E
 Category: Disney Hotstar
 Year: 2008
