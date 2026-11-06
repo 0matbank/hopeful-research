@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 33,
-    "last_updated": "2026-11-05 | 23:41:24 (UTC)",
+    "total_movies": 23,
+    "last_updated": "2026-11-06 | 06:54:11 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -106,32 +106,6 @@
       ]
     },
     {
-      "name": "Moana",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "source_url": "https://cinefreak.net/moana-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Moana%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "In The Grey",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-      "source_url": "https://cinefreak.net/in-the-grey-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20In%20the%20Grey%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Stand Your Ground",
       "category": "English Movies",
       "year": "2025",
@@ -145,23 +119,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Last Days",
-      "category": "English Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kg0FHevBu2SiSa3i9DtOxSa1vNr.jpg",
-      "source_url": "https://cinefreak.net/last-days-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Last%20Days%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Last%20Days%20%282025%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -188,53 +145,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Parthenope%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "John Wick: Chapter 4",
-      "category": "English Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
-      "source_url": "https://cinefreak.net/john-wick-chapter-4-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%204%20%282023%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%204%20%282023%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Gold",
-      "category": "English Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu8IwL6q8y7Mi016Uios7LXz0hc.jpg",
-      "source_url": "https://cinefreak.net/gold-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Gold%20%282022%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Fatale",
-      "category": "English Movies",
-      "year": "2020",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg",
-      "source_url": "https://cinefreak.net/fatale-2020-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Fatale%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -278,23 +188,6 @@
       ]
     },
     {
-      "name": "John Wick: Chapter 3",
-      "category": "English Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
-      "source_url": "https://cinefreak.net/john-wick-chapter-3-parabellum-2019-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Stronger",
       "category": "English Movies",
       "year": "2017",
@@ -308,36 +201,6 @@
       ]
     },
     {
-      "name": "John Wick: Chapter 2",
-      "category": "English Movies",
-      "year": "2017",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
-      "source_url": "https://cinefreak.net/john-wick-chapter-2-2017-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20John%20Wick%20Chapter%202%20%282017%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Lady Bloodfight",
-      "category": "English Movies",
-      "year": "2016",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZzETrYegrB6pYpHKKzdwux6Km.jpg",
-      "source_url": "https://cinefreak.net/lady-bloodfight-2016-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Lady%20Bloodfight%20%282016%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Need For Speed",
       "category": "English Movies",
       "year": "2014",
@@ -347,19 +210,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Monster Beach",
-      "category": "English Movies",
-      "year": "2014",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAsdqTDDZdMR2rNtV9DANA722zt.jpg",
-      "source_url": "https://cinefreak.net/monster-beach-2014-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Monster%20Beach%20%282014%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
         }
       ]
     },
