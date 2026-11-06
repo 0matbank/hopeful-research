@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-11-03T16:18:44.927180+00:00",
-      "next_retry_at": "2026-11-06T16:18:44.927202+00:00",
-      "attempt_count": 16
+      "last_attempt": "2026-11-06T21:32:33.353948+00:00",
+      "next_retry_at": "2026-11-09T21:32:33.353966+00:00",
+      "attempt_count": 17
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -17463,7 +17463,329 @@
       "last_attempt": "2026-11-06T15:58:05.105335+00:00",
       "next_retry_at": "2026-11-06T21:58:05.105336+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/young-washington-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/young-washington-2026-full-movie-download",
+      "movie": {
+        "name": "Young Washington",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "source_url": "https://cinefreak.net/young-washington-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Young%20Washington%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Young%20Washington%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.198843+00:00",
+      "last_attempt": "2026-11-06T21:32:45.198861+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.198863+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/to-the-max-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/to-the-max-2026-full-movie-download",
+      "movie": {
+        "name": "To The Max",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PGFmwhZWPkQs4nZVRpxa7o3K5o.jpg",
+        "source_url": "https://cinefreak.net/to-the-max-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20To%20The%20Max%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20To%20The%20Max%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.199094+00:00",
+      "last_attempt": "2026-11-06T21:32:45.199097+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.199099+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/toy-story-4-2019-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/toy-story-4-2019-full-movie-download",
+      "movie": {
+        "name": "Toy Story 4",
+        "category": "English Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+        "source_url": "https://cinefreak.net/toy-story-4-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.199214+00:00",
+      "last_attempt": "2026-11-06T21:32:45.199215+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.199217+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-secret-life-of-pets-2-2019-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-secret-life-of-pets-2-2019-full-movie-download",
+      "movie": {
+        "name": "The Secret Life Of Pets 2",
+        "category": "English Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
+        "source_url": "https://cinefreak.net/the-secret-life-of-pets-2-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.199289+00:00",
+      "last_attempt": "2026-11-06T21:32:45.199290+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.199291+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/stronger-2017-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/stronger-2017-full-movie-download",
+      "movie": {
+        "name": "Stronger",
+        "category": "English Movies",
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg",
+        "source_url": "https://cinefreak.net/stronger-2017-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Stronger%20%282017%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Stronger%20%282017%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.199358+00:00",
+      "last_attempt": "2026-11-06T21:32:45.199359+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.199360+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-prestige-2006-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-prestige-2006-full-movie-download",
+      "movie": {
+        "name": "The Prestige",
+        "category": "English Movies",
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+        "source_url": "https://cinefreak.net/the-prestige-2006-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.199426+00:00",
+      "last_attempt": "2026-11-06T21:32:45.199427+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.199428+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/toy-story-1995-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/toy-story-1995-full-movie-download",
+      "movie": {
+        "name": "Toy Story",
+        "category": "English Movies",
+        "year": "1995",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+        "source_url": "https://cinefreak.net/toy-story-1995-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.199494+00:00",
+      "last_attempt": "2026-11-06T21:32:45.199495+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.199496+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-sound-of-music-1965-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-sound-of-music-1965-full-movie-download",
+      "movie": {
+        "name": "The Sound Of Music",
+        "category": "English Movies",
+        "year": "1965",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+        "source_url": "https://cinefreak.net/the-sound-of-music-1965-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:45.199558+00:00",
+      "last_attempt": "2026-11-06T21:32:45.199560+00:00",
+      "next_retry_at": "2026-11-07T03:32:45.199561+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/aroopi-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/aroopi-2026-full-movie-download",
+      "movie": {
+        "name": "Aroopi",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+        "source_url": "https://cinefreak.net/aroopi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:52.950752+00:00",
+      "last_attempt": "2026-11-06T21:32:52.950778+00:00",
+      "next_retry_at": "2026-11-07T03:32:52.950780+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/achyuta-avataaram-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/achyuta-avataaram-2026-full-movie-download",
+      "movie": {
+        "name": "Achyuta Avataaram",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH5QDBV55imyvC31MMdxTtHUT6t.jpg",
+        "source_url": "https://cinefreak.net/achyuta-avataaram-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:52.951025+00:00",
+      "last_attempt": "2026-11-06T21:32:52.951028+00:00",
+      "next_retry_at": "2026-11-07T03:32:52.951029+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/7-dogs-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/7-dogs-2026-full-movie-download",
+      "movie": {
+        "name": "7 Dogs",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
+        "source_url": "https://cinefreak.net/7-dogs-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:52.951183+00:00",
+      "last_attempt": "2026-11-06T21:32:52.951185+00:00",
+      "next_retry_at": "2026-11-07T03:32:52.951186+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/45-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/45-2025-full-movie-download",
+      "movie": {
+        "name": "45",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg",
+        "source_url": "https://cinefreak.net/45-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:52.951289+00:00",
+      "last_attempt": "2026-11-06T21:32:52.951291+00:00",
+      "next_retry_at": "2026-11-07T03:32:52.951292+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/aarata-2024-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/aarata-2024-full-movie-download",
+      "movie": {
+        "name": "Aarata",
+        "category": "Hindi Dubbed Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPZV8segFQe3Dn7pTfmMOLxDMyn.jpg",
+        "source_url": "https://cinefreak.net/aarata-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aarata%20%282024%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aarata%20%282024%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T21:32:52.951382+00:00",
+      "last_attempt": "2026-11-06T21:32:52.951383+00:00",
+      "next_retry_at": "2026-11-07T03:32:52.951384+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-06T15:58:05.119123+00:00"
+  "updated_at": "2026-11-06T21:32:52.962599+00:00"
 }

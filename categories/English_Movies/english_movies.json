@@ -1,37 +1,11 @@
 {
   "category_info": {
     "category_name": "English Movies",
-    "total_movies": 13,
-    "last_updated": "2026-11-06 | 15:58:05 (UTC)",
+    "total_movies": 5,
+    "last_updated": "2026-11-06 | 21:32:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
-    {
-      "name": "Young Washington",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-      "source_url": "https://cinefreak.net/young-washington-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Young%20Washington%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "To The Max",
-      "category": "English Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PGFmwhZWPkQs4nZVRpxa7o3K5o.jpg",
-      "source_url": "https://cinefreak.net/to-the-max-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20To%20The%20Max%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
     {
       "name": "Drawn Together",
       "category": "English Movies",
@@ -89,58 +63,6 @@
       ]
     },
     {
-      "name": "Toy Story 4",
-      "category": "English Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
-      "source_url": "https://cinefreak.net/toy-story-4-2019-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Secret Life Of Pets 2",
-      "category": "English Movies",
-      "year": "2019",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
-      "source_url": "https://cinefreak.net/the-secret-life-of-pets-2-2019-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Stronger",
-      "category": "English Movies",
-      "year": "2017",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg",
-      "source_url": "https://cinefreak.net/stronger-2017-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Stronger%20%282017%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Prestige",
-      "category": "English Movies",
-      "year": "2006",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
-      "source_url": "https://cinefreak.net/the-prestige-2006-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Hitch",
       "category": "English Movies",
       "year": "2005",
@@ -150,32 +72,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Toy Story",
-      "category": "English Movies",
-      "year": "1995",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
-      "source_url": "https://cinefreak.net/toy-story-1995-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Sound Of Music",
-      "category": "English Movies",
-      "year": "1965",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
-      "source_url": "https://cinefreak.net/the-sound-of-music-1965-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
         }
       ]
     }

@@ -1,33 +1,11 @@
 ================================================================================
 CATEGORY: English Movies
-TOTAL MOVIES: 13
-LAST UPDATED: 2026-11-06 | 15:58:05 (UTC)
+TOTAL MOVIES: 5
+LAST UPDATED: 2026-11-06 | 21:32:45 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Movie name: Young Washington
-Category: English Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Young%20Washington%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-2
-Movie name: To The Max
-Category: English Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PGFmwhZWPkQs4nZVRpxa7o3K5o.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20To%20The%20Max%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-3
 Movie name: Drawn Together
 Category: English Movies
 Year: 2026
@@ -41,7 +19,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-4
+Movie-2
 Movie name: Stand Your Ground
 Category: English Movies
 Year: 2025
@@ -52,7 +30,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-5
+Movie-3
 Movie name: President Down
 Category: English Movies
 Year: 2025
@@ -63,7 +41,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
+Movie-4
 Movie name: The Invisible Man
 Category: English Movies
 Year: 2020
@@ -74,51 +52,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
-Movie name: Toy Story 4
-Category: English Movies
-Year: 2019
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-8
-Movie name: The Secret Life Of Pets 2
-Category: English Movies
-Year: 2019
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xg4V5EDKiphgIksVJ9gewBM11.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-9
-Movie name: Stronger
-Category: English Movies
-Year: 2017
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnkxdFeY7YAgnicxkvwuxY7gVaT.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Stronger%20%282017%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-10
-Movie name: The Prestige
-Category: English Movies
-Year: 2006
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-11
+Movie-5
 Movie name: Hitch
 Category: English Movies
 Year: 2005
@@ -126,28 +60,6 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3W9H3nhGQbWSlyI8Amp2F6Z
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-12
-Movie name: Toy Story
-Category: English Movies
-Year: 1995
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-13
-Movie name: The Sound Of Music
-Category: English Movies
-Year: 1965
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv
 
 ================================================================================
 

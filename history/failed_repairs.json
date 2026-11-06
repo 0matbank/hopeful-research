@@ -3234,10 +3234,10 @@
     "name": "Achyuta Avataaram",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Achyuta%20Avataaram%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-14T07:42:16.319933+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-06T21:32:48.327934+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::chennailovestory": {
     "name": "Chennai Love Story",
@@ -7116,6 +7116,116 @@
       "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-06T15:58:04.958244+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::youngwashington": {
+    "name": "Young Washington",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Young%20Washington%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:35.398743+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::tothemax": {
+    "name": "To The Max",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20To%20The%20Max%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:36.181750+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::toystory4": {
+    "name": "Toy Story 4",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%204%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:37.584190+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::thesecretlifeofpets2": {
+    "name": "The Secret Life Of Pets 2",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Secret%20Life%20of%20Pets%202%20%282019%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:39.189242+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::stronger": {
+    "name": "Stronger",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Stronger%20%282017%29%20BluRay%20%5BEnglish%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:40.700567+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::theprestige": {
+    "name": "The Prestige",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Prestige%20%282006%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:42.132135+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::toystory": {
+    "name": "Toy Story",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Toy%20Story%20%281995%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:43.538189+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::thesoundofmusic": {
+    "name": "The Sound Of Music",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Sound%20of%20Music%20%281965%29%20BluRay%20%5BEnglish%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:45.079794+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::aroopi": {
+    "name": "Aroopi",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aroopi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:46.971916+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::7dogs": {
+    "name": "7 Dogs",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p%20HEVC.mkv",
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%207%20Dogs%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:49.877041+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::45": {
+    "name": "45",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:51.379452+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::aarata": {
+    "name": "Aarata",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aarata%20%282024%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-06T21:32:52.831309+00:00",
     "attempt_count": 1
   }
 }
