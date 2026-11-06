@@ -243,9 +243,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chris%20Hemsworth%20A%20Road%20Trip%20to%20Remember%20%282025%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898608+00:00",
-      "last_attempt": "2026-10-30T19:26:41.882678+00:00",
-      "next_retry_at": "2026-11-02T19:26:41.882696+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-11-06T15:57:48.333873+00:00",
+      "next_retry_at": "2026-11-09T15:57:48.333889+00:00",
+      "attempt_count": 10
     },
     "disneyhotstar::https://cinefreak.net/expedition-amazon-2024-full-movie-download": {
       "category": "Disney Hotstar",
@@ -17203,7 +17203,267 @@
       "last_attempt": "2026-11-06T06:54:11.235414+00:00",
       "next_retry_at": "2026-11-06T12:54:11.235415+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/night-nurse-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/night-nurse-2026-full-movie-download",
+      "movie": {
+        "name": "Night Nurse",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
+        "source_url": "https://cinefreak.net/night-nurse-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Night%20Nurse%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Night%20Nurse%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.103469+00:00",
+      "last_attempt": "2026-11-06T15:58:05.103484+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.103489+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/my-best-friend-his-girlfriend-and-me-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/my-best-friend-his-girlfriend-and-me-2026-full-movie-download",
+      "movie": {
+        "name": "My Best Friend, His Girlfriend And Me",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+        "source_url": "https://cinefreak.net/my-best-friend-his-girlfriend-and-me-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20My%20Best%20Friend%20His%20Girlfriend%20and%20Me%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20My%20Best%20Friend%20His%20Girlfriend%20and%20Me%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.103749+00:00",
+      "last_attempt": "2026-11-06T15:58:05.103755+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.103757+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/sidelined-2-intercepted-2025-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/sidelined-2-intercepted-2025-full-movie-download",
+      "movie": {
+        "name": "The Bad Boy And Me 2",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+        "source_url": "https://cinefreak.net/sidelined-2-intercepted-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Bad%20Boy%20And%20Me%202%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Bad%20Boy%20And%20Me%202%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.103921+00:00",
+      "last_attempt": "2026-11-06T15:58:05.103926+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.103928+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/paw-patrol-the-dino-movie-2026-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/paw-patrol-the-dino-movie-2026-full-movie-download",
+      "movie": {
+        "name": "PAW Patrol: The Dino Movie",
+        "category": "English Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+        "source_url": "https://cinefreak.net/paw-patrol-the-dino-movie-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20PAW%20Patrol%20The%20Dino%20Movie%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.104084+00:00",
+      "last_attempt": "2026-11-06T15:58:05.104088+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.104090+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/parthenope-2024-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/parthenope-2024-full-movie-download",
+      "movie": {
+        "name": "18+ Parthenope",
+        "category": "English Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3BL39ca5pliALDTzUdC9ZIB9gk.jpg",
+        "source_url": "https://cinefreak.net/parthenope-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Parthenope%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Parthenope%20%282024%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.104303+00:00",
+      "last_attempt": "2026-11-06T15:58:05.104308+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.104310+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/need-for-speed-2014-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/need-for-speed-2014-full-movie-download",
+      "movie": {
+        "name": "Need For Speed",
+        "category": "English Movies",
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/45D153Bk0bNwonV1w5IBBvqssPV.jpg",
+        "source_url": "https://cinefreak.net/need-for-speed-2014-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Need%20for%20Speed%20%282014%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.104535+00:00",
+      "last_attempt": "2026-11-06T15:58:05.104541+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.104543+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/red-2-2013-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/red-2-2013-full-movie-download",
+      "movie": {
+        "name": "RED 2",
+        "category": "English Movies",
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbksijr6g340yFWRgI4JfwrtM9h.jpg",
+        "source_url": "https://cinefreak.net/red-2-2013-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Red%202%20%282013%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.104776+00:00",
+      "last_attempt": "2026-11-06T15:58:05.104782+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.104784+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/red-2010-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/red-2010-full-movie-download",
+      "movie": {
+        "name": "RED",
+        "category": "English Movies",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg",
+        "source_url": "https://cinefreak.net/red-2010-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Red%20%282010%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.104965+00:00",
+      "last_attempt": "2026-11-06T15:58:05.104970+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.104972+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/reindeer-games-2000-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/reindeer-games-2000-full-movie-download",
+      "movie": {
+        "name": "Reindeer Games",
+        "category": "English Movies",
+        "year": "2000",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y1PedfYWllJVoBbkt9KWLY155v.jpg",
+        "source_url": "https://cinefreak.net/reindeer-games-2000-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Reindeer%20Games%20%282000%29%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.105135+00:00",
+      "last_attempt": "2026-11-06T15:58:05.105139+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.105141+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/rabid-1977-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/rabid-1977-full-movie-download",
+      "movie": {
+        "name": "Rabid",
+        "category": "English Movies",
+        "year": "1977",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIsuIWnvDozlQP4ya6OZEXqDecj.jpg",
+        "source_url": "https://cinefreak.net/rabid-1977-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Rabid%20%281977%29%20Remastered%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-06T15:58:05.105330+00:00",
+      "last_attempt": "2026-11-06T15:58:05.105335+00:00",
+      "next_retry_at": "2026-11-06T21:58:05.105336+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-06T06:54:11.248770+00:00"
+  "updated_at": "2026-11-06T15:58:05.119123+00:00"
 }
