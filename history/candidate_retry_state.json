@@ -471,6 +471,66 @@
         "last_failed_at": "2026-10-23T16:03:20.050457+00:00",
         "retry_after_epoch": 1792814600,
         "retry_after": "2026-10-24T04:03:20.050457+00:00"
+      },
+      "https://cinefreak.net/maya-2024-full-movie-download-2": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905172+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905172+00:00"
+      },
+      "https://cinefreak.net/maya-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905229+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905229+00:00"
+      },
+      "https://cinefreak.net/homecoming-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905243+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905243+00:00"
+      },
+      "https://cinefreak.net/onnyo-basanto-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905253+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905253+00:00"
+      },
+      "https://cinefreak.net/noropishach-ratsasan-2018-bengali-dubbed-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905261+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905261+00:00"
+      },
+      "https://cinefreak.net/winkle-twinkle-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905269+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905269+00:00"
+      },
+      "https://cinefreak.net/cafe-umbrella-2026-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905276+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905276+00:00"
+      },
+      "https://cinefreak.net/secret-hullor-2026-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905283+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905283+00:00"
+      },
+      "https://cinefreak.net/amar-jamai-best-2025-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905289+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905289+00:00"
+      },
+      "https://cinefreak.net/bondhu-chol-2024-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-06T18:38:09.905296+00:00",
+        "retry_after_epoch": 1794033489,
+        "retry_after": "2026-11-07T06:38:09.905296+00:00"
       }
     },
     "Tamil Movies": {
