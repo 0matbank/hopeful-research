@@ -45,9 +45,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-11-03T23:27:15.642045+00:00",
-      "next_retry_at": "2026-11-06T23:27:15.642064+00:00",
-      "attempt_count": 24
+      "last_attempt": "2026-11-07T01:58:16.026027+00:00",
+      "next_retry_at": "2026-11-10T01:58:16.026041+00:00",
+      "attempt_count": 25
     },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -17785,7 +17785,267 @@
       "last_attempt": "2026-11-06T21:32:52.951383+00:00",
       "next_retry_at": "2026-11-07T03:32:52.951384+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download",
+      "movie": {
+        "name": "Chinna Chinna Aasai",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg",
+        "source_url": "https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.700882+00:00",
+      "last_attempt": "2026-11-07T01:58:33.700894+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.700896+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/con-city-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/con-city-2026-full-movie-download",
+      "movie": {
+        "name": "Con City",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+        "source_url": "https://cinefreak.net/con-city-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Con-City%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701167+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701172+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701173+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/dc-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/dc-2026-full-movie-download",
+      "movie": {
+        "name": "DC",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FdB3kXZbQnZVLoOv37by69VS1K.jpg",
+        "source_url": "https://cinefreak.net/dc-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Line-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20DC%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20Line-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701372+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701375+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701391+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/chennai-love-story-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/chennai-love-story-2026-full-movie-download",
+      "movie": {
+        "name": "Chennai Love Story",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hACM25xigqIYeRgylB0epf34hmk.jpg",
+        "source_url": "https://cinefreak.net/chennai-love-story-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701516+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701518+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701519+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/balti-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/balti-2025-full-movie-download",
+      "movie": {
+        "name": "Balti",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIg1yo3hpaytvhkhI61LFLuuQNm.jpg",
+        "source_url": "https://cinefreak.net/balti-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Balti%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701640+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701642+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701643+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/dheeram-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/dheeram-2025-full-movie-download",
+      "movie": {
+        "name": "Dheeram",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/df5IaJtB0dmUkDfOCbr0xkPTXDc.jpg",
+        "source_url": "https://cinefreak.net/dheeram-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dheeram%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701726+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701728+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701729+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/college-kalavida-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/college-kalavida-full-movie-download",
+      "movie": {
+        "name": "College Kalavida",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2T3SryIvH8999SKBZCfJvyWUAL.jpg",
+        "source_url": "https://cinefreak.net/college-kalavida-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20College%20Ka%20Wo%20Din%20College%20Kalavida%20%282025%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20College%20Ka%20Wo%20Din%20College%20Kalavida%20%282025%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701794+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701795+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701796+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/dexter-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/dexter-2025-full-movie-download",
+      "movie": {
+        "name": "Dexter",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jLbZlzNOfHQgD0a1wgtBuscriZ.jpg",
+        "source_url": "https://cinefreak.net/dexter-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Dexter%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Dexter%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701865+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701869+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701871+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/christy-2023-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/christy-2023-full-movie-download",
+      "movie": {
+        "name": "Christy",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg",
+        "source_url": "https://cinefreak.net/christy-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Christy%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.701992+00:00",
+      "last_attempt": "2026-11-07T01:58:33.701995+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.701996+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/big-brother-2020-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/big-brother-2020-full-movie-download",
+      "movie": {
+        "name": "Big Brother",
+        "category": "Hindi Dubbed Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7E9mFsCwm6s5k0akviOIuVIKIU.jpg",
+        "source_url": "https://cinefreak.net/big-brother-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Big%20Brother%20%282020%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T01:58:33.702169+00:00",
+      "last_attempt": "2026-11-07T01:58:33.702172+00:00",
+      "next_retry_at": "2026-11-07T07:58:33.702173+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-06T21:32:52.962599+00:00"
+  "updated_at": "2026-11-07T01:58:33.715211+00:00"
 }
