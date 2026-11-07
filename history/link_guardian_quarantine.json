@@ -267,9 +267,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Expedition%20Amazon%20%282024%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898796+00:00",
-      "last_attempt": "2026-10-31T05:50:29.845234+00:00",
-      "next_retry_at": "2026-11-03T05:50:29.845255+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-11-07T21:55:17.424500+00:00",
+      "next_retry_at": "2026-11-10T21:55:17.424516+00:00",
+      "attempt_count": 9
     },
     "disneyhotstar::https://cinefreak.net/explorer-lake-of-fire-2023-full-movie-download": {
       "category": "Disney Hotstar",
@@ -18570,7 +18570,274 @@
       "last_attempt": "2026-11-07T16:29:22.586164+00:00",
       "next_retry_at": "2026-11-07T22:29:22.586166+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/peddi-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/peddi-2026-full-movie-download",
+      "movie": {
+        "name": "Peddi",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+        "source_url": "https://cinefreak.net/peddi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.569226+00:00",
+      "last_attempt": "2026-11-07T21:55:34.569239+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.569242+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/pallichattambi-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/pallichattambi-2026-full-movie-download",
+      "movie": {
+        "name": "Pallichattambi",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Pallichattambi.jpg",
+        "source_url": "https://cinefreak.net/pallichattambi-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pallichattambi%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.569588+00:00",
+      "last_attempt": "2026-11-07T21:55:34.569595+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.569598+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/parimala-co-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/parimala-co-2026-full-movie-download",
+      "movie": {
+        "name": "Parimala & Co",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
+        "source_url": "https://cinefreak.net/parimala-co-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.569891+00:00",
+      "last_attempt": "2026-11-07T21:55:34.569898+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.569901+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/mollywood-times-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/mollywood-times-2026-full-movie-download",
+      "movie": {
+        "name": "Mollywood Times",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+        "source_url": "https://cinefreak.net/mollywood-times-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Mollywood%20Times%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.570114+00:00",
+      "last_attempt": "2026-11-07T21:55:34.570120+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.570123+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/moda-kavida-vaatavarana-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/moda-kavida-vaatavarana-2026-full-movie-download",
+      "movie": {
+        "name": "Moda Kavida Vaatavarana",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg",
+        "source_url": "https://cinefreak.net/moda-kavida-vaatavarana-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.570284+00:00",
+      "last_attempt": "2026-11-07T21:55:34.570289+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.570291+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-hindi-hq-studio-dub-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-hindi-hq-studio-dub-download",
+      "movie": {
+        "name": "Oru Durooha Saahacharyathil",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsMHfc75OJmdRYKsgJlALDVyMGz.jpg",
+        "source_url": "https://cinefreak.net/oru-durooha-saahacharyathil-2026-full-movie-hindi-hq-studio-dub-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P HEVC",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p%20HEVC.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Oru%20Durooha%20Saahacharyathil%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20%E2%80%93%20HQ%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.570487+00:00",
+      "last_attempt": "2026-11-07T21:55:34.570500+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.570502+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/prince-of-mollywood-2026-full-series-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/prince-of-mollywood-2026-full-series-download",
+      "movie": {
+        "name": "Prince Of Mollywood",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PO7OXg7U6GXTN09hbyGatbQvgB.jpg",
+        "source_url": "https://cinefreak.net/prince-of-mollywood-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Prince%20of%20Mollywood%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Prince%20of%20Mollywood%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.570706+00:00",
+      "last_attempt": "2026-11-07T21:55:34.570711+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.570713+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/pongala-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/pongala-2025-full-movie-download",
+      "movie": {
+        "name": "Pongala",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIQLFOdvrdrjHI31DazP06tp9zp.jpg",
+        "source_url": "https://cinefreak.net/pongala-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pongala%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.570886+00:00",
+      "last_attempt": "2026-11-07T21:55:34.570890+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.570892+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/parking-2023-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/parking-2023-full-movie-download",
+      "movie": {
+        "name": "Parking",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoCp5KcjnMp4FKSrHP3otsdog9l.jpg",
+        "source_url": "https://cinefreak.net/parking-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Parking%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Parking%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Parking%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Parking%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.571079+00:00",
+      "last_attempt": "2026-11-07T21:55:34.571083+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.571085+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/naan-sirithal-2020-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/naan-sirithal-2020-full-movie-download",
+      "movie": {
+        "name": "Naan Sirithal",
+        "category": "Hindi Dubbed Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLV0a7Mod9kyzvRluRi5dWP2An5.jpg",
+        "source_url": "https://cinefreak.net/naan-sirithal-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Naan%20Sirithal%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T21:55:34.571255+00:00",
+      "last_attempt": "2026-11-07T21:55:34.571259+00:00",
+      "next_retry_at": "2026-11-08T03:55:34.571261+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-07T16:29:22.601815+00:00"
+  "updated_at": "2026-11-07T21:55:34.585471+00:00"
 }
