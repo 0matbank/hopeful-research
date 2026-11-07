@@ -591,6 +591,66 @@
         "last_failed_at": "2026-11-07T03:30:32.544822+00:00",
         "retry_after_epoch": 1794065432,
         "retry_after": "2026-11-07T15:30:32.544822+00:00"
+      },
+      "https://cinefreak.net/daagi-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761503+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761503+00:00"
+      },
+      "https://cinefreak.net/perk-chaapless-champion-2022-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761551+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761551+00:00"
+      },
+      "https://cinefreak.net/pujor-pleasant-surprise-2022-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761561+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761561+00:00"
+      },
+      "https://cinefreak.net/robibarer-pujor-bazar-2022-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761567+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761567+00:00"
+      },
+      "https://cinefreak.net/koshtoneer-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761572+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761572+00:00"
+      },
+      "https://cinefreak.net/searching-for-happiness-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761579+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761579+00:00"
+      },
+      "https://cinefreak.net/bhasan-2020-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761584+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761584+00:00"
+      },
+      "https://cinefreak.net/dugga-2020-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761588+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761588+00:00"
+      },
+      "https://cinefreak.net/i-am-joyita-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761593+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761593+00:00"
+      },
+      "https://cinefreak.net/palok-2020-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-07T17:05:39.761597+00:00",
+        "retry_after_epoch": 1794114339,
+        "retry_after": "2026-11-08T05:05:39.761597+00:00"
       }
     },
     "Tamil Movies": {
