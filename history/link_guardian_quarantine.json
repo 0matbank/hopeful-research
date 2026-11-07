@@ -123,9 +123,9 @@
         "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
-      "last_attempt": "2026-11-04T16:22:15.790111+00:00",
-      "next_retry_at": "2026-11-07T16:22:15.790128+00:00",
-      "attempt_count": 14
+      "last_attempt": "2026-11-07T16:29:06.417293+00:00",
+      "next_retry_at": "2026-11-10T16:29:06.417312+00:00",
+      "attempt_count": 15
     },
     "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -18310,7 +18310,267 @@
       "last_attempt": "2026-11-07T08:51:37.215887+00:00",
       "next_retry_at": "2026-11-07T14:51:37.215888+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/maa-inti-bangaram-2026-hindi-hq-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/maa-inti-bangaram-2026-hindi-hq-full-movie-download",
+      "movie": {
+        "name": "Maa Inti Bangaram",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSRIxnizjINdc7Dy68HQRkcPSR2.jpg",
+        "source_url": "https://cinefreak.net/maa-inti-bangaram-2026-hindi-hq-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P HEVC",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p%20HEVC.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p%20HEVC.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Maa%20Inti%20Bangaram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.584300+00:00",
+      "last_attempt": "2026-11-07T16:29:22.584312+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.584315+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/karakkam-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/karakkam-2026-full-movie-download",
+      "movie": {
+        "name": "Karakkam",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VcyNtLTfTynrJXKedTgP5cB5sh.jpg",
+        "source_url": "https://cinefreak.net/karakkam-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Karakkam%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.584622+00:00",
+      "last_attempt": "2026-11-07T16:29:22.584631+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.584635+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/kd-the-devil-2026-fan-dubbed-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/kd-the-devil-2026-fan-dubbed-full-movie-download",
+      "movie": {
+        "name": "KD – The Devil",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+        "source_url": "https://cinefreak.net/kd-the-devil-2026-fan-dubbed-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20KD-The%20Devil%20%282026%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20KD-The%20Devil%20%282026%29%20WEB-DL%20%5BHindi%20HQ%20Dub%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.584831+00:00",
+      "last_attempt": "2026-11-07T16:29:22.584836+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.584839+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/m-r-p-neekentha-naakentha-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/m-r-p-neekentha-naakentha-full-movie-download",
+      "movie": {
+        "name": "M.R.P",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w500/yNf3kFRSO7ojLDJUA5iOtHYPLQF.jpg",
+        "source_url": "https://cinefreak.net/m-r-p-neekentha-naakentha-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20MRP%20Neekentha%20Naakentha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20MRP%20Neekentha%20Naakentha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20MRP%20Neekentha%20Naakentha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20MRP%20Neekentha%20Naakentha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.585021+00:00",
+      "last_attempt": "2026-11-07T16:29:22.585026+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.585028+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/lenin-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/lenin-2026-full-movie-download",
+      "movie": {
+        "name": "Lenin",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+        "source_url": "https://cinefreak.net/lenin-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.585208+00:00",
+      "last_attempt": "2026-11-07T16:29:22.585212+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.585214+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/im-game-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/im-game-2026-full-movie-download",
+      "movie": {
+        "name": "I'm Game",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg",
+        "source_url": "https://cinefreak.net/im-game-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20I%E2%80%99m%20Game%20%282026%29%20HDTC%20%5BHindi%20LiNE-Malayalam%5D%201080p%20HEVC.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20I%E2%80%99m%20Game%20%282026%29%20HDTC%20%5BHindi%20LiNE-Malayalam%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20I%E2%80%99m%20Game%20%282026%29%20HDTC%20%5BHindi%20LiNE-Malayalam%5D%201080p%20HEVC.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20I%E2%80%99m%20Game%20%282026%29%20HDTC%20%5BHindi%20LiNE-Malayalam%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.585378+00:00",
+      "last_attempt": "2026-11-07T16:29:22.585382+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.585384+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/kadina-kadoramee-andakadaham-2023-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/kadina-kadoramee-andakadaham-2023-full-movie-download",
+      "movie": {
+        "name": "Kadina Kadoramee Andakadaham",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeyVlSv6ouJkCYQ7Gg5n2qAftjq.jpg",
+        "source_url": "https://cinefreak.net/kadina-kadoramee-andakadaham-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kadina%20Kadoramee%20Andakadaham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kadina%20Kadoramee%20Andakadaham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.585660+00:00",
+      "last_attempt": "2026-11-07T16:29:22.585666+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.585668+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/ini-utharam-2022-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/ini-utharam-2022-full-movie-download",
+      "movie": {
+        "name": "Ini Utharam",
+        "category": "Hindi Dubbed Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82X4cXmEYncGDDv7cvogdoYsAo4.jpg",
+        "source_url": "https://cinefreak.net/ini-utharam-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ini%20Utharam%20%282022%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ini%20Utharam%20%282022%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.585852+00:00",
+      "last_attempt": "2026-11-07T16:29:22.585856+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.585858+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/mafia-2020-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/mafia-2020-full-movie-download",
+      "movie": {
+        "name": "Mafia",
+        "category": "Hindi Dubbed Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukaXSfyN1RoTKQ34YgjyBOd4ZhQ.jpg",
+        "source_url": "https://cinefreak.net/mafia-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mafia%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.586013+00:00",
+      "last_attempt": "2026-11-07T16:29:22.586018+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.586019+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/khushi-2001-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/khushi-2001-full-movie-download",
+      "movie": {
+        "name": "Khushi",
+        "category": "Hindi Dubbed Movies",
+        "year": "2001",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/of4y70hwpWBCRKbfcsQMG6eg7jW.jpg",
+        "source_url": "https://cinefreak.net/khushi-2001-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kushi%20%282001%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kushi%20%282001%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-07T16:29:22.586160+00:00",
+      "last_attempt": "2026-11-07T16:29:22.586164+00:00",
+      "next_retry_at": "2026-11-07T22:29:22.586166+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-07T08:51:37.229780+00:00"
+  "updated_at": "2026-11-07T16:29:22.601815+00:00"
 }
