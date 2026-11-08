@@ -291,9 +291,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Explorer%20Lake%20of%20Fire%20%282022%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898950+00:00",
-      "last_attempt": "2026-11-01T18:58:50.419252+00:00",
-      "next_retry_at": "2026-11-04T18:58:50.419264+00:00",
-      "attempt_count": 8
+      "last_attempt": "2026-11-08T22:10:57.853462+00:00",
+      "next_retry_at": "2026-11-11T22:10:57.853486+00:00",
+      "attempt_count": 9
     },
     "englishmovies::https://cinefreak.net/coma-2020-full-movie-download": {
       "category": "English Movies",
@@ -19540,7 +19540,273 @@
       "last_attempt": "2026-11-08T16:42:46.073863+00:00",
       "next_retry_at": "2026-11-08T22:42:46.073865+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/hai-jawani-toh-ishq-hona-hai-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/hai-jawani-toh-ishq-hona-hai-2026-full-movie-download",
+      "movie": {
+        "name": "Hai Jawani Toh Ishq Hona Hai",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+        "source_url": "https://cinefreak.net/hai-jawani-toh-ishq-hona-hai-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.048503+00:00",
+      "last_attempt": "2026-11-08T22:11:14.048516+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.048518+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/ek-din-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/ek-din-2026-full-movie-download",
+      "movie": {
+        "name": "Ek Din",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
+        "source_url": "https://cinefreak.net/ek-din-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ek%20Din%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.048771+00:00",
+      "last_attempt": "2026-11-08T22:11:14.048776+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.048778+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/ikka-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/ikka-2026-full-movie-download",
+      "movie": {
+        "name": "Ikka",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y35NPzuvfIbPQyhwnV4dBTqS76h.jpg",
+        "source_url": "https://cinefreak.net/ikka-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ikka%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ikka%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.048894+00:00",
+      "last_attempt": "2026-11-08T22:11:14.048897+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.048899+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/cocktail-2-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/cocktail-2-2026-full-movie-download",
+      "movie": {
+        "name": "Cocktail 2",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRmPnUAhHHiDJPfNGLP8ikoc5cx.jpg",
+        "source_url": "https://cinefreak.net/cocktail-2-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cocktail%202%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.049036+00:00",
+      "last_attempt": "2026-11-08T22:11:14.049039+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.049041+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/im-not-an-actor-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/im-not-an-actor-2026-full-movie-download",
+      "movie": {
+        "name": "Main Actor Nahin Hoon",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbLlCM9aaL6kM2bBLzkBBgR7gpE.jpg",
+        "source_url": "https://cinefreak.net/im-not-an-actor-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Main%20Actor%20Nahin%20Hoon%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Main%20Actor%20Nahin%20Hoon%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Main%20Actor%20Nahin%20Hoon%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Main%20Actor%20Nahin%20Hoon%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.049217+00:00",
+      "last_attempt": "2026-11-08T22:11:14.049221+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.049223+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/hathras-2026-full-series-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/hathras-2026-full-series-download",
+      "movie": {
+        "name": "Hathras",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Hathras-2026-.jpg",
+        "source_url": "https://cinefreak.net/hathras-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Hathras%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Hathras%20%282026%29%20S01%20WEB-DL%20%5BHindi%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.049343+00:00",
+      "last_attempt": "2026-11-08T22:11:14.049346+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.049348+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/dhurandhar-the-revenge-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/dhurandhar-the-revenge-2026-full-movie-download",
+      "movie": {
+        "name": "Dhurandhar: The Revenge",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1dGYCdc8imuQ6LFkd9moc0zaBe.jpg",
+        "source_url": "https://cinefreak.net/dhurandhar-the-revenge-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20The%20Revenge%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20The%20Revenge%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.049448+00:00",
+      "last_attempt": "2026-11-08T22:11:14.049451+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.049453+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/dhurandhar-2025-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/dhurandhar-2025-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Dhurandhar",
+        "category": "Hindi Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/po7U3As6Jp2zG9RopavoZMkdnr1.jpg",
+        "source_url": "https://cinefreak.net/dhurandhar-2025-hindi-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20%282025%29%20Raw%20&%20Uncut%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Dhurandhar%20%282025%29%20Raw%20&%20Uncut%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.049558+00:00",
+      "last_attempt": "2026-11-08T22:11:14.049561+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.049563+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/cocktail-2012-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/cocktail-2012-full-movie-download",
+      "movie": {
+        "name": "Cocktail",
+        "category": "Hindi Movies",
+        "year": "2012",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKImRBNLjn0cBZCnK4KqMUnDaC6.jpg",
+        "source_url": "https://cinefreak.net/cocktail-2012-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Cocktail%20%282012%29%20BluRay%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.049756+00:00",
+      "last_attempt": "2026-11-08T22:11:14.049760+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.049761+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/ghar-dwaar-1985-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/ghar-dwaar-1985-full-movie-download",
+      "movie": {
+        "name": "Ghar Dwaar",
+        "category": "Hindi Movies",
+        "year": "1985",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cW1hqesrSWczwD1gwxtQs8ainA1.jpg",
+        "source_url": "https://cinefreak.net/ghar-dwaar-1985-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ghar%20Dwaar%20%281985%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Ghar%20Dwaar%20%281985%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T22:11:14.049881+00:00",
+      "last_attempt": "2026-11-08T22:11:14.049884+00:00",
+      "next_retry_at": "2026-11-09T04:11:14.049885+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-08T16:42:46.085775+00:00"
+  "updated_at": "2026-11-08T22:11:14.062509+00:00"
 }
