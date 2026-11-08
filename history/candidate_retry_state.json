@@ -2927,6 +2927,66 @@
         "last_failed_at": "2026-10-25T02:01:37.130105+00:00",
         "retry_after_epoch": 1792936897,
         "retry_after": "2026-10-25T14:01:37.130105+00:00"
+      },
+      "https://cinefreak.net/the-handmaiden-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.628989+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.628989+00:00"
+      },
+      "https://cinefreak.net/lady-chatterleys-lover-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629040+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629040+00:00"
+      },
+      "https://cinefreak.net/before-sunrise-1995-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629055+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629055+00:00"
+      },
+      "https://cinefreak.net/sweet-november-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629064+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629064+00:00"
+      },
+      "https://cinefreak.net/the-other-woman-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629072+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629072+00:00"
+      },
+      "https://cinefreak.net/the-odyssey-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629086+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629086+00:00"
+      },
+      "https://cinefreak.net/unprotected-murder-in-galicia-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629097+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629097+00:00"
+      },
+      "https://cinefreak.net/frequency-of-fear-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629107+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629107+00:00"
+      },
+      "https://cinefreak.net/possible-love-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629114+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629114+00:00"
+      },
+      "https://cinefreak.net/leave-the-world-behind-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T02:59:08.629125+00:00",
+        "retry_after_epoch": 1794149948,
+        "retry_after": "2026-11-08T14:59:08.629125+00:00"
       }
     },
     "Hindi Movies": {
