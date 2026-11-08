@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-11-04T23:43:45.772989+00:00",
-      "next_retry_at": "2026-11-07T23:43:45.773007+00:00",
-      "attempt_count": 13
+      "last_attempt": "2026-11-08T01:28:47.745336+00:00",
+      "next_retry_at": "2026-11-11T01:28:47.745353+00:00",
+      "attempt_count": 14
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -18837,7 +18837,233 @@
       "last_attempt": "2026-11-07T21:55:34.571259+00:00",
       "next_retry_at": "2026-11-08T03:55:34.571261+00:00",
       "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/rao-bahadur-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/rao-bahadur-2026-full-movie-download",
+      "movie": {
+        "name": "Rao Bahadur",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+        "source_url": "https://cinefreak.net/rao-bahadur-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Rao%20Bahadur%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.545589+00:00",
+      "last_attempt": "2026-11-08T01:29:03.545602+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.545604+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/pyaar-prema-kalyanam-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/pyaar-prema-kalyanam-2026-full-movie-download",
+      "movie": {
+        "name": "Pyaar Prema Kalyanam",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+        "source_url": "https://cinefreak.net/pyaar-prema-kalyanam-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.545902+00:00",
+      "last_attempt": "2026-11-08T01:29:03.545906+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.545908+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/srinivasa-mangapuram-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/srinivasa-mangapuram-2026-full-movie-download",
+      "movie": {
+        "name": "Srinivasa Mangapuram",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqV5a8SPAP0oW59MzMshIJra3r4.jpg",
+        "source_url": "https://cinefreak.net/srinivasa-mangapuram-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Srinivasa%20Mangapuram%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.546025+00:00",
+      "last_attempt": "2026-11-08T01:29:03.546027+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.546028+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/shanmukha-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/shanmukha-2025-full-movie-download",
+      "movie": {
+        "name": "Shanmukha",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/grGslpP4Qro6Yq8AiizswnxkcCl.jpg",
+        "source_url": "https://cinefreak.net/shanmukha-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Shanmukha%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.546152+00:00",
+      "last_attempt": "2026-11-08T01:29:03.546154+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.546155+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/royal-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/royal-2025-full-movie-download",
+      "movie": {
+        "name": "Royal",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgJRjE2wuw4EQ6RMxttK8uNSvI.jpg",
+        "source_url": "https://cinefreak.net/royal-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.546245+00:00",
+      "last_attempt": "2026-11-08T01:29:03.546247+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.546249+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/sahasam-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/sahasam-2025-full-movie-download",
+      "movie": {
+        "name": "Sahasam",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW2F8OAO3cTBsbvPhhd1YC0OAcw.jpg",
+        "source_url": "https://cinefreak.net/sahasam-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Sahasam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Sahasam%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.546332+00:00",
+      "last_attempt": "2026-11-08T01:29:03.546333+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.546335+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/thank-you-teacher-2023-full-series-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/thank-you-teacher-2023-full-series-download",
+      "movie": {
+        "name": "Thank You Teacher",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BRL2QV1AQqN5yOQsFyODhuih9x.jpg",
+        "source_url": "https://cinefreak.net/thank-you-teacher-2023-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 09-12",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Thank%20You%20Teacher%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 13-16",
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thank%20You%20Teacher%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Thank%20You%20Teacher%20%5BS01E09-12%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thank%20You%20Teacher%20%5BS01E13-16%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.546440+00:00",
+      "last_attempt": "2026-11-08T01:29:03.546442+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.546444+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/sr-kalyanamandapam-2021-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/sr-kalyanamandapam-2021-full-movie-download",
+      "movie": {
+        "name": "SR Kalyanamandapam",
+        "category": "Hindi Dubbed Movies",
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmKT6NrV64MBLLU6y1775lT9kb.jpg",
+        "source_url": "https://cinefreak.net/sr-kalyanamandapam-2021-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20SR%20Kalyanamandapam%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20SR%20Kalyanamandapam%20%282021%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-08T01:29:03.546545+00:00",
+      "last_attempt": "2026-11-08T01:29:03.546546+00:00",
+      "next_retry_at": "2026-11-08T07:29:03.546548+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-07T21:55:34.585471+00:00"
+  "updated_at": "2026-11-08T01:29:03.560058+00:00"
 }
