@@ -2987,6 +2987,66 @@
         "last_failed_at": "2026-11-08T02:59:08.629125+00:00",
         "retry_after_epoch": 1794149948,
         "retry_after": "2026-11-08T14:59:08.629125+00:00"
+      },
+      "https://cinefreak.net/wwe-crown-jewel-2026-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381121+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381121+00:00"
+      },
+      "https://cinefreak.net/sea-of-love-1989-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381213+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381213+00:00"
+      },
+      "https://cinefreak.net/strictly-confidential-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381228+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381228+00:00"
+      },
+      "https://cinefreak.net/devil-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381251+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381251+00:00"
+      },
+      "https://cinefreak.net/kill-me-three-times-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381260+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381260+00:00"
+      },
+      "https://cinefreak.net/misty-green-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381269+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381269+00:00"
+      },
+      "https://cinefreak.net/vampire-carnival-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381278+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381278+00:00"
+      },
+      "https://cinefreak.net/love-story-1970-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381289+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381289+00:00"
+      },
+      "https://cinefreak.net/the-mortal-instruments-city-of-bones-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381298+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381298+00:00"
+      },
+      "https://cinefreak.net/friendzone-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-08T17:19:51.381306+00:00",
+        "retry_after_epoch": 1794201591,
+        "retry_after": "2026-11-09T05:19:51.381306+00:00"
       }
     },
     "Hindi Movies": {
