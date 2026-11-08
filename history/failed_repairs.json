@@ -3869,11 +3869,11 @@
     "name": "Bhooth Bangla",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%20HQ%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20HEVC%20ESub.mkv",
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-16T00:27:12.828734+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-08T16:42:35.334819+00:00",
+    "attempt_count": 2
   },
   "hindimovies::brahmastrapartoneshiva": {
     "name": "Brahmāstra Part One: Shiva",
@@ -5552,10 +5552,10 @@
     "name": "Chand Mera Dil",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Chand%20Mera%20Dil%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Chand%20Mera%20Dil%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-29T23:58:44.389491+00:00",
-    "attempt_count": 2
+    "last_attempt": "2026-11-08T16:42:31.881187+00:00",
+    "attempt_count": 3
   },
   "hindimovies::mainvaapasaaunga": {
     "name": "Main Vaapas Aaunga",
@@ -7458,6 +7458,82 @@
       "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thugs%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-08T09:04:00.256463+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::bhaiterastarhai": {
+    "name": "Bhai Tera Star Hai",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Bhai%20Tera%20Star%20Hai%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:30.048436+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::bharatbhhagyaviddhaata": {
+    "name": "Bharat Bhhagya Viddhaata",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Bharat%20Bhhagya%20Viddhaata%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:33.421379+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::cocaine": {
+    "name": "Cocaine",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:37.075896+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::aliyabasugayabhai": {
+    "name": "Aliya Basu Gayab Hai",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aliya%20Basu%20Gayab%20Hai%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:39.051869+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::article15": {
+    "name": "Article 15",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Article%2015%20%282019%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Article%2015%20%282019%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:40.755421+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::arjunthewarriorprince": {
+    "name": "Arjun: The Warrior Prince",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Arjun%20The%20Warrior%20Prince%20%282012%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:42.550026+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::awarapan": {
+    "name": "Awarapan",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Awarapan%20%282007%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:44.221366+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::aashiq": {
+    "name": "Aashiq",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Aashiq%20%282001%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-08T16:42:45.949744+00:00",
     "attempt_count": 1
   }
 }
