@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 60,
-    "last_updated": "2026-10-29 | 23:58:57 (UTC)",
+    "total_movies": 59,
+    "last_updated": "2026-11-08 | 09:03:49 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -240,14 +240,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Aakhri%20Sawal%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Aakhri%20Sawal%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aakhri%20Sawal%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv"
         }
       ]
     },
@@ -658,19 +650,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mujib%20The%20Making%20of%20a%20Nation%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20HC-ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "420 IPC",
-      "category": "Hindi Movies",
-      "year": "2021",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63JxHmYhVGENCtq5tFYLsnZKHGx.jpg",
-      "source_url": "https://cinefreak.net/420-ipc-2021-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20420%20IPC%20%282021%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

@@ -1,49 +1,11 @@
 {
   "category_info": {
     "category_name": "Hindi Dubbed Movies",
-    "total_movies": 16,
-    "last_updated": "2026-11-08 | 01:29:03 (UTC)",
+    "total_movies": 8,
+    "last_updated": "2026-11-08 | 09:04:02 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
-    {
-      "name": "Uyir",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
-      "source_url": "https://cinefreak.net/uyir-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Rise Of Ashoka",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIt1gkiGrBkHiBJUYIf64gcg32y.jpg",
-      "source_url": "https://cinefreak.net/the-rise-of-ashoka-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
     {
       "name": "Double Occupancy",
       "category": "Hindi Dubbed Movies",
@@ -75,45 +37,6 @@
       ]
     },
     {
-      "name": "The Fingerprint Murders",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w500/27Bws03eofwvOFgiUXcjdSgznCL.jpg",
-      "source_url": "https://cinefreak.net/the-fingerprint-murders-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20The%20Fingerprint%20Murders%20%282026%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Unmadham",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "source_url": "https://cinefreak.net/unmadham-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Unmadham%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Vishwanath & Sons",
-      "category": "Hindi Dubbed Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDDTfzPEE2n6DcVizYUGjyDUz7X.jpg",
-      "source_url": "https://cinefreak.net/vishwanath-sons-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Vishwanath%20and%20Sons%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Maharaja Hostel",
       "category": "Hindi Dubbed Movies",
       "year": "2026",
@@ -123,19 +46,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Maharaja%20Hostel%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Malabar Tales",
-      "category": "Hindi Dubbed Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBOmXwI1NfSgArELWwZvi44K8Il.jpg",
-      "source_url": "https://cinefreak.net/the-malabar-tales-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Malabar%20Tales%20%282025%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -179,19 +89,6 @@
       ]
     },
     {
-      "name": "Thugs",
-      "category": "Hindi Dubbed Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZK0AkM2YT9dNjZfRaNWDu1kkuJ.jpg",
-      "source_url": "https://cinefreak.net/thugs-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Thugs%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Por Thozhil",
       "category": "Hindi Dubbed Movies",
       "year": "2023",
@@ -214,23 +111,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Ghost",
-      "category": "Hindi Dubbed Movies",
-      "year": "2022",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KK3jv8XQPfWBRj9LImQCk0Cmmh.jpg",
-      "source_url": "https://cinefreak.net/the-ghost-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Ghost%20%282022%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
         }
       ]
     }
