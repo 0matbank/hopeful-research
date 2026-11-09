@@ -3409,6 +3409,66 @@
         "last_failed_at": "2026-10-26T18:11:50.580104+00:00",
         "retry_after_epoch": 1793081510,
         "retry_after": "2026-10-27T06:11:50.580104+00:00"
+      },
+      "https://cinefreak.net/junooniyat-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878650+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878650+00:00"
+      },
+      "https://cinefreak.net/b-a-pass-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878702+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878702+00:00"
+      },
+      "https://cinefreak.net/abhyuham-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878714+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878714+00:00"
+      },
+      "https://cinefreak.net/ramayana-rise-of-a-legend-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878721+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878721+00:00"
+      },
+      "https://cinefreak.net/dilwali-diwali-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878728+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878728+00:00"
+      },
+      "https://cinefreak.net/phobia-2016-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878736+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878736+00:00"
+      },
+      "https://cinefreak.net/ajeeb-daastaans-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878742+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878742+00:00"
+      },
+      "https://cinefreak.net/nursery-rhymes-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878750+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878750+00:00"
+      },
+      "https://cinefreak.net/2-crore-ki-shaadi-2025-hindi-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878756+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878756+00:00"
+      },
+      "https://cinefreak.net/love-story-abhimanyu-ki-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T21:42:25.878762+00:00",
+        "retry_after_epoch": 1794303745,
+        "retry_after": "2026-11-10T09:42:25.878762+00:00"
       }
     }
   }
