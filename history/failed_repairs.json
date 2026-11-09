@@ -4156,10 +4156,10 @@
     "name": "Welcome To The Jungle",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-29T23:58:46.302178+00:00",
-    "attempt_count": 2
+    "last_attempt": "2026-11-09T20:47:48.922445+00:00",
+    "attempt_count": 3
   },
   "hindimovies::thevvaan": {
     "name": "The Vvaan",
@@ -5694,10 +5694,11 @@
     "name": "Choo Mantar",
     "category": "Kannada Movies",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-20T11:44:46.938105+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-09T20:47:58.716960+00:00",
+    "attempt_count": 2
   },
   "kannadamovies::sankranthikivasthunam": {
     "name": "Sankranthiki Vasthunam",
@@ -5712,11 +5713,10 @@
     "name": "Bhairathi Ranagal",
     "category": "Kannada Movies",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv",
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-20T11:44:54.046139+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-09T20:48:03.776783+00:00",
+    "attempt_count": 2
   },
   "kannadamovies::martin": {
     "name": "Martin",
@@ -5896,10 +5896,10 @@
     "name": "Tula Pahta",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-24T22:32:17.791201+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-09T20:47:50.471052+00:00",
+    "attempt_count": 2
   },
   "hindimovies::loveinvietnam": {
     "name": "Love In Vietnam",
@@ -7686,6 +7686,80 @@
       "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Saheb%20Biwi%20Aur%20Gangster%20%282011%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-09T09:53:00.840633+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::uttardaputtar": {
+    "name": "Uttar Da Puttar",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uttar%20Da%20Puttar%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:47:47.336728+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::themurderfiles": {
+    "name": "The Murder Files",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Murder%20Files%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:47:52.100104+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::tikuwedssheru": {
+    "name": "Tiku Weds Sheru",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20HEVC%20ESubs.mkv",
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESubs.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:47:53.543397+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::udaan": {
+    "name": "Udaan",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Udaan%20%282010%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:47:55.106579+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::45": {
+    "name": "45",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:47:57.144816+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::gathavaibhava": {
+    "name": "Gatha Vaibhava",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Gatha%20Vaibhava%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:48:00.260469+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::bankofbhagyalakshmi": {
+    "name": "Bank Of Bhagyalakshmi",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:48:02.044355+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::aakaraalaratri": {
+    "name": "Aa Karaala Ratri",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T20:48:05.418086+00:00",
     "attempt_count": 1
   }
 }

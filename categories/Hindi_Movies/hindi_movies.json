@@ -1,24 +1,11 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 18,
-    "last_updated": "2026-11-09 | 09:53:00 (UTC)",
+    "total_movies": 12,
+    "last_updated": "2026-11-09 | 20:47:55 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
-    {
-      "name": "Uttar Da Puttar",
-      "category": "Hindi Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRx4Bc6GTwi8L3vq29bnciEuRgL.jpg",
-      "source_url": "https://cinefreak.net/uttar-da-puttar-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uttar%20Da%20Puttar%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
-        }
-      ]
-    },
     {
       "name": "The Bose Files: Sach Ya Sazish",
       "category": "Hindi Movies",
@@ -68,19 +55,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Welcome To The Jungle",
-      "category": "Hindi Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-      "source_url": "https://cinefreak.net/welcome-to-the-jungle-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -137,19 +111,6 @@
       ]
     },
     {
-      "name": "Tula Pahta",
-      "category": "Hindi Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYaivVOAflK4kcJDUNNxkyminxZ.jpg",
-      "source_url": "https://cinefreak.net/tula-pahta-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Maa Behen",
       "category": "Hindi Movies",
       "year": "2026",
@@ -167,36 +128,6 @@
       ]
     },
     {
-      "name": "The Murder Files",
-      "category": "Hindi Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/llAejc0j8CKQbO8t0VzSqqDSWMj.jpg",
-      "source_url": "https://cinefreak.net/tortoise-the-tale-of-murders-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Murder%20Files%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Tiku Weds Sheru",
-      "category": "Hindi Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mp4KqqVU6uUNwnpYqAtthik1DB.jpg",
-      "source_url": "https://cinefreak.net/tiku-weds-sheru-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20HEVC%20ESubs.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESubs.mkv"
-        }
-      ]
-    },
-    {
       "name": "Badlapur",
       "category": "Hindi Movies",
       "year": "2015",
@@ -206,19 +137,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Udaan",
-      "category": "Hindi Movies",
-      "year": "2010",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
-      "source_url": "https://cinefreak.net/udaan-2010-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Udaan%20%282010%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

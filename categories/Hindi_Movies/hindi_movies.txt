@@ -1,22 +1,11 @@
 ================================================================================
 CATEGORY: Hindi Movies
-TOTAL MOVIES: 18
-LAST UPDATED: 2026-11-09 | 09:53:00 (UTC)
+TOTAL MOVIES: 12
+LAST UPDATED: 2026-11-09 | 20:47:55 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Movie name: Uttar Da Puttar
-Category: Hindi Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRx4Bc6GTwi8L3vq29bnciEuRgL.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uttar%20Da%20Puttar%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv
-
-================================================================================
-
-Movie-2
 Movie name: The Bose Files: Sach Ya Sazish
 Category: Hindi Movies
 Year: 2026
@@ -27,7 +16,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-3
+Movie-2
 Movie name: Tera Yaar Hoon Main
 Category: Hindi Movies
 Year: 2026
@@ -38,7 +27,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-4
+Movie-3
 Movie name: Daadi Ki Shaadi
 Category: Hindi Movies
 Year: 2026
@@ -49,7 +38,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-5
+Movie-4
 Movie name: Tavvai
 Category: Hindi Movies
 Year: 2026
@@ -60,18 +49,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
-Movie name: Welcome To The Jungle
-Category: Hindi Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-7
+Movie-5
 Movie name: Aakhri Sawal
 Category: Hindi Movies
 Year: 2026
@@ -82,7 +60,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-6
 Movie name: The Great Grand Superhero
 Category: Hindi Movies
 Year: 2026
@@ -93,7 +71,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-7
 Movie name: Dug Dug
 Category: Hindi Movies
 Year: 2026
@@ -104,7 +82,7 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 
 ================================================================================
 
-Movie-10
+Movie-8
 Movie name: Cocaine
 Category: Hindi Movies
 Year: 2026
@@ -115,18 +93,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
-Movie name: Tula Pahta
-Category: Hindi Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYaivVOAflK4kcJDUNNxkyminxZ.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-12
+Movie-9
 Movie name: Maa Behen
 Category: Hindi Movies
 Year: 2026
@@ -140,32 +107,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
-Movie name: The Murder Files
-Category: Hindi Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/llAejc0j8CKQbO8t0VzSqqDSWMj.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Murder%20Files%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv
-
-================================================================================
-
-Movie-14
-Movie name: Tiku Weds Sheru
-Category: Hindi Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mp4KqqVU6uUNwnpYqAtthik1DB.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20HEVC%20ESubs.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESubs.mkv
-
-================================================================================
-
-Movie-15
+Movie-10
 Movie name: Badlapur
 Category: Hindi Movies
 Year: 2015
@@ -176,18 +118,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-16
-Movie name: Udaan
-Category: Hindi Movies
-Year: 2010
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Udaan%20%282010%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-17
+Movie-11
 Movie name: A Wednesday!
 Category: Hindi Movies
 Year: 2008
@@ -198,7 +129,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-18
+Movie-12
 Movie name: Malamaal Weekly
 Category: Hindi Movies
 Year: 2006

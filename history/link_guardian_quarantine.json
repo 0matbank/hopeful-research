@@ -243,9 +243,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chris%20Hemsworth%20A%20Road%20Trip%20to%20Remember%20%282025%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898608+00:00",
-      "last_attempt": "2026-11-06T15:57:48.333873+00:00",
-      "next_retry_at": "2026-11-09T15:57:48.333889+00:00",
-      "attempt_count": 10
+      "last_attempt": "2026-11-09T20:47:45.391007+00:00",
+      "next_retry_at": "2026-11-12T20:47:45.391025+00:00",
+      "attempt_count": 11
     },
     "disneyhotstar::https://cinefreak.net/expedition-amazon-2024-full-movie-download": {
       "category": "Disney Hotstar",
@@ -20371,7 +20371,310 @@
       "last_attempt": "2026-11-09T09:53:00.948964+00:00",
       "next_retry_at": "2026-11-09T15:53:00.948966+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/uttar-da-puttar-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/uttar-da-puttar-2026-full-movie-download",
+      "movie": {
+        "name": "Uttar Da Puttar",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRx4Bc6GTwi8L3vq29bnciEuRgL.jpg",
+        "source_url": "https://cinefreak.net/uttar-da-puttar-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uttar%20Da%20Puttar%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uttar%20Da%20Puttar%20%282026%29%20HDTC%20%5BHindi%20Clean%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:47:55.241765+00:00",
+      "last_attempt": "2026-11-09T20:47:55.241797+00:00",
+      "next_retry_at": "2026-11-10T02:47:55.241800+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/welcome-to-the-jungle-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/welcome-to-the-jungle-2026-full-movie-download",
+      "movie": {
+        "name": "Welcome To The Jungle",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+        "source_url": "https://cinefreak.net/welcome-to-the-jungle-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Welcome%20to%20the%20Jungle%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:47:55.242097+00:00",
+      "last_attempt": "2026-11-09T20:47:55.242102+00:00",
+      "next_retry_at": "2026-11-10T02:47:55.242104+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/tula-pahta-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/tula-pahta-full-movie-download",
+      "movie": {
+        "name": "Tula Pahta",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYaivVOAflK4kcJDUNNxkyminxZ.jpg",
+        "source_url": "https://cinefreak.net/tula-pahta-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tula%20Pahta%20%282026%29%20WEB-DL%20%5BHindi-Marathi%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:47:55.242225+00:00",
+      "last_attempt": "2026-11-09T20:47:55.242227+00:00",
+      "next_retry_at": "2026-11-10T02:47:55.242228+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/tortoise-the-tale-of-murders-2025-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/tortoise-the-tale-of-murders-2025-full-movie-download",
+      "movie": {
+        "name": "The Murder Files",
+        "category": "Hindi Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/llAejc0j8CKQbO8t0VzSqqDSWMj.jpg",
+        "source_url": "https://cinefreak.net/tortoise-the-tale-of-murders-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Murder%20Files%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20The%20Murder%20Files%20%282025%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:47:55.242304+00:00",
+      "last_attempt": "2026-11-09T20:47:55.242306+00:00",
+      "next_retry_at": "2026-11-10T02:47:55.242307+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/tiku-weds-sheru-2023-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/tiku-weds-sheru-2023-full-movie-download",
+      "movie": {
+        "name": "Tiku Weds Sheru",
+        "category": "Hindi Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mp4KqqVU6uUNwnpYqAtthik1DB.jpg",
+        "source_url": "https://cinefreak.net/tiku-weds-sheru-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20HEVC%20ESubs.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESubs.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20HEVC%20ESubs.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Tiku%20Weds%20Sheru%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESubs.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:47:55.242376+00:00",
+      "last_attempt": "2026-11-09T20:47:55.242378+00:00",
+      "next_retry_at": "2026-11-10T02:47:55.242379+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/udaan-2010-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/udaan-2010-full-movie-download",
+      "movie": {
+        "name": "Udaan",
+        "category": "Hindi Movies",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+        "source_url": "https://cinefreak.net/udaan-2010-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Udaan%20%282010%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Udaan%20%282010%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:47:55.242466+00:00",
+      "last_attempt": "2026-11-09T20:47:55.242469+00:00",
+      "next_retry_at": "2026-11-10T02:47:55.242470+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/45-2025-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/45-2025-full-movie-download",
+      "movie": {
+        "name": "45",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg",
+        "source_url": "https://cinefreak.net/45-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%2045%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:48:05.542739+00:00",
+      "last_attempt": "2026-11-09T20:48:05.542756+00:00",
+      "next_retry_at": "2026-11-10T02:48:05.542758+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/choo-mantar-2025-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/choo-mantar-2025-full-movie-download",
+      "movie": {
+        "name": "Choo Mantar",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/niKNhXDy7rkvjxRoxgy31sMXQZg.jpg",
+        "source_url": "https://cinefreak.net/choo-mantar-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Mantar%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:48:05.542968+00:00",
+      "last_attempt": "2026-11-09T20:48:05.542971+00:00",
+      "next_retry_at": "2026-11-10T02:48:05.542972+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/gatha-vaibhava-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/gatha-vaibhava-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Gatha Vaibhava",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aacJ77PR6wx1KE6MQN9IUeytg2J.jpg",
+        "source_url": "https://cinefreak.net/gatha-vaibhava-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Gatha%20Vaibhava%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Gatha%20Vaibhava%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:48:05.543046+00:00",
+      "last_attempt": "2026-11-09T20:48:05.543047+00:00",
+      "next_retry_at": "2026-11-10T02:48:05.543048+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/bank-of-bhagyalakshmi-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/bank-of-bhagyalakshmi-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Bank Of Bhagyalakshmi",
+        "category": "Kannada Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg",
+        "source_url": "https://cinefreak.net/bank-of-bhagyalakshmi-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Bank%20of%20Bhagyalakshmi%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:48:05.543111+00:00",
+      "last_attempt": "2026-11-09T20:48:05.543112+00:00",
+      "next_retry_at": "2026-11-10T02:48:05.543113+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/bhairathi-ranagal-2024-hindi-fan-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/bhairathi-ranagal-2024-hindi-fan-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Bhairathi Ranagal",
+        "category": "Kannada Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSfKNoycKKSSkcvFbyekwcjuIOp.jpg",
+        "source_url": "https://cinefreak.net/bhairathi-ranagal-2024-hindi-fan-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bhairathi%20Ranagal%20%282024%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:48:05.543181+00:00",
+      "last_attempt": "2026-11-09T20:48:05.543182+00:00",
+      "next_retry_at": "2026-11-10T02:48:05.543183+00:00",
+      "attempt_count": 1
+    },
+    "kannadamovies::https://cinefreak.net/aa-karaala-ratri-2018-full-movie-download": {
+      "category": "Kannada Movies",
+      "source_url": "https://cinefreak.net/aa-karaala-ratri-2018-full-movie-download",
+      "movie": {
+        "name": "Aa Karaala Ratri",
+        "category": "Kannada Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eebyDiBgu2dCFwBtWzVZgtrxn5u.jpg",
+        "source_url": "https://cinefreak.net/aa-karaala-ratri-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T20:48:05.543249+00:00",
+      "last_attempt": "2026-11-09T20:48:05.543250+00:00",
+      "next_retry_at": "2026-11-10T02:48:05.543251+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-09T09:53:00.959320+00:00"
+  "updated_at": "2026-11-09T20:48:05.551504+00:00"
 }
