@@ -4077,11 +4077,11 @@
     "name": "Pati Patni Aur Woh Do",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20WEB-DL%20%5BHindi%5D%20HQ%201080p%20ESub.mkv",
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-16T18:06:44.314908+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-09T09:52:43.967585+00:00",
+    "attempt_count": 2
   },
   "hindimovies::ohhmydog": {
     "name": "Ohh My Dog",
@@ -4126,10 +4126,10 @@
     "name": "Sanam Re",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-8b46bbc58f8c4eb084601251ab7c7f58.r2.dev/CINEFREAK.TOP%20-%20Sanam%20Re%20%282016%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sanam%20Re%20%282016%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-24T22:32:24.595895+00:00",
-    "attempt_count": 2
+    "last_attempt": "2026-11-09T09:52:59.345449+00:00",
+    "attempt_count": 3
   },
   "hindimovies::oyeluckyluckyoye": {
     "name": "Oye Lucky! Lucky Oye!",
@@ -5594,11 +5594,10 @@
     "name": "System",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv",
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%20AMZN%20HQ%201080p%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-20T04:56:40.465743+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-09T09:52:49.595442+00:00",
+    "attempt_count": 2
   },
   "hindimovies::taraandakashlovebeyondrealms": {
     "name": "Tara And Akash: Love Beyond Realms",
@@ -6316,10 +6315,10 @@
     "name": "The East Palace",
     "category": "Hindi Movies",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20The%20East%20Palace%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20East%20Palace%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-29T23:58:50.030888+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-09T09:52:48.315213+00:00",
+    "attempt_count": 2
   },
   "hindimovies::hathras": {
     "name": "Hathras",
@@ -7597,6 +7596,96 @@
       "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Jaane%20Jaan%20%282023%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-09T01:46:08.751788+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::simulacra": {
+    "name": "Simulacra",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Simulacra%20%282026%29%20DS4K%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:42.805463+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::satluj": {
+    "name": "Satluj",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Satluj%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:45.560107+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::thegreatgrandsuperhero": {
+    "name": "The Great Grand Superhero",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Great%20Grand%20Superhero%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:46.933149+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::navraskathacollage": {
+    "name": "Navras Katha Collage",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Navras%20Katha%20Collage%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:51.053460+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::thebirthdayboy": {
+    "name": "The Birthday Boy",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Birthday%20Boy%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:52.440725+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::satyapremkikatha": {
+    "name": "Satyaprem Ki Katha",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Satyaprem%20Ki%20Katha%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:53.708942+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::sirfekbandaakaafihai": {
+    "name": "Sirf Ek Bandaa Kaafi Hai",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sirf%20Ek%20Bandaa%20Kaafi%20Hai%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:55.346164+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::mujibthemakingofanation": {
+    "name": "Mujib: The Making Of A Nation",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mujib%20The%20Making%20of%20a%20Nation%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20HC-ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:56.644724+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::patipatniaurwoh": {
+    "name": "Pati Patni Aur Woh",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:52:57.838220+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::sahebbiwiaurgangster": {
+    "name": "Saheb Biwi Aur Gangster",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Saheb%20Biwi%20Aur%20Gangster%20%282011%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-09T09:53:00.840633+00:00",
     "attempt_count": 1
   }
 }

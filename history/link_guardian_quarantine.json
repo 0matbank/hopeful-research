@@ -21,9 +21,9 @@
         "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.757409+00:00",
-      "last_attempt": "2026-11-06T06:53:55.357462+00:00",
-      "next_retry_at": "2026-11-09T06:53:55.357479+00:00",
-      "attempt_count": 25
+      "last_attempt": "2026-11-09T09:52:40.690602+00:00",
+      "next_retry_at": "2026-11-12T09:52:40.690620+00:00",
+      "attempt_count": 26
     },
     "kannadamovies::https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -20052,7 +20052,326 @@
       "last_attempt": "2026-11-09T01:46:12.040738+00:00",
       "next_retry_at": "2026-11-09T07:46:12.040740+00:00",
       "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/simulacra-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/simulacra-2026-full-movie-download",
+      "movie": {
+        "name": "Simulacra",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zzx03YzJVd1YYniTBUHFQUK660.jpg",
+        "source_url": "https://cinefreak.net/simulacra-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Simulacra%20%282026%29%20DS4K%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Simulacra%20%282026%29%20DS4K%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.947235+00:00",
+      "last_attempt": "2026-11-09T09:53:00.947250+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.947253+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/pati-patni-aur-woh-do-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/pati-patni-aur-woh-do-2026-full-movie-download",
+      "movie": {
+        "name": "Pati Patni Aur Woh Do",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+        "source_url": "https://cinefreak.net/pati-patni-aur-woh-do-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20Do%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.947568+00:00",
+      "last_attempt": "2026-11-09T09:53:00.947574+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.947576+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/satluj-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/satluj-2026-full-movie-download",
+      "movie": {
+        "name": "Satluj",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
+        "source_url": "https://cinefreak.net/satluj-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "4K 2160P HEVC",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Satluj%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Satluj%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.947749+00:00",
+      "last_attempt": "2026-11-09T09:53:00.947753+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.947755+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/the-east-palace-2026-full-series-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/the-east-palace-2026-full-series-download",
+      "movie": {
+        "name": "The East Palace",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+        "source_url": "https://cinefreak.net/the-east-palace-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20East%20Palace%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20East%20Palace%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.947974+00:00",
+      "last_attempt": "2026-11-09T09:53:00.947978+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.947980+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/system-2026-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/system-2026-full-movie-download",
+      "movie": {
+        "name": "System",
+        "category": "Hindi Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
+        "source_url": "https://cinefreak.net/system-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20System%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948115+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948118+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948120+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/navras-katha-collage-2024-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/navras-katha-collage-2024-full-movie-download",
+      "movie": {
+        "name": "Navras Katha Collage",
+        "category": "Hindi Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xufqFe1roAAWBc01hmKL3tGVJDQ.jpg",
+        "source_url": "https://cinefreak.net/navras-katha-collage-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Navras%20Katha%20Collage%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Navras%20Katha%20Collage%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948230+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948232+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948234+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/the-birthday-boy-2024-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/the-birthday-boy-2024-full-movie-download",
+      "movie": {
+        "name": "The Birthday Boy",
+        "category": "Hindi Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDN3gBR8h5BKDCCHP57CvwBONKH.jpg",
+        "source_url": "https://cinefreak.net/the-birthday-boy-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Birthday%20Boy%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Birthday%20Boy%20%282024%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948331+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948334+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948335+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/satyaprem-ki-katha-2023-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/satyaprem-ki-katha-2023-full-movie-download",
+      "movie": {
+        "name": "Satyaprem Ki Katha",
+        "category": "Hindi Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/99DkKzMm7SrNw8p6jozCkKmOnTy.jpg",
+        "source_url": "https://cinefreak.net/satyaprem-ki-katha-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Satyaprem%20Ki%20Katha%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Satyaprem%20Ki%20Katha%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948435+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948438+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948439+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/sirf-ek-bandaa-kaafi-hai-2023-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/sirf-ek-bandaa-kaafi-hai-2023-full-movie-download",
+      "movie": {
+        "name": "Sirf Ek Bandaa Kaafi Hai",
+        "category": "Hindi Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8wMjVoQOyo9XUOrQk60WCcklCj.jpg",
+        "source_url": "https://cinefreak.net/sirf-ek-bandaa-kaafi-hai-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sirf%20Ek%20Bandaa%20Kaafi%20Hai%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sirf%20Ek%20Bandaa%20Kaafi%20Hai%20%282023%29%20HDRip%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948532+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948535+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948536+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/mujib-the-making-of-a-nation-2023-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/mujib-the-making-of-a-nation-2023-full-movie-download",
+      "movie": {
+        "name": "Mujib: The Making Of A Nation",
+        "category": "Hindi Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/71CE8chmoFjNtZIcGOSnD6dDn7O.jpg",
+        "source_url": "https://cinefreak.net/mujib-the-making-of-a-nation-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mujib%20The%20Making%20of%20a%20Nation%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20HC-ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mujib%20The%20Making%20of%20a%20Nation%20%282023%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20HC-ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948630+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948632+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948634+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/pati-patni-aur-woh-2019-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/pati-patni-aur-woh-2019-full-movie-download",
+      "movie": {
+        "name": "Pati Patni Aur Woh",
+        "category": "Hindi Movies",
+        "year": "2019",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sAegdBnkfucqhrsocR47zCKcez.jpg",
+        "source_url": "https://cinefreak.net/pati-patni-aur-woh-2019-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pati%20Patni%20Aur%20Woh%20%282019%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948725+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948727+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948728+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/sanam-re-2016-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/sanam-re-2016-full-movie-download",
+      "movie": {
+        "name": "Sanam Re",
+        "category": "Hindi Movies",
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgZNHHZacK3iO18d7agg9iYQYWp.jpg",
+        "source_url": "https://cinefreak.net/sanam-re-2016-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sanam%20Re%20%282016%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Sanam%20Re%20%282016%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948852+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948856+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948857+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/saheb-biwi-aur-gangster-2011-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/saheb-biwi-aur-gangster-2011-full-movie-download",
+      "movie": {
+        "name": "Saheb Biwi Aur Gangster",
+        "category": "Hindi Movies",
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wadMSZ16EMmJkMcVwKapF6XaYwb.jpg",
+        "source_url": "https://cinefreak.net/saheb-biwi-aur-gangster-2011-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Saheb%20Biwi%20Aur%20Gangster%20%282011%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Saheb%20Biwi%20Aur%20Gangster%20%282011%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-09T09:53:00.948962+00:00",
+      "last_attempt": "2026-11-09T09:53:00.948964+00:00",
+      "next_retry_at": "2026-11-09T15:53:00.948966+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-09T01:46:12.052084+00:00"
+  "updated_at": "2026-11-09T09:53:00.959320+00:00"
 }
