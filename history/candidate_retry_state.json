@@ -3047,6 +3047,66 @@
         "last_failed_at": "2026-11-08T17:19:51.381306+00:00",
         "retry_after_epoch": 1794201591,
         "retry_after": "2026-11-09T05:19:51.381306+00:00"
+      },
+      "https://cinefreak.net/knowing-2009-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160327+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160327+00:00"
+      },
+      "https://cinefreak.net/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan-2006-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160360+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160360+00:00"
+      },
+      "https://cinefreak.net/transformers-rise-of-the-beasts-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160367+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160367+00:00"
+      },
+      "https://cinefreak.net/buried-alive-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160376+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160376+00:00"
+      },
+      "https://cinefreak.net/borat-subsequent-moviefilm-delivery-of-prodigious-bribe-to-american-regime-for-make-benefit-once-glorious-nation-of-kazakhstan-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160380+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160380+00:00"
+      },
+      "https://cinefreak.net/the-holiday-2006-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160384+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160384+00:00"
+      },
+      "https://cinefreak.net/whisper-of-the-heart-1995-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160387+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160387+00:00"
+      },
+      "https://cinefreak.net/a-whisker-away-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160390+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160390+00:00"
+      },
+      "https://cinefreak.net/the-ten-commandments-1956-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160393+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160393+00:00"
+      },
+      "https://cinefreak.net/surrogates-2009-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-09T03:20:59.160397+00:00",
+        "retry_after_epoch": 1794237659,
+        "retry_after": "2026-11-09T15:20:59.160397+00:00"
       }
     },
     "Hindi Movies": {
