@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-11-06T21:32:33.353948+00:00",
-      "next_retry_at": "2026-11-09T21:32:33.353966+00:00",
-      "attempt_count": 17
+      "last_attempt": "2026-11-10T20:51:37.720367+00:00",
+      "next_retry_at": "2026-11-13T20:51:37.720384+00:00",
+      "attempt_count": 18
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -21280,7 +21280,238 @@
       "last_attempt": "2026-11-10T12:43:16.162549+00:00",
       "next_retry_at": "2026-11-10T18:43:16.162550+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/blast-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/blast-2026-full-movie-download",
+      "movie": {
+        "name": "Blast",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/op0ShZAmDxbpsURTLprWFWo9vSk.jpg",
+        "source_url": "https://cinefreak.net/blast-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:42.866787+00:00",
+      "last_attempt": "2026-11-10T20:51:42.866800+00:00",
+      "next_retry_at": "2026-11-11T02:51:42.866802+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/agilan-2023-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/agilan-2023-full-movie-download",
+      "movie": {
+        "name": "Agilan",
+        "category": "Tamil Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jYssBJkPynlxoTV13BQTZlpfyD.jpg",
+        "source_url": "https://cinefreak.net/agilan-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Agilan%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Agilan%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:42.867046+00:00",
+      "last_attempt": "2026-11-10T20:51:42.867050+00:00",
+      "next_retry_at": "2026-11-11T02:51:42.867051+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/uyir-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/uyir-2026-full-movie-download",
+      "movie": {
+        "name": "Uyir",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
+        "source_url": "https://cinefreak.net/uyir-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Uyir%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:53.260434+00:00",
+      "last_attempt": "2026-11-10T20:51:53.260445+00:00",
+      "next_retry_at": "2026-11-11T02:51:53.260447+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/patriot-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/patriot-2026-full-movie-download",
+      "movie": {
+        "name": "Patriot",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+        "source_url": "https://cinefreak.net/patriot-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Patriot%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:53.260663+00:00",
+      "last_attempt": "2026-11-10T20:51:53.260668+00:00",
+      "next_retry_at": "2026-11-11T02:51:53.260669+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/vaazha-ii-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/vaazha-ii-2026-full-movie-download",
+      "movie": {
+        "name": "Vaazha II",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+        "source_url": "https://cinefreak.net/vaazha-ii-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Vaazha%20II%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:53.260815+00:00",
+      "last_attempt": "2026-11-10T20:51:53.260818+00:00",
+      "next_retry_at": "2026-11-11T02:51:53.260820+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/sambhavam-adhyayam-onnu-2026-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/sambhavam-adhyayam-onnu-2026-full-movie-download",
+      "movie": {
+        "name": "Sambhavam Adhyayam Onnu",
+        "category": "Malayalam Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlp9yn0L9ET50HM6hT88dGuhElO.jpg",
+        "source_url": "https://cinefreak.net/sambhavam-adhyayam-onnu-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Sambavam%20Adhyayam%20Onnu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Sambavam%20Adhyayam%20Onnu%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:53.260933+00:00",
+      "last_attempt": "2026-11-10T20:51:53.260938+00:00",
+      "next_retry_at": "2026-11-11T02:51:53.260941+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/sarvam-maya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/sarvam-maya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Sarvam Maya",
+        "category": "Malayalam Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg",
+        "source_url": "https://cinefreak.net/sarvam-maya-2025-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sarvam%20Maya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sarvam%20Maya%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:53.261048+00:00",
+      "last_attempt": "2026-11-10T20:51:53.261050+00:00",
+      "next_retry_at": "2026-11-11T02:51:53.261052+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/neelavelicham-2023-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/neelavelicham-2023-full-movie-download",
+      "movie": {
+        "name": "Neelavelicham",
+        "category": "Malayalam Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkxJZRFILnpCdVBppxx5qXvJSKY.jpg",
+        "source_url": "https://cinefreak.net/neelavelicham-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Neelavelicham%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:53.261166+00:00",
+      "last_attempt": "2026-11-10T20:51:53.261169+00:00",
+      "next_retry_at": "2026-11-11T02:51:53.261171+00:00",
+      "attempt_count": 1
+    },
+    "malayalammovies::https://cinefreak.net/premam-2015-full-movie-download": {
+      "category": "Malayalam Movies",
+      "source_url": "https://cinefreak.net/premam-2015-full-movie-download",
+      "movie": {
+        "name": "Premam",
+        "category": "Malayalam Movies",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfMgsfDrtouYOM6MbrkHtU96Xij.jpg",
+        "source_url": "https://cinefreak.net/premam-2015-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Premam%20%282015%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Premam%20%282015%29%20WEB-DL%20%5BMalayalam%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-10T20:51:53.261281+00:00",
+      "last_attempt": "2026-11-10T20:51:53.261284+00:00",
+      "next_retry_at": "2026-11-11T02:51:53.261285+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-10T12:43:16.172189+00:00"
+  "updated_at": "2026-11-10T20:51:53.270878+00:00"
 }

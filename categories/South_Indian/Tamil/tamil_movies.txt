@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Tamil Movies
-TOTAL MOVIES: 15
-LAST UPDATED: 2026-10-31 | 02:59:03 (UTC)
+TOTAL MOVIES: 13
+LAST UPDATED: 2026-11-10 | 20:51:42 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -28,34 +28,19 @@ Episode: Episode 01-04
   Link-1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
-Episode: Episode 29-32
-  Resolution-2: HD 1080P
-  Link-2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E29-32%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 33-36
-  Resolution-3: HD 1080P
-  Link-3: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E33-36%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
 Episode: Episode 37-40
-  Resolution-4: HD 1080P
-  Link-4: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-2: HD 1080P
+  Link-2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 41-44
-  Resolution-5: HD 1080P
-  Link-5: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-3: HD 1080P
+  Link-3: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 Season: S01
 Episode: Episode 45-48
-  Resolution-6: HD 1080P
-  Link-6: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 57-60
-  Resolution-7: HD 1080P
-  Link-7: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
+  Resolution-4: HD 1080P
+  Link-4: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv
 
 ================================================================================
 
@@ -74,17 +59,6 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-4
-Movie name: Blast
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/op0ShZAmDxbpsURTLprWFWo9vSk.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Blast%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-5
 Movie name: Heartin
 Category: Tamil Movies
 Year: 2026
@@ -98,7 +72,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
+Movie-5
 Movie name: Karuppu
 Category: Tamil Movies
 Year: 2026
@@ -109,7 +83,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-7
+Movie-6
 Movie name: Satan
 Category: Tamil Movies
 Year: 2026
@@ -120,7 +94,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-8
+Movie-7
 Movie name: Pyaar Prema Kalyanam
 Category: Tamil Movies
 Year: 2026
@@ -134,7 +108,7 @@ STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
+Movie-8
 Movie name: 29
 Category: Tamil Movies
 Year: 2026
@@ -145,7 +119,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-9
 Movie name: Kara
 Category: Tamil Movies
 Year: 2026
@@ -159,7 +133,7 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
+Movie-10
 Movie name: LIK: Love Insurance Kompany
 Category: Tamil Movies
 Year: 2026
@@ -170,7 +144,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-12
+Movie-11
 Movie name: Youth
 Category: Tamil Movies
 Year: 2026
@@ -181,7 +155,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-12
 Movie name: Mahasenha
 Category: Tamil Movies
 Year: 2025
@@ -192,18 +166,7 @@ STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
-Movie name: Agilan
-Category: Tamil Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jYssBJkPynlxoTV13BQTZlpfyD.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Agilan%20%282023%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-15
+Movie-13
 Movie name: Psycho
 Category: Tamil Movies
 Year: 2020
