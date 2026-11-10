@@ -4174,10 +4174,10 @@
     "name": "I Am God",
     "category": "Kannada Movies",
     "dead_links": [
-      "https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-16T21:15:05.822823+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-10T04:09:49.132919+00:00",
+    "attempt_count": 2
   },
   "kannadamovies::identity": {
     "name": "Identity",
@@ -4401,10 +4401,10 @@
     "name": "A.R.M",
     "category": "Malayalam Movies",
     "dead_links": [
-      "https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20A.R.M%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20A.R.M%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-17T07:01:08.916091+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-10T04:09:36.738708+00:00",
+    "attempt_count": 2
   },
   "malayalammovies::heaven": {
     "name": "Heaven",
@@ -5685,10 +5685,11 @@
     "name": "Royal",
     "category": "Kannada Movies",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv"
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-20T11:44:45.310449+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-10T04:09:45.167443+00:00",
+    "attempt_count": 2
   },
   "kannadamovies::choomantar": {
     "name": "Choo Mantar",
@@ -6396,10 +6397,10 @@
     "name": "Love U Muddu",
     "category": "Kannada Movies",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-30T05:55:04.326883+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-10T04:09:50.852415+00:00",
+    "attempt_count": 2
   },
   "kannadamovies::brat": {
     "name": "Brat",
@@ -7760,6 +7761,80 @@
       "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Aa%20Karaala%20Ratri%20%282018%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-09T20:48:05.418086+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::theriseofashoka": {
+    "name": "The Rise Of Ashoka",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESub.mkv",
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%20HQ%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:39.483693+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::valavaara": {
+    "name": "Valavaara",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:41.292384+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::modakavidavaatavarana": {
+    "name": "Moda Kavida Vaatavarana",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:43.147729+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::maadeva": {
+    "name": "Maadeva",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:47.331790+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::vritta": {
+    "name": "Vritta",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Vritta%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:52.562117+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::thedevil": {
+    "name": "The Devil",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:54.335096+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::gurudevhoysala": {
+    "name": "Gurudev Hoysala",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Gurudev%20Hoysala%20%282023%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:56.139641+00:00",
+    "attempt_count": 1
+  },
+  "kannadamovies::inspectorvikram": {
+    "name": "Inspector Vikram",
+    "category": "Kannada Movies",
+    "dead_links": [
+      "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Vikram%20%282021%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-10T04:09:58.080659+00:00",
     "attempt_count": 1
   }
 }

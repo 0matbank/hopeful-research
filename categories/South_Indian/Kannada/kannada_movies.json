@@ -1,28 +1,11 @@
 {
   "category_info": {
     "category_name": "Kannada Movies",
-    "total_movies": 18,
-    "last_updated": "2026-11-09 | 20:48:05 (UTC)",
+    "total_movies": 7,
+    "last_updated": "2026-11-10 | 04:09:58 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
-    {
-      "name": "The Rise Of Ashoka",
-      "category": "Kannada Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIt1gkiGrBkHiBJUYIf64gcg32y.jpg",
-      "source_url": "https://cinefreak.net/the-rise-of-ashoka-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
     {
       "name": "Second Case Of Seetharam",
       "category": "Kannada Movies",
@@ -37,19 +20,6 @@
       ]
     },
     {
-      "name": "Valavaara",
-      "category": "Kannada Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg",
-      "source_url": "https://cinefreak.net/valavaara-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Karikaada",
       "category": "Kannada Movies",
       "year": "2026",
@@ -59,105 +29,6 @@
         {
           "resolution": "HEVC 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Karikaada%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Moda Kavida Vaatavarana",
-      "category": "Kannada Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg",
-      "source_url": "https://cinefreak.net/moda-kavida-vaatavarana-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Royal",
-      "category": "Kannada Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgJRjE2wuw4EQ6RMxttK8uNSvI.jpg",
-      "source_url": "https://cinefreak.net/royal-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Maadeva",
-      "category": "Kannada Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaZRRKY1PsA10pOaegvN0XbYsAi.jpg",
-      "source_url": "https://cinefreak.net/maadeva-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "I Am God",
-      "category": "Kannada Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg",
-      "source_url": "https://cinefreak.net/i-am-god-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Love U Muddu",
-      "category": "Kannada Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWfasv0Bi0tOQPdvJWbAhXyqSzH.jpg",
-      "source_url": "https://cinefreak.net/love-u-muddu-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Vritta",
-      "category": "Kannada Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQECu9AKL2OpzFFNaMX3rEfGAQk.jpg",
-      "source_url": "https://cinefreak.net/vritta-2025-hindi-dubbed-hindi-kannada-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Vritta%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Devil",
-      "category": "Kannada Movies",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUXN4dgmelSEa7VRqcpIhngGCu.jpg",
-      "source_url": "https://cinefreak.net/the-devil-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HQ 1080P HEVC",
-          "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20HEVC%20ESub.mkv"
-        },
-        {
-          "resolution": "HQ 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20ESub.mkv"
         }
       ]
     },
@@ -201,19 +72,6 @@
       ]
     },
     {
-      "name": "Gurudev Hoysala",
-      "category": "Kannada Movies",
-      "year": "2023",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dMhkqkdjuXqa9oC3ZNxyypDYuq.jpg",
-      "source_url": "https://cinefreak.net/gurudev-hoysala-2023-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Gurudev%20Hoysala%20%282023%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Love Mocktail 2",
       "category": "Kannada Movies",
       "year": "2022",
@@ -223,19 +81,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Inspector Vikram",
-      "category": "Kannada Movies",
-      "year": "2021",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeSqY7sKVehJC9J0Y0yKNMnhg7W.jpg",
-      "source_url": "https://cinefreak.net/inspector-vikram-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Vikram%20%282021%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv"
         }
       ]
     },

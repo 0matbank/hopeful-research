@@ -1,25 +1,11 @@
 ================================================================================
 CATEGORY: Kannada Movies
-TOTAL MOVIES: 18
-LAST UPDATED: 2026-11-09 | 20:48:05 (UTC)
+TOTAL MOVIES: 7
+LAST UPDATED: 2026-11-10 | 04:09:58 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Movie name: The Rise Of Ashoka
-Category: Kannada Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIt1gkiGrBkHiBJUYIf64gcg32y.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%201080p%20ESub.mkv
-
-RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Rise%20of%20Ashoka%20%282026%29%20UNCUT%20WEB-DL%20%5BHindi-Kannda%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-2
 Movie name: Second Case Of Seetharam
 Category: Kannada Movies
 Year: 2026
@@ -30,18 +16,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-3
-Movie name: Valavaara
-Category: Kannada Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Valavaara%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-4
+Movie-2
 Movie name: Karikaada
 Category: Kannada Movies
 Year: 2026
@@ -52,90 +27,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-5
-Movie name: Moda Kavida Vaatavarana
-Category: Kannada Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy9aH0CfTTFLM4tGXgciHz6yoQx.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Moda%20Kavida%20Vaatavarana%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-6
-Movie name: Royal
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MgJRjE2wuw4EQ6RMxttK8uNSvI.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Royal%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-7
-Movie name: Maadeva
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kaZRRKY1PsA10pOaegvN0XbYsAi.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Maadeva%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-8
-Movie name: I Am God
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20I%20Am%20God%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-9
-Movie name: Love U Muddu
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWfasv0Bi0tOQPdvJWbAhXyqSzH.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Love%20U%20Muddu%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-10
-Movie name: Vritta
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQECu9AKL2OpzFFNaMX3rEfGAQk.jpg
-
-RESOLUTION 1: 4K 2160P HEVC
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Vritta%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20ZEE5%204K-2160p%20SDR%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-11
-Movie name: The Devil
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsUXN4dgmelSEa7VRqcpIhngGCu.jpg
-
-RESOLUTION 1: HQ 1080P HEVC
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HQ 1080P
-STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-12
+Movie-3
 Movie name: Brat
 Category: Kannada Movies
 Year: 2025
@@ -146,7 +38,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-4
 Movie name: Vidyapati
 Category: Kannada Movies
 Year: 2025
@@ -157,7 +49,7 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 
 ================================================================================
 
-Movie-14
+Movie-5
 Movie name: Vidaamuyarchi
 Category: Kannada Movies
 Year: 2025
@@ -168,18 +60,7 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 
 ================================================================================
 
-Movie-15
-Movie name: Gurudev Hoysala
-Category: Kannada Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dMhkqkdjuXqa9oC3ZNxyypDYuq.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Gurudev%20Hoysala%20%282023%29%20WEB-DL%20%5BHindi-Kannada%5D%20DS4K%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-16
+Movie-6
 Movie name: Love Mocktail 2
 Category: Kannada Movies
 Year: 2022
@@ -190,18 +71,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-17
-Movie name: Inspector Vikram
-Category: Kannada Movies
-Year: 2021
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeSqY7sKVehJC9J0Y0yKNMnhg7W.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Inspector%20Vikram%20%282021%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p.mkv
-
-================================================================================
-
-Movie-18
+Movie-7
 Show name: Healer
 Category: Kannada Movies
 Year: 2014

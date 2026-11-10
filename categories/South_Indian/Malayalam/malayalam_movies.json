@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Malayalam Movies",
-    "total_movies": 23,
-    "last_updated": "2026-11-01 | 17:21:02 (UTC)",
+    "total_movies": 22,
+    "last_updated": "2026-11-10 | 04:09:36 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -222,19 +222,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4"
-        }
-      ]
-    },
-    {
-      "name": "A.R.M",
-      "category": "Malayalam Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zF3vLi15sBR91zXq6a7ocksvz9G.jpg",
-      "source_url": "https://cinefreak.net/a-r-m-2024-hindi-dubbed-hindi-malayalam-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-gdrive-esub-cinefreak",
-      "res_list": [
-        {
-          "resolution": "HEVC 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20A.R.M%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
         }
       ]
     },
