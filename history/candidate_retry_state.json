@@ -3529,6 +3529,66 @@
         "last_failed_at": "2026-11-10T04:58:13.630590+00:00",
         "retry_after_epoch": 1794329893,
         "retry_after": "2026-11-10T16:58:13.630590+00:00"
+      },
+      "https://cinefreak.net/shamitabh-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333070+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333070+00:00"
+      },
+      "https://cinefreak.net/the-vision-of-ramayana-2026-hindi-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333119+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333119+00:00"
+      },
+      "https://cinefreak.net/chaand-kaa-tukdaa-1994-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333133+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333133+00:00"
+      },
+      "https://cinefreak.net/jodhaa-akbar-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333143+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333143+00:00"
+      },
+      "https://cinefreak.net/talisman-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333152+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333152+00:00"
+      },
+      "https://cinefreak.net/stalker-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333161+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333161+00:00"
+      },
+      "https://cinefreak.net/red-werewolf-hunter-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333169+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333169+00:00"
+      },
+      "https://cinefreak.net/pureza-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333178+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333178+00:00"
+      },
+      "https://cinefreak.net/of-sinners-and-saints-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333190+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333190+00:00"
+      },
+      "https://cinefreak.net/my-lucky-elephant-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T18:59:18.333201+00:00",
+        "retry_after_epoch": 1794380358,
+        "retry_after": "2026-11-11T06:59:18.333201+00:00"
       }
     }
   }
