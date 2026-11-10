@@ -3469,6 +3469,66 @@
         "last_failed_at": "2026-11-09T21:42:25.878762+00:00",
         "retry_after_epoch": 1794303745,
         "retry_after": "2026-11-10T09:42:25.878762+00:00"
+      },
+      "https://cinefreak.net/sardaarji-3-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630490+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630490+00:00"
+      },
+      "https://cinefreak.net/zakir-khan-mannpasand-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630541+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630541+00:00"
+      },
+      "https://cinefreak.net/aankh-micholi-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630551+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630551+00:00"
+      },
+      "https://cinefreak.net/manmarziyaan-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630557+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630557+00:00"
+      },
+      "https://cinefreak.net/nakhrewaalii-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630562+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630562+00:00"
+      },
+      "https://cinefreak.net/jhaad-phoonk-2026-hindi-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630567+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630567+00:00"
+      },
+      "https://cinefreak.net/meethe-mein-kya-hai-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630572+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630572+00:00"
+      },
+      "https://cinefreak.net/jhootha-hi-sahi-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630581+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630581+00:00"
+      },
+      "https://cinefreak.net/418-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630585+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630585+00:00"
+      },
+      "https://cinefreak.net/ghich-pich-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-10T04:58:13.630590+00:00",
+        "retry_after_epoch": 1794329893,
+        "retry_after": "2026-11-10T16:58:13.630590+00:00"
       }
     }
   }
