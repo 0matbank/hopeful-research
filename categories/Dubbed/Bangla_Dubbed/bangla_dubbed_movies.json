@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 10,
-    "last_updated": "2026-11-02 | 16:07:59 (UTC)",
+    "total_movies": 9,
+    "last_updated": "2026-11-11 | 17:55:47 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -148,19 +148,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Voyal%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bhediya",
-      "category": "Bangla Dubbed",
-      "year": "2022",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Bhediya-2022.webp",
-      "source_url": "https://cinefreak.net/bhediya-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
         }
       ]
     },
