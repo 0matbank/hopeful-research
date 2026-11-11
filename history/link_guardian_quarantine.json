@@ -123,9 +123,9 @@
         "https://pub-a9366ffd26bf465dba5fe059b558826c.r2.dev/CINEFREAK.TOP%20-%20Motu%20Patlu%20and%20The%20Mighty%20Magnathor%20%282024%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751637+00:00",
-      "last_attempt": "2026-11-07T16:29:06.417293+00:00",
-      "next_retry_at": "2026-11-10T16:29:06.417312+00:00",
-      "attempt_count": 15
+      "last_attempt": "2026-11-11T01:58:22.100761+00:00",
+      "next_retry_at": "2026-11-14T01:58:22.100777+00:00",
+      "attempt_count": 16
     },
     "bangladubbed::https://cinefreak.net/kandahar-2010-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-klikk-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -21511,7 +21511,291 @@
       "last_attempt": "2026-11-10T20:51:53.261284+00:00",
       "next_retry_at": "2026-11-11T02:51:53.261285+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/g-d-n-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/g-d-n-2026-full-movie-download",
+      "movie": {
+        "name": "G.D.N",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+        "source_url": "https://cinefreak.net/g-d-n-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.164122+00:00",
+      "last_attempt": "2026-11-11T01:58:36.164136+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.164138+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/parimala-co-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/parimala-co-2026-full-movie-download",
+      "movie": {
+        "name": "Parimala & Co",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
+        "source_url": "https://cinefreak.net/parimala-co-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.164402+00:00",
+      "last_attempt": "2026-11-11T01:58:36.164407+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.164410+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/karuppu-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/karuppu-2026-full-movie-download",
+      "movie": {
+        "name": "Karuppu",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+        "source_url": "https://cinefreak.net/karuppu-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.164559+00:00",
+      "last_attempt": "2026-11-11T01:58:36.164563+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.164564+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/satan-the-dark-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/satan-the-dark-2026-full-movie-download",
+      "movie": {
+        "name": "Satan",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFjy89xe1Us6iRfdsKAn05Y1XGX.jpg",
+        "source_url": "https://cinefreak.net/satan-the-dark-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Satan%20%E2%80%93%20The%20Dark%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Satan%20%E2%80%93%20The%20Dark%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.164674+00:00",
+      "last_attempt": "2026-11-11T01:58:36.164676+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.164678+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/pyaar-prema-kalyanam-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/pyaar-prema-kalyanam-2026-full-movie-download",
+      "movie": {
+        "name": "Pyaar Prema Kalyanam",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+        "source_url": "https://cinefreak.net/pyaar-prema-kalyanam-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.164776+00:00",
+      "last_attempt": "2026-11-11T01:58:36.164779+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.164780+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/kara-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/kara-2026-full-movie-download",
+      "movie": {
+        "name": "Kara",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kithkpIlhyjoUtUcBL0NuvVGzK4.jpg",
+        "source_url": "https://cinefreak.net/kara-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.164895+00:00",
+      "last_attempt": "2026-11-11T01:58:36.164898+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.164899+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/love-insurance-kompany-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/love-insurance-kompany-2026-full-movie-download",
+      "movie": {
+        "name": "LIK: Love Insurance Kompany",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+        "source_url": "https://cinefreak.net/love-insurance-kompany-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.164989+00:00",
+      "last_attempt": "2026-11-11T01:58:36.164991+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.164992+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/youth-2026-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/youth-2026-full-movie-download",
+      "movie": {
+        "name": "Youth",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+        "source_url": "https://cinefreak.net/youth-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Youth%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Youth%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.165076+00:00",
+      "last_attempt": "2026-11-11T01:58:36.165078+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.165079+00:00",
+      "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/mahasenha-2025-full-movie-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/mahasenha-2025-full-movie-download",
+      "movie": {
+        "name": "Mahasenha",
+        "category": "Tamil Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg",
+        "source_url": "https://cinefreak.net/mahasenha-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mahasenha%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mahasenha%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:36.165160+00:00",
+      "last_attempt": "2026-11-11T01:58:36.165163+00:00",
+      "next_retry_at": "2026-11-11T07:58:36.165164+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/arjun-s-o-vyjayanthi-2025-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/arjun-s-o-vyjayanthi-2025-full-movie-download",
+      "movie": {
+        "name": "Arjun S/O Vyjayanthi",
+        "category": "Telugu Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AvCdsmYx6gZ83Bitd9n9ejDLyO.jpg",
+        "source_url": "https://cinefreak.net/arjun-s-o-vyjayanthi-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Arjun%20Son%20of%20Vyjayanthi%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Arjun%20Son%20of%20Vyjayanthi%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Arjun%20Son%20of%20Vyjayanthi%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Arjun%20Son%20of%20Vyjayanthi%20%282025%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:39.661214+00:00",
+      "last_attempt": "2026-11-11T01:58:39.661226+00:00",
+      "next_retry_at": "2026-11-11T07:58:39.661250+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/arjun-reddy-2017-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/arjun-reddy-2017-full-movie-download",
+      "movie": {
+        "name": "Arjun Reddy",
+        "category": "Telugu Movies",
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHubDgL59I5hCn7ccBYvU7bKY1r.jpg",
+        "source_url": "https://cinefreak.net/arjun-reddy-2017-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Arjun%20Reddy%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Arjun%20Reddy%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T01:58:39.661559+00:00",
+      "last_attempt": "2026-11-11T01:58:39.661565+00:00",
+      "next_retry_at": "2026-11-11T07:58:39.661567+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-10T20:51:53.270878+00:00"
+  "updated_at": "2026-11-11T01:58:39.671225+00:00"
 }

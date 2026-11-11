@@ -1,22 +1,11 @@
 ================================================================================
 CATEGORY: Tamil Movies
-TOTAL MOVIES: 13
-LAST UPDATED: 2026-11-10 | 20:51:42 (UTC)
+TOTAL MOVIES: 4
+LAST UPDATED: 2026-11-11 | 01:58:36 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Movie name: G.D.N
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20GDN%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-2
 Show name: Brothers And Sisters
 Category: Tamil Movies
 Year: 2026
@@ -44,21 +33,7 @@ Episode: Episode 45-48
 
 ================================================================================
 
-Movie-3
-Movie name: Parimala & Co
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vN2TOTKin83av7hwYnwAKSd3EG8.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Parimala%20and%20Co%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-4
+Movie-2
 Movie name: Heartin
 Category: Tamil Movies
 Year: 2026
@@ -72,43 +47,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-5
-Movie name: Karuppu
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Karuppu%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-6
-Movie name: Satan
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFjy89xe1Us6iRfdsKAn05Y1XGX.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Satan%20%E2%80%93%20The%20Dark%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-7
-Movie name: Pyaar Prema Kalyanam
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Pyaar%20Prema%20Kalyanam%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-8
+Movie-3
 Movie name: 29
 Category: Tamil Movies
 Year: 2026
@@ -119,54 +58,7 @@ STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-9
-Movie name: Kara
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kithkpIlhyjoUtUcBL0NuvVGzK4.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Kara%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20DS4K%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-10
-Movie name: LIK: Love Insurance Kompany
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-11
-Movie name: Youth
-Category: Tamil Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Youth%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%20NF%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-12
-Movie name: Mahasenha
-Category: Tamil Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Mahasenha%20%282025%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-13
+Movie-4
 Movie name: Psycho
 Category: Tamil Movies
 Year: 2020
