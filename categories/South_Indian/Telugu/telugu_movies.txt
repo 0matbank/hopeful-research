@@ -1,59 +1,11 @@
 ================================================================================
 CATEGORY: Telugu Movies
-TOTAL MOVIES: 16
-LAST UPDATED: 2026-11-11 | 01:58:39 (UTC)
+TOTAL MOVIES: 10
+LAST UPDATED: 2026-11-11 | 09:30:07 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Show name: Batchmates
-Category: Telugu Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04GVavxTuTWCNrtbllGrQiRvbp.jpg
-
-Season: S01
-Episode: Episode 01-04
-  Resolution-1: HD 1080P
-  Link-1: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 05-08
-  Resolution-2: HD 1080P
-  Link-2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 45-48
-  Resolution-3: HD 1080P
-  Link-3: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 49-52
-  Resolution-4: HD 1080P
-  Link-4: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 53-56
-  Resolution-5: HD 1080P
-  Link-5: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 57-60
-  Resolution-6: HD 1080P
-  Link-6: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 61-64
-  Resolution-7: HD 1080P
-  Link-7: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 65-68
-  Resolution-8: HD 1080P
-  Link-8: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-2
 Movie name: Mareechika
 Category: Telugu Movies
 Year: 2026
@@ -67,7 +19,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-3
+Movie-2
 Movie name: M4M
 Category: Telugu Movies
 Year: 2026
@@ -78,7 +30,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-4
+Movie-3
 Movie name: Raakaasa
 Category: Telugu Movies
 Year: 2026
@@ -89,7 +41,7 @@ STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-5
+Movie-4
 Movie name: Srinivasa Mangapuram
 Category: Telugu Movies
 Year: 2026
@@ -103,21 +55,7 @@ STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-6
-Movie name: Lenin
-Category: Telugu Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-7
+Movie-5
 Show name: Part-Timers
 Category: Telugu Movies
 Year: 2026
@@ -130,21 +68,7 @@ Episode: Episode 09-12
 
 ================================================================================
 
-Movie-8
-Movie name: Chennai Love Story
-Category: Telugu Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/hACM25xigqIYeRgylB0epf34hmk.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv
-
-RESOLUTION 2: HD 1080P
-STREAM Link 2: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-9
+Movie-6
 Movie name: Pallaburusu
 Category: Telugu Movies
 Year: 2026
@@ -155,7 +79,7 @@ STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-10
+Movie-7
 Movie name: Ustaad Bhagat Singh
 Category: Telugu Movies
 Year: 2026
@@ -169,18 +93,7 @@ STREAM Link 2: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-11
-Movie name: Junior
-Category: Telugu Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWak2wkhTmWFnR8GODZvE1xyBaJ.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-12
+Movie-8
 Movie name: The Ghost
 Category: Telugu Movies
 Year: 2022
@@ -194,7 +107,7 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-13
+Movie-9
 Movie name: Thellavarithe Guruvaram
 Category: Telugu Movies
 Year: 2021
@@ -205,18 +118,7 @@ STREAM Link 1: https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP
 
 ================================================================================
 
-Movie-14
-Movie name: Bheeshma
-Category: Telugu Movies
-Year: 2020
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE0ECn6buZNigSDFlpoIngDNAuD.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bheeshma%20%282020%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-15
+Movie-10
 Movie name: Spyder
 Category: Telugu Movies
 Year: 2017
@@ -224,17 +126,6 @@ Poster: https://cinefreak.net/wp-content/uploads/2026/06/Spyder-2017.webp
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Spyder%20%282017%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-16
-Movie name: Brindavanam
-Category: Telugu Movies
-Year: 2010
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8l2z3abBgXvIpQUEHLVt9sLMcCp.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brindavanam%20%282010%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
 
 ================================================================================
 

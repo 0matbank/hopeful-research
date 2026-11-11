@@ -147,9 +147,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Kandahar%20%282010%29%20WEB-DL%20%5BBengali%20ORG%5D%20Klikk%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-10T16:38:14.751827+00:00",
-      "last_attempt": "2026-11-08T01:28:47.745336+00:00",
-      "next_retry_at": "2026-11-11T01:28:47.745353+00:00",
-      "attempt_count": 14
+      "last_attempt": "2026-11-11T09:29:57.043182+00:00",
+      "next_retry_at": "2026-11-14T09:29:57.043203+00:00",
+      "attempt_count": 15
     },
     "banglamovies::https://cinefreak.net/ami-subhash-bolchi-2011-full-movie-download": {
       "category": "Bangla Movies",
@@ -21795,7 +21795,212 @@
       "last_attempt": "2026-11-11T01:58:39.661565+00:00",
       "next_retry_at": "2026-11-11T07:58:39.661567+00:00",
       "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/batchmates-2026-full-series-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/batchmates-2026-full-series-download",
+      "movie": {
+        "name": "Batchmates",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04GVavxTuTWCNrtbllGrQiRvbp.jpg",
+        "source_url": "https://cinefreak.net/batchmates-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 01-04",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 05-08",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 45-48",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 49-52",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 53-56",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 57-60",
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 61-64",
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 65-68",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E05-08%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E49-52%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E61-64%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Batchmates%20%5BS01E65-68%5D%20WEB-DL%20%5BHindi-Telugu%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T09:30:07.401656+00:00",
+      "last_attempt": "2026-11-11T09:30:07.401671+00:00",
+      "next_retry_at": "2026-11-11T15:30:07.401675+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/lenin-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/lenin-2026-full-movie-download",
+      "movie": {
+        "name": "Lenin",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+        "source_url": "https://cinefreak.net/lenin-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Lenin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T09:30:07.401961+00:00",
+      "last_attempt": "2026-11-11T09:30:07.401967+00:00",
+      "next_retry_at": "2026-11-11T15:30:07.401970+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/chennai-love-story-2026-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/chennai-love-story-2026-full-movie-download",
+      "movie": {
+        "name": "Chennai Love Story",
+        "category": "Telugu Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hACM25xigqIYeRgylB0epf34hmk.jpg",
+        "source_url": "https://cinefreak.net/chennai-love-story-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Chennai%20Love%20Story%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T09:30:07.402145+00:00",
+      "last_attempt": "2026-11-11T09:30:07.402150+00:00",
+      "next_retry_at": "2026-11-11T15:30:07.402152+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/junior-2025-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/junior-2025-full-movie-download",
+      "movie": {
+        "name": "Junior",
+        "category": "Telugu Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWak2wkhTmWFnR8GODZvE1xyBaJ.jpg",
+        "source_url": "https://cinefreak.net/junior-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Junior%20%282025%29%20UNCUT%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T09:30:07.402316+00:00",
+      "last_attempt": "2026-11-11T09:30:07.402321+00:00",
+      "next_retry_at": "2026-11-11T15:30:07.402323+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/bheeshma-2020-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/bheeshma-2020-full-movie-download",
+      "movie": {
+        "name": "Bheeshma",
+        "category": "Telugu Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE0ECn6buZNigSDFlpoIngDNAuD.jpg",
+        "source_url": "https://cinefreak.net/bheeshma-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bheeshma%20%282020%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-4bf6c51d258b4008b0f88bff0bb9d208.r2.dev/CINEFREAK.TOP%20-%20Bheeshma%20%282020%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T09:30:07.402527+00:00",
+      "last_attempt": "2026-11-11T09:30:07.402533+00:00",
+      "next_retry_at": "2026-11-11T15:30:07.402535+00:00",
+      "attempt_count": 1
+    },
+    "telugumovies::https://cinefreak.net/brindavanam-2010-full-movie-download": {
+      "category": "Telugu Movies",
+      "source_url": "https://cinefreak.net/brindavanam-2010-full-movie-download",
+      "movie": {
+        "name": "Brindavanam",
+        "category": "Telugu Movies",
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8l2z3abBgXvIpQUEHLVt9sLMcCp.jpg",
+        "source_url": "https://cinefreak.net/brindavanam-2010-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brindavanam%20%282010%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20Brindavanam%20%282010%29%20BluRay%20%5BHindi-Telugu%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-11T09:30:07.402776+00:00",
+      "last_attempt": "2026-11-11T09:30:07.402782+00:00",
+      "next_retry_at": "2026-11-11T15:30:07.402784+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-11T01:58:39.671225+00:00"
+  "updated_at": "2026-11-11T09:30:07.413911+00:00"
 }
