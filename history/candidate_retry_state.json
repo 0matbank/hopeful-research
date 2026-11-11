@@ -2293,6 +2293,66 @@
         "last_failed_at": "2026-10-28T02:49:40.189887+00:00",
         "retry_after_epoch": 1793198980,
         "retry_after": "2026-10-28T14:49:40.189887+00:00"
+      },
+      "https://cinefreak.net/nuvvostanante-nenoddantana-2005-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302462+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302462+00:00"
+      },
+      "https://cinefreak.net/chanakya-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302511+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302511+00:00"
+      },
+      "https://cinefreak.net/parasakthi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302525+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302525+00:00"
+      },
+      "https://cinefreak.net/mookuthi-amman-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302537+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302537+00:00"
+      },
+      "https://cinefreak.net/racharikam-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302546+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302546+00:00"
+      },
+      "https://cinefreak.net/viruman-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302578+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302578+00:00"
+      },
+      "https://cinefreak.net/software-sudheer-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302588+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302588+00:00"
+      },
+      "https://cinefreak.net/kanthaswamy-2009-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302596+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302596+00:00"
+      },
+      "https://cinefreak.net/dhammu-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302607+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302607+00:00"
+      },
+      "https://cinefreak.net/current-theega-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-11T03:29:17.302615+00:00",
+        "retry_after_epoch": 1794410957,
+        "retry_after": "2026-11-11T15:29:17.302615+00:00"
       }
     },
     "Disney Hotstar": {
