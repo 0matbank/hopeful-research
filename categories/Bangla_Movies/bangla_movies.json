@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Movies",
-    "total_movies": 10,
-    "last_updated": "2026-11-07 | 17:05:39 (UTC)",
+    "total_movies": 2,
+    "last_updated": "2026-11-12 | 00:47:45 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -34,32 +34,6 @@
       ]
     },
     {
-      "name": "Abar Hawa Bodol",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePdQRmZLTj0ccNNLDPtAN2pimGL.jpg",
-      "source_url": "https://cinefreak.net/abar-hawa-bodol-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abar%20Hawa%20Bodol%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Lifeline",
-      "category": "Bangla Movies",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/06/Lifeline-2026.webp",
-      "source_url": "https://cinefreak.net/lifeline-2026-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lifeline%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
       "name": "Grihapravesh",
       "category": "Bangla Movies",
       "year": "2025",
@@ -69,84 +43,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4"
-        }
-      ]
-    },
-    {
-      "name": "Abigail",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Abigail-2024.webp",
-      "source_url": "https://cinefreak.net/abigail-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Moyurakkhi",
-      "category": "Bangla Movies",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUiMj6PVWTXoCcMWoPfned2dUoK.jpg",
-      "source_url": "https://cinefreak.net/moyurakkhi-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Moyurakkhi%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Bhediya",
-      "category": "Bangla Movies",
-      "year": "2022",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Bhediya-2022.webp",
-      "source_url": "https://cinefreak.net/bhediya-2022-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "[18+] Vrindavani Vairagya",
-      "category": "Bangla Movies",
-      "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtyvlyzjBuHWTlkQJTAz0uYtrIG.jpg",
-      "source_url": "https://cinefreak.net/dispassionate-love-2018-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Aami Ashbo Phirey",
-      "category": "Bangla Movies",
-      "year": "2018",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10rpTbaWkLyrieHpvMeEHN7BJCR.jpg",
-      "source_url": "https://cinefreak.net/aami-ashbo-phirey-2018-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Aami%20Ashbo%20Phirey%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Amazing Spider-Man 2",
-      "category": "Bangla Movies",
-      "year": "2014",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg",
-      "source_url": "https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
         }
       ]
     }

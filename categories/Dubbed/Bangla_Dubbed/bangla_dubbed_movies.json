@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 9,
-    "last_updated": "2026-11-11 | 17:55:47 (UTC)",
+    "total_movies": 3,
+    "last_updated": "2026-11-12 | 00:47:55 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -67,34 +67,6 @@
       ]
     },
     {
-      "name": "Save The Tigers",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-1.38.46-AM.webp",
-      "source_url": "https://cinefreak.net/save-the-tigers-2026-full-series-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Save%20the%20Tigers%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "CID Squad",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/CID-Squad-2026.webp",
-      "source_url": "https://cinefreak.net/cid-squad-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 03",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E03%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv"
-        }
-      ]
-    },
-    {
       "name": "Muthu Engira Kaattaan",
       "category": "Bangla Dubbed",
       "year": "2026",
@@ -106,61 +78,6 @@
           "episode": "Episode 10",
           "resolution": "4K 2160P HEVC",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E10%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Chiraiya",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/03/Chiraiya-2026.webp",
-      "source_url": "https://cinefreak.net/chiraiya-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chiraiya%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Secret Stories: Roslin",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgVtjCdC5aBADQswOGx7BnTbjgH.jpg",
-      "source_url": "https://cinefreak.net/secret-stories-roslin-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 04-06",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Secret%20Stories%20Roslin%20%5BS01E04-06%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Voyal",
-      "category": "Bangla Dubbed",
-      "year": "2024",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrSmtd9e5PUv7FllnU17txSaDGE.jpg",
-      "source_url": "https://cinefreak.net/voyal-2024-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Voyal%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "The Amazing Spider-Man 2",
-      "category": "Bangla Dubbed",
-      "year": "2014",
-      "poster": "https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg",
-      "source_url": "https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
         }
       ]
     }

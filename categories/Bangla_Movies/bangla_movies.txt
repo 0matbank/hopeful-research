@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Bangla Movies
-TOTAL MOVIES: 10
-LAST UPDATED: 2026-11-07 | 17:05:39 (UTC)
+TOTAL MOVIES: 2
+LAST UPDATED: 2026-11-12 | 00:47:45 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -29,28 +29,6 @@ Episode: Episode 07
 ================================================================================
 
 Movie-2
-Movie name: Abar Hawa Bodol
-Category: Bangla Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePdQRmZLTj0ccNNLDPtAN2pimGL.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abar%20Hawa%20Bodol%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-3
-Movie name: Lifeline
-Category: Bangla Movies
-Year: 2026
-Poster: https://cinefreak.net/wp-content/uploads/2026/06/Lifeline-2026.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lifeline%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-4
 Movie name: Grihapravesh
 Category: Bangla Movies
 Year: 2025
@@ -58,72 +36,6 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRBuaEPaix3AAtPZdsH7Isz
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4
-
-================================================================================
-
-Movie-5
-Movie name: Abigail
-Category: Bangla Movies
-Year: 2024
-Poster: https://cinefreak.net/wp-content/uploads/2026/04/Abigail-2024.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-6
-Movie name: Moyurakkhi
-Category: Bangla Movies
-Year: 2024
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUiMj6PVWTXoCcMWoPfned2dUoK.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Moyurakkhi%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-================================================================================
-
-Movie-7
-Movie name: Bhediya
-Category: Bangla Movies
-Year: 2022
-Poster: https://cinefreak.net/wp-content/uploads/2026/04/Bhediya-2022.webp
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-8
-Movie name: [18+] Vrindavani Vairagya
-Category: Bangla Movies
-Year: 2018
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtyvlyzjBuHWTlkQJTAz0uYtrIG.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
-
-================================================================================
-
-Movie-9
-Movie name: Aami Ashbo Phirey
-Category: Bangla Movies
-Year: 2018
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/10rpTbaWkLyrieHpvMeEHN7BJCR.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Aami%20Ashbo%20Phirey%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-10
-Movie name: The Amazing Spider-Man 2
-Category: Bangla Movies
-Year: 2014
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 

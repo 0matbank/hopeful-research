@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 11,
-    "last_updated": "2026-11-06 | 03:56:01 (UTC)",
+    "total_movies": 10,
+    "last_updated": "2026-11-12 | 00:47:57 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -244,19 +244,6 @@
           "episode": "Episode 05",
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Dog 51",
-      "category": "Disney Hotstar",
-      "year": "2025",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/olMvhbCRuhTbf6EMKxKGHi2on3L.jpg",
-      "source_url": "https://cinefreak.net/dog-51-2025-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dog%2051%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
         }
       ]
     },

@@ -195,9 +195,9 @@
         "https://pub-c427ddb371cf495fa0f99a219882b4e7.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
       ],
       "quarantined_at": "2026-09-10T21:04:01.023729+00:00",
-      "last_attempt": "2026-11-08T16:42:27.557813+00:00",
-      "next_retry_at": "2026-11-11T16:42:27.557832+00:00",
-      "attempt_count": 13
+      "last_attempt": "2026-11-12T00:47:31.665455+00:00",
+      "next_retry_at": "2026-11-15T00:47:31.665473+00:00",
+      "attempt_count": 14
     },
     "disneyhotstar::https://cinefreak.net/agent-zero-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -22286,7 +22286,372 @@
       "last_attempt": "2026-11-11T17:56:07.965030+00:00",
       "next_retry_at": "2026-11-11T23:56:07.965032+00:00",
       "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/abar-hawa-bodol-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/abar-hawa-bodol-2026-full-movie-download",
+      "movie": {
+        "name": "Abar Hawa Bodol",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePdQRmZLTj0ccNNLDPtAN2pimGL.jpg",
+        "source_url": "https://cinefreak.net/abar-hawa-bodol-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abar%20Hawa%20Bodol%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abar%20Hawa%20Bodol%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.895795+00:00",
+      "last_attempt": "2026-11-12T00:47:45.895809+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.895811+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/lifeline-2026-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/lifeline-2026-full-movie-download",
+      "movie": {
+        "name": "Lifeline",
+        "category": "Bangla Movies",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/06/Lifeline-2026.webp",
+        "source_url": "https://cinefreak.net/lifeline-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lifeline%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Lifeline%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.896029+00:00",
+      "last_attempt": "2026-11-12T00:47:45.896032+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.896033+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/abigail-2024-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/abigail-2024-full-movie-download",
+      "movie": {
+        "name": "Abigail",
+        "category": "Bangla Movies",
+        "year": "2024",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Abigail-2024.webp",
+        "source_url": "https://cinefreak.net/abigail-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Abigail%20%282024%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.896132+00:00",
+      "last_attempt": "2026-11-12T00:47:45.896134+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.896136+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/moyurakkhi-2024-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/moyurakkhi-2024-full-movie-download",
+      "movie": {
+        "name": "Moyurakkhi",
+        "category": "Bangla Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUiMj6PVWTXoCcMWoPfned2dUoK.jpg",
+        "source_url": "https://cinefreak.net/moyurakkhi-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Moyurakkhi%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Moyurakkhi%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.896234+00:00",
+      "last_attempt": "2026-11-12T00:47:45.896236+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.896237+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/bhediya-2022-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/bhediya-2022-full-movie-download",
+      "movie": {
+        "name": "Bhediya",
+        "category": "Bangla Movies",
+        "year": "2022",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/04/Bhediya-2022.webp",
+        "source_url": "https://cinefreak.net/bhediya-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Bhediya%20%282022%29%20WEB-DL%20%5BBengali%20ORG%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.896325+00:00",
+      "last_attempt": "2026-11-12T00:47:45.896327+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.896328+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/dispassionate-love-2018-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/dispassionate-love-2018-full-movie-download",
+      "movie": {
+        "name": "[18+] Vrindavani Vairagya",
+        "category": "Bangla Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtyvlyzjBuHWTlkQJTAz0uYtrIG.jpg",
+        "source_url": "https://cinefreak.net/dispassionate-love-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Vrindavani%20Vairagya%20%282018%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.896425+00:00",
+      "last_attempt": "2026-11-12T00:47:45.896427+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.896428+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/aami-ashbo-phirey-2018-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/aami-ashbo-phirey-2018-full-movie-download",
+      "movie": {
+        "name": "Aami Ashbo Phirey",
+        "category": "Bangla Movies",
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/10rpTbaWkLyrieHpvMeEHN7BJCR.jpg",
+        "source_url": "https://cinefreak.net/aami-ashbo-phirey-2018-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Aami%20Ashbo%20Phirey%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Aami%20Ashbo%20Phirey%20%282018%29%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.896500+00:00",
+      "last_attempt": "2026-11-12T00:47:45.896501+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.896502+00:00",
+      "attempt_count": 1
+    },
+    "banglamovies::https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download": {
+      "category": "Bangla Movies",
+      "source_url": "https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download",
+      "movie": {
+        "name": "The Amazing Spider-Man 2",
+        "category": "Bangla Movies",
+        "year": "2014",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg",
+        "source_url": "https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:45.896571+00:00",
+      "last_attempt": "2026-11-12T00:47:45.896572+00:00",
+      "next_retry_at": "2026-11-12T06:47:45.896573+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/save-the-tigers-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/save-the-tigers-2026-full-series-download",
+      "movie": {
+        "name": "Save The Tigers",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-1.38.46-AM.webp",
+        "source_url": "https://cinefreak.net/save-the-tigers-2026-full-series-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Save%20the%20Tigers%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Save%20the%20Tigers%20%282026%29%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:55.555854+00:00",
+      "last_attempt": "2026-11-12T00:47:55.555871+00:00",
+      "next_retry_at": "2026-11-12T06:47:55.555872+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/cid-squad-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/cid-squad-2026-full-series-download",
+      "movie": {
+        "name": "CID Squad",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/CID-Squad-2026.webp",
+        "source_url": "https://cinefreak.net/cid-squad-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 03",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E03%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20CID%20Squad%20%5BS01E03%5D%20WEB-DL%20%5BBengali%5D%20SonyLIV%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:55.556094+00:00",
+      "last_attempt": "2026-11-12T00:47:55.556098+00:00",
+      "next_retry_at": "2026-11-12T06:47:55.556099+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/chiraiya-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/chiraiya-2026-full-series-download",
+      "movie": {
+        "name": "Chiraiya",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/03/Chiraiya-2026.webp",
+        "source_url": "https://cinefreak.net/chiraiya-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chiraiya%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chiraiya%20%282026%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:55.556264+00:00",
+      "last_attempt": "2026-11-12T00:47:55.556267+00:00",
+      "next_retry_at": "2026-11-12T06:47:55.556268+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/secret-stories-roslin-2026-full-series-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/secret-stories-roslin-2026-full-series-download",
+      "movie": {
+        "name": "Secret Stories: Roslin",
+        "category": "Bangla Dubbed",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgVtjCdC5aBADQswOGx7BnTbjgH.jpg",
+        "source_url": "https://cinefreak.net/secret-stories-roslin-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 04-06",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Secret%20Stories%20Roslin%20%5BS01E04-06%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Secret%20Stories%20Roslin%20%5BS01E04-06%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:55.556348+00:00",
+      "last_attempt": "2026-11-12T00:47:55.556349+00:00",
+      "next_retry_at": "2026-11-12T06:47:55.556350+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/voyal-2024-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/voyal-2024-full-movie-download",
+      "movie": {
+        "name": "Voyal",
+        "category": "Bangla Dubbed",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrSmtd9e5PUv7FllnU17txSaDGE.jpg",
+        "source_url": "https://cinefreak.net/voyal-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Voyal%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Voyal%20%282024%29%20WEB-DL%20%5BBengali%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:55.556411+00:00",
+      "last_attempt": "2026-11-12T00:47:55.556412+00:00",
+      "next_retry_at": "2026-11-12T06:47:55.556413+00:00",
+      "attempt_count": 1
+    },
+    "bangladubbed::https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download": {
+      "category": "Bangla Dubbed",
+      "source_url": "https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download",
+      "movie": {
+        "name": "The Amazing Spider-Man 2",
+        "category": "Bangla Dubbed",
+        "year": "2014",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/The-Amazing-Spider-Man-2-2014.jpg",
+        "source_url": "https://cinefreak.net/the-amazing-spider-man-2-2014-bengali-dubbed-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Amazing%20Spider-Man%202%20%282014%29%20WEB-DL%20%5BBengali%20ORG%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:55.556473+00:00",
+      "last_attempt": "2026-11-12T00:47:55.556474+00:00",
+      "next_retry_at": "2026-11-12T06:47:55.556475+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/dog-51-2025-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/dog-51-2025-full-movie-download",
+      "movie": {
+        "name": "Dog 51",
+        "category": "Disney Hotstar",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/olMvhbCRuhTbf6EMKxKGHi2on3L.jpg",
+        "source_url": "https://cinefreak.net/dog-51-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dog%2051%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dog%2051%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T00:47:57.803061+00:00",
+      "last_attempt": "2026-11-12T00:47:57.803077+00:00",
+      "next_retry_at": "2026-11-12T06:47:57.803078+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-11T17:56:07.975040+00:00"
+  "updated_at": "2026-11-12T00:47:57.957596+00:00"
 }

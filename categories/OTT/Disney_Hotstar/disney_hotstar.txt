@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 11
-LAST UPDATED: 2026-11-06 | 03:56:01 (UTC)
+TOTAL MOVIES: 10
+LAST UPDATED: 2026-11-12 | 00:47:57 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -210,17 +210,6 @@ Episode: Episode 05
 ================================================================================
 
 Movie-10
-Movie name: Dog 51
-Category: Disney Hotstar
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/olMvhbCRuhTbf6EMKxKGHi2on3L.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dog%2051%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-11
 Movie name: Shiva The Tiny Men From Mountain
 Category: Disney Hotstar
 Year: 2019
