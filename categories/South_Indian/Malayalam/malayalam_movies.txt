@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Malayalam Movies
-TOTAL MOVIES: 3
-LAST UPDATED: 2026-11-10 | 20:51:53 (UTC)
+TOTAL MOVIES: 1
+LAST UPDATED: 2026-11-12 | 18:22:45 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -13,28 +13,6 @@ Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQ4crcJm2QBX2bM8i0NuCKnn
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4
-
-================================================================================
-
-Movie-2
-Movie name: Journey Of Love 18+
-Category: Malayalam Movies
-Year: 2023
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncSNPsoB67lkkbJpbPP3RMRmUTq.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Journey%20Of%20Love%2018%20%282023%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SonyLiv%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-3
-Movie name: Rorschach
-Category: Malayalam Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckLgffhJzZwobpM2xnnXnKwMSIK.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Rorschach%20%282022%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv
 
 ================================================================================
 

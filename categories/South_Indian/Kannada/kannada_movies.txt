@@ -1,44 +1,11 @@
 ================================================================================
 CATEGORY: Kannada Movies
-TOTAL MOVIES: 7
-LAST UPDATED: 2026-11-10 | 04:09:58 (UTC)
+TOTAL MOVIES: 2
+LAST UPDATED: 2026-11-12 | 18:22:54 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
 Movie-1
-Movie name: Second Case Of Seetharam
-Category: Kannada Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/89Tuu93NTJVef2Y4iATRwlyAO37.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20%20Second%20Case%20of%20Seetharam%20%282026%29%20WEB-DL%20%5BHindi%20ORG-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-2
-Movie name: Karikaada
-Category: Kannada Movies
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL0skwRWivuNZHQD89baWynksct.jpg
-
-RESOLUTION 1: HEVC 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Karikaada%20%282026%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv
-
-================================================================================
-
-Movie-3
-Movie name: Brat
-Category: Kannada Movies
-Year: 2025
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6NVUbgHIz3SmrRSLU4xlfzL2Mi.jpg
-
-RESOLUTION 1: HQ 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20BRAT%20%282025%29%20WEB-DL%20%5BHindi-Kannada%5D%20HQ%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-4
 Movie name: Vidyapati
 Category: Kannada Movies
 Year: 2025
@@ -49,7 +16,7 @@ STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a
 
 ================================================================================
 
-Movie-5
+Movie-2
 Movie name: Vidaamuyarchi
 Category: Kannada Movies
 Year: 2025
@@ -57,30 +24,6 @@ Poster: https://m.media-amazon.com/images/M/MV5BYTQ1Yjk5YWMtYjg1OS00YmJjLTg0Mzgt
 
 RESOLUTION 1: HD 1080P
 STREAM Link 1: https://www.narakathegame.com/2026/0701/29818c6d4046b5570d0b3c88a2138416.mp4
-
-================================================================================
-
-Movie-6
-Movie name: Love Mocktail 2
-Category: Kannada Movies
-Year: 2022
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnXC26Zp6EGk4A1JUXQVQ7IT8RG.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-7
-Show name: Healer
-Category: Kannada Movies
-Year: 2014
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/too4Zig9bDJOfvnFfU1SaxKmGlR.jpg
-
-Season: S01
-Episode: Episode 06-10
-  Resolution-1: HD 1080P
-  Link-1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Healer%20%5BS01E06-10%5D%20WEB-DL%20%5BHindi%20ORG%5D%201080p%20ESub.mkv
 
 ================================================================================
 
