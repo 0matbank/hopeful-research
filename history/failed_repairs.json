@@ -5275,10 +5275,10 @@
     "name": "Tavvai",
     "category": "Disney Hotstar",
     "dead_links": [
-      "https://pub-f332b841dcd645d494b56b96216bdc45.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%204K-2160p%20SDR%20HEVC%20ESub.mkv"
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-19T13:25:32.164836+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-12T09:54:11.457189+00:00",
+    "attempt_count": 2
   },
   "disneyhotstar::thaaikizhavi": {
     "name": "Thaai Kizhavi",
@@ -5542,10 +5542,10 @@
     "name": "Por Thozhil",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-eb0dd3d4c4c84462bc3e3f1f8a3f1b61.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-24T18:49:49.223379+00:00",
-    "attempt_count": 2
+    "last_attempt": "2026-11-12T09:54:08.060846+00:00",
+    "attempt_count": 3
   },
   "hindimovies::governor": {
     "name": "Governor",
@@ -6358,10 +6358,10 @@
     "name": "Love Mocktail 2",
     "category": "Hindi Dubbed Movies",
     "dead_links": [
-      "https://pub-40da3f36e12a4ce7bf7be00b6ed7fa6f.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20HEVC%20ESub.mkv"
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
     ],
-    "last_attempt": "2026-10-29T23:59:05.631485+00:00",
-    "attempt_count": 1
+    "last_attempt": "2026-11-12T09:54:09.480162+00:00",
+    "attempt_count": 2
   },
   "hindidubbedmovies::mafia": {
     "name": "Mafia",
@@ -8106,6 +8106,98 @@
       "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Dog%2051%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
     ],
     "last_attempt": "2026-11-12T00:47:57.573429+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::presidentdown": {
+    "name": "President Down",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20President%20Down%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:53:52.220699+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::theinvisibleman": {
+    "name": "The Invisible Man",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:53:53.760836+00:00",
+    "attempt_count": 1
+  },
+  "englishmovies::hitch": {
+    "name": "Hitch",
+    "category": "English Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:53:55.476903+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::badlapur": {
+    "name": "Badlapur",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:53:57.507584+00:00",
+    "attempt_count": 1
+  },
+  "hindimovies::awednesday": {
+    "name": "A Wednesday!",
+    "category": "Hindi Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:53:58.951312+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::heartin": {
+    "name": "Heartin",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:54:01.080524+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::ipl": {
+    "name": "IPL",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20IPL%20Indian%20Penal%20Law%20%282025%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:54:02.418386+00:00",
+    "attempt_count": 1
+  },
+  "hindidubbedmovies::ramanaavatara": {
+    "name": "Ramana Avatara",
+    "category": "Hindi Dubbed Movies",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Ramana%20Avatara%20%282024%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:54:03.944022+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::themadison": {
+    "name": "The Madison",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:54:13.076852+00:00",
+    "attempt_count": 1
+  },
+  "disneyhotstar::shivathetinymenfrommountain": {
+    "name": "Shiva The Tiny Men From Mountain",
+    "category": "Disney Hotstar",
+    "dead_links": [
+      "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+    ],
+    "last_attempt": "2026-11-12T09:54:14.480241+00:00",
     "attempt_count": 1
   }
 }

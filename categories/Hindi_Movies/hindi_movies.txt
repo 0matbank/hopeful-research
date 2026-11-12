@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Hindi Movies
-TOTAL MOVIES: 12
-LAST UPDATED: 2026-11-10 | 18:59:18 (UTC)
+TOTAL MOVIES: 10
+LAST UPDATED: 2026-11-12 | 09:53:59 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -108,28 +108,6 @@ STREAM Link 2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-10
-Movie name: Badlapur
-Category: Hindi Movies
-Year: 2015
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bbJBjCcyjYyMG9kW38X55tgiYu.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-11
-Movie name: A Wednesday!
-Category: Hindi Movies
-Year: 2008
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVUSxtJM3arL5VIUIRNYde20EF0.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv
-
-================================================================================
-
-Movie-12
 Movie name: Malamaal Weekly
 Category: Hindi Movies
 Year: 2006

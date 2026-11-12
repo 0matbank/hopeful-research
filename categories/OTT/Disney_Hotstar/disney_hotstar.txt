@@ -1,7 +1,7 @@
 ================================================================================
 CATEGORY: Disney Hotstar
-TOTAL MOVIES: 10
-LAST UPDATED: 2026-11-12 | 00:47:57 (UTC)
+TOTAL MOVIES: 7
+LAST UPDATED: 2026-11-12 | 09:54:14 (UTC)
 NOTICE: This repository and data are created strictly for EDUCATIONAL PURPOSES only and not for any commercial use.
 ================================================================================
 
@@ -155,17 +155,6 @@ STREAM Link 2: https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP
 ================================================================================
 
 Movie-6
-Movie name: Tavvai
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-7
 Show name: 108 Base Hospital Uri
 Category: Disney Hotstar
 Year: 2026
@@ -178,7 +167,7 @@ Episode: Episode 07
 
 ================================================================================
 
-Movie-8
+Movie-7
 Show name: Daredevil: Born Again
 Category: Disney Hotstar
 Year: 2026
@@ -188,35 +177,6 @@ Season: S02
 Episode: Episode 08
   Resolution-1: HD 1080P
   Link-1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Daredevil%20Born%20Again%20%5BS02E08%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-9
-Show name: The Madison
-Category: Disney Hotstar
-Year: 2026
-Poster: https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg
-
-Season: S01
-Episode: Episode 02
-  Resolution-1: HD 1080P
-  Link-1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-Season: S01
-Episode: Episode 05
-  Resolution-2: HD 1080P
-  Link-2: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
-
-================================================================================
-
-Movie-10
-Movie name: Shiva The Tiny Men From Mountain
-Category: Disney Hotstar
-Year: 2019
-Poster: https://cinefreak.net/wp-content/uploads/2026/05/Shiva-The-Tiny-Men-From-Mountain-2025.jpg
-
-RESOLUTION 1: HD 1080P
-STREAM Link 1: https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv
 
 ================================================================================
 

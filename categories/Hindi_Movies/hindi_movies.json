@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Hindi Movies",
-    "total_movies": 12,
-    "last_updated": "2026-11-10 | 18:59:18 (UTC)",
+    "total_movies": 10,
+    "last_updated": "2026-11-12 | 09:53:59 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -124,32 +124,6 @@
         {
           "resolution": "HD 1080P",
           "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Maa%20Behen%20%282026%29%20WEB-DL%20%5BHindi%5D%20NF%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Badlapur",
-      "category": "Hindi Movies",
-      "year": "2015",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bbJBjCcyjYyMG9kW38X55tgiYu.jpg",
-      "source_url": "https://cinefreak.net/badlapur-2015-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "A Wednesday!",
-      "category": "Hindi Movies",
-      "year": "2008",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
-      "source_url": "https://cinefreak.net/a-wednesday-2008-full-movie-download",
-      "res_list": [
-        {
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
         }
       ]
     },

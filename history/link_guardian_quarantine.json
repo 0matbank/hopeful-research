@@ -21,9 +21,9 @@
         "https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Hero%20%282021%29%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.757409+00:00",
-      "last_attempt": "2026-11-09T09:52:40.690602+00:00",
-      "next_retry_at": "2026-11-12T09:52:40.690620+00:00",
-      "attempt_count": 26
+      "last_attempt": "2026-11-12T09:53:49.730572+00:00",
+      "next_retry_at": "2026-11-15T09:53:49.730592+00:00",
+      "attempt_count": 27
     },
     "kannadamovies::https://cinefreak.net/pogaru-2021-hindi-dubbed-hindi-kannada-uncut-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Kannada Movies",
@@ -22651,7 +22651,333 @@
       "last_attempt": "2026-11-12T00:47:57.803077+00:00",
       "next_retry_at": "2026-11-12T06:47:57.803078+00:00",
       "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/president-down-2025-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/president-down-2025-full-movie-download",
+      "movie": {
+        "name": "President Down",
+        "category": "English Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGhd4DurS1rhmNOb7b9EeobQTPe.jpg",
+        "source_url": "https://cinefreak.net/president-down-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20President%20Down%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20President%20Down%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:53:55.561520+00:00",
+      "last_attempt": "2026-11-12T09:53:55.561535+00:00",
+      "next_retry_at": "2026-11-12T15:53:55.561537+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/the-invisible-man-2020-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/the-invisible-man-2020-full-movie-download",
+      "movie": {
+        "name": "The Invisible Man",
+        "category": "English Movies",
+        "year": "2020",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+        "source_url": "https://cinefreak.net/the-invisible-man-2020-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Invisible%20Man%20%282020%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:53:55.561837+00:00",
+      "last_attempt": "2026-11-12T09:53:55.561842+00:00",
+      "next_retry_at": "2026-11-12T15:53:55.561844+00:00",
+      "attempt_count": 1
+    },
+    "englishmovies::https://cinefreak.net/hitch-2005-full-movie-download": {
+      "category": "English Movies",
+      "source_url": "https://cinefreak.net/hitch-2005-full-movie-download",
+      "movie": {
+        "name": "Hitch",
+        "category": "English Movies",
+        "year": "2005",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+        "source_url": "https://cinefreak.net/hitch-2005-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Hitch%20%282005%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:53:55.561982+00:00",
+      "last_attempt": "2026-11-12T09:53:55.561985+00:00",
+      "next_retry_at": "2026-11-12T15:53:55.561986+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/badlapur-2015-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/badlapur-2015-full-movie-download",
+      "movie": {
+        "name": "Badlapur",
+        "category": "Hindi Movies",
+        "year": "2015",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bbJBjCcyjYyMG9kW38X55tgiYu.jpg",
+        "source_url": "https://cinefreak.net/badlapur-2015-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Badlapur%20%282015%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:53:59.038861+00:00",
+      "last_attempt": "2026-11-12T09:53:59.038875+00:00",
+      "next_retry_at": "2026-11-12T15:53:59.038877+00:00",
+      "attempt_count": 1
+    },
+    "hindimovies::https://cinefreak.net/a-wednesday-2008-full-movie-download": {
+      "category": "Hindi Movies",
+      "source_url": "https://cinefreak.net/a-wednesday-2008-full-movie-download",
+      "movie": {
+        "name": "A Wednesday!",
+        "category": "Hindi Movies",
+        "year": "2008",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+        "source_url": "https://cinefreak.net/a-wednesday-2008-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20A%20Wednesday%20%282008%29%20WEB-DL%20%5BHindi%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:53:59.039144+00:00",
+      "last_attempt": "2026-11-12T09:53:59.039150+00:00",
+      "next_retry_at": "2026-11-12T15:53:59.039152+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/heartin-2026-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/heartin-2026-full-movie-download",
+      "movie": {
+        "name": "Heartin",
+        "category": "Hindi Dubbed Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+        "source_url": "https://cinefreak.net/heartin-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Heartin%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:09.610359+00:00",
+      "last_attempt": "2026-11-12T09:54:09.610374+00:00",
+      "next_retry_at": "2026-11-12T15:54:09.610376+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/ipl-2025-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/ipl-2025-full-movie-download",
+      "movie": {
+        "name": "IPL",
+        "category": "Hindi Dubbed Movies",
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXNuxvpzCkw22wnO9Uvjn7KmV1I.jpg",
+        "source_url": "https://cinefreak.net/ipl-2025-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20IPL%20Indian%20Penal%20Law%20%282025%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20IPL%20Indian%20Penal%20Law%20%282025%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:09.610643+00:00",
+      "last_attempt": "2026-11-12T09:54:09.610647+00:00",
+      "next_retry_at": "2026-11-12T15:54:09.610649+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/ramana-avatara-2024-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/ramana-avatara-2024-full-movie-download",
+      "movie": {
+        "name": "Ramana Avatara",
+        "category": "Hindi Dubbed Movies",
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aFPNvFOayw6TdhiXgcLBQ8J8OH.jpg",
+        "source_url": "https://cinefreak.net/ramana-avatara-2024-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Ramana%20Avatara%20%282024%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Ramana%20Avatara%20%282024%29%20WEB-DL%20%5BHindi%20ORG%5D%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:09.610773+00:00",
+      "last_attempt": "2026-11-12T09:54:09.610776+00:00",
+      "next_retry_at": "2026-11-12T15:54:09.610777+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/por-thozhil-2023-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/por-thozhil-2023-full-movie-download",
+      "movie": {
+        "name": "Por Thozhil",
+        "category": "Hindi Dubbed Movies",
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZ2BbjGBDRW5Q5Q9jgEknuiEQ0f.jpg",
+        "source_url": "https://cinefreak.net/por-thozhil-2023-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Por%20Thozhil%20%282023%29%20DS4K%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:09.610889+00:00",
+      "last_attempt": "2026-11-12T09:54:09.610892+00:00",
+      "next_retry_at": "2026-11-12T15:54:09.610893+00:00",
+      "attempt_count": 1
+    },
+    "hindidubbedmovies::https://cinefreak.net/love-mocktail-2-2022-full-movie-download": {
+      "category": "Hindi Dubbed Movies",
+      "source_url": "https://cinefreak.net/love-mocktail-2-2022-full-movie-download",
+      "movie": {
+        "name": "Love Mocktail 2",
+        "category": "Hindi Dubbed Movies",
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnXC26Zp6EGk4A1JUXQVQ7IT8RG.jpg",
+        "source_url": "https://cinefreak.net/love-mocktail-2-2022-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Love%20Mocktail%202%20%282022%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:09.610999+00:00",
+      "last_attempt": "2026-11-12T09:54:09.611002+00:00",
+      "next_retry_at": "2026-11-12T15:54:09.611003+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/tavvai-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/tavvai-full-movie-download",
+      "movie": {
+        "name": "Tavvai",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg",
+        "source_url": "https://cinefreak.net/tavvai-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:14.577254+00:00",
+      "last_attempt": "2026-11-12T09:54:14.577269+00:00",
+      "next_retry_at": "2026-11-12T15:54:14.577272+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/the-madison-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/the-madison-2026-full-series-download",
+      "movie": {
+        "name": "The Madison",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+        "source_url": "https://cinefreak.net/the-madison-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 02",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E02%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20The%20Madison%20%5BS01E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:14.577559+00:00",
+      "last_attempt": "2026-11-12T09:54:14.577564+00:00",
+      "next_retry_at": "2026-11-12T15:54:14.577565+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+      "movie": {
+        "name": "Shiva The Tiny Men From Mountain",
+        "category": "Disney Hotstar",
+        "year": "2019",
+        "poster": "https://cinefreak.net/wp-content/uploads/2026/05/Shiva-The-Tiny-Men-From-Mountain-2025.jpg",
+        "source_url": "https://cinefreak.net/shiva-the-tiny-men-from-mountain-2019-bengali-dubbed-hindi-dual-audio-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Shiva%20The%20Tiny%20Men%20From%20Mountain%20%282019%29%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p.mkv"
+      ],
+      "quarantined_at": "2026-11-12T09:54:14.577688+00:00",
+      "last_attempt": "2026-11-12T09:54:14.577690+00:00",
+      "next_retry_at": "2026-11-12T15:54:14.577692+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-12T00:47:57.957596+00:00"
+  "updated_at": "2026-11-12T09:54:14.587442+00:00"
 }
