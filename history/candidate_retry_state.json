@@ -2413,6 +2413,66 @@
         "last_failed_at": "2026-11-11T18:57:53.764879+00:00",
         "retry_after_epoch": 1794466673,
         "retry_after": "2026-11-12T06:57:53.764879+00:00"
+      },
+      "https://cinefreak.net/ishq-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950849+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950849+00:00"
+      },
+      "https://cinefreak.net/athadu-2005-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950901+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950901+00:00"
+      },
+      "https://cinefreak.net/the-mongoose-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950913+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950913+00:00"
+      },
+      "https://cinefreak.net/anakapalli-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950922+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950922+00:00"
+      },
+      "https://cinefreak.net/kick-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950933+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950933+00:00"
+      },
+      "https://cinefreak.net/kammara-sambhavam-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950940+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950940+00:00"
+      },
+      "https://cinefreak.net/prasanna-vadanam-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950962+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950962+00:00"
+      },
+      "https://cinefreak.net/cold-call-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950969+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950969+00:00"
+      },
+      "https://cinefreak.net/dont-trouble-the-trouble-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950977+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950977+00:00"
+      },
+      "https://cinefreak.net/avaraachan-sons-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-12T04:39:19.950984+00:00",
+        "retry_after_epoch": 1794501559,
+        "retry_after": "2026-11-12T16:39:19.950984+00:00"
       }
     },
     "Disney Hotstar": {
