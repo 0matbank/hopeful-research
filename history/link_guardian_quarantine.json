@@ -45,9 +45,9 @@
         "https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Pogaru%20%282020%29%20UNCUT%20WEB-DL%20%5BHindi-Kannada%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-08-30T14:36:26.758401+00:00",
-      "last_attempt": "2026-11-10T04:09:34.053882+00:00",
-      "next_retry_at": "2026-11-13T04:09:34.053901+00:00",
-      "attempt_count": 26
+      "last_attempt": "2026-11-13T09:36:13.959196+00:00",
+      "next_retry_at": "2026-11-16T09:36:13.959215+00:00",
+      "attempt_count": 27
     },
     "banglamovies::https://cinefreak.net/bhuto-purbo-2025-full-movie-download": {
       "category": "Bangla Movies",
@@ -23552,7 +23552,126 @@
       "last_attempt": "2026-11-13T01:08:41.186035+00:00",
       "next_retry_at": "2026-11-13T07:08:41.186038+00:00",
       "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/beast-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/beast-2026-full-movie-download",
+      "movie": {
+        "name": "Beast",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+        "source_url": "https://cinefreak.net/beast-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Beast%20%282026%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Beast%20%282026%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-13T09:36:21.307694+00:00",
+      "last_attempt": "2026-11-13T09:36:21.307707+00:00",
+      "next_retry_at": "2026-11-13T15:36:21.307709+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/house-of-the-dragon-2022-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/house-of-the-dragon-2022-full-series-download",
+      "movie": {
+        "name": "House Of The Dragon",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "source_url": "https://cinefreak.net/house-of-the-dragon-2022-full-series-download",
+        "res_list": [
+          {
+            "season": "S03",
+            "episode": "Episode 01",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S03",
+            "episode": "Episode 05",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S03",
+            "episode": "Episode 07",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E01%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E05%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20House%20Of%20The%20Dragon%20%5BS03E07%5D%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-13T09:36:21.307935+00:00",
+      "last_attempt": "2026-11-13T09:36:21.307939+00:00",
+      "next_retry_at": "2026-11-13T15:36:21.307940+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download",
+      "movie": {
+        "name": "Chinna Chinna Aasai",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/IM2OXyozpmi9dLpx46XYQXxOTd.jpg",
+        "source_url": "https://cinefreak.net/chinna-chinna-aasai-2026-full-movie-download",
+        "res_list": [
+          {
+            "resolution": "HEVC 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv"
+          },
+          {
+            "resolution": "HQ 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20DS4K%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20HEVC%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-13T09:36:21.308172+00:00",
+      "last_attempt": "2026-11-13T09:36:21.308177+00:00",
+      "next_retry_at": "2026-11-13T15:36:21.308179+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/daredevil-born-again-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/daredevil-born-again-2026-full-series-download",
+      "movie": {
+        "name": "Daredevil: Born Again",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+        "source_url": "https://cinefreak.net/daredevil-born-again-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S02",
+            "episode": "Episode 08",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Daredevil%20Born%20Again%20%5BS02E08%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Daredevil%20Born%20Again%20%5BS02E08%5D%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-13T09:36:21.308308+00:00",
+      "last_attempt": "2026-11-13T09:36:21.308311+00:00",
+      "next_retry_at": "2026-11-13T15:36:21.308312+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-13T01:08:41.194164+00:00"
+  "updated_at": "2026-11-13T09:36:21.316345+00:00"
 }
