@@ -1,8 +1,8 @@
 {
   "category_info": {
     "category_name": "Disney Hotstar",
-    "total_movies": 7,
-    "last_updated": "2026-11-12 | 09:54:14 (UTC)",
+    "total_movies": 6,
+    "last_updated": "2026-11-13 | 01:08:41 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
   "movies": [
@@ -180,21 +180,6 @@
         {
           "resolution": "HQ 1080P",
           "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Chinna%20Chinna%20Aasai%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%20HQ%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "108 Base Hospital Uri",
-      "category": "Disney Hotstar",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2zF4NDPU0xTPKb5wrOhsFdYARR.jpg",
-      "source_url": "https://cinefreak.net/108-base-hospital-uri-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 07",
-          "resolution": "HD 1080P",
-          "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20108%20Base%20Hospital%20-%20Uri%20%5BS01E07%5D%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
         }
       ]
     },

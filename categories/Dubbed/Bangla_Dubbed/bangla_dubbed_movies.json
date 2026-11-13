@@ -1,85 +1,9 @@
 {
   "category_info": {
     "category_name": "Bangla Dubbed",
-    "total_movies": 3,
-    "last_updated": "2026-11-12 | 19:16:23 (UTC)",
+    "total_movies": 0,
+    "last_updated": "2026-11-13 | 01:08:35 (UTC)",
     "purpose": "Strictly for educational purposes and not for commercial use."
   },
-  "movies": [
-    {
-      "name": "Sultan Salahuddin Ayyubi",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-      "source_url": "https://cinefreak.net/saladin-the-conqueror-of-jerusalem-2023-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E08%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 09",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E09%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 12",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E12%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
-        },
-        {
-          "season": "S01",
-          "episode": "Episode 28",
-          "resolution": "HD 1080P",
-          "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Sultan%20Salahuddin%20Ayyubi%20%5BS01E28%5D%20WEB-DL%20%5BBengali%20ORG%5D%20BONGOBD%201080p.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Thukra Ke Mera Pyaar",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnWyFmAGQaUdi1kISvXqy20HHoR.jpg",
-      "source_url": "https://cinefreak.net/thukra-ke-mera-pyaar-2024-full-series-download",
-      "res_list": [
-        {
-          "season": "S02",
-          "episode": "Episode 05-08",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S02",
-          "episode": "Episode 26-29",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        },
-        {
-          "season": "S02",
-          "episode": "Episode 38-41",
-          "resolution": "HD 1080P",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-        }
-      ]
-    },
-    {
-      "name": "Muthu Engira Kaattaan",
-      "category": "Bangla Dubbed",
-      "year": "2026",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOxTfnDo0tOKWKBsoTmJHYjOrme.jpg",
-      "source_url": "https://cinefreak.net/muthu-engira-kaattaan-2026-full-series-download",
-      "res_list": [
-        {
-          "season": "S01",
-          "episode": "Episode 10",
-          "resolution": "4K 2160P HEVC",
-          "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Muthu%20Alias%20Kaattaan%20%5BS01E10%5D%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%204K-2160p%20SDR%20HEVC%20ESub.mkv"
-        }
-      ]
-    }
-  ]
+  "movies": []
 }
