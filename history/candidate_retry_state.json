@@ -45,34 +45,34 @@
         "retry_after": "2026-11-20T03:52:18.875351+00:00"
       },
       "https://cinefreak.net/f2-fun-and-frustration-2019-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 3,
-        "last_failed_at": "2026-10-29T03:11:25.152377+00:00",
-        "retry_after_epoch": 1793502685,
-        "retry_after": "2026-11-01T03:11:25.152377+00:00"
+        "failure_count": 4,
+        "last_failed_at": "2026-11-13T18:52:35.544653+00:00",
+        "retry_after_epoch": 1795200755,
+        "retry_after": "2026-11-20T18:52:35.544653+00:00"
       },
       "https://cinefreak.net/amigos-doppel-dot-com-2024-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 2,
-        "last_failed_at": "2026-09-29T03:03:48.472590+00:00",
-        "retry_after_epoch": 1790737428,
-        "retry_after": "2026-09-30T03:03:48.472590+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-13T18:52:35.544662+00:00",
+        "retry_after_epoch": 1794855155,
+        "retry_after": "2026-11-16T18:52:35.544662+00:00"
       },
       "https://cinefreak.net/a-aa-premi-2016-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 2,
-        "last_failed_at": "2026-09-29T03:03:48.723245+00:00",
-        "retry_after_epoch": 1790737428,
-        "retry_after": "2026-09-30T03:03:48.723245+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-13T18:52:35.544668+00:00",
+        "retry_after_epoch": 1794855155,
+        "retry_after": "2026-11-16T18:52:35.544668+00:00"
       },
       "https://cinefreak.net/tej-i-love-you-2018-bengali-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 2,
-        "last_failed_at": "2026-09-29T03:03:48.723278+00:00",
-        "retry_after_epoch": 1790737428,
-        "retry_after": "2026-09-30T03:03:48.723278+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-13T18:52:35.544672+00:00",
+        "retry_after_epoch": 1794855155,
+        "retry_after": "2026-11-16T18:52:35.544672+00:00"
       },
       "https://cinefreak.net/johaar-2025-bengali-dubbed-web-dl-480p-720p-1080p-4k-2160p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-09-14T15:19:22.383273+00:00",
-        "retry_after_epoch": 1789442362,
-        "retry_after": "2026-09-15T03:19:22.383273+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-13T18:52:35.544677+00:00",
+        "retry_after_epoch": 1794682355,
+        "retry_after": "2026-11-14T18:52:35.544677+00:00"
       },
       "https://cinefreak.net/universal-soldier-regeneration-2009-bengali-org-web-dl-480p-720p-1080p-full-movie-download-watch-online-bongo-gdrive-esub-cinefreak": {
         "failure_count": 1,
@@ -201,10 +201,10 @@
         "retry_after": "2026-11-14T03:52:18.875340+00:00"
       },
       "https://cinefreak.net/noropishach-ratsasan-2018-bengali-dubbed-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-12T19:16:23.442011+00:00",
-        "retry_after_epoch": 1794554183,
-        "retry_after": "2026-11-13T07:16:23.442011+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-13T18:52:35.544612+00:00",
+        "retry_after_epoch": 1794682355,
+        "retry_after": "2026-11-14T18:52:35.544612+00:00"
       }
     },
     "Bangla Movies": {
