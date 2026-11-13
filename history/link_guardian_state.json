@@ -3,88 +3,6 @@
   "suspects": {},
   "source_gaps": {},
   "repair_queue": {
-    "hindimovies::https://cinefreak.net/aakhri-sawal-2026-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/aakhri-sawal-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Aakhri%20Sawal%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-08T09:04:02.041399+00:00"
-    },
-    "hindimovies::https://cinefreak.net/the-great-grand-superhero-2026-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/the-great-grand-superhero-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20The%20Great%20Grand%20Superhero%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-09T09:53:00.952935+00:00"
-    },
-    "hindimovies::https://cinefreak.net/cocaine-2026-full-movie-download": {
-      "category": "Hindi Movies",
-      "source_url": "https://cinefreak.net/cocaine-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Cocaine%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-08T16:42:46.079248+00:00"
-    },
-    "englishmovies::https://cinefreak.net/drawn-together-2026-full-movie-download": {
-      "category": "English Movies",
-      "source_url": "https://cinefreak.net/drawn-together-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20HQ%201080p%20ESub.mkv",
-        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Drawn%20Together%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20HEVC%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-05T23:41:33.207467+00:00"
-    },
-    "englishmovies::https://cinefreak.net/stand-your-ground-2025-full-movie-download": {
-      "category": "English Movies",
-      "source_url": "https://cinefreak.net/stand-your-ground-2025-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Stand%20Your%20Ground%20%282025%29%20BluRay%20%5BHindi-English%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-06T15:58:05.111151+00:00"
-    },
-    "disneyhotstar::https://cinefreak.net/thukra-ke-mera-pyaar-2024-full-series-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/thukra-ke-mera-pyaar-2024-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E01-04%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv",
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E05-08%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv",
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E26-29%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv",
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Thukra%20Ke%20Mera%20Pyaar%20%5BS02E38-41%5D%20WEB-DL%20%5BBengali-Hindi%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-05T16:30:58.836821+00:00"
-    },
     "disneyhotstar::https://cinefreak.net/resort-2026-full-series-download": {
       "category": "Disney Hotstar",
       "source_url": "https://cinefreak.net/resort-2026-full-series-download",
@@ -98,49 +16,9 @@
         "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E93-96%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
+      "last_seen": "2026-11-13T17:48:02.135578+00:00",
       "attempt_count": 2,
-      "last_attempt": "2026-11-13T09:36:21.310343+00:00",
-      "last_outcome": "failed"
-    },
-    "hindidubbedmovies::https://cinefreak.net/double-occupancy-2026-full-movie-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/double-occupancy-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Double%20Occupancy%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-07T01:58:33.708588+00:00"
-    },
-    "hindidubbedmovies::https://cinefreak.net/maharaja-hostel-2026-full-movie-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/maharaja-hostel-2026-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Maharaja%20Hostel%20%282026%29%20WEB-DL%20%5BHindi-Malayalam%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-07T16:29:22.594418+00:00"
-    },
-    "hindidubbedmovies::https://cinefreak.net/the-devil-2025-full-movie-download": {
-      "category": "Hindi Dubbed Movies",
-      "source_url": "https://cinefreak.net/the-devil-2025-full-movie-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-517c71b46fb044a6ad291c50b48f19a7.r2.dev/CINEFREAK.TOP%20-%20The%20Devil%20%282025%29%20DS4K%20WEB-DL%20%5BHindi%20HQ-Kannada%5D%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-08T01:29:03.552547+00:00"
+      "last_attempt": "2026-11-13T09:36:21.310343+00:00"
     },
     "tamilmovies::https://cinefreak.net/brothers-and-sisters-2026-full-series-download": {
       "category": "Tamil Movies",
@@ -148,16 +26,15 @@
       "kind": "dead",
       "expected_count": 0,
       "dead_links": [
-        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E01-04%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
         "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
         "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
       ],
       "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T09:36:12.126809+00:00",
-      "attempt_count": 1,
-      "last_attempt": "2026-11-10T20:51:53.263893+00:00"
+      "last_seen": "2026-11-13T17:48:02.135578+00:00",
+      "attempt_count": 2,
+      "last_attempt": "2026-11-13T17:48:27.659101+00:00",
+      "last_outcome": "failed"
     }
   },
-  "updated_at": "2026-11-13T09:36:21.310369+00:00"
+  "updated_at": "2026-11-13T17:48:27.659129+00:00"
 }
