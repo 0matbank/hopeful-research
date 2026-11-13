@@ -99,9 +99,9 @@
         "https://pub-e897196734e640298f2a860e48ea74f2.r2.dev/CINEFREAK.TOP%20-%20%20Save%20The%20Tigers%20%282023%29%20S01%20WEB-DL%20%5BBengali-Hindi%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-09T00:29:27.033051+00:00",
-      "last_attempt": "2026-11-10T20:51:37.720367+00:00",
-      "next_retry_at": "2026-11-13T20:51:37.720384+00:00",
-      "attempt_count": 18
+      "last_attempt": "2026-11-13T23:37:46.388218+00:00",
+      "next_retry_at": "2026-11-16T23:37:46.388235+00:00",
+      "attempt_count": 19
     },
     "bangladubbed::https://cinefreak.net/motu-patlu-the-mighty-magnathor-2025-dual-audio-bengali-dubbed-hindi-web-dl-480p-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
       "category": "Bangla Dubbed",
@@ -23915,7 +23915,94 @@
       "last_attempt": "2026-11-13T17:48:27.657267+00:00",
       "next_retry_at": "2026-11-13T23:48:27.657269+00:00",
       "attempt_count": 1
+    },
+    "tamilmovies::https://cinefreak.net/brothers-and-sisters-2026-full-series-download": {
+      "category": "Tamil Movies",
+      "source_url": "https://cinefreak.net/brothers-and-sisters-2026-full-series-download",
+      "movie": {
+        "name": "Brothers And Sisters",
+        "category": "Tamil Movies",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUmJyNe5UT301KwVWrxctpP2sqU.jpg",
+        "source_url": "https://cinefreak.net/brothers-and-sisters-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 41-44",
+            "resolution": "HD 1080P",
+            "link": "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 45-48",
+            "resolution": "HD 1080P",
+            "link": "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-13T23:37:48.516100+00:00",
+      "last_attempt": "2026-11-13T23:37:48.516113+00:00",
+      "next_retry_at": "2026-11-14T05:37:48.516115+00:00",
+      "attempt_count": 1
+    },
+    "disneyhotstar::https://cinefreak.net/resort-2026-full-series-download": {
+      "category": "Disney Hotstar",
+      "source_url": "https://cinefreak.net/resort-2026-full-series-download",
+      "movie": {
+        "name": "Resort",
+        "category": "Disney Hotstar",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL7iOwqapRRb7eKKlXI4FDaP6rh.jpg",
+        "source_url": "https://cinefreak.net/resort-2026-full-series-download",
+        "res_list": [
+          {
+            "season": "S01",
+            "episode": "Episode 17-20",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 37-40",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 53-56",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 57-60",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+          },
+          {
+            "season": "S01",
+            "episode": "Episode 93-96",
+            "resolution": "HD 1080P",
+            "link": "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E93-96%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+          }
+        ]
+      },
+      "dead_links": [
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
+        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E93-96%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
+      ],
+      "quarantined_at": "2026-11-13T23:37:50.893051+00:00",
+      "last_attempt": "2026-11-13T23:37:50.893067+00:00",
+      "next_retry_at": "2026-11-14T05:37:50.893069+00:00",
+      "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-13T17:48:27.666157+00:00"
+  "updated_at": "2026-11-13T23:37:50.901255+00:00"
 }

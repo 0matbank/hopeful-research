@@ -2,39 +2,6 @@
   "version": 3,
   "suspects": {},
   "source_gaps": {},
-  "repair_queue": {
-    "disneyhotstar::https://cinefreak.net/resort-2026-full-series-download": {
-      "category": "Disney Hotstar",
-      "source_url": "https://cinefreak.net/resort-2026-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E17-20%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E37-40%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E53-56%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E57-60%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-        "https://pub-d7567522e12c40939611b17e558f21d5.r2.dev/CINEFREAK.TOP%20-%20Resort%20%5BS01E93-96%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T17:48:02.135578+00:00",
-      "attempt_count": 2,
-      "last_attempt": "2026-11-13T09:36:21.310343+00:00"
-    },
-    "tamilmovies::https://cinefreak.net/brothers-and-sisters-2026-full-series-download": {
-      "category": "Tamil Movies",
-      "source_url": "https://cinefreak.net/brothers-and-sisters-2026-full-series-download",
-      "kind": "dead",
-      "expected_count": 0,
-      "dead_links": [
-        "https://pub-882ef609e0d044d2a950ceb655d0a294.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E45-48%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv",
-        "https://pub-cffc8b5518bd4251a162a6ad7810bd6b.r2.dev/CINEFREAK.TOP%20-%20Brothers%20and%20Sisters%20%5BS01E41-44%5D%20WEB-DL%20%5BHindi-Tamil%5D%20JHS%201080p%20ESub.mkv"
-      ],
-      "discovered_at": "2026-11-01T13:31:34.545615+00:00",
-      "last_seen": "2026-11-13T17:48:02.135578+00:00",
-      "attempt_count": 2,
-      "last_attempt": "2026-11-13T17:48:27.659101+00:00",
-      "last_outcome": "failed"
-    }
-  },
-  "updated_at": "2026-11-13T17:48:27.659129+00:00"
+  "repair_queue": {},
+  "updated_at": "2026-11-13T23:37:50.894708+00:00"
 }
