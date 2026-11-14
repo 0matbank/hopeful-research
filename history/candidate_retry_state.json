@@ -1033,10 +1033,10 @@
         "retry_after": "2026-10-31T14:59:03.620867+00:00"
       },
       "https://cinefreak.net/the-court-2026-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-14T03:50:41.651205+00:00",
-        "retry_after_epoch": 1794671441,
-        "retry_after": "2026-11-14T15:50:41.651205+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-14T17:25:33.320166+00:00",
+        "retry_after_epoch": 1794763533,
+        "retry_after": "2026-11-15T17:25:33.320166+00:00"
       },
       "https://cinefreak.net/lenin-pandiyan-2026-full-movie-download": {
         "failure_count": 1,
@@ -1091,6 +1091,60 @@
         "last_failed_at": "2026-11-14T03:50:41.651339+00:00",
         "retry_after_epoch": 1794671441,
         "retry_after": "2026-11-14T15:50:41.651339+00:00"
+      },
+      "https://cinefreak.net/meesaya-murukku-2-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320069+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320069+00:00"
+      },
+      "https://cinefreak.net/the-mongoose-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320120+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320120+00:00"
+      },
+      "https://cinefreak.net/kick-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320129+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320129+00:00"
+      },
+      "https://cinefreak.net/cold-call-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320135+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320135+00:00"
+      },
+      "https://cinefreak.net/dc-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320141+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320141+00:00"
+      },
+      "https://cinefreak.net/por-thozhil-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320146+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320146+00:00"
+      },
+      "https://cinefreak.net/parking-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320152+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320152+00:00"
+      },
+      "https://cinefreak.net/thugs-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320157+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320157+00:00"
+      },
+      "https://cinefreak.net/thaai-kizhavi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-14T17:25:33.320162+00:00",
+        "retry_after_epoch": 1794720333,
+        "retry_after": "2026-11-15T05:25:33.320162+00:00"
       }
     },
     "Malayalam Movies": {
