@@ -219,9 +219,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Agent%20Zero%20%282025%29%20BluRay%20%5BHindi-French%5D%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898293+00:00",
-      "last_attempt": "2026-11-12T18:22:28.886091+00:00",
-      "next_retry_at": "2026-11-15T18:22:28.886106+00:00",
-      "attempt_count": 13
+      "last_attempt": "2026-11-15T22:53:26.150058+00:00",
+      "next_retry_at": "2026-11-18T22:53:26.150073+00:00",
+      "attempt_count": 14
     },
     "disneyhotstar::https://cinefreak.net/chris-hemsworth-a-road-trip-to-remember-2025-full-movie-download": {
       "category": "Disney Hotstar",
@@ -24004,5 +24004,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-15T17:14:13.721768+00:00"
+  "updated_at": "2026-11-15T22:53:26.191599+00:00"
 }
