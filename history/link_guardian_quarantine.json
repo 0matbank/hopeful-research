@@ -267,9 +267,9 @@
         "https://pub-fba9cb0fceb344878e4c6aa9ef1be127.r2.dev/CINEFREAK.TOP%20-%20Expedition%20Amazon%20%282024%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub%E2%80%8B.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898796+00:00",
-      "last_attempt": "2026-11-07T21:55:17.424500+00:00",
-      "next_retry_at": "2026-11-10T21:55:17.424516+00:00",
-      "attempt_count": 9
+      "last_attempt": "2026-11-15T09:31:05.405280+00:00",
+      "next_retry_at": "2026-11-18T09:31:05.405297+00:00",
+      "attempt_count": 10
     },
     "disneyhotstar::https://cinefreak.net/explorer-lake-of-fire-2023-full-movie-download": {
       "category": "Disney Hotstar",
@@ -24004,5 +24004,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-15T01:58:04.929274+00:00"
+  "updated_at": "2026-11-15T09:31:05.440668+00:00"
 }
