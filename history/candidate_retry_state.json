@@ -1467,64 +1467,64 @@
         "retry_after": "2026-11-18T18:06:25.455150+00:00"
       },
       "https://cinefreak.net/annayum-rasoolum-2013-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T17:21:02.362641+00:00",
-        "retry_after_epoch": 1793640062,
-        "retry_after": "2026-11-02T17:21:02.362641+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T03:30:22.679714+00:00",
+        "retry_after_epoch": 1795059022,
+        "retry_after": "2026-11-19T03:30:22.679714+00:00"
       },
       "https://cinefreak.net/ohm-shanthi-oshaana-2014-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T17:21:02.362648+00:00",
-        "retry_after_epoch": 1793640062,
-        "retry_after": "2026-11-02T17:21:02.362648+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T03:30:22.679764+00:00",
+        "retry_after_epoch": 1795059022,
+        "retry_after": "2026-11-19T03:30:22.679764+00:00"
       },
       "https://cinefreak.net/its-a-medical-miracle-2026-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T17:21:02.362655+00:00",
-        "retry_after_epoch": 1793640062,
-        "retry_after": "2026-11-02T17:21:02.362655+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T03:30:22.679775+00:00",
+        "retry_after_epoch": 1795059022,
+        "retry_after": "2026-11-19T03:30:22.679775+00:00"
       },
       "https://cinefreak.net/pulimada-2023-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T17:21:02.362661+00:00",
-        "retry_after_epoch": 1793640062,
-        "retry_after": "2026-11-02T17:21:02.362661+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T03:30:22.679783+00:00",
+        "retry_after_epoch": 1795059022,
+        "retry_after": "2026-11-19T03:30:22.679783+00:00"
       },
       "https://cinefreak.net/dhoomakethu-2026-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T17:21:02.362666+00:00",
-        "retry_after_epoch": 1793640062,
-        "retry_after": "2026-11-02T17:21:02.362666+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T03:30:22.679789+00:00",
+        "retry_after_epoch": 1795059022,
+        "retry_after": "2026-11-19T03:30:22.679789+00:00"
       },
       "https://cinefreak.net/bhramam-2021-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T17:21:02.362671+00:00",
-        "retry_after_epoch": 1793640062,
-        "retry_after": "2026-11-02T17:21:02.362671+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T03:30:22.679795+00:00",
+        "retry_after_epoch": 1795059022,
+        "retry_after": "2026-11-19T03:30:22.679795+00:00"
       },
       "https://cinefreak.net/pada-2022-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T17:21:02.362676+00:00",
-        "retry_after_epoch": 1793640062,
-        "retry_after": "2026-11-02T17:21:02.362676+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T03:30:22.679800+00:00",
+        "retry_after_epoch": 1795059022,
+        "retry_after": "2026-11-19T03:30:22.679800+00:00"
       },
       "https://cinefreak.net/meow-2021-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245166+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245166+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T03:30:22.679806+00:00",
+        "retry_after_epoch": 1794886222,
+        "retry_after": "2026-11-17T03:30:22.679806+00:00"
       },
       "https://cinefreak.net/bheemante-vazhi-2021-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245207+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245207+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T03:30:22.679811+00:00",
+        "retry_after_epoch": 1794886222,
+        "retry_after": "2026-11-17T03:30:22.679811+00:00"
       },
       "https://cinefreak.net/dheeran-2025-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245220+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245220+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T03:30:22.679816+00:00",
+        "retry_after_epoch": 1794886222,
+        "retry_after": "2026-11-17T03:30:22.679816+00:00"
       },
       "https://cinefreak.net/o-baby-2023-full-movie-download": {
         "failure_count": 1,
