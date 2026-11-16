@@ -1269,10 +1269,10 @@
         "retry_after": "2026-09-18T03:52:14.061464+00:00"
       },
       "https://cinefreak.net/aasha-2026-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-01T02:54:06.245289+00:00",
-        "retry_after_epoch": 1793588046,
-        "retry_after": "2026-11-02T02:54:06.245289+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-16T21:21:36.769656+00:00",
+        "retry_after_epoch": 1795123296,
+        "retry_after": "2026-11-19T21:21:36.769656+00:00"
       },
       "https://cinefreak.net/khalifa-the-ruler-2026-full-movie-download": {
         "failure_count": 1,
@@ -1527,34 +1527,34 @@
         "retry_after": "2026-11-17T03:30:22.679816+00:00"
       },
       "https://cinefreak.net/o-baby-2023-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245230+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245230+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769621+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769621+00:00"
       },
       "https://cinefreak.net/salute-2022-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245239+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245239+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769629+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769629+00:00"
       },
       "https://cinefreak.net/pani-2024-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245248+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245248+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769636+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769636+00:00"
       },
       "https://cinefreak.net/ayyappanum-koshiyum-2020-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245261+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245261+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769642+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769642+00:00"
       },
       "https://cinefreak.net/jetlee-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-01T02:54:06.245269+00:00",
-        "retry_after_epoch": 1793544846,
-        "retry_after": "2026-11-01T14:54:06.245269+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769649+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769649+00:00"
       },
       "https://cinefreak.net/bro-daddy-2022-hq-bengali-hindi-dubbed-web-dl-480p-720p-1080p-full-movie-download-watch-online-gdrive-esub-cinefreak": {
         "failure_count": 1,
@@ -1563,28 +1563,28 @@
         "retry_after": "2026-11-01T14:54:06.245277+00:00"
       },
       "https://cinefreak.net/prince-of-mollywood-2026-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-15T18:06:25.455048+00:00",
-        "retry_after_epoch": 1794809185,
-        "retry_after": "2026-11-16T06:06:25.455048+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769530+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769530+00:00"
       },
       "https://cinefreak.net/the-third-murder-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-15T18:06:25.455092+00:00",
-        "retry_after_epoch": 1794809185,
-        "retry_after": "2026-11-16T06:06:25.455092+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769586+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769586+00:00"
       },
       "https://cinefreak.net/daayra-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-15T18:06:25.455105+00:00",
-        "retry_after_epoch": 1794809185,
-        "retry_after": "2026-11-16T06:06:25.455105+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769604+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769604+00:00"
       },
       "https://cinefreak.net/im-game-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-15T18:06:25.455115+00:00",
-        "retry_after_epoch": 1794809185,
-        "retry_after": "2026-11-16T06:06:25.455115+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-16T21:21:36.769614+00:00",
+        "retry_after_epoch": 1794950496,
+        "retry_after": "2026-11-17T21:21:36.769614+00:00"
       },
       "https://cinefreak.net/maharaja-hostel-2026-full-movie-download": {
         "failure_count": 1,
