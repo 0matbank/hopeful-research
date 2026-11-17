@@ -1769,52 +1769,64 @@
         "retry_after": "2026-09-19T03:24:47.219910+00:00"
       },
       "https://cinefreak.net/rony-the-ruler-2024-full-movie-download": {
-        "failure_count": 3,
-        "last_failed_at": "2026-11-02T03:01:02.233953+00:00",
-        "retry_after_epoch": 1793847662,
-        "retry_after": "2026-11-05T03:01:02.233953+00:00"
+        "failure_count": 4,
+        "last_failed_at": "2026-11-17T05:29:32.971852+00:00",
+        "retry_after_epoch": 1795498172,
+        "retry_after": "2026-11-24T05:29:32.971852+00:00"
       },
       "https://cinefreak.net/bad-manners-2023-full-movie-download": {
-        "failure_count": 3,
-        "last_failed_at": "2026-11-02T03:01:02.233961+00:00",
-        "retry_after_epoch": 1793847662,
-        "retry_after": "2026-11-05T03:01:02.233961+00:00"
+        "failure_count": 4,
+        "last_failed_at": "2026-11-17T05:29:32.971861+00:00",
+        "retry_after_epoch": 1795498172,
+        "retry_after": "2026-11-24T05:29:32.971861+00:00"
       },
       "https://cinefreak.net/udaala-2025-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-02T20:57:40.554054+00:00",
-        "retry_after_epoch": 1793739460,
-        "retry_after": "2026-11-03T20:57:40.554054+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-17T05:29:32.971801+00:00",
+        "retry_after_epoch": 1795152572,
+        "retry_after": "2026-11-20T05:29:32.971801+00:00"
       },
       "https://cinefreak.net/ayyana-mane-2025-full-series-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-02T20:57:40.554098+00:00",
-        "retry_after_epoch": 1793739460,
-        "retry_after": "2026-11-03T20:57:40.554098+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-17T05:29:32.971812+00:00",
+        "retry_after_epoch": 1795152572,
+        "retry_after": "2026-11-20T05:29:32.971812+00:00"
       },
       "https://cinefreak.net/murphy-2024-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-02T20:57:40.554111+00:00",
-        "retry_after_epoch": 1793739460,
-        "retry_after": "2026-11-03T20:57:40.554111+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-17T05:29:32.971824+00:00",
+        "retry_after_epoch": 1795152572,
+        "retry_after": "2026-11-20T05:29:32.971824+00:00"
       },
       "https://cinefreak.net/super-hit-2026-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-02T20:57:40.554119+00:00",
-        "retry_after_epoch": 1793739460,
-        "retry_after": "2026-11-03T20:57:40.554119+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-17T05:29:32.971834+00:00",
+        "retry_after_epoch": 1795152572,
+        "retry_after": "2026-11-20T05:29:32.971834+00:00"
       },
       "https://cinefreak.net/jetlee-2026-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-02T20:57:40.554126+00:00",
-        "retry_after_epoch": 1793739460,
-        "retry_after": "2026-11-03T20:57:40.554126+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-17T05:29:32.971842+00:00",
+        "retry_after_epoch": 1795152572,
+        "retry_after": "2026-11-20T05:29:32.971842+00:00"
       },
       "https://cinefreak.net/mango-pachcha-2026-full-movie-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-02T20:57:40.554133+00:00",
-        "retry_after_epoch": 1793739460,
-        "retry_after": "2026-11-03T20:57:40.554133+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-17T05:29:32.971871+00:00",
+        "retry_after_epoch": 1795152572,
+        "retry_after": "2026-11-20T05:29:32.971871+00:00"
+      },
+      "https://cinefreak.net/premada-oorali-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-17T05:29:32.971727+00:00",
+        "retry_after_epoch": 1794936572,
+        "retry_after": "2026-11-17T17:29:32.971727+00:00"
+      },
+      "https://cinefreak.net/aarata-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-17T05:29:32.971784+00:00",
+        "retry_after_epoch": 1794936572,
+        "retry_after": "2026-11-17T17:29:32.971784+00:00"
       }
     },
     "Telugu Movies": {
