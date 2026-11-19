@@ -1939,10 +1939,10 @@
         "retry_after": "2026-09-20T14:06:20.182031+00:00"
       },
       "https://cinefreak.net/ranabaali-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-10-19T17:52:42.899478+00:00",
-        "retry_after_epoch": 1792475562,
-        "retry_after": "2026-10-20T05:52:42.899478+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597821+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597821+00:00"
       },
       "https://cinefreak.net/berserk-of-gluttony-2023-full-series-download": {
         "failure_count": 1,
@@ -2203,10 +2203,10 @@
         "retry_after": "2026-11-04T15:39:28.570876+00:00"
       },
       "https://cinefreak.net/418-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-04T03:39:28.570882+00:00",
-        "retry_after_epoch": 1793806768,
-        "retry_after": "2026-11-04T15:39:28.570882+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597766+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597766+00:00"
       },
       "https://cinefreak.net/cocoons-2026-full-movie-download": {
         "failure_count": 1,
@@ -2257,34 +2257,34 @@
         "retry_after": "2026-11-05T07:09:04.326230+00:00"
       },
       "https://cinefreak.net/guarding-stars-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-18T19:41:46.423563+00:00",
-        "retry_after_epoch": 1795074106,
-        "retry_after": "2026-11-19T07:41:46.423563+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597790+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597790+00:00"
       },
       "https://cinefreak.net/kiku-chiranjeevi-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-18T19:41:46.423615+00:00",
-        "retry_after_epoch": 1795074106,
-        "retry_after": "2026-11-19T07:41:46.423615+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597801+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597801+00:00"
       },
       "https://cinefreak.net/chatrapathi-2005-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-18T19:41:46.423626+00:00",
-        "retry_after_epoch": 1795074106,
-        "retry_after": "2026-11-19T07:41:46.423626+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597811+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597811+00:00"
       },
       "https://cinefreak.net/pushpaka-vimanam-2026-full-series-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-18T19:41:46.423635+00:00",
-        "retry_after_epoch": 1795074106,
-        "retry_after": "2026-11-19T07:41:46.423635+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597831+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597831+00:00"
       },
       "https://cinefreak.net/sundaram-master-2024-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-18T19:41:46.423642+00:00",
-        "retry_after_epoch": 1795074106,
-        "retry_after": "2026-11-19T07:41:46.423642+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597861+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597861+00:00"
       },
       "https://cinefreak.net/julayi-2012-full-movie-download": {
         "failure_count": 1,
@@ -2317,10 +2317,10 @@
         "retry_after": "2026-11-19T07:41:46.423678+00:00"
       },
       "https://cinefreak.net/cult-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-19T04:48:15.774822+00:00",
-        "retry_after_epoch": 1795106895,
-        "retry_after": "2026-11-19T16:48:15.774822+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-19T19:42:29.597780+00:00",
+        "retry_after_epoch": 1795203749,
+        "retry_after": "2026-11-20T19:42:29.597780+00:00"
       },
       "https://cinefreak.net/racharikam-2025-full-movie-download": {
         "failure_count": 1,
@@ -2375,6 +2375,18 @@
         "last_failed_at": "2026-11-19T04:48:15.774933+00:00",
         "retry_after_epoch": 1795106895,
         "retry_after": "2026-11-19T16:48:15.774933+00:00"
+      },
+      "https://cinefreak.net/sr-kalyanamandapam-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T19:42:29.597699+00:00",
+        "retry_after_epoch": 1795160549,
+        "retry_after": "2026-11-20T07:42:29.597699+00:00"
+      },
+      "https://cinefreak.net/khushi-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T19:42:29.597749+00:00",
+        "retry_after_epoch": 1795160549,
+        "retry_after": "2026-11-20T07:42:29.597749+00:00"
       }
     },
     "Hindi Dubbed Movies": {
