@@ -2315,6 +2315,66 @@
         "last_failed_at": "2026-11-18T19:41:46.423678+00:00",
         "retry_after_epoch": 1795074106,
         "retry_after": "2026-11-19T07:41:46.423678+00:00"
+      },
+      "https://cinefreak.net/cult-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774822+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774822+00:00"
+      },
+      "https://cinefreak.net/racharikam-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774873+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774873+00:00"
+      },
+      "https://cinefreak.net/software-sudheer-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774883+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774883+00:00"
+      },
+      "https://cinefreak.net/dhammu-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774891+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774891+00:00"
+      },
+      "https://cinefreak.net/current-theega-2014-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774898+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774898+00:00"
+      },
+      "https://cinefreak.net/jalsa-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774907+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774907+00:00"
+      },
+      "https://cinefreak.net/don-seenu-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774914+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774914+00:00"
+      },
+      "https://cinefreak.net/mahendragiri-vaaraahi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774921+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774921+00:00"
+      },
+      "https://cinefreak.net/the-100-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774927+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774927+00:00"
+      },
+      "https://cinefreak.net/vishwanath-sons-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-19T04:48:15.774933+00:00",
+        "retry_after_epoch": 1795106895,
+        "retry_after": "2026-11-19T16:48:15.774933+00:00"
       }
     },
     "Hindi Dubbed Movies": {
