@@ -2879,10 +2879,10 @@
         "retry_after": "2026-09-22T14:12:04.534698+00:00"
       },
       "https://cinefreak.net/mtv-roadies-2026-full-series-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-06T03:56:01.349368+00:00",
-        "retry_after_epoch": 1794023761,
-        "retry_after": "2026-11-07T03:56:01.349368+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-20T04:55:29.466151+00:00",
+        "retry_after_epoch": 1795409729,
+        "retry_after": "2026-11-23T04:55:29.466151+00:00"
       },
       "https://cinefreak.net/colony-2026-full-movie-download": {
         "failure_count": 1,
@@ -2903,10 +2903,10 @@
         "retry_after": "2026-11-09T03:56:01.349340+00:00"
       },
       "https://cinefreak.net/koffee-with-karan-2026-full-series-download": {
-        "failure_count": 2,
-        "last_failed_at": "2026-11-06T03:56:01.349318+00:00",
-        "retry_after_epoch": 1794023761,
-        "retry_after": "2026-11-07T03:56:01.349318+00:00"
+        "failure_count": 3,
+        "last_failed_at": "2026-11-20T04:55:29.466144+00:00",
+        "retry_after_epoch": 1795409729,
+        "retry_after": "2026-11-23T04:55:29.466144+00:00"
       },
       "https://cinefreak.net/son-of-satyamurthy-2015-full-movie-download": {
         "failure_count": 1,
@@ -3183,6 +3183,54 @@
         "last_failed_at": "2026-11-06T03:56:01.349288+00:00",
         "retry_after_epoch": 1793980561,
         "retry_after": "2026-11-06T15:56:01.349288+00:00"
+      },
+      "https://cinefreak.net/the-remarried-empress-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466056+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466056+00:00"
+      },
+      "https://cinefreak.net/dulhaniya-le-aaeegi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466102+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466102+00:00"
+      },
+      "https://cinefreak.net/prince-of-mollywood-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466112+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466112+00:00"
+      },
+      "https://cinefreak.net/im-game-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466118+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466118+00:00"
+      },
+      "https://cinefreak.net/bhai-tera-star-hai-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466124+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466124+00:00"
+      },
+      "https://cinefreak.net/moana-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466130+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466130+00:00"
+      },
+      "https://cinefreak.net/healer-2014-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466135+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466135+00:00"
+      },
+      "https://cinefreak.net/premam-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-20T04:55:29.466139+00:00",
+        "retry_after_epoch": 1795193729,
+        "retry_after": "2026-11-20T16:55:29.466139+00:00"
       }
     },
     "English Movies": {
