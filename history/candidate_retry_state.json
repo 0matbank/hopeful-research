@@ -657,6 +657,66 @@
         "last_failed_at": "2026-11-07T17:05:39.761597+00:00",
         "retry_after_epoch": 1794114339,
         "retry_after": "2026-11-08T05:05:39.761597+00:00"
+      },
+      "https://cinefreak.net/chhaya-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430592+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430592+00:00"
+      },
+      "https://cinefreak.net/raghu-dakat-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430632+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430632+00:00"
+      },
+      "https://cinefreak.net/shot-boot-three-char-bicchu-ar-max-2026-bengali-dubbed-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430639+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430639+00:00"
+      },
+      "https://cinefreak.net/grihostho-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430645+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430645+00:00"
+      },
+      "https://cinefreak.net/munshigiri-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430648+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430648+00:00"
+      },
+      "https://cinefreak.net/swapnajaal-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430656+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430656+00:00"
+      },
+      "https://cinefreak.net/chandragrohon-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430660+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430660+00:00"
+      },
+      "https://cinefreak.net/chupi-chupi-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430663+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430663+00:00"
+      },
+      "https://cinefreak.net/mrigaya-1-5-the-hunt-continues-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430666+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430666+00:00"
+      },
+      "https://cinefreak.net/silence-of-the-womb-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-21T18:23:12.430670+00:00",
+        "retry_after_epoch": 1795328592,
+        "retry_after": "2026-11-22T06:23:12.430670+00:00"
       }
     },
     "Tamil Movies": {
