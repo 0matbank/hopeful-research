@@ -777,6 +777,66 @@
         "last_failed_at": "2026-11-22T03:47:40.516453+00:00",
         "retry_after_epoch": 1795362460,
         "retry_after": "2026-11-22T15:47:40.516453+00:00"
+      },
+      "https://cinefreak.net/goyenda-junior-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978816+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978816+00:00"
+      },
+      "https://cinefreak.net/kedara-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978866+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978866+00:00"
+      },
+      "https://cinefreak.net/kolkata-on-book-fair-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978876+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978876+00:00"
+      },
+      "https://cinefreak.net/mrs-sanyal-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978883+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978883+00:00"
+      },
+      "https://cinefreak.net/nayantara-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978888+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978888+00:00"
+      },
+      "https://cinefreak.net/prof-shanku-o-el-dorado-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978894+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978894+00:00"
+      },
+      "https://cinefreak.net/sobuj-choshma-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978900+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978900+00:00"
+      },
+      "https://cinefreak.net/synthetic-sati-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978905+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978905+00:00"
+      },
+      "https://cinefreak.net/tarikh-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978910+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978910+00:00"
+      },
+      "https://cinefreak.net/the-cabin-guard-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T18:46:46.978916+00:00",
+        "retry_after_epoch": 1795416406,
+        "retry_after": "2026-11-23T06:46:46.978916+00:00"
       }
     },
     "Tamil Movies": {
