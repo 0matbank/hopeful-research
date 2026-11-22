@@ -717,6 +717,66 @@
         "last_failed_at": "2026-11-21T18:23:12.430670+00:00",
         "retry_after_epoch": 1795328592,
         "retry_after": "2026-11-22T06:23:12.430670+00:00"
+      },
+      "https://cinefreak.net/jongli-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516361+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516361+00:00"
+      },
+      "https://cinefreak.net/tasher-ghawr-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516410+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516410+00:00"
+      },
+      "https://cinefreak.net/bhalo-theko-ful-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516419+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516419+00:00"
+      },
+      "https://cinefreak.net/bhoot-chaturdashi-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516425+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516425+00:00"
+      },
+      "https://cinefreak.net/biloya-not-a-traditional-war-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516430+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516430+00:00"
+      },
+      "https://cinefreak.net/birpurush-the-hero-within-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516434+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516434+00:00"
+      },
+      "https://cinefreak.net/bobbyr-bondhura-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516439+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516439+00:00"
+      },
+      "https://cinefreak.net/city-of-christmas-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516444+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516444+00:00"
+      },
+      "https://cinefreak.net/city-of-football-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516448+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516448+00:00"
+      },
+      "https://cinefreak.net/city-of-poets-2019-bengali-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-22T03:47:40.516453+00:00",
+        "retry_after_epoch": 1795362460,
+        "retry_after": "2026-11-22T15:47:40.516453+00:00"
       }
     },
     "Tamil Movies": {
