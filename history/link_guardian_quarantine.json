@@ -243,9 +243,9 @@
         "https://pub-ac48fa0f41d34778899237ba1fe64186.r2.dev/CINEFREAK.TOP%20-%20Chris%20Hemsworth%20A%20Road%20Trip%20to%20Remember%20%282025%29%20WEB-DL%20%5BHindi-English%5D%20JHS%201080p%20ESub.mkv"
       ],
       "quarantined_at": "2026-09-11T05:00:16.898608+00:00",
-      "last_attempt": "2026-11-16T06:37:28.793965+00:00",
-      "next_retry_at": "2026-11-19T06:37:28.793981+00:00",
-      "attempt_count": 13
+      "last_attempt": "2026-11-22T09:56:05.468068+00:00",
+      "next_retry_at": "2026-11-25T09:56:05.468087+00:00",
+      "attempt_count": 14
     },
     "disneyhotstar::https://cinefreak.net/expedition-amazon-2024-full-movie-download": {
       "category": "Disney Hotstar",
@@ -24004,5 +24004,5 @@
       "attempt_count": 1
     }
   },
-  "updated_at": "2026-11-22T02:16:50.269510+00:00"
+  "updated_at": "2026-11-22T09:56:05.502160+00:00"
 }
