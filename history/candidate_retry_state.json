@@ -3881,6 +3881,66 @@
         "last_failed_at": "2026-11-23T04:24:37.085263+00:00",
         "retry_after_epoch": 1795451077,
         "retry_after": "2026-11-23T16:24:37.085263+00:00"
+      },
+      "https://cinefreak.net/pacific-rim-uprising-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349247+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349247+00:00"
+      },
+      "https://cinefreak.net/heartburn-1986-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349289+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349289+00:00"
+      },
+      "https://cinefreak.net/friday-the-13th-1980-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349298+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349298+00:00"
+      },
+      "https://cinefreak.net/malcolm-x-1992-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349304+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349304+00:00"
+      },
+      "https://cinefreak.net/training-day-2001-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349309+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349309+00:00"
+      },
+      "https://cinefreak.net/equilibrium-2002-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349313+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349313+00:00"
+      },
+      "https://cinefreak.net/brother-bear-2003-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349318+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349318+00:00"
+      },
+      "https://cinefreak.net/friday-the-13th-2009-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349323+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349323+00:00"
+      },
+      "https://cinefreak.net/cars-3-2017-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349329+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349329+00:00"
+      },
+      "https://cinefreak.net/cars-2-2011-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T22:59:40.349333+00:00",
+        "retry_after_epoch": 1795517980,
+        "retry_after": "2026-11-24T10:59:40.349333+00:00"
       }
     },
     "Hindi Movies": {
