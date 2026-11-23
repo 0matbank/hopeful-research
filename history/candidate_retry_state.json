@@ -3821,6 +3821,66 @@
         "last_failed_at": "2026-11-09T03:20:59.160397+00:00",
         "retry_after_epoch": 1794237659,
         "retry_after": "2026-11-09T15:20:59.160397+00:00"
+      },
+      "https://cinefreak.net/unthinkable-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085163+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085163+00:00"
+      },
+      "https://cinefreak.net/searching-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085218+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085218+00:00"
+      },
+      "https://cinefreak.net/the-machinist-2004-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085228+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085228+00:00"
+      },
+      "https://cinefreak.net/sas-red-notice-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085234+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085234+00:00"
+      },
+      "https://cinefreak.net/alive-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085238+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085238+00:00"
+      },
+      "https://cinefreak.net/the-loch-ness-horror-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085244+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085244+00:00"
+      },
+      "https://cinefreak.net/naruto-shippuden-the-movie-2007-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085248+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085248+00:00"
+      },
+      "https://cinefreak.net/a-clockwork-orange-1971-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085253+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085253+00:00"
+      },
+      "https://cinefreak.net/invictus-2009-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085258+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085258+00:00"
+      },
+      "https://cinefreak.net/in-the-name-of-the-king-a-dungeon-siege-tale-2007-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-23T04:24:37.085263+00:00",
+        "retry_after_epoch": 1795451077,
+        "retry_after": "2026-11-23T16:24:37.085263+00:00"
       }
     },
     "Hindi Movies": {
