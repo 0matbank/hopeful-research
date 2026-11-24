@@ -3941,6 +3941,66 @@
         "last_failed_at": "2026-11-23T22:59:40.349333+00:00",
         "retry_after_epoch": 1795517980,
         "retry_after": "2026-11-24T10:59:40.349333+00:00"
+      },
+      "https://cinefreak.net/a-walk-in-the-clouds-1995-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.818981+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.818981+00:00"
+      },
+      "https://cinefreak.net/lawless-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819030+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819030+00:00"
+      },
+      "https://cinefreak.net/talk-to-me-2023-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819047+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819047+00:00"
+      },
+      "https://cinefreak.net/focus-2015-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819057+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819057+00:00"
+      },
+      "https://cinefreak.net/the-social-reckoning-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819066+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819066+00:00"
+      },
+      "https://cinefreak.net/blue-valentine-2010-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819076+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819076+00:00"
+      },
+      "https://cinefreak.net/pacific-rim-2013-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819085+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819085+00:00"
+      },
+      "https://cinefreak.net/clashing-through-the-snow-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819093+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819093+00:00"
+      },
+      "https://cinefreak.net/deep-rising-1998-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819102+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819102+00:00"
+      },
+      "https://cinefreak.net/bull-run-2025-hindi-english-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T07:20:45.819111+00:00",
+        "retry_after_epoch": 1795548045,
+        "retry_after": "2026-11-24T19:20:45.819111+00:00"
       }
     },
     "Hindi Movies": {
