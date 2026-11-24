@@ -4483,6 +4483,66 @@
         "last_failed_at": "2026-11-10T18:59:18.333201+00:00",
         "retry_after_epoch": 1794380358,
         "retry_after": "2026-11-11T06:59:18.333201+00:00"
+      },
+      "https://cinefreak.net/delhi-2021-2026-hindi-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205028+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205028+00:00"
+      },
+      "https://cinefreak.net/party-animals-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205068+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205068+00:00"
+      },
+      "https://cinefreak.net/b-a-pass-3-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205081+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205081+00:00"
+      },
+      "https://cinefreak.net/pratap-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205087+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205087+00:00"
+      },
+      "https://cinefreak.net/sharmaji-namkeen-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205093+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205093+00:00"
+      },
+      "https://cinefreak.net/vanvaas-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205098+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205098+00:00"
+      },
+      "https://cinefreak.net/kaali-kheti-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205105+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205105+00:00"
+      },
+      "https://cinefreak.net/van-helsing-2004-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205110+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205110+00:00"
+      },
+      "https://cinefreak.net/aap-mujhe-achche-lagne-lage-2002-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205114+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205114+00:00"
+      },
+      "https://cinefreak.net/the-enforcer-1995-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-24T21:39:57.205119+00:00",
+        "retry_after_epoch": 1795599597,
+        "retry_after": "2026-11-25T09:39:57.205119+00:00"
       }
     }
   }
