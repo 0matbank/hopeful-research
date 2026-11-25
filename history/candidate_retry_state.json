@@ -4543,6 +4543,66 @@
         "last_failed_at": "2026-11-24T21:39:57.205119+00:00",
         "retry_after_epoch": 1795599597,
         "retry_after": "2026-11-25T09:39:57.205119+00:00"
+      },
+      "https://cinefreak.net/thank-god-2022-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.866967+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.866967+00:00"
+      },
+      "https://cinefreak.net/skylab-2021-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867012+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867012+00:00"
+      },
+      "https://cinefreak.net/english-vinglish-2012-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867025+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867025+00:00"
+      },
+      "https://cinefreak.net/wheels-on-meals-1984-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867035+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867035+00:00"
+      },
+      "https://cinefreak.net/contract-killer-1998-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867046+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867046+00:00"
+      },
+      "https://cinefreak.net/drop-out-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867057+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867057+00:00"
+      },
+      "https://cinefreak.net/the-other-boleyn-girl-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867067+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867067+00:00"
+      },
+      "https://cinefreak.net/sanak-2021-hindi-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867080+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867080+00:00"
+      },
+      "https://cinefreak.net/dukaan-2024-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867085+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867085+00:00"
+      },
+      "https://cinefreak.net/prem-keetanu-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T05:53:07.867090+00:00",
+        "retry_after_epoch": 1795629187,
+        "retry_after": "2026-11-25T17:53:07.867090+00:00"
       }
     }
   }
