@@ -4485,22 +4485,22 @@
         "retry_after": "2026-11-11T06:59:18.333201+00:00"
       },
       "https://cinefreak.net/delhi-2021-2026-hindi-web-dl-720p-1080p-hevc-full-movie-download-watch-online-gdrive-esub-cinefreak": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-24T21:39:57.205028+00:00",
-        "retry_after_epoch": 1795599597,
-        "retry_after": "2026-11-25T09:39:57.205028+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-25T20:46:44.865998+00:00",
+        "retry_after_epoch": 1795726004,
+        "retry_after": "2026-11-26T20:46:44.865998+00:00"
       },
       "https://cinefreak.net/party-animals-2026-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-24T21:39:57.205068+00:00",
-        "retry_after_epoch": 1795599597,
-        "retry_after": "2026-11-25T09:39:57.205068+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-25T20:46:44.866009+00:00",
+        "retry_after_epoch": 1795726004,
+        "retry_after": "2026-11-26T20:46:44.866009+00:00"
       },
       "https://cinefreak.net/b-a-pass-3-2021-full-movie-download": {
-        "failure_count": 1,
-        "last_failed_at": "2026-11-24T21:39:57.205081+00:00",
-        "retry_after_epoch": 1795599597,
-        "retry_after": "2026-11-25T09:39:57.205081+00:00"
+        "failure_count": 2,
+        "last_failed_at": "2026-11-25T20:46:44.866018+00:00",
+        "retry_after_epoch": 1795726004,
+        "retry_after": "2026-11-26T20:46:44.866018+00:00"
       },
       "https://cinefreak.net/pratap-2026-full-movie-download": {
         "failure_count": 1,
@@ -4603,6 +4603,48 @@
         "last_failed_at": "2026-11-25T05:53:07.867090+00:00",
         "retry_after_epoch": 1795629187,
         "retry_after": "2026-11-25T17:53:07.867090+00:00"
+      },
+      "https://cinefreak.net/krrish-2006-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T20:46:44.865878+00:00",
+        "retry_after_epoch": 1795682804,
+        "retry_after": "2026-11-26T08:46:44.865878+00:00"
+      },
+      "https://cinefreak.net/janata-bar-2025-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T20:46:44.865936+00:00",
+        "retry_after_epoch": 1795682804,
+        "retry_after": "2026-11-26T08:46:44.865936+00:00"
+      },
+      "https://cinefreak.net/yes-boss-1997-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T20:46:44.865950+00:00",
+        "retry_after_epoch": 1795682804,
+        "retry_after": "2026-11-26T08:46:44.865950+00:00"
+      },
+      "https://cinefreak.net/parivarik-manuranjan-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T20:46:44.865960+00:00",
+        "retry_after_epoch": 1795682804,
+        "retry_after": "2026-11-26T08:46:44.865960+00:00"
+      },
+      "https://cinefreak.net/abrahaminte-santhathikal-2018-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T20:46:44.865970+00:00",
+        "retry_after_epoch": 1795682804,
+        "retry_after": "2026-11-26T08:46:44.865970+00:00"
+      },
+      "https://cinefreak.net/rock-on-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T20:46:44.865980+00:00",
+        "retry_after_epoch": 1795682804,
+        "retry_after": "2026-11-26T08:46:44.865980+00:00"
+      },
+      "https://cinefreak.net/blind-game-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-25T20:46:44.865989+00:00",
+        "retry_after_epoch": 1795682804,
+        "retry_after": "2026-11-26T08:46:44.865989+00:00"
       }
     }
   }
