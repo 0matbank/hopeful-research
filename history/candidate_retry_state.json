@@ -2959,6 +2959,66 @@
         "last_failed_at": "2026-11-12T04:39:19.950984+00:00",
         "retry_after_epoch": 1794501559,
         "retry_after": "2026-11-12T16:39:19.950984+00:00"
+      },
+      "https://cinefreak.net/garividi-lakshmi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830184+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830184+00:00"
+      },
+      "https://cinefreak.net/avane-srimannarayana-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830241+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830241+00:00"
+      },
+      "https://cinefreak.net/fatherland-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830252+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830252+00:00"
+      },
+      "https://cinefreak.net/mr-mrs-office-2026-full-series-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830260+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830260+00:00"
+      },
+      "https://cinefreak.net/ruler-2019-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830266+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830266+00:00"
+      },
+      "https://cinefreak.net/mayookha-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830274+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830274+00:00"
+      },
+      "https://cinefreak.net/o-m-operation-mole-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830283+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830283+00:00"
+      },
+      "https://cinefreak.net/darbar-2020-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830290+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830290+00:00"
+      },
+      "https://cinefreak.net/son-of-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830296+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830296+00:00"
+      },
+      "https://cinefreak.net/drones-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T05:43:52.830302+00:00",
+        "retry_after_epoch": 1795715032,
+        "retry_after": "2026-11-26T17:43:52.830302+00:00"
       }
     },
     "Disney Hotstar": {
