@@ -3019,6 +3019,66 @@
         "last_failed_at": "2026-11-26T05:43:52.830302+00:00",
         "retry_after_epoch": 1795715032,
         "retry_after": "2026-11-26T17:43:52.830302+00:00"
+      },
+      "https://cinefreak.net/aadarsha-kutumbam-house-no-47-ak47-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975648+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975648+00:00"
+      },
+      "https://cinefreak.net/haiku-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975697+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975697+00:00"
+      },
+      "https://cinefreak.net/anbil-avan-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975714+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975714+00:00"
+      },
+      "https://cinefreak.net/cult-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975729+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975729+00:00"
+      },
+      "https://cinefreak.net/guarding-stars-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975739+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975739+00:00"
+      },
+      "https://cinefreak.net/kiku-chiranjeevi-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975749+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975749+00:00"
+      },
+      "https://cinefreak.net/chatrapathi-2005-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975759+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975759+00:00"
+      },
+      "https://cinefreak.net/pradhama-drishtiya-kuttakkar-2026-hindi-studio-dub-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975768+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975768+00:00"
+      },
+      "https://cinefreak.net/dasavatharam-2008-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975778+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975778+00:00"
+      },
+      "https://cinefreak.net/raakaasa-2026-full-movie-download": {
+        "failure_count": 1,
+        "last_failed_at": "2026-11-26T20:39:15.975809+00:00",
+        "retry_after_epoch": 1795768755,
+        "retry_after": "2026-11-27T08:39:15.975809+00:00"
       }
     },
     "Disney Hotstar": {
